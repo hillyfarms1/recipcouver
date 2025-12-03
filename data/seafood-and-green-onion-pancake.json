@@ -1,0 +1,60 @@
+{
+  "id": "seafood-and-green-onion-pancake",
+  "restaurant": "Haru Korean Kitchen",
+  "heroImage": "seafood-and-green-onion-pancake.jpg",
+  "title": "Seafood and Green Onion Pancake",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Dipping Sauce",
+      "items": [
+        "20g raw sugar",
+        "80ml soy sauce",
+        "60ml water",
+        "60ml rice vinegar",
+        "½ tsp sesame seeds",
+        "½ clove garlic",
+        "½ tsp ginger",
+        "1 tsp green onions",
+        "½ tsp chilli flakes (optional)"
+      ]
+    },
+    {
+      "heading": "Seafood Pancake",
+      "items": [
+        "300ml water",
+        "4-5 green onions",
+        "250g calamari",
+        "4 large mussels",
+        "200g pre-mixed Korean pancake flour, from your local Korean or Asian grocery",
+        "Canola oil",
+        "1 tsp salt",
+        "Soy sauce as dipping sauce"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Dipping Sauce",
+      "steps": [
+        "Mince the garlic and ginger, and very finely chop the green onion.",
+        "Measure the soy, vinegar and water into a bowl. Add the sugar and stir until it is dissolved.",
+        "Add the remaining ingredients and mix through."
+      ]
+    },
+    {
+      "heading": "Seafood Pancake",
+      "steps": [
+        "In a large bowl mix the pancake flour and water together to create a batter.",
+        "Slice the squid into rings, chop the mussels finely and add both to the batter.",
+        "Mix together well and let the batter sit in the fridge for an hour.",
+        "Remove from the fridge and add the chopped green onions, a drizzle of canola oil and salt to taste (there is already salt mixed in the flour). Mix together well.",
+        "Pre-heat the oven to its lowest setting. Add a splash of oil to a large frying pan over a medium low heat. Ladle half of the mixture into the pan and spread evenly.",
+        "When the bottom of pancake has browned nicely, flip the pancake and cook the other side.",
+        "When cooked, transfer to a plate and place in the oven to keep warm while cooking another pancake with the remaining batter.",
+        "Serve on a hot plate with soy sauce, dipping sauce, kimchi, Korean rice and/or lightly pickled vegetables."
+      ]
+    }
+  ]
+}

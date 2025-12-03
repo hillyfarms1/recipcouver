@@ -1,0 +1,52 @@
+{
+  "id": "peanut-butter-chocolate-pillows",
+  "restaurant": "Sprouts And Seedlings",
+  "heroImage": "rootsShoots.jpg",
+  "title": "Peanut Butter Chocolate Pillows",
+  "book": "The Plant-based Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Filling",
+      "items": [
+        "1 Cup peanut butter",
+        "¾ Cup sugar",
+        "3-4 Tbsp soy milk",
+        "1 tsp vanilla"
+      ]
+    },
+    {
+      "heading": "Dough",
+      "items": [
+        "⅔ Cup vegetable oil",
+        "1 ⅓ Cups sugar",
+        "⅓ Cup molasses or honey",
+        "¼ Cup soy milk",
+        "¾ tsp vanilla",
+        "2 Cups flour",
+        "⅔ Cup cocoa",
+        "1 tsp baking soda",
+        "A good pinch of salt"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Filling",
+      "steps": [
+        "Mix the filling ingredients in a bowl. Add the soy milk gradually and only use enough to form moist yet firm dough.",
+        "Roll the peanut butter filling into 2cm (¾in) balls and place in the freezer for roughly 20 minutes to firm up."
+      ]
+    },
+    {
+      "heading": "Dough",
+      "steps": [
+        "Sift the dry dough ingredients into a large bowl and the wet into another.",
+        "Create a mound out of the dry ingredients in the bowl and dig a little well in the top. Add the wet ingredients gradually into the well and stir together with a spatula. Allow to rest for around 30 minutes or even overnight.",
+        "Line a baking tray with parchment paper and preheat the oven to 180°C (350°F).",
+        "Scoop a generous tablespoon of cookie dough and flatten it into a disc roughly the size of a coaster and less than 1cm (½in) thick. Place a peanut butter ball in centre of the disc. Mould the sides of chocolate dough around the peanut butter filling completely covering it. Roll into a ball between the palms of your hands.",
+        "Place the balls on an oven tray leaving plenty of space for them to flatten. Bake at 180°C (350°F) for 10 minutes. Remove from the oven and allow to cool completely and become firm. If there’s any filling left over, shape small cookies and bake them too."
+      ]
+    }
+  ]
+}

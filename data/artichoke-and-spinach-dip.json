@@ -1,0 +1,40 @@
+{
+  "id": "artichoke-and-spinach-dip",
+  "restaurant": "Meet In Gastown",
+  "heroImage": "meet1.jpg",
+  "title": "Artichoke And Spinach Dip",
+  "book": "The Plant-based Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Artichoke Spinach Dip",
+      "items": [
+        "2 Cups raw cashews",
+        "3 Cups water",
+        "1 large clove garlic",
+        "4 Tbsp nutritional yeast",
+        "1 tsp onion powder",
+        "½ tsp Himalayan salt",
+        "½ tsp ground pepper",
+        "1 Tbsp lemon juice",
+        "3 green onions",
+        "1 can (398ml) artichoke",
+        "2 Cups spinach leaves, chopped",
+        "1 Cup vegan mayonnaise"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Artichoke Spinach Dip",
+      "steps": [
+        "Slice the green onions finely, drain and slice the artichoke hearts, roughly chop the spinach and set aside.",
+        "Add the cashews, water, garlic, nutritional yeast, onion powder, salt and pepper to a blender and blend together until smooth.",
+        "Transfer to a medium-sized pot and bring to a simmer over a medium-low heat. Stir often until it thickens; be careful as it will scorch easily.",
+        "Remove from the heat and stir in the lemon juice, artichoke hearts, spinach leaves, green onions and vegan mayonnaise.",
+        "Taste and adjust seasoning if necessary.",
+        "Serve with warmed tortillas chips, crispy pita bread or as a dressing for a bowl."
+      ]
+    }
+  ]
+}

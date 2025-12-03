@@ -1,0 +1,64 @@
+{
+  "id": "prosciutto-pizza",
+  "restaurant": "Caffe Al Mercato",
+  "heroImage": "prosciutto-pizza.jpg",
+  "title": "Prosciutto E Rucola Pizza",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Dough",
+      "items": [
+        "420g water",
+        "612g '00' flour",
+        "68g Semolina flour",
+        "1g Instant dry yeast",
+        "2g Sugar",
+        "9g Salt",
+        "15g Olive oil"
+      ]
+    },
+    {
+      "heading": "Sauce",
+      "items": [
+        "1 Tin 796 ml Whole tomatoes",
+        "½ tsp Minced garlic",
+        "1 Tbsp Olive oil",
+        "½ tsp Dry oregano",
+        "½ tsp Dry basil",
+        "Salt and pepper"
+      ]
+    },
+    {
+      "heading": "Pizza Toppings",
+      "items": [
+        "Prosciutto",
+        "Mozzarella",
+        "Arugula"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Prosciutto and Arugula Pizza - Dough",
+      "steps": [
+        "Pour the water into the bowl of an electric stand mixer fitted with a dough hook attachment. Add the flour, then the remaining dry ingredients. Mix for 30 seconds. Add the oil and mix on low speed for 14 minutes. Cover and rest the dough for 20 minutes.",
+        "Weigh, divide and shape the dough into four 280 gram balls. Cover in plastic wrap and refrigerate for at least 12-16 hours. The dough is at its best between 36 and 48 hours after it's made. Remove from refrigerator, allow to warm to room temperature for a minimum of 1 hour before baking."
+      ]
+    },
+    {
+      "heading": "Sauce",
+      "steps": [
+        "In a saucepan, heat the olive oil and garlic and cook for 1 minute. Add half the tomatoes, and all of the oregano and basil. Season with salt and pepper to taste and cook for 20 minutes.",
+        "Take the sauce off the heat, add the remaining tomatoes and blend with hand blender. Refrigerate until ready to use."
+      ]
+    },
+    {
+      "heading": "Pizza",
+      "steps": [
+        "Preheat the oven to 290°C (550°F). Place a pizza stone on the top shelf of the oven for 30 minutes. Spread dough out to 12 inches, place on a floured pizza peel and add some sauce and mozzarella cheese.",
+        "Slide onto the stone and cook for about 7-10 minutes. Pull pizza out of the oven add some prosciutto and cut up arugula. Drizzle with a little olive oil and serve."
+      ]
+    }
+  ]
+}

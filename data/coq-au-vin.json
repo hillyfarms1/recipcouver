@@ -1,0 +1,53 @@
+{
+  "id": "coq-au-vin",
+  "restaurant": "Café Ça Va",
+  "heroImage": "coq-au-vin.jpg",
+  "title": "Coq au Vin",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Coq au Vin",
+      "items": [
+        "1kg Chicken thighs",
+        "1 bottle Red wine",
+        "1 Tbsp Thyme",
+        "6-8 Cloves garlic",
+        "1 Cup Lardon (fatty bacon pieces)",
+        "1 Small Onion",
+        "2 Tbsp Flour",
+        "3 Cups Cremini mushrooms",
+        "2 Cups Brown chicken stock",
+        "1 Tbsp Tomato paste",
+        "1 tsp Parsley, chopped",
+        "1 tsp Chive, chopped",
+        "1 Tbsp Butter",
+        "3 Nests Pappardelle noodles"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Marinade",
+      "steps": [
+        "Marinade the chicken over night in half of the red wine, 3-4 finely chopped cloves of garlic and the thyme. Once marinaded, dry the chicken with paper towel and brush off any excess garlic and thyme."
+      ]
+    },
+    {
+      "heading": "Coq au Vin",
+      "steps": [
+        "When ready to cook, remove the chops from the brine and begin to grill. In a large, preferably oven-proof saucepan, sear the chicken skin-side down. When the skin is golden-brown, turn the legs over and brown the other side. Then remove from the pan and set aside leaving the juices in the pan.",
+        "Quarter the mushrooms, finely slice the onion and roughly chop the remaining garlic. Add to the same saucepan, along with the bacon, and on a medium heat cook until the mushrooms are tender and bacon is rendered.",
+        "Add the flour and cook for a further 3 minutes.",
+        "Deglaze the bottom of the pan with the remaining red wine and stir well. Pour in the brown chicken stock and tomato paste and stir through. Add the chicken legs and then bake at 190°C (375°F) for 1½ hours or until chicken is cooked through and tender."
+      ]
+    },
+    {
+      "heading": "Serving Up",
+      "steps": [
+        "Cook the pappardelle, drain and then add back to the saucepan with the butter and the chopped chives and parsley and stir through while still hot.",
+        "Serve 3 or 4 thighs per plate pouring some of the sauce over the top with the pappardelle."
+      ]
+    }
+  ]
+}

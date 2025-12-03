@@ -1,0 +1,30 @@
+{
+  "id": "cognac-west",
+  "restaurant": "Wildebeest",
+  "heroImage": "cognac-west.jpg",
+  "title": "Cognac West",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Cognac West",
+      "items": [
+        "40ml cognac",
+        "15ml Punt e Mes",
+        "5ml Ardbeg 10",
+        "5ml Benedictine"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Cognac West",
+      "steps": [
+        "Fill a bar glass or cocktail shaker with ice.",
+        "Measure and add all the ingredients to the ice.",
+        "Stir and then strain into a stemmed glass.",
+        "Garnish with a twist of lemon rind."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "swiss-rosti",
+  "restaurant": "Jägerhof Restaurant",
+  "heroImage": "swiss-rosti.jpg",
+  "title": "Swiss Rösti",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Swiss Rösti",
+      "items": [
+        "4 Yukon Gold potatoes",
+        "4 Tbsp (approx.) Extra Virgin olive oil for frying"
+      ]
+    },
+    {
+      "heading": "Toppings",
+      "items": [
+        "20 fine slices of Nanuk Steelhead trout",
+        "¼ Cup Sour cream",
+        "Sriracha sauce to taste",
+        "4 Cups Baby Arugula",
+        "Vinaigrette (we use a herbed sherry vinaigrette)",
+        "Salt and pepper to taste",
+        "Shaved parmesan for garnish"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Rösti",
+      "steps": [
+        "Grate the raw potato with a course cheese grater. You will need approximately one potato per person. Warm a non-stick pan to a medium heat and add a splash of oil.",
+        "Spread one portion of grated potato out evenly in the pan and fry both sides until crispy around the edges and in the middle adding more oil if needed. Add salt and pepper to taste. Place the cooked Rösti in an oven set to its lowest temperature to keep it warm while you repeat the process for each subsequent portion."
+      ]
+    },
+    {
+      "heading": "Arugula and Sour Cream",
+      "steps": [
+        "In a separate bowl, toss the arugula with the vinaigrette. In another small bowl, mix the sour cream with as much sriracha sauce as you like depending on your fondness for spice."
+      ]
+    },
+    {
+      "heading": "Plate Up",
+      "steps": [
+        "Transfer each Rösti to a plate and place five little rosettes of the Nanuk trout around their edges. Place a small mound of the arugula on top of the Rösti and then drizzle all over with the spiced sour cream. Top with shaved parmesan."
+      ]
+    }
+  ]
+}

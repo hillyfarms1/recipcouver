@@ -1,0 +1,49 @@
+{
+  "id": "healthy-chocolate-mousse",
+  "restaurant": "The Black Lodge",
+  "heroImage": "theBlackLodge1.jpg",
+  "title": "Healthy Chocolate Mousse",
+  "book": "The Plant-based Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Chocolate Mousse",
+      "items": [
+        "1 400ml can coconut milk",
+        "2 very ripe bananas",
+        "¼ Cup cocoa powder",
+        "1 tsp vanilla extract",
+        "4 medjool dates",
+        "¼ Cup chia seeds"
+      ]
+    },
+    {
+      "heading": "Coconut Whipped Cream",
+      "items": [
+        "1 400ml can full fat coconut milk",
+        "2 Tbsp sugar or other sweetener",
+        "1 tsp vanilla essence"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Chocolate Mousse",
+      "steps": [
+        "Soak the dates in half a cup of water for 30 minutes and then remove the pits.",
+        "Add all ingredients, except the chia seeds but including the water the dates were soaked in, to a food processor and process until silky smooth.",
+        "Transfer to a bowl and whisk in the chia seeds.",
+        "Cover the bowl and refrigerate for 24 hours to set. Optionally, transfer to individual serving bowls or ramekins prior to setting."
+      ]
+    },
+    {
+      "heading": "Coconut Whipped Cream",
+      "steps": [
+        "Place the can of coconut milk in the fridge upside down overnight. An hour or so before serving, place a metal stand mixer bowl in the freezer along with the mixer's whipping attachments.",
+        "Remove the can from the fridge, gently turn it upright and open. Pour off the separated coconut water and drink or use in another recipe. Scoop the solids into the chilled mixing bowl.",
+        "Start whipping, scraping down the sides occasionally, until stiff peaks are formed, which will take 5-10 minutes.",
+        "Add the sugar and vanilla and whip for another minute before serving immediately. Alternatively, store in the fridge but whisk before serving."
+      ]
+    }
+  ]
+}

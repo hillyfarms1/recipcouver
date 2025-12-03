@@ -1,0 +1,100 @@
+{
+  "id": "oatmeal-stout-pulled-pork-sandwich",
+  "restaurant": "Steamworks Brewing Co.",
+  "heroImage": "oatmeal-stout-pulled-pork-sandwich.jpg",
+  "title": "Oatmeal Stout Pulled Pork Sandwich",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Pulled Pork Rub",
+      "items": [
+        "50g white sugar",
+        "50g brown sugar",
+        "30g paprika",
+        "40g cumin",
+        "50g chili powder",
+        "40g salt",
+        "40g black pepper"
+      ]
+    },
+    {
+      "heading": "Coleslaw Dressing",
+      "items": [
+        "300ml real mayonnaise",
+        "100ml liquid honey",
+        "50ml white wine vinegar",
+        "Salt & pepper to taste"
+      ]
+    },
+    {
+      "heading": "Coleslaw",
+      "items": [
+        "½ carrot",
+        "½ head green cabbage",
+        "½ head red cabbage",
+        "1 small red onion",
+        "Coleslaw Dressing*"
+      ]
+    },
+    {
+      "heading": "Pork Butt",
+      "items": [
+        "2.5-4.5kg pork butt or shoulder (leftovers can be frozen)",
+        "750ml Steamworks Oatmeal Stout or similar dark beer",
+        "Rub*"
+      ]
+    },
+    {
+      "heading": "To Serve",
+      "items": [
+        "BBQ Sauce",
+        "Brioche buns",
+        "Real mayonnaise",
+        "Aged cheddar",
+        "Pork Butt*",
+        "Coleslaw*"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Pulled Pork Rub",
+      "steps": [
+        "Measure all ingredients into a small bowl and mix well."
+      ]
+    },
+    {
+      "heading": "Coleslaw Dressing",
+      "steps": [
+        "Measure all ingredients into a bowl and mix well."
+      ]
+    },
+    {
+      "heading": "Coleslaw",
+      "steps": [
+        "Grate or julienne the carrots, shred the cabbages and finely slice the onion.",
+        "Mix a liberal dollop of Coleslaw Dressing to taste."
+      ]
+    },
+    {
+      "heading": "Pork Butt",
+      "steps": [
+        "Liberally coat entire pork butt with the rub.",
+        "Place in a roasting pan or dish and pour in the stout or dark beer until it is roughly 2cm deep.",
+        "Cover pan or dish with aluminium foil or a lid and cook in the oven overnight, or at least 8 hours, at 110°C (225°F).",
+        "Let the pork cool and then drain and discard the liquid.",
+        "Shred the pork by hand with two forks discarding any excess fat.",
+        "Store in a sealed container in the fridge until ready to serve."
+      ]
+    },
+    {
+      "heading": "To Serve",
+      "steps": [
+        "Using a ladle, portion the pork into a bowl, one ladle being roughly equal to a standard bun portion. Mix with a liberal amount of your favourite BBQ sauce to taste.",
+        "Ladle the pork in serving portion piles on a baking sheet or tray. Top with slices of aged cheddar and bake at 180°C (350°F) until hot in the middle.",
+        "Cut and butter the buns, and toast in a frying pan. Add mayonnaise to the top and bottom bun. Using a spatula, slide the hot pork onto the bottom bun. Top with coleslaw and then the top bun."
+      ]
+    }
+  ]
+}

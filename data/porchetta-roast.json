@@ -1,0 +1,100 @@
+{
+  "id": "porchetta-roast",
+  "restaurant": "The Flying Pig",
+  "heroImage": "porchetta-roast.jpg",
+  "title": "Porchetta Roast with Italian Fennel Sausage Stuffing",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Porchetta",
+      "items": [
+        "1 boneless, rind-on pork belly with or without loin",
+        "1 Tbsp whole black peppercorns",
+        "3 Tbsp Kosher salt",
+        "3 Tbsp fresh rosemary",
+        "1 Tbsp chili flakes",
+        "1 head garlic"
+      ]
+    },
+    {
+      "heading": "Stuffing",
+      "items": [
+        "1 Tbsp butter unsalted",
+        "1 Tbsp olive oil",
+        "340g pork sausage, thick grind",
+        "½ head fennel, small dice",
+        "½ medium onion, small dice",
+        "4 Cups brioche bread, medium dice or ripped",
+        "½ Cup chicken stock",
+        "½ Cups white wine",
+        "1 tsp fresh sage, finely sliced",
+        "Salt and pepper to taste"
+      ]
+    },
+    {
+      "heading": "Caramelized Onion Gravy",
+      "items": [
+        "1 Cup red wine",
+        "Pork drippings",
+        "4 Cups chicken stock",
+        "2 medium white onions",
+        "1 Tbsp garlic",
+        "2 Tbsp all-purpose flour",
+        "Canola oil",
+        "Butter"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Prepare the Pork Belly",
+      "steps": [
+        "Trim and square off the pork belly, this will make it easier to roll and cook evenly. With the belly skin side up, use a sharp knife to score the meat roughly 1cm deep in a diamond shape pattern.",
+        "Using a pesto and mortar or a coffee grinder, grind the black peppercorns, salt and rosemary as finely as possible to form a dry rub and then add the chili flakes and minced garlic.",
+        "Season the scored side of the belly with the rub evenly."
+      ]
+    },
+    {
+      "heading": "Stuffing",
+      "steps": [
+        "Remove the casings from the sausages if you bought them cased and slice the onions.",
+        "Heat the olive oil and butter in a large pan over medium-high heat. Add the sausage, onion, fennel and cook the sausage meat fully.",
+        "Add the white wine and reduce by half. Add chicken stock, bring to a simmer and then remove from heat. Add in bread cubes, sage, salt and pepper. Mix well then allow to cool."
+      ]
+    },
+    {
+      "heading": "Roll the Pork Belly",
+      "steps": [
+        "Flip the belly over to skin side down. Arrange the stuffing in a mounded strip down the middle of the pork belly. Roll the belly into a tight cylinder ending up with the seam on the underside.",
+        "Slide 2-foot-long pieces of butcher's twine under the cylinder 1-2 inches apart. Tie the twine around the roast very tightly from the ends and then moving toward the centre in an alternating manner.",
+        "Season the roast, wrap in plastic, and allow to rest in the fridge for a minimum of 12 hours."
+      ]
+    },
+    {
+      "heading": "Roast the Porchetta",
+      "steps": [
+        "Remove the roast from the fridge a few hours before cooking.",
+        "If using a convection oven turn the fan off. Preheat to 150°C (300°F).",
+        "Place the roast on a wire rack and the rack on a roasting pan.",
+        "Roast for approximately 3 hours, rotating every 45 minutes. Cook the roast until its internal temperature is around 60°C (135°F), it will continue cook while resting. Rest for 45 minutes to an hour.",
+        "Peel the crackling off and chop roughly. Transfer the rested Porchetta to a serving platter. Don't discard the oven pan drippings."
+      ]
+    },
+    {
+      "heading": "Caramelized Onion Gravy",
+      "steps": [
+        "Place roasting pan over a medium heat, add the red wine and bring to a simmer while scraping the sticky caramelized bits from pan.",
+        "Add the chicken stock and bring to simmer. Strain sauce from pan into a bowl. Skim the fat from surface of the liquid and discard.",
+        "Add a splash of oil and knob of butter to a saucepan over a medium heat. Add onions and sauté until they are starting to brown then add minced garlic and cook for 30 seconds.",
+        "Add the flour and cook over a low heat for 5 minutes. Slowly add the liquid from the roasting pan while constantly stirring using a wooden spoon. Adjust the thickness of the gravy using hot chicken stock."
+      ]
+    },
+    {
+      "heading": "Serve",
+      "steps": [
+        "Carve the Porchetta roast into 2-3cm slices. Serve with mashed potatoes, onion gravy, crackling and vegetables."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "mojito",
+  "restaurant": "Havana",
+  "heroImage": "mojito.jpg",
+  "title": "Mojito",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Mojito",
+      "items": [
+        "60ml White Rum",
+        "½ Lime, in wedges",
+        "2 tsp Brown Sugar",
+        "8 Fresh Mint Leaves",
+        "Soda Water",
+        "Crushed Ice"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Mojito",
+      "steps": [
+        "In a highball glass muddle the mint, lime, rum, and sugar with a muddling stick, or handle end of a wooden spoon, until all the sugar has dissolved. Pushing into and breaking up the lime and lime rind releases its oils. Fill the glass with crushed ice and stir to evenly distribute the leaves and fruit. Top with soda water and garnish with mint leaves and a wedge of lime."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "beet-burgers",
+  "restaurant": "The Snug Cafe",
+  "heroImage": "beet-burgers.jpg",
+  "title": "No Beef 'Beet' Burgers",
+  "book": "The North Shore Foodie",
+  "notes": "The colours in this dish are very bright with the end result being a beautiful showstopper of a meal. It's a great dish for vegetarians and meat eaters alike. Remember to brush your avocado with a little lemon juice so it doesn't turn brown.",
+  "ingredientSections": [
+    {
+      "heading": "Burgers",
+      "items": [
+        "750g Beet root",
+        "300g Feta cheese",
+        "1 Onion",
+        "2 Cloves garlic",
+        "150g Oats",
+        "2 Eggs",
+        "2 Tbsp Olive oil",
+        "½ a Big bunch of dill"
+      ]
+    },
+    {
+      "heading": "Accompaniments",
+      "items": [
+        "Ciabatta burger buns or your favourite buns",
+        "1 Ripe mango",
+        "1 Ripe avocado",
+        "Mayonnaise",
+        "Lettuce"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Burgers",
+      "steps": [
+        "Grate the beet root and with your hands squeeze as much of the liquid out as possible. Gloves are a good idea unless you like pink hands!",
+        "Lightly whisk the eggs, grate the onion and mince the garlic, mix with the grated beet root, feta, oats and a good handful of dill, cover and chill in the fridge for at least 2 hours.",
+        "Using a ring mold press, shape the chilled mixture into burger patties. Heat up fry-pan with a little olive oil and fry each burger until crisp and golden on each side.",
+        "Transfer the burgers to a 180°C (350°F) oven and cook until heated through, about 15 minutes."
+      ]
+    },
+    {
+      "heading": "Accompaniments",
+      "steps": [
+        "While burgers are in the oven toast your burger buns and spread mayonnaise on each side.",
+        "Place burger on bun and top with lettuce, fanned mango and fanned avocado."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "lemon-blancmange",
+  "restaurant": "Vegan Pudding & Co.",
+  "heroImage": "veganPudding.jpg",
+  "title": "Lemon Blancmange",
+  "book": "The Plant-based Foodie",
+  "notes": "Agar agar and kuzu. Agar agar and kuzu are both thickening agents that help to refine the texture of this dish into a rich creamy mouth feel. Cornstarch or arrowroot can also play this role but both are highly processed and nutritionally barren. Agar agar is extracted from agarophyte red algae and is used throughout Asia as a dessert thickener. Kuzu root, also known as kuzuko, is more specifically Japanese and comes from the kuzu plant, which grows vivaciously in mountainous areas.",
+  "ingredientSections": [
+    {
+      "heading": "Blancmange",
+      "items": [
+        "200g firm tofu",
+        "400g coconut milk",
+        "45g cane sugar",
+        "50g pure maple syrup",
+        "60g fresh lemon juice (2 small lemons)",
+        "1 pinch sea salt",
+        "1 tsp kuzu starch",
+        "½ tsp agar agar",
+        "1 tsp vanilla extract"
+      ]
+    },
+    {
+      "heading": "Lemon Jelly Sauce",
+      "items": [
+        "30g fresh lemon juice (1 small lemon)",
+        "60g cane sugar",
+        "60g filtered water",
+        "Zest from 1 small lemon",
+        "¼ tsp agar agar"
+      ]
+    },
+    {
+      "heading": "To Serve",
+      "items": [
+        "Seasonal fruit"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Blancmange",
+      "steps": [
+        "Mix all the ingredients in a blender until smooth.",
+        "Pour the mixture into a saucepan over medium heat and bring to a boil stirring constantly. Remove from the heat and allow to cool.",
+        "Pour the mixture into 6 individual serving bowls or glasses and place in the fridge to set."
+      ]
+    },
+    {
+      "heading": "Lemon Jelly Sauce",
+      "steps": [
+        "Mix all the ingredients except for the agar agar in a blender.",
+        "Pour the mixture into a saucepan over medium heat and bring to a boil. When boiling, add the agar agar, stir with whisk quickly and then remove from the heat and allow to cool.",
+        "Pour the sauce over the Blancmange and place back to the fridge to set for about 1 hour.",
+        "Serve with your choice of fresh fruit."
+      ]
+    }
+  ]
+}

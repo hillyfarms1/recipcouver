@@ -1,0 +1,35 @@
+{
+  "id": "gluten-free-bakeshop-brownies",
+  "restaurant": "Two Daughters Bakeshop",
+  "heroImage": "gluten-free-bakeshop-brownies.jpg",
+  "title": "Gluten-Free Vegan Brownies",
+  "book": "The North Shore Foodie",
+  "notes": "Getting the correct ratio of flours is key to getting the right texture in your gluten-free baked goods. Remember that wheat flour is not all gluten protein. It's part protein and part starches. That's why we mix grain flour with starches. Starches don't have much nutritional value, but they help make the flour mix hold together and make it look white enough to make familiar-looking baked goods. Ratio – 70% grain flour to 30% starches. So to make 1000 grams of all-purpose flour, you would use 700 grams of any grain flour blended with 300 grams of your choice of starch. Please feel free to play with the flours and come up with your favourite blend. I would strongly recommend switching from measuring cups to a scale for gluten-free baking to keep the recipes consistent. Converting a recipe from cups to weight is quite easy. When you make your recipes, weigh each ingredient and record the weight in your recipe book, you only have to do this step once then next time all you have to do is weigh the ingredients. This will keep the recipe consistent each time you make it.",
+  "ingredientSections": [
+    {
+      "heading": "Gluten-Free Vegan Brownies",
+      "items": [
+        "2½ Cups of your favourite All-purpose flour blend (see flour blending basics below)",
+        "2 Cups Organic cane sugar",
+        "8 Tbsp Cocoa powder",
+        "1½ tsp Baking powder",
+        "1 tsp Xanthan gum",
+        "2 tsp Salt",
+        "375ml Organic rice milk",
+        "350ml Organic canola oil",
+        "1½ Tbsp Organic vanilla",
+        "1 Cup Organic chocolate chips"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Gluten-Free Vegan Brownies",
+      "steps": [
+        "Preheat oven to 180°C (350°F).",
+        "In the bowl of a stand mixer, blend the canola oil, sugar and vanilla. Add the rice milk and blend again. Add all the dry ingredients to wet and blend well, stopping to scrape bowl.",
+        "Spread mixture evenly in a 9x11 glass baking dish, lightly greased or lined with parchment paper and bake at 180°C (350°F) for 35-40 minutes or until a knife inserted into brownie comes out clean."
+      ]
+    }
+  ]
+}

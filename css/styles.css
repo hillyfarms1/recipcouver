@@ -1,0 +1,38 @@
+body{
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: rgb(69, 69, 69)
+}
+h3{
+    font-size: 1.5rem;
+}
+h4{
+    font-size: 1rem;
+    margin: 0;
+    padding: 0;
+}
+p{
+    margin: 0;
+}
+button{
+	background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+}
+
+
+
+
+
+
+
+
+
+@media (min-width: 449px) { /*MOBILE FIRST!!!*/
+
+}

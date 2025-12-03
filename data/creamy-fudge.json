@@ -1,0 +1,35 @@
+{
+  "id": "creamy-fudge",
+  "restaurant": "Eternal Abundance",
+  "heroImage": "creamy-fudge.jpg",
+  "title": "Creamy Fudge",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Creamy Fudge",
+      "items": [
+        "1 ½ Cups Cashews",
+        "½ Cup + 1 Tbsp Coconut Oil",
+        "½ Cup Cacao Powder",
+        "1 Cup Dates, pitted",
+        "⅓ to ½ Cup Water",
+        "Zest of 1 Lemon",
+        "1 tsp Vanilla Extract",
+        "Pinch Salt"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Creamy Fudge",
+      "steps": [
+        "Soak the cashews in water for 3-4 hours or until they are very soft.",
+        "Gently melt the coconut oil in double boiler or dehydrator.",
+        "Blend or process all ingredients, starting with ⅓ Cup of water, until smooth and creamy. Add a touch more water if necessary.",
+        "Pour mixture into a glass dish roughly 22cm (9in) square, spread out evenly and cover.",
+        "Chill in the fridge overnight or in the freezer for one hour."
+      ]
+    }
+  ]
+}

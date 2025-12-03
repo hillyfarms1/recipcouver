@@ -1,0 +1,45 @@
+{
+  "id": "saffron-mussels",
+  "restaurant": "Finch & Barley",
+  "heroImage": "saffron-mussels.jpg",
+  "title": "Saffron Mussels with Italian Sausage",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Mussels in a Saffron Cream Broth with Italian Sausage, Leeks and Fennel",
+      "items": [
+        "2 Italian sausages",
+        "2kg Local mussels, cleaned",
+        "3 Tbsp Butter",
+        "1 Bulb Fennel, diced",
+        "2 Medium Leeks, diced",
+        "1 Tbsp Chopped garlic",
+        "1 tsp Thyme",
+        "1 tsp Cumin",
+        "1 tsp Coriander",
+        "1 tsp Oregano",
+        "1 Pinch Saffron threads",
+        "2 Cups White wine",
+        "1L Whipping cream 36%",
+        "1 Tbsp Sugar",
+        "Salt and pepper to taste",
+        "½ Bunch Cilantro (picked from the stem)",
+        "1 French baguette"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Mussels in a Saffron Cream Broth with Italian Sausage, Leeks and Fennel",
+      "steps": [
+        "Soak mussels ahead of time for 20 minutes in water to get rid of excess grit and salt water. Mussels must be alive before cooking, discard any cracked or open mussels. If unsure, pinch the mussel closed and if it does not react it has expired.",
+        "Slice the sausages into thin slices. Melt the butter in large pot (make sure pot is large enough to fit all the mussels). Add the sliced sausage to the pot and brown slightly. Add the fennel and leeks and allow to sweat. Add the thyme, cumin, coriander and oregano.",
+        "De-glaze with the white wine and then add the sugar. Add the cream and saffron and bring to a simmer for 10-15 minutes, which will reduce the broth slightly.",
+        "Add mussels to the broth and place a lid on the pot. Steam until they are all open. About 2-3 minutes depending on their size.",
+        "Add salt and pepper to taste remembering mussels can be naturally salty.",
+        "Serve in large bowls with the broth and sliced baguette. Garnish with the fresh cilantro."
+      ]
+    }
+  ]
+}

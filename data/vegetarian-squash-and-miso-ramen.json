@@ -1,0 +1,42 @@
+{
+  "id": "vegetarian-squash-and-miso-ramen",
+  "restaurant": "Harvest Community Foods",
+  "heroImage": "vegetarian-squash-and-miso-ramen.jpg",
+  "title": "Vegetarian Squash & Miso Ramen",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Vegetarian Squash & Miso Ramen",
+      "items": [
+        "1 ½ Cups Red Kurri or Kabocha Squash, peeled, deseeded and cubed",
+        "6 inches Kombu",
+        "1 Onion, sliced",
+        "2 Cloves Garlic, chopped",
+        "2 Tbsp Ginger, diced",
+        "2 Tbsp Oil",
+        "½ Cup Miso",
+        "¼ Cup Soy Sauce",
+        "2 bunches Watercress",
+        "2 tsp Toasted White Sesame Seeds",
+        "1 sheet Nori, cut into 4 squares",
+        "Sesame Oil",
+        "Ramen noodles"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Vegetarian Squash & Miso Ramen",
+      "steps": [
+        "Soak the Kombu in two litres of water for three hours.",
+        "In a large saucepan cook onions, garlic and ginger in the oil until soft. Add the squash and cook for a few minutes. Season with salt.",
+        "Add kombu and the water the kombu has been soaking in and bring to boil, lower heat and simmer until squash is soft.",
+        "Remove from the heat and add the miso. Remove kombu and then blend until smooth.",
+        "Season with soy sauce and more salt if needed to taste.",
+        "Cook the ramen in boiling water for two minutes and drain.",
+        "Pour the squash sauce over the noodles, garnish with cress, sesame seeds, sesame oil and nori."
+      ]
+    }
+  ]
+}

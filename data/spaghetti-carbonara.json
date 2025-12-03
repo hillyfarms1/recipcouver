@@ -1,0 +1,38 @@
+{
+  "id": "spaghetti-carbonara",
+  "restaurant": "Campagnolo",
+  "heroImage": "spaghetti-carbonara.jpg",
+  "title": "Spaghetti Carbonara",
+  "book": "The East Van Foodie",
+  "notes": "Guanciale is cured pork cheek. If you are having trouble sourcing it Pancetta is a good substitute. Guanciale usually has a stronger flavour than Pancetta and has a more tender texture. When cooked most of the fat will melt into the sauce giving it a delicious rich flavour.",
+  "ingredientSections": [
+    {
+      "heading": "Spaghetti Carbonara",
+      "items": [
+        "½ Cup Guanciale, diced (usually found at an Italian deli)",
+        "2 Tbsp Extra Virgin Olive Oil",
+        "2 tsp freshly ground black pepper, or more if you like extra zing",
+        "¼ Cup Red Onion, very thinly sliced",
+        "½ Cup Dry White Wine",
+        "1 Large Egg",
+        "½ Cup Pecorino Romano, grated very finely",
+        "400g Fresh Spaghetti"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Spaghetti Carbonara",
+      "steps": [
+        "Bring a large pot of water to a boil and season heavily with salt.",
+        "In a small bowl, mix the egg and grated pecorino and set aside.",
+        "In a large fry pan, over medium to high heat, add the extra virgin olive oil and slowly cook the diced guanciale until some of the fat renders and starts to crisp.",
+        "Add the red onion and cook until translucent and then add the black pepper and sauté briefly.",
+        "Deglaze the pan with the white wine and reduce the heat.",
+        "Cook the pasta in the boiling salted water. If it is fresh pasta it only needs 2 to 4 minutes. When cooked drain immediately and reserve some of the pasta water.",
+        "Add the hot cooked spaghetti to the pan along with the pecorino and egg mixture. Mix together off the heat until the sauce is thick and uniform. Use a small amount of pasta water to adjust the consistency of the sauce. The sauce should just coat the pasta.",
+        "Divide amongst four warm pasta bowls and serve."
+      ]
+    }
+  ]
+}

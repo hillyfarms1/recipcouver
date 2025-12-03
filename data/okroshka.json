@@ -1,0 +1,47 @@
+{
+  "id": "okroshka",
+  "restaurant": "Ethical Soda",
+  "heroImage": "okroshka.jpg",
+  "title": "Okróshka – Russian Kombucha Soup",
+  "book": "The North Shore Foodie",
+  "notes": "This is a cold soup usually served in summer.",
+  "ingredientSections": [
+    {
+      "heading": "Vegetables of Your Choice",
+      "items": [
+        "Radishes",
+        "Peppers",
+        "Daikon",
+        "Cucumbers",
+        "Kohlrabi",
+        "Carrots"
+      ]
+    },
+    {
+      "heading": "Top With",
+      "items": [
+        "Cilantro or parsley",
+        "Himalayan salt",
+        "Kombucha (Ethical Soda Original works well)",
+        "Yogurt or sour cream"
+      ]
+    },
+    {
+      "heading": "Optional Ingredients",
+      "items": [
+        "Hard-boiled eggs",
+        "Boiled meat, especially beef tongue, sliced thinly"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Okróshka",
+      "steps": [
+        "Slice all the vegetables finely and arrange in a shallow bowl.",
+        "Top with parsley or cilantro and sprinkle with a generous amount of salt.",
+        "Pour the kombucha (a plain floavored, sour kombucha is best) over all the vegetables and add a dollop of yogurt or sour cream. Serve."
+      ]
+    }
+  ]
+}

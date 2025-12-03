@@ -1,0 +1,55 @@
+{
+  "id": "queso-fundido",
+  "restaurant": "La Mezcaleria",
+  "heroImage": "queso-fundido.jpg",
+  "title": "Queso Fundido with Salsa Verde",
+  "book": "The Gastown Foodie",
+  "notes": "Any combination of these cheeses or herbs can be found used in queso fundido variations throughout Mexico. Explore different combinations to find your favourite. If you have a good quality \"molcajete,\" a volcanic rock mortar or bowl, it will keep the cheese hot and melted. However, a good heavy non-stick or cast iron pan that is all metal and can go in the oven is almost as good. A small porcelain casserole dish or large ramekin will work too. In any case, check that the volume of cheese matches the size of the dish before starting.",
+  "ingredientSections": [
+    {
+      "heading": "Salsa Verde",
+      "items": [
+        "450g tomatillos",
+        "½ small white onion",
+        "1 serrano pepper",
+        "Few sprigs of cilantro",
+        "Salt & pepper to taste"
+      ]
+    },
+    {
+      "heading": "Queso Fundido",
+      "items": [
+        "2-3 Cups Mozzarella, soft Manchego or Edam",
+        "½ Cup Gruyere or Emmental (or Raclette if you want something milder)",
+        "2 Tbsp of your favourite herb: basil, oregano, thyme",
+        "½ Cup Salsa Verde*",
+        "Tortillas or chips"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Salsa Verde",
+      "steps": [
+        "Peel then cut the tomatillos in half, cut the serrano pepper in half and quarter the onion.",
+        "Place all ingredients in a saucepan and top with just enough water to cover them.",
+        "Place a lid on the saucepan, bring to a boil and then remove from the heat, but leave covered for a few minutes to allow the tomatillos to finish settling and the temperature to cool off a little.",
+        "Blend everything together until smooth and check the seasoning. Add a little more salt if necessary."
+      ]
+    },
+    {
+      "heading": "Queso Fundido",
+      "steps": [
+        "Coarsely grate the cheese, finely chop the herbs and mix all together in a bowl.",
+        "If using a molcajete or a cast iron dish, place it on a small oven safe tray and preheat in the oven set to 200°C (400°F) for at least 15 minutes.",
+        "If using a porcelain or ceramic ramekin there is no need to preheat.",
+        "Tranfer the cheese mixture into the baking dish, and place in the oven at 200°C (400°F) for 10 minutes.",
+        "Carefully remove from the oven and bring the outside edges into the centre with a spoon to make sure it melts evenly. Place back in the oven.",
+        "Check every 5 minutes and mix with a spoon again when necessary. It will be done when the centre feels very soft and the top begins to take on a nice golden brown colour.",
+        "While the cheese is in the oven, heat up the half cup of salsa verde.",
+        "Remove the cheese from the oven carefully and place on a heat safe pad. Pour the hot salsa verde over the top of the cheese and add a few sprigs of cilantro.",
+        "Serve with tortillas or chips right away; it will not stay melted long enough to wait on anyone and cheese does not like to be re-melted!"
+      ]
+    }
+  ]
+}

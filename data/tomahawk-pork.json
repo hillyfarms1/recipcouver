@@ -1,0 +1,59 @@
+{
+  "id": "tomahawk-pork",
+  "restaurant": "The Portly Chef",
+  "heroImage": "tomahawk-pork.jpg",
+  "title": "Tomahawk Pork & Caramelised Apple",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Caramelised Apple",
+      "items": [
+        "2 Apples",
+        "2 Tbsp Butter",
+        "¾ Cup Brown sugar",
+        "1 tsp Cinnamon",
+        "120g Goat cheese"
+      ]
+    },
+    {
+      "heading": "Pork",
+      "items": [
+        "4 200-250g bone-in pork chops"
+      ]
+    },
+    {
+      "heading": "Brine Marinade",
+      "items": [
+        "12 Cups Cold water",
+        "1 Cup Brown sugar",
+        "½ Cup Salt",
+        "1 Medium carrot, coarsely cut",
+        "2 Sticks Celery, coarsely cut",
+        "½ Medium Onion, coarsely cut",
+        "2 Dry bay leaves"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Caramelised Apple",
+      "steps": [
+        "Peel, core and finely dice the apples.",
+        "Melt the butter over medium heat then add the apples. Sauté for 5-7 minutes, stirring occasionally. Add the sugar and cinnamon and continue to cook until the sugar begins to caramelise. Allow the sugar to darken but not burn.",
+        "Remove from the heat and allow to cool. Once cool, blend through the goat's cheese and refrigerate until ready to use."
+      ]
+    },
+    {
+      "heading": "Pork",
+      "steps": [
+        "Dice the onion and then cook in a saucepan with the oil until it is starting to brown and turn translucent.",
+        "Add the epazote and stir, continuing to brown the onions.",
+        "Coarsely cut the carrots, celery and onion and then simmer all of the brine ingredients together until the onions become translucent and the sugar has dissolved. Allow to cool.",
+        "Transfer the pork chops to the liquid mixture and marinate, refrigerated, for 24-48 hours.",
+        "When ready to cook, remove the chops from the brine and begin to grill. After turning the partially grilled pork, spread the apple topping evenly over the cooked side and continue grilling until cooked through. Use a sharp knife near the bone to check for doneness.",
+        "Serve with a side salad."
+      ]
+    }
+  ]
+}

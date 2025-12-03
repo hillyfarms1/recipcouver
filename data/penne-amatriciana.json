@@ -1,0 +1,39 @@
+{
+  "id": "penne-amatriciana",
+  "restaurant": "InGrain Pastificio",
+  "heroImage": "penne-amatriciana.jpg",
+  "title": "Penne all'Amatriciana",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Penne all' Amatriciana",
+      "items": [
+        "150-200g InGrain Durum semolina penne",
+        "160-175g Quality pancetta",
+        "45ml Olive oil",
+        "15-20g Garlic, crushed",
+        "120g Fresh tomato, deseeded and diced",
+        "240ml San Marzano tomatoes, puréed",
+        "15ml Apple cider vinegar",
+        "7-8 Fresh basil leaves, torn",
+        "40g Pecorino cheese, grated",
+        "60ml Reserved pasta water",
+        "Chili flakes and salt to taste"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Penne All' Amatriciana",
+      "steps": [
+        "Bring a large pot of salted water to the boil and then add the pasta; it will take 8 minutes to cook. When cooked, drain but remember to reserve a little of the water the pasta was cooked in to add to the sauce later.",
+        "Render the pancetta in another large saucepan over medium heat. When it is starting to become crisp, remove from heat and drain excess fat. The fat can be strained then kept in a jar in the fridge with things like garlic and thyme for other recipes like a lovely pancetta vinaigrette.",
+        "After draining, add olive oil and garlic to the pan and sauté stirring constantly until the garlic begins to turn light brown.",
+        "Remove from the heat and add the fresh tomato, tomato sauce, apple cider vinegar, chili flakes, salt and half of the basil. Sauté for an additional 5 minutes.",
+        "Add the cooked pasta to the sauce and toss with the reserved pasta water and half of the pecorino. Toss over medium heat for 1-2 minutes.",
+        "Plate and garnish with remaining basil and pecorino."
+      ]
+    }
+  ]
+}

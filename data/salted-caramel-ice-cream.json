@@ -1,0 +1,49 @@
+{
+  "id": "salted-caramel-ice-cream",
+  "restaurant": "Earnest Ice Cream",
+  "heroImage": "salted-caramel-ice-cream.jpg",
+  "title": "Salted Caramel Ice Cream",
+  "book": "The East Van Foodie",
+  "notes": "Adding coffee is a delicious variation to this recipe. Simply stir in instant coffee or espresso to taste before chilling.",
+  "ingredientSections": [
+    {
+      "heading": "Salted Caramel Ice Cream",
+      "items": [
+        "¾ Cup (175g) Whole Cream Milk",
+        "1 ¾ Cups (415g) Cream",
+        "5 Egg Yolks",
+        "¾ Cup (150g) Sugar",
+        "4g Vancouver Island Sea Salt"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Preparation",
+      "steps": [
+        "Add the milk and salt to a medium-sized stainless steel bowl. Place a fine mesh strainer in this bowl too.",
+        "Nest this bowl within another larger bowl that is partially filled with ice water.",
+        "In a third smaller bowl whisk together the yolks with 50g of the sugar.",
+        "In a small saucepan, bring the cream to a bare simmer."
+      ]
+    },
+    {
+      "heading": "Caramel Custard",
+      "steps": [
+        "In a high-sided fry pan or saucepan on a medium heat, melt the sugar. Stir sparingly with a heatproof spatula until all the sugar melts and turns a dark amber colour. Watch the colour closely as once all the sugar is melted, it can quickly turn from dark amber to burnt.",
+        "Remove from heat and slowly pour the warmed cream into the melted sugar. The cream will violently boil and steam when it hits the hot sugar. Consider using oven mitts for protection. Stir until the cream and sugar are well combined.",
+        "Using a ladle, slowly pour some of the creamy caramel into the egg yolks stirring quickly with a whisk or spatula. This is called 'tempering' the eggs. The goal is to incorporate the eggs into the hot mixture without scrambling them. The trick is to add only a bit at a time and to stir quickly.",
+        "After two or three ladles have been incorporated into the egg yolks, slowly pour this mixture back into the creamy caramel stirring well."
+      ]
+    },
+    {
+      "heading": "Icecream",
+      "steps": [
+        "Heat the custard on a medium to low heat, stirring well, until an instant read thermometer reaches 70-75°C (160-170°F).",
+        "Pour it through the strainer (to remove any tiny bits of scrambled egg) into the chilled salted milk. Stir to combine. Continue stirring, with the bowl in the ice bath, to bring the temperature down below 40°C (100°F).",
+        "Cover with plastic wrap and refrigerate for two hours or overnight.",
+        "Spin in an ice cream maker according to manufacturer's directions."
+      ]
+    }
+  ]
+}

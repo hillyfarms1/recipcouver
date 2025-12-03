@@ -1,0 +1,33 @@
+{
+  "id": "pesto",
+  "restaurant": "Glorious Organics",
+  "heroImage": "gloriousOrganics2.jpg",
+  "title": "Pesto",
+  "book": "The Plant-based Foodie",
+  "notes": "Pestle and pesto. Purists will tell you that pesto is only made from basil and while traditionally that’s true, the name “pesto” comes from “pestle” so it could be argued that anything that can be pestled is pesto. Whether made from basil, or kale, mustard leaves, arugula, sorrel, dandelion, collards, parsley, chard or beet tops, pesto is so versatile it should be a staple in your fridge. Mix it with pasta, serve as a condiment, spread on sandwiches, use as a base for pizzas, as a dip, mix it into soup or use as a salad or bowl dressing.",
+  "ingredientSections": [
+    {
+      "heading": "Pesto",
+      "items": [
+        "4 bunches various greens",
+        "5 cloves garlic",
+        "1 Cup nuts",
+        "¾ Cup vegan parmesan",
+        "Juice of 1 lemon",
+        "Salt or tamari",
+        "½ Cup olive oil*",
+        "* Don’t use extra-virgin olive oil because it will taste bitter after being agitated in a food processor or blender."
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Pesto",
+      "steps": [
+        "Remove the stems from all of the greens and add to a food processor or blender, in batches if necessary, along with the nuts and cheese.",
+        "Drizzle in the oil and lemon juice so a purée forms.",
+        "Add salt and pepper to taste."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gluten-free-flour-blending",
+  "restaurant": "Two Daughters Bakeshop",
+  "heroImage": "gf-flour.jpg",
+  "title": "Gluten-Free Flour Blending",
+  "book": "The North Shore Foodie",
+  "notes": "Notes",
+  "ingredientSections": [
+    {
+      "heading":"Vegan Gluten-Free Flour Blending",
+      "items": [
+        "GRAIN FLOURS: Brown Rice Flour, Buckwheat Flour, Corn Flour, Millet Flour, Quinoa Flour, Sorghum Flour, Teff Flour, White Rice Flour. STARCHES: Arrowroot Flour, Cornstarch, Potato Starch, Tapioca Flour. BEAN FLOURS: Garbanzo/fava bean flour blend."
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Vegan Gluten-Free Flour Blending",
+      "steps": [
+        "Getting the correct ratio of flours is key to getting the right texture in your gluten-free baked goods. Remember that wheat flour is not all gluten protein. It's part protein and part starches. That's why we mix grain flour with starches. Starches don't have much nutritional value, but they help make the flour mix hold together and make it look white enough to make familiar-looking baked goods. Ratio – 70% grain flour to 30% starches. So to make 1000 grams of all-purpose flour, you would use 700 grams of any grain flour blended with 300 grams of your choice of starch. Please feel free to play with the flours and come up with your favourite blend. I would strongly recommend switching from measuring cups to a scale for gluten-free baking to keep the recipes consistent. Converting a recipe from cups to weight is quite easy. When you make your recipes, weigh each ingredient and record the weight in your recipe book, you only have to do this step once then next time all you have to do is weigh the ingredients. This will keep the recipe consistent each time you make it."
+      ]
+    }
+  ]
+}

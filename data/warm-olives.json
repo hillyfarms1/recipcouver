@@ -1,0 +1,38 @@
+{
+  "id": "warm-olives",
+  "restaurant": "Pourhouse Restaurant",
+  "heroImage": "warm-olives.jpg",
+  "title": "Warm Olives",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Warm Olives",
+      "items": [
+        "300g Castelvetrano olives",
+        "2 cloves garlic, crushed",
+        "100ml olive oil",
+        "1 sprig rosemary",
+        "A few sprigs fresh thyme",
+        "Zest of 1/3 lemon",
+        "Zest of 1/3 orange",
+        "A good pinch toasted ground coriander seeds",
+        "A good pinch toasted ground fennel seeds",
+        "Red wine vinegar"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Warm Olives",
+      "steps": [
+        "Smash the garlic and remove the stems from the rosemary and thyme.",
+        "Strain the olives and then spread out on an oven dish or pan. Add the olive oil and crushed garlic.",
+        "Roast in the oven at 200°C (400°F) for 15-20 minutes.",
+        "Remove from the oven, add remaining ingredients and mix together.",
+        "Roast for another 5 minutes.",
+        "Serve warm with a small splash of red wine vinegar."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "vegan-nut-free-pumpkin-pie",
+  "restaurant": "Vegan Pudding & Co.",
+  "heroImage": "vegan-nut-free-pumpkin-pie.jpg",
+  "title": "Vegan Nut-free Pumpkin Pie",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Base",
+      "items": [
+        "2 Cups rolled oats",
+        "1 Cup sunflower seeds",
+        "¼ tsp salt",
+        "4 Tbsp coconut oil (solid)",
+        "4 Tbsp maple syrup",
+        "1½ tsp vanilla extract",
+        "3 Tbsp water"
+      ]
+    },
+    {
+      "heading": "Filling",
+      "items": [
+        "1 packet Vegan Pudding & Pie Filling Powder Mix",
+        "1 can coconut milk"
+      ]
+    },
+    {
+      "heading": "To Serve",
+      "items": [
+        "Coconut whipped cream",
+        "Cinnamon powder"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Base",
+      "steps": [
+        "Toast the sunflower seeds in a pan over a medium heat until lightly golden and fragrant. Remove the sunflower seeds from the pan, add the rolled oats and toast until lightly golden.",
+        "Add the toasted seeds and oats to a blender or food processor with the salt and pulse into an even crumble.",
+        "Transfer the seed and oat mixture into a large bowl and add the solid coconut oil, maple syrup, vanilla extract and half of the water. Mix all the ingredients together with a spatula until it starts to come together. Add the rest of the water. When this is mixed through it should have a tacky consistency.",
+        "Turn out the mixture into a pie tin. Smooth out and press down the mixture into the corners, evenly around the base and up the sides a bit. Place in the fridge to harden."
+      ]
+    },
+    {
+      "heading": "Filling",
+      "steps": [
+        "Empty a packet of Vegan Pudding & Co. Pie Filling Powder Mix and the can of coconut milk into a blender and blend until smooth.",
+        "Pour the mixture into a saucepan and over medium heat and bring to a boil stirring constantly. Remove from the heat and allow to cool."
+      ]
+    },
+    {
+      "heading": "Pie",
+      "steps": [
+        "Pour the filling into the base, smooth it out and then return the pie to the fridge to set for about 2 hours. Don't put it in the freezer.",
+        "Serve with coconut whipped cream and cinnamon powder."
+      ]
+    }
+  ]
+}

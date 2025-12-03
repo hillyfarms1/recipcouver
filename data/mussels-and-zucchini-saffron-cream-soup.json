@@ -1,0 +1,39 @@
+{
+  "id": "mussels-and-zucchini-saffron-cream-soup",
+  "restaurant": "Jules Bistro",
+  "heroImage": "mussels-and-zucchini-saffron-cream-soup.jpg",
+  "title": "Mussels & Zucchini Saffron Cream Soup",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Mussels and Zucchini Saffron Cream Soup",
+      "items": [
+        "900g mussels",
+        "450g zucchini",
+        "1 tsp butter",
+        "½ Cup white wine",
+        "1 tsp garlic, chopped",
+        "¾ Cup cream",
+        "½ tsp saffron threads (around 6 threads) or ¼ tsp saffron powder",
+        "Salt & pepper",
+        "Chives or cilantro to garnish"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Mussels and Zucchini Saffron Cream Soup",
+      "steps": [
+        "Clean and debeard the mussels and discard any that are cracked or open.",
+        "Steam the mussels in a large pot with the wine and garlic until they are all open.",
+        "Dice the zucchini finely and sauté in a frying pan in the butter for roughly 2 minutes.",
+        "Remove the mussels from their shells, discarding any that didn't open, and divide into 4 soup bowls.",
+        "Divide the zucchini into the 4 soup bowls, too.",
+        "Strain the cooked wine and mussels juices through cheesecloth or a very fine strainer into a saucepan and bring to a boil.",
+        "Add cream, saffron, salt and pepper and simmer for 3 minutes.",
+        "Pour over the mussels and zucchini and garnish with chopped chives or cilantro."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "raspberry-kombucha-ale",
+  "restaurant": "Ethical Soda",
+  "heroImage": "raspberry-kombucha-ale.jpg",
+  "title": "Kombucha Cocktails",
+  "book": "The North Shore Foodie",
+  "notes": "Simple Syrup is simply 2 parts white sugar to 1 part water heated until all the sugar is dissolved and then left to cool. Make a batch and keep it on hand.",
+  "ingredientSections": [
+    {
+      "heading": "Raspberry Kombucha-Ale",
+      "items": [
+        "Ethical Soda Raspberry Kombucha",
+        "Hearthstone Brewery India Pale Ale"
+      ]
+    }
+ ],
+ "methodSections": [
+    {
+      "heading": "Raspberry Kombucha-Ale",
+      "steps": [
+        "Fill glasses half way with chilled Raspberry Kombucha and top up with India Pale Ale. The sweetness of the raspberry offsets the bitterness of the IPA perfectly, which makes for a light, refreshing, distinctly European-inspired summer beverage."
+      ]
+    }
+ ]
+ }

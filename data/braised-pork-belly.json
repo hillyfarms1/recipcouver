@@ -1,0 +1,77 @@
+{
+  "id": "braised-pork-belly",
+  "restaurant": "Hugos Restaurant",
+  "heroImage": "braised-pork-belly.jpg",
+  "title": "Braised Pork Belly & Bread Pudding",
+  "book": "The North Shore Foodie",
+  "notes": "Four-hour braised Berkshire pork belly with a kaffir lime, lemongrass and coconut milk reduction on a savory bread and cabbage pudding, garnished with fried leeks is a take on some fusion cooking that I've been experimenting with for a while. I've cooked pork belly many different ways, but I wanted to try it with the traditional Indonesian Beef Randang recipe, where meat is stewed very slowly in coconut milk, using the braising liquid as a sauce. This dish is richly exotic while maintaining the familiarity of Western comfort food. -Chef Ian.",
+  "ingredientSections": [
+    {
+      "heading": "Pork Belly",
+      "items": [
+        "½ of a Pork belly, about 1-1½kg (3 lbs), trim excess fat, skin"
+      ]
+    },
+    {
+      "heading": "Pork Belly Stuffing",
+      "items": [
+        "8 Kaffir Lime leaves",
+        "2 Tbsp Ginger",
+        "2 Tbsp Garlic",
+        "2 Tbsp Lemongrass",
+        "Salt and pepper"
+      ]
+    },
+    {
+      "heading": "Braising Liquid and Sauce",
+      "items": [
+        "2 Cups Coconut milk",
+        "2 Cups Chicken stock",
+        "½ Cup Garlic",
+        "⅓ Cup Ginger",
+        "6 Kaffir lime leaves",
+        "2 Stalks Lemongrass",
+        "4 Tbsp Fish sauce",
+        "1 Cup Cilantro stems",
+        "1 White onion",
+        "1 Tbsp Salt",
+        "⅓ Cup White sugar"
+      ]
+    },
+    {
+      "heading": "Bread Pudding",
+      "items": [
+        "½ Cup Mushrooms",
+        "5 Cups Focaccia bread",
+        "⅓ Cup Carrots",
+        "2 Cups Napa cabbage",
+        "½ Cup Onion",
+        "2 Tbsp Garlic",
+        "4 Tbsp Butter",
+        "1 Tbsp Dried coriander",
+        "½ Cup Chicken stock",
+        "2 Eggs",
+        "Salt and pepper to taste"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Pork Belly",
+      "steps": [
+        "Roll out pork belly and trim any excess fat or skin. Cover the top with the finely chopped stuffing ingedients. Roll pork belly tightly and tie with butcher's twine. Sear pork in a large oven and hotplate friendly braising pot (or fry-pan) until golden brown all over.",
+        "Finely dice and then mix all braising ingredients together. Set pork belly in braising liquid in the braising pot (or oven proof dish). The liquid should come half way up the pork, but not cover it.",
+        "Cook for 4 hours at 180°C (350°F). Rotate every hour. Cover for the first 2 hours, and leave uncovered for last 2. This will allow the pork belly to become golden brown with nice crackling."
+      ]
+    },
+    {
+      "heading": "Bread Pudding",
+      "steps": [
+        "Finely dice the carrots and onion, finely shred the cabbage, chop the mushrooms and slice the bread into 1cm cubes.",
+        "Heat butter in a shallow saucepan until melted. Add onions, carrots and garlic and cook until translucent. Add mushrooms, dried coriander, napa cabbage, and sauté for another minute.",
+        "Deglaze the pan with the chicken stock and transfer everything to a mixing bowl. Mix in the bread and let cool to room temperature.",
+        "When the mixture has cooled, stir through the eggs, salt and pepper. Form into muffin trays or any non-stick form. Bake in a water bath, half way up the form, for 25 minutes at 180°C (350°F)."
+      ]
+    }
+  ]
+}

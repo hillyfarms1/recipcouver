@@ -1,0 +1,127 @@
+{
+  "id": "connies-tacos",
+  "restaurant": "Bandidas Taqueria",
+  "heroImage": "bandidas.jpg",
+  "title": "Connie's Tacos",
+  "book": "The Plant-based Foodie",
+  "notes": "At Bandidas all the dishes are named after much-loved friends and family. Connie, an elegant hippie from Northern California, was godmother to Aiyana Kane, one of the Bandidas owners. This dish was an old favourite but was discontinued in an attempt to make the kitchen as safe as possible for folks with nut allergies. Customers were actually seen crying when it was removed, so here it is to try at home.",
+  "ingredientSections": [
+    {
+      "heading": "Purple Cabbage Salad",
+      "items": [
+        "½ purple cabbage",
+        "½ tsp salt or more to taste",
+        "Juice of 1 lime"
+      ]
+    },
+    {
+      "heading": "Apple Salsa",
+      "items": [
+        "2 Granny Smith apples",
+        "½ poblano or jalapeño pepper",
+        "¼ red onion",
+        "½ cup cilantro",
+        "Juice of 1 lime",
+        "Pinch ground pequin chilies (optional)",
+        "Salt to taste"
+      ]
+    },
+    {
+      "heading": "Roasted Red Pepper Sauce",
+      "items": [
+        "2 red bell peppers",
+        "½ jalapeño",
+        "3 medium carrots",
+        "2 cloves garlic",
+        "½ onion",
+        "2 Tbsp olive oil",
+        "1 Tbsp canola oil",
+        "1½ tsp salt",
+        "Pinch ground black pepper",
+        "1 Tbsp apple cider vinegar"
+      ]
+    },
+    {
+      "heading": "Mexican Beans",
+      "items": [
+        "1 large yellow onion",
+        "2 Tbsp vegetable oil, canola, grapeseed, sunflower or avocado",
+        "2 Cups dried black beans",
+        "1 Tbsp dried epazote (or ground coriander seeds)",
+        "6 Cups water",
+        "Salt to taste"
+      ]
+    },
+    {
+      "heading": "Ground Walnut",
+      "items": [
+        "4 Cups walnuts",
+        "2 onions",
+        "1 Tbsp ground coriander",
+        "2 tsp ground cumin",
+        "2 Tbsp Bragg Liquid Aminos or tamari"
+      ]
+    },
+    {
+      "heading": "Connie's Tacos",
+      "items": [
+        "Corn tortillas (handmade, see page 38 of \"The East Van Foodie\" or store bought)",
+        "Blue Heron's vegan cheeses are great on tacos, try the Smoke 'n' Spice Cheddar",
+        "Vegan sour cream (optional)",
+        "Fresh cilantro leaves"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Purple Cabbage Salad",
+      "steps": [
+        "Slice the cabbage as finely as possible and place in a large bowl.",
+        "Add the salt and then firmly massage it into the cabbage, which will start to soften and juice will release. Continue to massage until it is nice and soft.",
+        "Stir through lime juice to taste then refridgerate for at least an hour to pickle."
+      ]
+    },
+    {
+      "heading": "Apple Salsa",
+      "steps": [
+        "Finely dice the apples, onion and pepper and add to a bowl. Destem the cilantro, chop finely and stir through the apple mix.",
+        "Squeeze the lime juice over the top and stir through along with the ground chilies. Taste to check spiciness and acidity. Season with salt to taste."
+      ]
+    },
+    {
+      "heading": "Roasted Red Pepper Sauce",
+      "steps": [
+        "Deseed and then cut the bell peppers and jalapeños into flat sections. Halve lengthwise and then roughly chop the carrots into 2-3 cm pieces.",
+        "Place the chopped vegetables and the 2 whole garlic cloves in an oven dish or tray, coat in a drizzle of canola oil and sprinkle with salt and pepper. Roast at 200°C (400°F) for 30 minutes or until soft and starting to colour.",
+        "While the vegetables are roasting, finely slice and caramelize the onion. (Two additional caramelized onions are required for the walnuts, below, so get it all done now.) In a large frying pan, heat a splash of canola oil to a low heat, add the sliced onion, stir regularly and allow it to take its time. If the onion burns at all it will be bitter.",
+        "Add all the ingredients to a food processor and blend until smooth. Add a touch of water if necessary to adjust the consistency."
+      ]
+    },
+    {
+      "heading": "Mexican Beans",
+      "steps": [
+        "Dice the onion and then cook in a saucepan with the oil until it is starting to brown and turn translucent.",
+        "Add the epazote and stir, continuing to brown the onions.",
+        "Rinse the beans in fresh water and then add to the saucepan and stir. Add the water and increase heat to high, bringing the beans to a boil for about 5 minutes.",
+        "Reduce heat to a simmer and cook for about 2 hours with a lid on, until the beans are nice and soft. Add water as needed, so that they don't dry out and burn.",
+        "When the beans are soft allow most of the water to cook off, so that the bean broth starts to thicken.",
+        "Add salt to taste. Do not add salt before the beans are soft, as it will cause them to cook unevenly. Let cook for another 10-15 minutes on low to incorporate the salt."
+      ]
+    },
+    {
+      "heading": "Ground Walnut",
+      "steps": [
+        "Spread the walnuts out into one layer on an oven tray and roast at 175°C (350°F) for around 10 minutes or until toasty and golden brown.",
+        "Caramelize the onions if you haven't already while making the Roasted Red Pepper Sauce.",
+        "Add all ingredients into a food processor and pulse gently to combine into a rough texture. Do not overdo it and blend it into a paste."
+      ]
+    },
+    {
+      "heading": "Connie's Tacos",
+      "steps": [
+        "If using store-bought tortillas, warm them in the oven by wrapping the stack in a damp cloth and sealing this in foil. If using store-bought canned beans, heat them up as directed.",
+        "Build in the following order: tortilla, cheese, beans, ground walnut, cabbage salad, salsa, pepper sauce, sour cream (if using) and finally a few cilantro leaves."
+      ]
+    }
+  ]
+}

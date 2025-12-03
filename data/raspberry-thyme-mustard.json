@@ -1,0 +1,30 @@
+{
+  "id": "raspberry-thyme-mustard",
+  "restaurant": "Ethical Kitchen",
+  "heroImage": "raspberry-thyme-mustard.jpg",
+  "title": "Raspberry and Thyme Mustard",
+  "book": "The North Shore Foodie",
+  "notes": "Chaga is a wonderful medicinal mushroom that offers many health benefits. It grows wild in all boreal regions of the world and has been used traditionally by all boreal peoples as an immune supportive beverage. It was recently discovered that maple trees with chaga growing on them are immune to maple blights, which is now stimulating the inoculation of maple trees with chaga spores to keep them healthy and blight free. Today, chaga is used to discourage the growth of tumours through its high antioxidant count and encourage overall health.",
+  "ingredientSections": [
+    {
+      "heading": "Raspberry and Thyme Mustard",
+      "items": [
+        "1 Cup Ground mustard seed",
+        "1½ Cups Raspberries",
+        "1 Tbsp Himalayan salt",
+        "2 Tbsp Honey",
+        "A few sprigs of fresh thyme",
+        "Enough apple cider or kombucha vinegar to achieve desired consistency"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Raspberry and Thyme Mustard",
+      "steps": [
+        "Place the mustard, raspberries, salt, honey and thyme in a food processor and pulse until smooth. Slowly pour the vinegar into the mix until the mustard is at a desired consistency.",
+        "Transfer the mustard to a serving bowl or a jar and store in the fridge where it will keep almost indefinitely."
+      ]
+    }
+  ]
+}

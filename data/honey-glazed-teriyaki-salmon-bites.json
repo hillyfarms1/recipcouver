@@ -1,0 +1,54 @@
+{
+  "id": "honey-glazed-teriyaki-salmon-bites",
+  "restaurant": "Hives for Humanity",
+  "heroImage": "honey-glazed-teriyaki-salmon-bites.jpg",
+  "title": "Honey Glazed Teriyaki Salmon Bites",
+  "book": "The Gastown Foodie",
+  "notes": "The sweetness of the honey and saltiness of the Teriyaki Sauce combined with the salmon make this is an incredibly simple, tasty, affordable and versatile recipe. The Salmon Bites can be a light lunch, part of a larger share platter or the recipe can be multiplied and turned into a larger meal served with a salad. They are also a great base on which to compare the markedly different flavours of the different honeys that H4H produces.",
+  "ingredientSections": [
+    {
+      "heading": "Teriyaki Sauce",
+      "items": [
+        "¼ Cup soy sauce",
+        "1 clove garlic",
+        "1 tsp ginger",
+        "1 Tbsp H4H honey",
+        "2 Tbsp mirin",
+        "Fresh ground pepper",
+        "Additional honey for drizzle"
+      ]
+    },
+    {
+      "heading": "Salmon Bites",
+      "items": [
+        "1 150g tin BC water-packed salmon",
+        "½ Cup crumbled day-old bread",
+        "1 egg",
+        "2 Tbsp chives",
+        "Fresh ground pepper",
+        "Additional chives for garnish"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Teriyaki Sauce",
+      "steps": [
+        "Mince the garlic and grate the ginger finely.",
+        "Combine all the ingredients in a measuring jug and set aside."
+      ]
+    },
+    {
+      "heading": "Salmon Bites",
+      "steps": [
+        "Lightly beat the egg in a small bowl and chop the chives finely.",
+        "Mix all the remaining ingredients together in a bowl and then add the egg and chives.",
+        "Using your hands make six small cakes.",
+        "Heat up a frying pan over a medium high heat with a small drizzle of olive oil.",
+        "Brush each cake with Teriyaki Sauce and pan fry until golden brown.",
+        "Flip the cakes and brush with Teriyaki Sauce again.",
+        "To serve, drizzle honey over each cake and top with minced chives."
+      ]
+    }
+  ]
+}

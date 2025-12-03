@@ -1,0 +1,36 @@
+{
+  "id": "chicha-morada",
+  "restaurant": "Chicha",
+  "heroImage": "chicha-morada.jpg",
+  "title": "Chicha Morada",
+  "book": "The East Van Foodie",
+  "notes": "This is a popular non-alcoholic drink in Peru, where it is valued as a refreshing health drink. It can also be fermented to become a lightly alcoholic beverage. The purple corn gives the drink a beautifully, deep purple hue. At Chicha it is infused in cocktails and it is great mixed with Pisco.",
+  "ingredientSections": [
+    {
+      "heading": "Chicha Morada",
+      "items": [
+        "6 ½ Cups Water",
+        "1 Ear Dried Purple Corn (available from specialty South American stores)",
+        "½ Small Pineapple, roughly chopped with rind on",
+        "2 Apples, unpeeled and roughly chopped",
+        "2 Cloves",
+        "2 Cinnamon sticks",
+        "1 Cup Sugar",
+        "Juice of 2 Limes",
+        "2 Limes, sliced"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Chicha Morada",
+      "steps": [
+        "Put all the ingredients except the sugar and lime in a pot.",
+        "Bring to the boil, then simmer over low heat for 30 minutes, stirring occasionally.",
+        "Remove from heat, stir in the sugar and let cool.",
+        "Add lime juice. Adjust sweetness with more sugar if desired.",
+        "To serve, pour over lots of ice. Add a couple of lime slices to each glass if desired."
+      ]
+    }
+  ]
+}

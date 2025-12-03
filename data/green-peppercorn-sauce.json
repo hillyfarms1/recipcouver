@@ -1,0 +1,41 @@
+{
+  "id": "green-peppercorn-sauce",
+  "restaurant": "The Soup Meister",
+  "heroImage": "green-peppercorn-sauce.jpg",
+  "title": "Green Peppercorn Sauce",
+  "book": "The North Shore Foodie",
+  "notes": "This is a great and simple sauce to go with steak. It's also very versatile, choose a variation that suits your cut of meat and side dishes. You can make the demi-glace at home but the Soup Meister's demi is highly sought-after, not just by home cooks but also by restaurants both on the Shore and in Vancouver.",
+  "ingredientSections": [
+    {
+      "heading": "Green Peppercorn Sauce",
+      "items": [
+        "80g Chopped shallots",
+        "10g Garlic",
+        "30g Butter",
+        "10g Dried green peppercorns",
+        "60ml White wine",
+        "30ml Brandy",
+        "300ml Demi-glace",
+        "375ml Whipping cream"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Green Peppercorn Sauce",
+      "steps": [
+        "In a small saucepan or medium fry-pan at a medium to high heat, saute the shallots, garlic and peppercorns in the butter. Don't burn the shallots as this will add a bitter taste. Add the white wine and brandy and flambé.",
+        "Stir through the demi-glace and whipping cream and then simmer for 10 minutes. Blend using a stick mixer."
+      ]
+    },
+    {
+      "heading": "Variations",
+      "steps": [
+        "2 Cups Sliced mushrooms, sauté in a separate pan and add after the sauce is blended, allow to simmer in the sauce for a few minutes.",
+        "or... 1 Cup Sour pitted cherries, add after the sauce is blended, allow to simmer in the sauce for a few minutes.",
+        "or... 2 Tbsp Dijon, added with the demi-glace and whipping cream.",
+        "or... 1 Cup Port wine, added with the demi-glace and reduce a bit and then add the whipping cream."
+      ]
+    }
+  ]
+}

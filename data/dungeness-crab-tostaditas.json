@@ -1,0 +1,58 @@
+{
+  "id": "dungeness-crab-tostaditas",
+  "restaurant": "Tacomio",
+  "heroImage": "dungeness-crab-tostaditas.jpg",
+  "title": "Dungeness Crab Tostaditas",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Crab Tostaditas",
+      "items": [
+        "1 Dungeness crab, a 900g crab will yield roughly 150g of cooked meat. If desired, swap the crab for a similar quantity of shrimp, halibut, salmon or black cod",
+        "¼ Cup red onion, diced",
+        "½ Cup tomato, diced",
+        "1/3 Cup cilantro",
+        "1 avocado",
+        "1 jalapeno",
+        "Juice of 2 limes",
+        "½ tsp salt",
+        "1/3 Cup ketchup",
+        "Tostaditas, which are small crispy tortillas, cornchips are good too"
+      ]
+    },
+    {
+      "heading": "Salad",
+      "items": [
+        "½ jicama",
+        "1/3 cucumber",
+        "½ chayote",
+        "4 mint leaves",
+        "½ Cup English peas",
+        "Juice of 1 lime",
+        "¼ tsp salt",
+        "1 Tbsp olive oil"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Crab Tostaditas",
+      "steps": [
+        "Cook the whole crab in boiling water for 15 minutes. If it is much larger it will need 20 minutes.",
+        "Break down and clean the crab and separate the meat into a bowl. Alternatively, prepare one of the substitutes simply by pan frying in a drizzle of olive oil and then chopping finely.",
+        "Finely dice the onion, tomato, cilantro, avocado and jalapeno, and mix together with the crab. Add the ketchup, salt and the juice of one of the limes. Mix thoroughly, season to taste and add more lime juice if necessary.",
+        "Serve on top of tostaditas."
+      ]
+    },
+    {
+      "heading": "Salad",
+      "steps": [
+        "Peel the jicama and peel and remove the seed from the chayote. Slice both finely into matchstick-sized pieces and add to a bowl.",
+        "Finely dice the cucumber, chop the mint and add to the bowl.",
+        "Add the peas, olive oil, juice of the lime and salt. Mix well and check and adjust the seasoning if necessary.",
+        "Serve on the side of the crab tostaditas."
+      ]
+    }
+  ]
+}

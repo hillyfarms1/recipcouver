@@ -1,0 +1,35 @@
+{
+  "id": "vegetable-stuffed-roast-beef",
+  "restaurant": "Ethical Kitchen",
+  "heroImage": "vegetable-stuffed-roast-beef.jpg",
+  "title": "Vegetable Stuffed Roast Beef",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Vegetable Stuffed Roast Beef",
+      "items": [
+        "Approximately 1.5kg Grass-fed Beef shoulder or round roast",
+        "500g Carrots, approximately",
+        "300g Bell peppers, approximately",
+        "Fresh thyme",
+        "Salt and pepper",
+        "Olive oil"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Vegetable Stuffed Roast Beef",
+      "steps": [
+        "Start by preparing the vegetables. Peel and trim the carrots and slice the peppers into thin strips. Season with a little olive oil, salt, pepper and fresh thyme. Set aside.",
+        "Using a sharp knife, cut into the beef along its side and carefully make a continuous cut leaving the meat to 'unroll' with a thickness of about 2-3cm (¾-1in). Take your time, making small cuts until you are confident. You could also ask your butcher if they could do it. You will be left with one large rectangle.",
+        "Rub the roast with a little olive oil, salt and pepper and position it in the centre of a large piece of parchment paper (tinfoil will work but is not optimal).",
+        "Place the vegetables lengthwise in its centre and fold the ends of the meat-rectangle over. Roll tightly so there is a center with vegetables and the meat covers the outside.",
+        "Wrap this tightly on all sides in the parchment and tie with twine to hold it together while baking. You may need an extra set of hands.",
+        "Put the package in a roasting pan with a little water and bake at 180°C (350°F) for about an hour. You can test the vegetables in the centre for tenderness by inserting a skewer into the package. Once they are tender, remove the roast from the oven and leave to rest for a few minutes before carefully unwrapping.",
+        "Carve no thinner than 2-3cm (1in) slices. Serve with mashed potatoes, salad and a little of the raspberry mustard (see previous page)."
+      ]
+    }
+  ]
+}

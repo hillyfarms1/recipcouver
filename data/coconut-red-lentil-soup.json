@@ -1,0 +1,58 @@
+{
+  "id": "coconut-red-lentil-soup",
+  "restaurant": "Café By Tao",
+  "heroImage": "cafeTao1.jpg",
+  "title": "Coconut Red Lentil Soup",
+  "book": "The Plant-based Foodie",
+  "notes": "Lentils. This is definitely a meal in a bowl. Each spoonful is filled with loads of nutrients. Plus, lentils have the second-highest antioxidant content (behind black beans) among all legumes. Did you know Canada is by far the world’s leading producer of lentils? Almost 3.5 million tons were produced in 2017 compared to second placed India at a little over 1 million tons. This adds up to roughly half of global production; in comparison, Canada produces 1.8 per cent of the world’s beef. There you have it, lentils, as Canadian as maple syrup!",
+  "ingredientSections": [
+    {
+      "heading": "Tao’s Chili",
+      "items": [
+        "280g (roughly 2) fresh tomatoes",
+        "40g currants",
+        "16g lemon juice",
+        "100g sundried tomatoes",
+        "2g (1 tsp) chili powder",
+        "2g (1 Tbsp) oregano",
+        "4g (1½ tsp) cumin",
+        "Pinch black pepper"
+      ]
+    },
+    {
+      "heading": "Lentil Soup",
+      "items": [
+        "140g (1 Cup) dried red lentils",
+        "168g (1 Cup) dried yellow split peas",
+        "64g (1 small) carrot",
+        "12g shredded coconut",
+        "104g Tao’s Chilli (see above)",
+        "13g (1 Tbsp) curry powder",
+        "6g ginger",
+        "¼ tsp salt",
+        "40g currants"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Tao’s Chili",
+      "steps": [
+        "Place a mixing bowl on a scale and tare it to zero. Quarter the tomatoes and add to the bowl until it reads 280g. Add the currants until the weight reads 320g and add the lemon juice until it reads 336g. Add these ingredients to a food processor and process until mostly smooth.",
+        "Weigh the remaining ingredients into the mixing bowl and then add to the ingredients in the food processor and process until well mixed."
+      ]
+    },
+    {
+      "heading": "Lentil Soup",
+      "steps": [
+        "Soak the lentils and split peas in water for 2 hours and then drain and rinse well.",
+        "Bring 1¼L of water to a boil and then add the lentils and split peas.",
+        "Bring back to a boil and then reduce to a low simmer and cook for 55 minutes or until they are soft. Watch the lentils closely as they will boil over quickly.",
+        "Dice the carrot finely and add to the lentils and split peas when they have around 20 minutes cooking to go.",
+        "Place the blender container on a scale and tare it to zero. Add water until the scale reads 280g, add the shredded coconut to bring the weight to 292g, the Tao’s Chilli will bring the weight to 396g, the curry powder to 409g, then add the peeled and finely grated ginger to the blender until the scale reads 415g.",
+        "Blend until very smooth (and until the coconut is completely puréed) and then add this mixture to the lentils and split peas when they are cooked.",
+        "Heat back up to a serving temperature and stir through the currants before serving."
+      ]
+    }
+  ]
+}

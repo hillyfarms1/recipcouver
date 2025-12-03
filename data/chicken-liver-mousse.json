@@ -1,0 +1,35 @@
+{
+  "id": "chicken-liver-mousse",
+  "restaurant": "Jules Bistro",
+  "heroImage": "chicken-liver-mousse.jpg",
+  "title": "Chicken Liver Mousse",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Chicken Liver Mousse",
+      "items": [
+        "225g chicken liver",
+        "1 tsp garlic, chopped",
+        "180g butter",
+        "60ml port",
+        "30ml cream",
+        "Salt & pepper",
+        "4 tsp duck fat, melted"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Chicken Liver Mousse",
+      "steps": [
+        "In a frying pan melt 60g of the butter with the garlic and some good pinches of salt and pepper.",
+        "Add chicken livers and cook for roughly 3 minutes then add the port and cream and simmer for another 2 minutes.",
+        "Transfer this mixture into a blender and while blending gradually add the remaining cold butter.",
+        "When the texture is perfectly smooth, pour it into 4 ramekins and then place them in the fridge for at least an hour.",
+        "Remove from the fridge, pour melted duck fat on the top of the mousse so it completely covers the surface and then refrigerate overnight.",
+        "Serve cold with warm toast and pickled vegetables."
+      ]
+    }
+  ]
+}

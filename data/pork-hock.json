@@ -1,0 +1,76 @@
+{
+  "id": "pork-hock",
+  "restaurant": "Black Forest Meats",
+  "heroImage": "pork-hock.jpg",
+  "title": "Pork Hock, Knödel & Sauerkraut",
+  "book": "The North Shore Foodie",
+  "notes": "Sous Vide at Home. The key to Sous Vide cooking is maintaining a consistent and accurate water temperature. You can buy home Sous Vide Machines, but it is easy with some basic equipment and trial and error. One way is to 3/4 fill a large pot with water. Find a way of submerging a thermometer into the water so you can read the temperature. Place on the stove and take time to play around with the heat setting until you find the temperature of the water holds at your desired heat. Place the meat into a zip-lock plastic bag and lower into the water leaving a gap in the zip-lock to let the water pressure push the air out. Attach the top of the bag to the rim of the pot so water doesn't get in with the meat. Cook until desired internal temperature of the meat is reached.",
+  "ingredientSections": [
+    {
+      "heading": "Sauerkraut",
+      "items": [
+        "1 Organic green cabbage",
+        "2 Garlic cloves",
+        "¼ Cup Sea salt",
+        "1½L Filtered water",
+        "2 tsp Whole cumin seeds",
+        "2 tsp Whole celery seeds",
+        "1 tsp Ground black pepper"
+      ]
+    },
+    {
+      "heading": "Knödel (Bread Dumplings)",
+      "items": [
+        "6 Kaiser Buns (2 days old)",
+        "3 Eggs",
+        "300ml Milk",
+        "40g Diced parsley",
+        "1 Pinch Salt",
+        "1 Pinch Pepper",
+        "1 Pinch Nutmeg",
+        "Bread crumbs as needed"
+      ]
+    },
+    {
+      "heading": "Pork Hock",
+      "items": [
+        "4pc Pork hock",
+        "1L Water",
+        "18g Salt",
+        "8g Sugar",
+        "½ Garlic clove",
+        "1 Manual food injector",
+        "1 Internal thermometer"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Sauerkraut",
+      "steps": [
+        "In a large pot, dissolve the salt in the water over heat with the peeled garlic, black pepper, cumin and celery seeds. When fully dissolved, remove from heat and let cool to room temperature.",
+        "Remove the outer leaves of the cabbage and discard. Remove two more leaves whole and set aside. Shred the remaining cabbage finely.",
+        "Sterilize in a dishwasher two 1 Litre glass jars (we used jars that a well-known brand of peanut butter came in, quart jars are good too). Press as much of the cabbage into each jar as possible, packing tightly and leave about 3cm of head room.",
+        "Remove the garlic from the cooled brine and place one clove in each jar. Pour the brine into each jar until it completely covers the cabbage. Trim the set aside whole leaves to a size slightly larger than the jars' diameter and cap the top of the chopped cabbage by pushing it into the jar. Remove any loose cabbage that floats above the cap. Ensure all of the cap is fully submerged and no cabbage is breaking the surface of the brine or floating. This will minimize the risk of mold forming.",
+        "Fasten a coffee filter around the top of the jar with a rubber-band and leave to ferment at room temperature (no warmer than 23°C) for roughly a week. Once every day or two, remove the coffee filter and check that no cabbage has floated to the surface and remove any scum that may form. You may need to place a heavy object on top of the cap to help keep it submerged.",
+        "After a week, or longer for more flavour, store in the fridge."
+      ]
+    },
+    {
+      "heading": "Knödel (Bread Dumplings)",
+      "steps": [
+        "Bring milk to boil and remove from heat. In a bowl, mix the sliced buns, eggs, parsley and spices. Pour the warm milk over the ingredients and mix until a dough forms. If the dough is too soft, add bread crumbs to thicken the consistency. Mold into 6-8 dumplings.",
+        "Bring water to boil and add salt. Reduce heat and let it simmer. Add the dumplings and let them cook for 30-45 minutes depending on their size."
+      ]
+    },
+    {
+      "heading": "Pork Hock",
+      "steps": [
+        "Dissolve the salt and sugar in the water and add the very finely diced garlic. Inject the brine into the centre of each hock at 1cm gaps especially along the bone. Inject approximately 10% of the weight of each hock in brine into each hock.",
+        "Submerge the pork hocks in the remaining brine and leave to soak in the refrigerator for 24 hours.",
+        "Sous Vide the injected and soaked pork hocks in 90°C (195°F) water to an internal temperature of 82°C (180°F). At this stage they can be refrigerated until needed.",
+        "If you have refrigerated the Sous Vide hocks they will need to roast for approximately 1 hour 45 minutes at 135°C (275°F) to an internal temperature of 70°C (160°F). If you are roasting directly after doing the sous vide, roast at 135°C (275°F) for roughly 45 minutes or until golden brown and crispy."
+      ]
+    }
+  ]
+}

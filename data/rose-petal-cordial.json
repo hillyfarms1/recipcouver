@@ -1,0 +1,35 @@
+{
+  "id": "rose-petal-cordial",
+  "restaurant": "Ethical Kitchen",
+  "heroImage": "rose-petal-cordial.jpg",
+  "title": "Rose Petal Cordial & Rose Petal Tea Cakes",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Rose Petal Cordial",
+      "items": [
+        "Petals from 5 large fragrant organic roses",
+        "4 Organic lemons",
+        "2½ Cups Water",
+        "2 Cups Sugar"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Rose Petal Cordial",
+      "steps": [
+        "Slice the lemons. With your hands mix all the ingedients together in a bowl, making sure to squeeze the juice from the lemons as you go. Cover and leave overnight at room temperature.",
+        "The next day, strain the lemonade concentrate into a jar and store in the fridge where it will keep for several months.",
+        "Reserve the well-drained solids to make the rose petal tea cakes (below)."
+      ]
+    },
+    {
+      "heading": "Serve",
+      "steps": [
+        "Add 2-3 Tbsps of the cordial to a glass of water and ice."
+      ]
+    }
+  ]
+}

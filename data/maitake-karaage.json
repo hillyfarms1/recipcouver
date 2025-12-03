@@ -1,0 +1,73 @@
+{
+  "id": "maitake-karaage",
+  "restaurant": "Heirloom",
+  "heroImage": "heirloom2.jpg",
+  "title": "Maitake Karaage",
+  "book": "The Plant-based Foodie",
+  "notes": "Tamarind. The Tamarind tree has a pod-like fruit and is native to Northern Africa but grown all around the tropical belt. The pulp of the ripe fruit has a sweet and sour taste and is used around the world in both sweet and savory dishes and in juices, jams and sauces. It is usually sold as a solid compressed block and with or without seeds. If using tamarind with seeds, you need to remove them and their fibrous web from the pulp as described in the Cauliflower “Steak” recipe. If using seedless pulp, use slightly less but still follow the recipe because seeds can still often be found.",
+  "ingredientSections": [
+    {
+      "heading": "Mushroom Marinade",
+      "items": [
+        "5 large maitake mushrooms",
+        "1kg silken tofu",
+        "500g soy milk",
+        "100g lemon juice",
+        "25g salt",
+        "1½g vegan cultures*",
+        "Potato starch as needed, or substitute corn starch",
+        "Oil for frying"
+      ]
+    },
+    {
+      "heading": "Hoisin Aioli",
+      "items": [
+        "30g shallots",
+        "8g garlic",
+        "5g ginger",
+        "5ml sesame oil",
+        "100ml hoisin sauce",
+        "10ml tamari",
+        "2g salt",
+        "250ml vegan mayonnaise"
+      ]
+    },
+    {
+      "heading": "To Serve",
+      "items": [
+        "2 red chilies",
+        "1 bunch spring onions",
+        "Sesame seeds",
+        "1 lime"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Mushroom Marinade",
+      "steps": [
+        "Blend all the ingredients, except the mushrooms, until smooth. Allow to stand, covered with cheesecloth, at room temperature for 24 hours until cultured.",
+        "Tear or cut the maitake mushrooms into bite-sized pieces and gently coat with marinade. Allow mushrooms to marinate for a minimum of 1 hour, but 24 hours is best.",
+        "Toss the marinated mushrooms with potato starch until each piece is well coated and dry.",
+        "Heat a high smoke point oil, like grapeseed oil, roughly ½cm (¼in) deep in a heavy frying pan. Shallow fry the coated maitake in batches until lightly golden brown and crispy. Drain using paper towel."
+      ]
+    },
+    {
+      "heading": "Hoisin Aioli",
+      "steps": [
+        "Mince the shallots, ginger and garlic and then, in a small frying pan with the sesame oil, sautée until softened and fragrant.",
+        "Add the remaining ingredients, except the mayonnaise, and simmer on low for 15 minutes, stirring occasionally.",
+        "Transfer to a blender and blend until smooth. Allow to cool fully in an ice bath or in the fridge.",
+        "Once chilled, combine with the mayonnaise."
+      ]
+    },
+    {
+      "heading": "To Serve",
+      "steps": [
+        "Deseed the chilies and slice finely along with the spring onions.",
+        "Arrange the fried mushrooms on serving plates and drizzle with the aioli.",
+        "Sprinkle the chilies, spring onions and sesame seeds before serving with a wedge of lime."
+      ]
+    }
+  ]
+}

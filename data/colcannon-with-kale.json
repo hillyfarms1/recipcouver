@@ -1,0 +1,41 @@
+{
+  "id": "colcannon-with-kale",
+  "restaurant": "Tuc Craft Kitchen",
+  "heroImage": "colcannon-with-kale.jpg",
+  "title": "Colcannon with Kale",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Colcannon with Kale",
+      "items": [
+        "450g BC nugget potatoes",
+        "1 clove garlic, minced",
+        "15g green onions, minced",
+        "1 shallot, minced",
+        "½ bunch kale, rinsed & cut into strips",
+        "60ml whipping cream",
+        "120ml 2% milk",
+        "60ml buttermilk",
+        "½ tsp nutmeg",
+        "60g butter",
+        "Salt and pepper to taste",
+        "Olive oil",
+        "2-3 slices crispy bacon (optional)"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Colcannon with Kale",
+      "steps": [
+        "Boil the potatoes in seasoned water until they are tender and then rice them. If you don't have a ricer, push them through a fine mesh sieve or colander with the back of a large spoon.",
+        "To a pan add a good splash of olive oil, the minced garlic, green onions and shallots and cook on medium low heat until translucent.",
+        "Increase the temperature to high, add the kale and cook while stirring until it is vibrant and soft.",
+        "Heat the whipping cream, milk, buttermilk, nutmeg and butter together. Once hot, stir the cream mixture through the riced potato using a large spoon or spatula. When the liquid is incorporated, add and stir through the cooked kale. Season to taste.",
+        "Serve with a knob of butter on top and a pinch of fresh cracked black pepper.",
+        "You can optionally add chopped-up crispy strips of bacon."
+      ]
+    }
+  ]
+}

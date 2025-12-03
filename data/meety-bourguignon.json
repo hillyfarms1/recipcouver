@@ -1,0 +1,78 @@
+{
+  "id": "meety-bourguignon",
+  "restaurant": "Meet On Main",
+  "heroImage": "meet.jpg",
+  "title": "Meety Bourguignon",
+  "book": "The Plant-based Foodie",
+  "notes": "Seitan. Seitan is a meat replacement that loosely translated from Japanese means “made of proteins”. It’s also called wheat protein, wheat meat or wheat gluten. It is processed from wheat flour and has a meat-like texture and neutral flavour but absorbs other flavours well. Store-bought versions can be high in sodium and, obviously, if you have any issues digesting gluten you should stay away from it. While it is a good source of protein, it lacks many amino acids and other essential nutrients and is not concidered a complete protein, therefore it needs to be considered as only one part of a balanced diet. It is, however, low in calories, a soy-free meat replacement and very versatile.",
+  "ingredientSections": [
+    {
+      "heading": "Stew Base",
+      "items": [
+        "1 Tbsp grapeseed oil",
+        "1 large onion",
+        "2 Tbsp minced garlic",
+        "3 medium carrots",
+        "1 Cup red wine",
+        "1 tsp dried rosemary",
+        "1 tsp dried thyme",
+        "1 tsp paprika",
+        "1 tsp ground pepper",
+        "1 tsp sea salt",
+        "30g dried porcini mushrooms",
+        "3 Tbsp vegetable bouillon",
+        "700g potatoes",
+        "2 Tbsp cornstarch",
+        "2 Tbsp tomato paste",
+        "¼ Cup chopped parsley"
+      ]
+    },
+    {
+      "heading": "Protein Options",
+      "items": [
+        "Soy Curls (T.V.P.)",
+        "2 Cups soy curls",
+        "1 tsp onion powder",
+        "1 tsp garlic powder",
+        "1 tsp smoked paprika",
+        "1 Tbsp grapeseed oil",
+        "Vegan Sausages",
+        "3 Italian vegan sausage links",
+        "Store-Bought Seitan",
+        "2 Cups store bought seitan",
+        "Homemade Seitan",
+        "1 Cup vital wheat gluten",
+        "¾ Cup water or vegetable broth",
+        "2 Tbsp soy sauce or tamari",
+        "1 tsp ginger powder",
+        "1 tsp garlic powder",
+        "6 cups vegetable broth for cooking",
+        "Optional: extra soy sauce or tamari, onion, fresh ginger"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Stew Base",
+      "steps": [
+        "Slice the onion then sautée with the garlic together in a large pot until soft.",
+        "Chop the carrots into 1cm (½in) disks and add to the pot along with the wine, rosemary, thyme, paprika, tomato paste, salt and pepper. Bring to a boil and let the wine reduce by half.",
+        "Dissolve the bouillon in 3 cups of hot water to form a broth. Add the porcinis and broth to the pot and bring back to a boil for 5 minutes.",
+        "Cut the potatoes into a large dice and add to the pot. Lower the heat and simmer for about 15 minutes until potatoes are tender.",
+        "In a small bowl stir together the rice flour and half a cup water until smooth. Temper mixture by adding spoonfuls of hot broth until similar in temperature. Then slowly pour into pot mixing well. Let the stew thicken for around 5 minutes and then add your protein of choice from the options below."
+      ]
+    },
+    {
+      "heading": "Protein Options",
+      "steps": [
+        "For Soy Curls (T.V.P.): Rehydrate in warm water as directed until tender. Squeeze out any excess water.",
+        "In a separate bowl create a seasoning mix by combining the onion and garlic powder and paprika. Season to taste.",
+        "Toss soy curls in the seasoning and then sautée in a frying pan with the oil until curls start to crust. Add to the stew and stir.",
+        "For Vegan Sausages: Cut into 2cm (1in) discs and add to stew. You could also brown the sausages in a frying pan before adding to the stew.",
+        "For Store-Bought Seitan: Slice before searing in a hot pan with a little oil. When the stew is ready to serve, add the seitan. If the seitan is cooked further in the stew it could turn rubbery.",
+        "For Homemade Seitan: Combine the gluten, dry spices, soy sauce and broth into a dough. Knead several times, allow to sit for 5-10 minutes and then knead a few more times.",
+        "Divide the dough into thirds and shape as desired. Bring the broth and optional additional flavourings to a slow simmer and boil the seitan for an hour. Follow the store-bought seitan instructions, above, before adding to the stew."
+      ]
+    }
+  ]
+}

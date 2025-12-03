@@ -1,0 +1,47 @@
+{
+  "id": "vacio-chimichurri",
+  "restaurant": "Sebastian & Co",
+  "heroImage": "vacio-chimichurri.jpg",
+  "title": "Slow-Grilled Vacio & Chimichurri",
+  "book": "The North Shore Foodie",
+  "notes": "The Vacio steak, the star of traditional \"Asado Argentino\" (Argentinean barbecue), is Sebastian's all-time favourite. This cut of meat was discovered by Sebastian on a trip to see family in Chile, and then introduced to the local Toronto scene in 2005 where he worked as Head Butcher for a busy Queen Street butcher shop. It quickly caught on and has since popped up in butcher shops across the country and on restaurant menus around Vancouver, Calgary and Toronto. The best way to describe Vacio is a cross between flank and skirt steak, with little ribbons of fat running through it for great flavour. However, Sebastian's favourite thing about Vacio is the texture – which is quite unique and interesting. The Vacio is a steak best cooked very slowly over charcoal (gas will do, in a pinch), served rare or medium rare, and sliced on the bias. A full-size cut of Vacio is usually around 1.2kg (2.5lbs) so it is a great steak to use when entertaining.",
+  "ingredientSections": [
+    {
+      "heading": "Vacio",
+      "items": [
+        "One cut of Vacio will serve roughly 6 to 8 people"
+      ]
+    },
+    {
+      "heading": "Chimichurri",
+      "items": [
+        "1½ Bunches Cilantro",
+        "1 Bunch Parsley",
+        "½ Bunch Fresh oregano",
+        "½ of a Small Shallot",
+        "¼ of a Tomato",
+        "½ of a Garlic clove",
+        "The juice of a large Lemon",
+        "1 tsp Sambal chili paste",
+        "1 tsp Kosher salt",
+        "½ tsp Freshly ground black pepper",
+        "200ml Vegetable oil"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Vacio",
+      "steps": [
+        "Cook the Vacio very slowly over charcoal (or gas), served rare or medium rare, and sliced on the bias."
+      ]
+    },
+    {
+      "heading": "Chimichurri",
+      "steps": [
+        "Chimichurri is a delicious condiment made of finely chopped fresh herbs, traditionally served as an accompaniment to grilled meat. It is the South American answer to BBQ or steak sauce, but is much more versatile since it tastes great served alongside roasted vegetables, potatoes, rice and more.",
+        "Rinse and hand chop very finely the cilantro, parsley, oregano, shallot and tomato. Mince the garlic and add the lemon juice, salt, pepper and sambal. Mix together and serve."
+      ]
+    }
+  ]
+}

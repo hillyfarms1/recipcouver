@@ -1,0 +1,34 @@
+{
+  "id": "cordon-bleu-schnitzel",
+  "restaurant": "Jägerhof Restaurant",
+  "heroImage": "cordon-bleu-schnitzel.jpg",
+  "title": "Cordon Bleu Schnitzel",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Schnitzel",
+      "items": [
+        "4 100-150g Pork loins (you can also use chicken breast or veal)",
+        "1 Cup Flour (approx)",
+        "1 or 2 Eggs for egg wash",
+        "1 Cup Bread crumbs (approx)",
+        "250g Edam cheese, sliced",
+        "250g Ham (Black Forest or Smoked), sliced",
+        "Vegetable oil",
+        "Salt and pepper to taste"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Schnitzel",
+      "steps": [
+        "Arrange each piece of meat between two layers of pounding foil/plastic and pound flat with a cooking mallet or rolling pin. Making sure to push the edges outwards to flatten thoroughly. Lightly season with salt and pepper.",
+        "Slice the ham and Edam into small equal slices and place 3 or 4 in the centre of each of the flattened pieces of meat. Fold over and squeeze the edges together to make a tight little package.",
+        "Place the flour in one shallow dish or plate and the bread crumbs in another. Lightly whisk the egg in a bowl. Coat each piece of folded meat first in the flour, then the egg wash and lastly the bread crumbs, ensuring the entire piece of meat is covered. Deep or shallow fry each schnitzel in the vegetable oil until golden brown.",
+        "Serve with your choice of Spätzle, fried potatoes, red cabbage, green salad or, as they often do in Germany, crispy French fries."
+      ]
+    }
+  ]
+}

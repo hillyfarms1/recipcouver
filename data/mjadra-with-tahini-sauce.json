@@ -1,0 +1,55 @@
+{
+  "id": "mjadra-with-tahini-sauce",
+  "restaurant": "Nuba",
+  "heroImage": "mjadra-with-tahini-sauce.jpg",
+  "title": "Mjadra with Tahini Sauce",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Tahini Sauce",
+      "items": [
+        "1/3 Cup tahini paste",
+        "2 Tbsp lemon juice",
+        "1 clove garlic",
+        "¼ Cup water"
+      ]
+    },
+    {
+      "heading": "Mjadra",
+      "items": [
+        "2 Cups dried organic lentils",
+        "3 onions, medium",
+        "½ jalapeno, de-seeded",
+        "½ Cup brown rice",
+        "1 tsp salt",
+        "½ tsp pepper",
+        "5 Cups water",
+        "Olive oil",
+        "Lettuce, avocado and pita bread as garnishes"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Tahini Sauce",
+      "steps": [
+        "Blend the tahini paste, lemon juice and garlic together in a blender. The thickness of tahini paste can vary so add a small amount of water if needed to get the desired consistency. The sauce should be thin enough to drip slowly from a spoon."
+      ]
+    },
+    {
+      "heading": "Mjadra",
+      "steps": [
+        "Finely slice 2 of the onions and de-seed and finely slice the jalapeno.",
+        "In a large saucepan with a good splash of olive oil, sweat the jalapeno and half of the onion over medium heat for 5-6 minutes or until the onion is soft. If the onions start to brown, reduce the heat a little.",
+        "Add the rice, salt and pepper to the onions and cook for 5 minutes.",
+        "Add the water and bring the mixture to a boil for 15 minutes.",
+        "Add the lentils and simmer, covered, over medium heat for 45 minutes, stirring often, or until the lentils are soft and the water has reduced. Add more water as needed if lentils become too dry.",
+        "In a frying pan, fry the remaining onion in a small splash of oil until they are dark brown and crispy. Stir often to avoid burning.",
+        "Serve Mjadra in a bowl with a little lettuce and avocado.",
+        "Top with Tahini Sauce and crispy fried onions, and pita bread on the side.",
+        "Pro tip... serve leftovers the next morning with a poached egg on top."
+      ]
+    }
+  ]
+}

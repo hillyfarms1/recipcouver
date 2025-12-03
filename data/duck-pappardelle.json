@@ -1,0 +1,83 @@
+{
+  "id": "duck-pappardelle",
+  "restaurant": "Wildebeest",
+  "heroImage": "duck-pappardelle.jpg",
+  "title": "Duck Pappardelle",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Braised Duck Leg",
+      "items": [
+        "500ml water",
+        "¼ Cup white wine",
+        "1 tsp fennel seed",
+        "Zest of 1 orange",
+        "1 tsp black pepper",
+        "1 tsp white pepper",
+        "1 tsp juniper",
+        "1 tsp salt",
+        "2 duck legs"
+      ]
+    },
+    {
+      "heading": "Pappardelle Pasta Dough",
+      "items": [
+        "1½ Cups 00 Flour",
+        "3 egg yolks",
+        "4 Tbsp water",
+        "1 pinch salt",
+        "1 tsp olive oil",
+        "Semolina flour"
+      ]
+    },
+    {
+      "heading": "Duck Pappardelle",
+      "items": [
+        "Braised duck legs and reduced braising liquid*",
+        "2 Tbsp butter",
+        "1 tsp cabernet sauvignon vinegar",
+        "2 Tbsp sage",
+        "Pappardelle pasta*",
+        "4 Tbsp toasted pumpkin seeds",
+        "Grana Padano cheese",
+        "Salt to taste and for pasta water"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Braised Duck Leg",
+      "steps": [
+        "Preheat oven to 150°C (300°F).",
+        "In a saucepan, bring the water to a boil with all ingredients, except for the duck, creating a braising liquid.",
+        "Place the duck legs in a small oven dish and cover with the braising liquid.",
+        "Cover the oven dish with a lid or tin foil.",
+        "Place in the oven until the meat falls off the bone, approximately 3 hours.",
+        "Remove from the oven and cool. Remove the duck from the braising liquid and pick the meat off the bones.",
+        "Strain the braising liquid and, in a pan, reduce by ¾.",
+        "Mix the reduced braising liquid with the picked duck meat and adjust the seasoning."
+      ]
+    },
+    {
+      "heading": "Pappardelle Pasta Dough",
+      "steps": [
+        "Combine all the ingredients, except the semolina flour, in a stand mixer with a dough hook attachment and mix until the dough is smooth.",
+        "Let the dough rest for about 1 hour.",
+        "Using a pasta roller, roll the dough out to desired thickness and cut into pappardelle noodles, which are about 2-3cm (1in) thick.",
+        "Use the semolina flour to prevent the pasta from sticking to the roller and to itself."
+      ]
+    },
+    {
+      "heading": "Duck Pappardelle",
+      "steps": [
+        "Bring a large pot of well-salted water to a boil for cooking the pasta.",
+        "In a sauté pan, add the braised duck legs and reduced braising liquid, butter, vinegar and sage.",
+        "Cook until the duck is hot and the sauce has formed enough to coat the pasta.",
+        "Cook the pasta in the water for about 3 minutes.",
+        "Drain the pasta and toss in the duck braise and pumpkin seeds.",
+        "Serve in bowls and top the dish with grated Grana Padano cheese."
+      ]
+    }
+  ]
+}

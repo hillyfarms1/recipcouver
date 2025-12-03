@@ -1,0 +1,31 @@
+{
+  "id": "beekeepers-platter",
+  "restaurant": "Hives for Humanity",
+  "heroImage": "beekeepers-platter.jpg",
+  "title": "Beekeepers Platter",
+  "book": "The Gastown Foodie",
+  "notes": "Historically, as a very general rule, a Ploughman's Platter consists of bread, cheese and pickles. However, the beauty of this type of platter is the ability to mix and match widely different flavours and textures based on availability and personal preference. The highlight of this Beekeepers Platter is the combination of Macedonian feta and really good honey. Macedonian feta is generally less salty and creamier than other types of feta and this complements the honey perfectly. Add a tiny hint of heat from the Aleppo pepper and you will be back for more! Honeycomb is visually stunning on a platter, too. The honey within the hexagonal beeswax could not be more pure, and the wax itself is interesting texturally and is nutritionally rich with antioxidants and healthy fats. Mix and match your own favourite flavours or textures, but starting with these ingredients will be a hit at any dinner party.",
+  "ingredientSections": [
+    {
+      "heading": "Beekeepers Platter",
+      "items": [
+        "Macedonian feta cheese",
+        "H4H honey",
+        "Aleppo pepper flakes",
+        "Your favorite artisan crackers",
+        "Sliced fresh honeycomb",
+        "Dried figs",
+        "Whole shelled walnuts",
+        "Melted chocolate"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Beekeepers Platter",
+      "steps": [
+        "Arrange all ingredients on a platter and serve."
+      ]
+    }
+  ]
+}

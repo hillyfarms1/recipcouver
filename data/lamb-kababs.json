@@ -1,0 +1,72 @@
+{
+  "id": "lamb-kababs",
+  "restaurant": "Finch & Barley",
+  "heroImage": "lamb-kababs.jpg",
+  "title": "Lamb Kababs, Shirazi Salad & Herb Aioli",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Lamb Kabab",
+      "items": [
+        "8 6in Skewers",
+        "500g Ground lamb",
+        "½ Cup Parsley (picked from the stem)",
+        "3 Cloves chopped garlic",
+        "1 Tbsp Crushed red pepper or chilli flakes (optional)",
+        "1 Tbsp Turmeric",
+        "1 Egg",
+        "Salt and pepper to taste"
+      ]
+    },
+    {
+      "heading": "Shirazi Salad",
+      "items": [
+        "4 Roma tomatoes",
+        "2 Cucumbers",
+        "½ Medium red onion",
+        "¼ Cup Parsley (picked from the stem)",
+        "2 Tbsp Lemon juice",
+        "3 Tbsp White vinegar",
+        "Salt and pepper to taste"
+      ]
+    },
+    {
+      "heading": "Lemon Herb Aioli",
+      "items": [
+        "1 Lemon",
+        "3 Tbsp Chopped parsley",
+        "3 Tbsp Chopped mint",
+        "1 or 2 Cloves Garlic",
+        "2 Cups Mayonnaise",
+        "Salt and pepper to taste"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Lamb Kabab",
+      "steps": [
+        "If using bamboo or wooden skewers, soak in water for 20 minutes prior to skewering.",
+        "Place all ingredients in a food processor and blend to a smooth paste. Cover the mixture in a bowl and let chill in fridge for 30 minutes.",
+        "Measure the chilled mixture into roughly 70g portions and form onto one end of each of the skewers.",
+        "Grill the skewers rotating every 2-3 minutes until desired doneness is reached. Using a probing thermometer medium is 70°C (160°F), medium-well is 75°C (165°F) and well-done is 80°C (175°F).",
+        "Serve with Shirazi Salad and Lemon Herb Aioli and your favourite flat bread."
+      ]
+    },
+    {
+      "heading": "Shirazi Salad",
+      "steps": [
+        "Remove the seeds from both the roma tomatoes and cucumbers and finely dice along with the red onion and place in a bowl.",
+        "Finely chop the parsley and combine into mixture.",
+        "Add vinegar, lemon juice, salt and pepper to the salad. Mix well and serve."
+      ]
+    },
+    {
+      "heading": "Lemon Herb Aioli",
+      "steps": [
+        "Juice and zest the lemon. Mince the garlic. Whisk all the ingredients together in a bowl until everything is well combined."
+      ]
+    }
+  ]
+}

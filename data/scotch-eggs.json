@@ -1,0 +1,88 @@
+{
+  "id": "scotch-eggs",
+  "restaurant": "Fets Whisky Kitchen",
+  "heroImage": "scotch-eggs.jpg",
+  "title": "Scotch Eggs",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Scotch Eggs",
+      "items": [
+        "8 Large Free Range Eggs"
+      ]
+    },
+    {
+      "heading": "Meat",
+      "items": [
+        "240g Pork, ground",
+        "4 tsp Green Onion, finely diced",
+        "3 tsp Parsley, fine diced",
+        "½ tsp Salt",
+        "½ tsp Black Pepper, ground",
+        "½ tsp Smoked Paprika",
+        "½ tsp Onion Powder",
+        "⅔ tsp Garlic Powder"
+      ]
+    },
+    {
+      "heading": "Crumb",
+      "items": [
+        "1 Cup Panko or Breadcrumbs",
+        "½ Cup Flour, seasoned",
+        "1 Egg, stirred until smooth for egg wash"
+      ]
+    },
+    {
+      "heading": "Mustard Sauce",
+      "items": [
+        "½ Cup Wholegrain Mustard",
+        "½ Cup Hot Dijon"
+      ]
+    },
+    {
+      "heading": "Herb Mayonnaise Sauce",
+      "items": [
+        "½ Cup Mayonnaise",
+        "2 Cloves of Garlic, puréed",
+        "2 tsp Dry Basil",
+        "2 tsp Dry Parsley"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Sauces",
+      "steps": [
+        "Make both the sauces by simply mixing their respective ingredients together. Set aside."
+      ]
+    },
+    {
+      "heading": "Eggs",
+      "steps": [
+        "Bring water in a saucepan to the boil, add the eggs and boil gently for 5 minutes. Drain and run under cold water to stop the cooking and cool.",
+        "Peel carefully and place into a bowl of cool water to protect the eggs from breaking under their own weight."
+      ]
+    },
+    {
+      "heading": "Meat",
+      "steps": [
+        "Mix all the meat ingredients very well and cook off a little piece to check the seasoning, adjust as needed.",
+        "Tear off three strips of plastic wrap, each about 50cm long. Layer together to create a single double width sheet. Repeat the process with another three strips. Lay one of the double wide sheets on top of the other to create one double width, double thickness sheet of plastic. Roll with a rolling pin to remove any air bubbles.",
+        "Place the pork in the centre of the plastic and fold the plastic wrap in half over the meat.",
+        "With the rolling pin, roll the meat out between the plastic until it is roughly the thickness of a toonie coin."
+      ]
+    },
+    {
+      "heading": "Scotch Eggs",
+      "steps": [
+        "Place each egg in the seasoned flour and roll around to cover evenly.",
+        "Place an egg onto the edge of the sheet of meat and while holding the edge roll the egg wrapping it in the meat and cover it entirely. Squeeze and pinch the edges of meat until no egg is seen. If the meat mix is too sticky and not rolling with the egg place it flat into the freezer for 10 minutes to firm it up a little.",
+        "Roll the meat covered egg in flour, coat in the egg wash and then roll in the breadcrumbs.",
+        "Deep fry at 180°C (350°F) until golden brown, roughly 4 minutes. You could also shallow fry in an inch of oil, constantly turning as it browns until the whole egg is evenly golden brown.",
+        "Place a dollop of each of the sauces in the middle of a plate and swoosh in opposite directions.",
+        "Place some mixed leaves or parsley on the sauces to help hold the eggs in place. Slice each egg in half and place on the greens yolk side up. Garnish with chopped parsley."
+      ]
+    }
+  ]
+}

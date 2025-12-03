@@ -1,0 +1,91 @@
+{
+  "id": "parvatis-rolls",
+  "restaurant": "Café By Tao",
+  "heroImage": "parvatis-rolls.jpg",
+  "title": "Parvati's Rolls",
+  "book": "The North Shore Foodie",
+  "notes": "Why do we use soaked and dehydrated nuts? Soaking, rinsing and dehydrating nuts will ensure they will be sweet, which is crucial for the tastiest result. Soaking and rinsing removes the enzymes inhibitors and toxic substances that protect the nuts until it is time to germinate and grow into a plant. We're mimicking Mother Nature by soaking and rinsing our nuts; it is the equivalent of a good steady rain. Soak brown nuts such as almonds, Brazil nuts, hazelnuts, pecans, walnuts. Fill up half a bowl with nuts and the other half with purified water. Soak for 8-10 hours. Rinse well and dehydrate at 45°C (115°F) for 24 hours. I suggest doing this process with your entire nut reserve, that way you always have nuts ready to use plus they will be so much more delicious. Soaked nuts have a sweeter finish than un-soaked, remember this when using them in other recipes. Parvati's Rolls are awesome party food! Cut them in half and set on a plate cut side down. The carrots sticking out make a cheerful, colourful presentation and look tasty too!",
+  "ingredientSections": [
+    {
+      "heading": "Nut and Seed Pâté - Part One",
+      "items": [
+        "190g (1¼ Cup) Sunflower seeds, soaked, sprouted and dehydrated",
+        "55g (¼ Cup) Water",
+        "145g (¾ Cup) Walnuts, soaked and dehydrated",
+        "170g (1 Cup) Almonds, soaked and dehydrated"
+      ]
+    },
+    {
+      "heading": "Nut and Seed Pâté - Part Two",
+      "items": [
+        "130g (¾ Cup) Bell pepper red, yellow or orange",
+        "45g (⅓ Cup) Onion",
+        "60g (⅓ Cup) Celery",
+        "15g (⅓ Cup) Fresh parsley"
+      ]
+    },
+    {
+      "heading": "Seasoning",
+      "items": [
+        "4g (1 tsp) Fresh ginger, minced",
+        "4g (1 tsp) Himalayan salt",
+        "4g (1¼ tsp) Fresh garlic, minced",
+        "8g (2 tsp) Rosemary, dried",
+        "50g (¼ Cup) Extra virgin olive oil",
+        "8g 2 tsp Tarragon, dried"
+      ]
+    },
+    {
+      "heading": "Raisin Chutney",
+      "items": [
+        "125g (¾ Cup) Raisins",
+        "8g (2 tsp) Tarragon, dried",
+        "50g (¼ Cup) Lemon juice",
+        "4g (1 tsp) Curry powder",
+        "6g (1¾ tsp) Garlic, minced"
+      ]
+    },
+    {
+      "heading": "Roll Vegetables",
+      "items": [
+        "1 Bell pepper red, yellow or orange",
+        "2 Medium Carrots",
+        "6 Medium Collards leaves"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Nut and Seed Pâté - Part One",
+      "steps": [
+        "Place the sunflower seeds at the bottom of a shallow bowl and cover with the water. Add walnuts and almonds on top of sunflower seeds, but do not mix together until you have measured and chopped the vegetables in part two."
+      ]
+    },
+    {
+      "heading": "Nut and Seed Pâté - Part Two",
+      "steps": [
+        "Roughly dice the pepper, onion, celery and parsley. Place the vegetables and the nuts and seeds mix into a food processor and process until all ingredients are blended into a spreadable pâté."
+      ]
+    },
+    {
+      "heading": "Seasoning",
+      "steps": [
+        "Blend all seasoning ingredients, pour on top of nuts, seeds and vegetable pâté and mix well. This will keep for a week in the fridge or 3 months in freezer."
+      ]
+    },
+    {
+      "heading": "Raisin Chutney",
+      "steps": [
+        "Place all ingredients in a food processor and mix until almost smooth. This will keep for a month in the fridge or 3 months in the freezer."
+      ]
+    },
+    {
+      "heading": "Assembly",
+      "steps": [
+        "Cut the pepper into thin sticks. Peel and julienne the carrots (or cut them into fine sticks). Remove the stem from the collard leaves creating 12 long half leaf strips.",
+        "Lay out the collard leaves with the under-side facing up. Scoop a tablespoon of the nut pâté onto the widest part of each leaf. Take a teaspoon of the chutney and spread on the pâté.",
+        "Place a small handful of the carrot juliennes and 2 sticks of bell pepper across the leaf on top of the pâté and chutney. Roll up the leaf and serve 3 rolls per serving."
+      ]
+    }
+  ]
+}

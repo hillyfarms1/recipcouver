@@ -1,0 +1,73 @@
+{
+  "id": "channa-saag-paneer",
+  "restaurant": "Well Fed",
+  "heroImage": "channa-saag-paneer.jpg",
+  "title": "Channa Saag Paneer & Roasted Cauliflower",
+  "book": "The North Shore Foodie",
+  "notes": "Our Channa Saag Paneer is a typical Indian dish with two lean protein sources: chickpeas and paneer cheese. Not sure what paneer is? It is a traditional Indian cheese that is made by heating milk and adding acid until it curdles. The cheese curds are then strained with muslin and then pressed resulting in a block of paneer cheese. (Similar to the Farmers Cheese in Bridge Brewing's recipe but with more pressing, page 44). We power up this recipe with nutrient rich vegetables like spinach and tomatoes and also add lots of fresh ginger and garlic. Our recipe uses a fine balance of traditional Indian spices that focus on flavour, add more heat if you wish. This dish tastes great and you will be fueled up with long lasting energy. Pair this with our beautiful Indian Spiced Roasted Cauliflower.",
+  "ingredientSections": [
+    {
+      "heading": "Channa Saag Paneer",
+      "items": [
+        "4 Cups Baby spinach",
+        "1½ Cup Chickpeas",
+        "1 package (400g) Paneer",
+        "2 Cups Canned whole tomatoes",
+        "3 tsp Garlic, finely chopped",
+        "2 Tbsp Ginger, finely chopped",
+        "1 Cup Onion, finely diced",
+        "3 Tbsp Extra virgin olive oil"
+      ]
+    },
+    {
+      "heading": "Channa Saag Spices",
+      "items": [
+        "1 tsp Cardamon",
+        "1 stick Cinnamon",
+        "½ tsp Chili powder",
+        "½ tsp Turmeric",
+        "1 tsp Garam Masala",
+        "1 tsp Coriander",
+        "Pinch each of salt and pepper"
+      ]
+    },
+    {
+      "heading": "Indian Spiced Roasted Cauliflower",
+      "items": [
+        "1 Head Cauliflower",
+        "1 tsp Ginger, finely chopped",
+        "1 tsp Garlic, finely chopped",
+        "2 Tbsp Olive oil"
+      ]
+    },
+    {
+      "heading": "Cauliflower Spice Blend",
+      "items": [
+        "1 tsp Coriander",
+        "1 tsp Cumin seeds or ground",
+        "1 tsp Curry powder",
+        "1 tsp Turmeric powder",
+        "½ tsp Salt",
+        "½ tsp Ground pepper"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Indian Spiced Roasted Cauliflower",
+      "steps": [
+        "Preheat oven to 230°C (450°F). Wash and cut cauliflower into bite-size pieces roughly 5cm (2in) in size.",
+        "Finely chop the garlic and ginger and in a bowl and mix well with the extra virgin olive oil and all of the spice blend.",
+        "Add the cut cauliflower to the spice mix making sure each piece is coated well.",
+        "On to a baking tray evenly place spiced cauliflower and bake for 12-15 minutes or until slightly coloured and softened. Serve and enjoy!"
+      ]
+    },
+    {
+      "heading": "Channa Saag Paneer",
+      "steps": [
+        "In a saucepan on medium heat sweat the finely diced onion in the olive oil until translucent and soft. Add the cardamon, cinnamon, chili powder, turmeric, garam masala and coriander. Cook for 2 minutes to warm and bring out the spices flavours.",
+        "Chop the paneer into 2-3cm (1in) cubes. Add in chopped garlic and ginger and cook for another 2 minutes. Add the spinach, chickpeas, tomatoes, paneer and salt and pepper and cook down for 20 minutes. Break down whole tomatoes as they cook with a wooden spoon. Serve with fresh cilantro and enjoy!"
+      ]
+    }
+  ]
+}

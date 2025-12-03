@@ -1,0 +1,60 @@
+{
+  "id": "canard-confit-cassoulet",
+  "restaurant": "Café Ça Va",
+  "heroImage": "canard-confit-cassoulet.jpg",
+  "title": "Canard Confit Cassoulet",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Duck Confit",
+      "items": [
+        "4 Duck legs",
+        "4-6 Cups Duck fat",
+        "3 Tbsp Salt",
+        "1 Tbsp Cumin",
+        "1 tsp Coriander seeds",
+        "1 tsp Dried juniper berries",
+        "1 tsp White pepper"
+      ]
+    },
+    {
+      "heading": "Cassoulet",
+      "items": [
+        "500g Cannellini beans",
+        "2L Chicken stock",
+        "1L Veal stock",
+        "1 Andouille Sausage",
+        "250g Pork belly",
+        "1 Onion",
+        "2 Heads garlic",
+        "2 Bay leaves"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Duck Confit",
+      "steps": [
+        "Toast all the dry ingredients in a dry pan until fragrant and then grind in a mortar and pestle.",
+        "Coat and rub the toasted seed mixture into the duck legs, cover and place in the fridge to cure over night.",
+        "After curing, rinse the spices off the legs with cold water. In a casserole dish, fully immerse them in the duck fat and cook in an oven at 150°C (300°F) until the legs are tender, around 2 hours.",
+        "Once cooked and tender, remove from the fat and set aside until ready to serve."
+      ]
+    },
+    {
+      "heading": "Cassoulet",
+      "steps": [
+        "Cut the pork belly into cubes and slice the sausage and place in a large, preferably oven proof, saucepan on medium heat. Sear until both brown and some of the pork fat has begun to render and then remove from pan leaving the juices behind.",
+        "Finely chop the onions and garlic and add to the saucepan with the beans. Cook until the onion is translucent while stirring regularly. Add both stocks and the bay leaves and simmer for 5 minutes. Add the pork belly and sausage back to the saucepan, stir through.",
+        "Place in an oven and bake at 190°C (375°F) for 2 hours or until the liquid has reached a nice thickness."
+      ]
+    },
+    {
+      "heading": "Serving Up",
+      "steps": [
+        "Place the confit duck on an oven tray and bake at 190°C (375°F) for 15-20 minutes or until the skin is crispy. Serve the duck leg on top of the sausage, pork and bean sauce."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "endive-spear-micro-salads-blue-cheese-pear-and-pecan-endive-micro-salad",
+  "restaurant": "The Preservatory",
+  "heroImage": "preservatory1.jpg",
+  "title": "Endive Spear Micro Salads - Blue Cheese, Pear And Pecan Endive Micro Salad",
+  "book": "The Plant-based Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Candied Pecans",
+      "items": [
+        "1 Cup pecans",
+        "1 Tbsp vegan butter",
+        "¼ Cup cane or coconut sugar"
+      ]
+    },
+    {
+      "heading": "Dijon Balsamic Dressing",
+      "items": [
+        "1½ Tbsp balsamic vinegar",
+        "2 tsp Dijon mustard",
+        "3 tsp Orchard Pear & Pinot Noir Preserves",
+        "½ clove garlic, minced",
+        "¼ Cup extra-virgin olive oil",
+        "Ground salt and pepper to taste"
+      ]
+    },
+    {
+      "heading": "Assembly",
+      "items": [
+        "2 ripe pears",
+        "Plant-based blue cheese",
+        "Orchard Pear & Pinot Noir Preserves"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Candied Pecans",
+      "steps": [
+        "Lay some parchment paper on a tray and set aside. Add the pecans, butter and sugar to a frying pan over the medium high heat. Stirring regularly and watching closely, cook until the butter and sugar have melted and coated the pecans.",
+        "Remove from the pan onto the parchment and, working quickly, spread the nuts out so they don’t stick to each other. Allow to cool and then roughly chop."
+      ]
+    },
+    {
+      "heading": "Dijon Balsamic Dressing",
+      "steps": [
+        "Whisk all of the ingredients together except the olive oil and salt and pepper. Slowly add the olive oil bit by bit while continuing to whisk. Season to taste."
+      ]
+    },
+    {
+      "heading": "Assembly",
+      "steps": [
+        "Dice the pears and toss in the dressing to taste. Arrange the endive spears so they are ready to fill.",
+        "Combine the pears, pecans and blue cheese in a bowl. Spoon this filling mixture into the endive spears. Serve with the preserve on the side."
+      ]
+    }
+  ]
+}

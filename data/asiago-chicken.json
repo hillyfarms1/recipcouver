@@ -1,0 +1,106 @@
+{
+  "id": "asiago-chicken",
+  "restaurant": "The Village Table",
+  "heroImage": "asiago-chicken.jpg",
+  "title": "Asiago Chicken",
+  "book": "The North Shore Foodie",
+  "notes": "The VT Asiago Chicken has been and continues to be one of our most popular dishes. It has both texture and flavour and the tomato salsa brings it home. We hope you enjoy cooking this dish as much as we enjoy preparing it for you. We prefer to use olive oil when making this dish at home. Since olive oil has a lower smoke point, the chicken will need to be cooked at medium-low heat so takes longer to brown before going into the oven.",
+  "ingredientSections": [
+    {
+      "heading": "Chicken",
+      "items": [
+        "4 x 200g Chicken breast",
+        "40ml Canola oil",
+        "1 Egg, whisked (egg wash)",
+        "Salt and pepper to taste"
+      ]
+    },
+    {
+      "heading": "Crust Mixture",
+      "items": [
+        "¼ Cup All-purpose flour",
+        "¼ Cup Asiago and Parmesean cheese mixture, equal portions",
+        "2 Cup Panko flakes",
+        "1 Tbsp Fresh Herbs (basil/oregano/parsley), chopped",
+        "Pinch each of salt and pepper"
+      ]
+    },
+    {
+      "heading": "Tomato Avocado Sesame Salsa",
+      "items": [
+        "1 Avocado",
+        "12 Cherry tomatoes, halved",
+        "2 tsp Toasted sesame oil",
+        "1 tsp White sesame seeds",
+        "1 tsp Black sesame seeds",
+        "Salt and pepper to taste"
+      ]
+    },
+    {
+      "heading": "Herbed Garlic Cream Sauce",
+      "items": [
+        "1 tsp Garlic, minced",
+        "1 tsp Butter or extra virgin olive oil",
+        "250ml Heavy cream",
+        "1 tsp Fresh chopped herbs (basil/oregano/parsley)",
+        "Splash of white wine (approx. 100ml)"
+      ]
+    },
+    {
+      "heading": "Sautéed Vegetables",
+      "items": [
+        "1 Red pepper",
+        "1 Yellow pepper",
+        "½ Red onion",
+        "12 Green beans",
+        "1 Tbsp Extra virgin olive oil",
+        "1 tsp Fresh chopped herbs (basil/oregano/parsley)",
+        "Salt and pepper to taste"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Chicken",
+      "steps": [
+        "Mix all crust ingredients together in a medium bowl.",
+        "Tenderize chicken with a meat tenderizer... in our kitchen we call it \"Thor's Hammer.\"",
+        "Place the chicken in the egg wash. Coat well, both sides.",
+        "Completely cover the chicken with the crust mixture.",
+        "In a frying pan, add canola oil over medium heat.",
+        "Place chicken in pan and cook until golden brown.",
+        "Flip and cook the other side.",
+        "Preheat oven to 220°C (425°F).",
+        "Place chicken in oven until internal temperature reaches 74°C using a calibrated stem thermometer."
+      ]
+    },
+    {
+      "heading": "Salsa",
+      "steps": [
+        "Cut cherry tomatoes in half.",
+        "Pit avocado and remove from skin. Cut avocado into medium dice-sized portions (same size as halved cherry tomatoes).",
+        "Add sesame oil, sesame seeds, salt and pepper to taste."
+      ]
+    },
+    {
+      "heading": "Herbed Garlic Cream Sauce",
+      "steps": [
+        "In a small pan, saute garlic in butter on high heat.",
+        "Deglaze the pan with white wine. (Deglazing is pouring cold liquid into a very hot pan in order to lift the roasting garlic off the bottom of the pan and incorporate it into the sauce).",
+        "Stir while continuing to lift garlic off the pan.",
+        "Add cream and continue stirring until it thickens and reduces. Don't burn it!",
+        "Remove from heat and mix herbs in.",
+        "After the Asiago Chicken is plated, spoon about 4 Tbsps onto each piece."
+      ]
+    },
+    {
+      "heading": "Sautéed Vegetables",
+      "steps": [
+        "Slice the red onion, red and yellow peppers to match the size of the green beans.",
+        "Saute vegetables in olive oil.",
+        "Remove from heat, add fresh herbs and toss.",
+        "Season with salt and pepper to taste."
+      ]
+    }
+  ]
+}

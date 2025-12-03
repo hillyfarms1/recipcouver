@@ -1,0 +1,83 @@
+{
+  "id": "sourdough-bread",
+  "restaurant": "Nelson the Seagull",
+  "heroImage": "sourdough-bread.jpg",
+  "title": "Sourdough Bread",
+  "book": "The Gastown Foodie",
+  "notes": "Leaven and starter are the same thing. However, in bakers parlance, leaven is the portion that goes into the bread mix and the starter is what is left behind to grow the next leaven. Sourdough starters can be maintained for years, decades or even much longer. A bakery in San Fransisco claims that its starter is more than 150 years old! For the home baker who bakes between once a week and once a month, store the starter in a mason jar, with a lid on, in the fridge and feed it once a week. Maintain at least ¼ cup of starter and either discard or bake with the remainder. Each week, allow the starter to come to room temperature. Feed 1 part starter with 1 part water and 1 part flour by weight. Mix together, cover and let sit at room temperature for a few hours until it is alive and bubbly. Return the lid to the jar and place back in the fridge until next week. The process of waiting to add the salt is called autolyse. During this period the flour has time to completely absorb the water, allowing the dough to develop flavour and physical strength, which helps the bread rise. Refrigerate the proofed and shaped dough overnight if you wish to bake the next day. This means fresh bread for brunch and also allows even deeper flavours to develop.",
+  "ingredientSections": [
+    {
+      "heading": "Making Sourdough Starter",
+      "items": [
+        "Wholegrain Flour",
+        "Water"
+      ]
+    },
+    {
+      "heading": "Sourdough Bread",
+      "items": [
+        "650ml water",
+        "200g leaven",
+        "800g white flour",
+        "200g wholegrain flour",
+        "25g of salt"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Making Sourdough Starter",
+      "steps": [
+        "Mix 100g of whole grain flour and 100ml of water into a thick batter consistency in a mason jar. Cover with a tea towel or cheesecloth and leave for 2-3 days in a place with a consistent temperature away from the sun.",
+        "Remove and discard the crust that will develop on top of the starter, along with roughly 80 percent of the total mixture.",
+        "Feed the starter by simply adding and stirring through 120ml water and 120g wholegrain flour.",
+        "Repeat this process from step 2 every 24 hours, at roughly the same time of day, until the starter is bubbling consistently and has a light texture."
+      ]
+    },
+    {
+      "heading": "Sourdough Bread",
+      "steps": [
+        "Mix all of the ingredients, except for the salt together in a big bowl with your hands, until the dough has a smooth consistency.",
+        "Cover the bowl with a tea towel and let the dough rest. After 30 minutes of resting, add the salt to the dough.",
+        "Mix until the salt is completely incorporated and you don't feel any grains of salt in the dough.",
+        "Allow the dough to ferment for 3 hours, ideally in a clear container so you can monitor its growth and bubbles.",
+        "During these 3 hours, fold the dough on top of itself every hour. By the third fold the dough will become very elastic and will feel light for its volume.",
+        "Wait another 30 minutes after the last fold then tip the dough out onto a clean un-floured surface."
+      ]
+    },
+    {
+      "heading": "Initial Shaping",
+      "steps": [
+        "Cut the dough in two. Take one-half and push into the dough away from yourself, into the work surface with one hand. Slide a bench knife under the dough, lift and rotate.",
+        "Repete pushing and rotating until a ball is formed.",
+        "Repeat with the other half of the dough. Allow the dough balls to rest, covered with a tea towel for 20 minutes."
+      ]
+    },
+    {
+      "heading": "Final Shaping",
+      "steps": [
+        "Lightly flour the work surface and flip one the balls of dough onto its back so that the side that was resting on the work surface is now facing up.",
+        "Take the edge closest to you, stretch it towards yourself and then fold it back onto itself. Repeat this process with the left, right and top parts of the dough until it is a neat square.",
+        "Roll this over so that the folds are now on the table. Repeat the Initial Shaping steps, pushing and rotating the dough until it forms a tight ball. Repeat with the other dough ball.",
+        "Place both balls, folds side up, into a floured proofing basket or large bowl lined with cheesecloth."
+      ]
+    },
+    {
+      "heading": "Final Proofing",
+      "steps": [
+        "Allow the dough to rise for 3-4 hours at room temperature. It will start to feel light and elastic and there will be lots of bubbles coming to the surface. Not proofing the dough for enough time is the main reason why first-time bakers have problems don't be afraid to push the fermentation."
+      ]
+    },
+    {
+      "heading": "Baking",
+      "steps": [
+        "Preheat the oven to its highest temperature, normally around 260°C (500°F). Preheat a large pot that has a lid in the oven, too.",
+        "Carefully remove the pot and place one of the dough balls into it folded side down. If it was proofed folded side up, just carefully drop it into the pot so it lands folded side down.",
+        "Score the dough, place the lid back on the pot and return the pot to the oven and bake for 15 minutes.",
+        "Reduce the temperature to 200°C (400°F) and carefully remove the lid of the pot to release steam.",
+        "Bake the bread for an additional 30 minutes, or until a dark golden brown is achieved.",
+        "Repeat this process with the second loaf. Allow the bread to cool for at least 2 hours before cutting into it… if you can."
+      ]
+    }
+  ]
+}

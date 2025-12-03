@@ -1,0 +1,74 @@
+{
+  "id": "sourdough-pancakes",
+  "restaurant": "Ethical Kitchen",
+  "heroImage": "sourdough-pancakes.jpg",
+  "title": "Sourdough Cornmeal Apple Pancakes",
+  "book": "The North Shore Foodie",
+  "notes": "Pomace olive oil is suitable for frying as it is from the second pressing of the olives and lacks the proteins that make virgin olive oil unsuitable for heating.",
+  "ingredientSections": [
+    {
+      "heading": "Pancakes",
+      "items": [
+        "4 Cups Organic unbleached flour",
+        "½ Cup Yellow cornmeal",
+        "¼ Cup Cane sugar",
+        "A Pinch of Salt",
+        "3 Cups Water",
+        "1 Cup Sourdough starter",
+        "4 Apples",
+        "3 Eggs",
+        "Pomace oil"
+      ]
+    },
+    {
+      "heading": "Candied Bacon",
+      "items": [
+        "500g Bacon",
+        "½ Cup Smoked paprika",
+        "½ Cup Cane sugar"
+      ]
+    },
+    {
+      "heading": "Syrup",
+      "items": [
+        "1 Cup Maple syrup",
+        "1 Cup Butter"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "The Night Before",
+      "steps": [
+        "Mix all the pancake ingredients except the eggs and the oil, cover and leave at room temperature overnight.",
+        "It's best if you buy a slab of bacon and cut it yourself, this way you can make slices around 2cm thick, which is much better for marinating. Season the sliced bacon well with the smoked paprika and cane sugar, cover and refrigerate overnight."
+      ]
+    },
+    {
+      "heading": "In the Morning",
+      "steps": [
+        "Add the eggs to the pancake dough and mix thoroughly.",
+        "Cut 4 apples in 2 cm 'stars' (across the core). Place a few apple slices at a time on a hot griddle with some pomace olive oil, allow to fry until golden, then pour a small ladle of pancake batter over each apple.",
+        "Cook until bubbles form on the surface and the pancake begins to solidify. Flip and finish cooking on the other side."
+      ]
+    },
+    {
+      "heading": "Syrup",
+      "steps": [
+        "Place both the butter and maple syrup in a thick-bottomed saucepan and simmer, whisking frequently, until the mixture starts to thicken. Once the bubbles look very rich and glossy, the syrup is ready to serve."
+      ]
+    },
+    {
+      "heading": "Candied Bacon",
+      "steps": [
+        "Preheat the oven to 180°C (350°F). Lay out the bacon in a single layer on a baking sheet and carefully roast until it begins to crisp, turn once to caramelize the other side."
+      ]
+    },
+    {
+      "heading": "Tips & Tricks",
+      "steps": [
+        "We prefer to use olive oil when making this dish at home. Since olive oil has a lower smoke point, the chicken will need to be cooked at medium-low heat so takes longer to brown before going into the oven."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "rose-petal-sorbet-with-blackberry-jam",
+  "restaurant": "The Preservatory",
+  "heroImage": "preservatory2.jpg",
+  "title": "Rose Petal Sorbet With Blackberry Jam",
+  "book": "The Plant-based Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Rose Petal Sorbet With Blackberry Jam",
+      "items": [
+        "3 Cups rose petals, grown organically or unsprayed from your backyard (or your neighbours when they aren’t looking)",
+        "1 Cup sugar",
+        "1 vanilla bean, scraped",
+        "3 Cups water",
+        "4 Tbsp lemon juice",
+        "1 Cup Champagne",
+        "¼ Cup blackberry jam"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Rose Petal Sorbet With Blackberry Jam",
+      "steps": [
+        "Combine the sugar, rose petals and vanilla bean scrape in food processor and process until paste forms.",
+        "Add the water, lemon juice and champagne and pulse to combine.",
+        "Strain the mixture into a bowl and add the jam, stirring gently to just combine.",
+        "Transfer to an ice cream maker and follow the manufacturer’s directions.",
+        "If you don’t have a ice cream maker, transfer into a 20cm (8in) square pan and place in freezer. Every 15 minutes, scrape the mixture with a fork until a perfect sorbet consistency forms.",
+        "Serve with a dollop of jam and fresh rose petals."
+      ]
+    }
+  ]
+}

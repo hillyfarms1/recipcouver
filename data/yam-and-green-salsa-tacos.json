@@ -1,0 +1,104 @@
+{
+  "id": "yam-and-green-salsa-tacos",
+  "restaurant": "Bandidas Taqueria",
+  "heroImage": "yam-and-green-salsa-tacos.jpg",
+  "title": "Yam and Green Salsa Tacos",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Purple Cabbage Salad",
+      "items": [
+        "1 Medium Purple Cabbage",
+        "1 tsp Salt or more to taste",
+        "Juice of 2 Limes"
+      ]
+    },
+    {
+      "heading": "Mexican Pot Beans",
+      "items": [
+        "1 Large Yellow Onion, diced",
+        "2 Tbsp Cooking Oil, canola, grape seed, sunflower or avocado",
+        "2 Cups Dried Black Beans, rinsed",
+        "1 Tbsp Dried Epazote",
+        "6 Cups Water",
+        "Salt to taste"
+      ]
+    },
+    {
+      "heading": "Oven Roasted Yams and Onions",
+      "items": [
+        "3 Medium Yams",
+        "1 Medium Yellow Onion",
+        "2-3 Tbsp Cooking Oil (coconut oil, sunflower oil, grape seed oil)",
+        "1 tsp Salt"
+      ]
+    },
+    {
+      "heading": "Fresh Tomatillo Salsa",
+      "items": [
+        "10 Small Tomatillos, husked, rinsed, and quartered",
+        "1 Bunch Fresh Cilantro, cut from stems, rinsed, and roughly chopped",
+        "Juice of 2 Limes",
+        "7-8 Cloves Garlic, peeled",
+        "1 Small White Onion, chopped",
+        "2-3 Jalapeños, de-seeded and chopped",
+        "2 Avocados, peeled and pitted",
+        "1½ Cups Water, depending on desired thickness",
+        "1 tsp Ground Cumin, or to taste",
+        "½ tsp Ground Black Pepper, or to taste",
+        "Salt to taste"
+      ]
+    },
+    {
+      "heading": "Building Tacos",
+      "items": [
+        "Cheese, cheddar, jack or oaxaca (optional)",
+        "Toasted Pumpkin Seeds",
+        "Fresh Cilantro"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Purple Cabbage Salad",
+      "steps": [
+        "Slice the cabbage finely.",
+        "In a bowl massage the salt into the cabbage, it will start to soften and the juice of the cabbage will start to come out. Continue to massage until it is nice and soft.",
+        "Stir in the lime juice and set aside in the fridge."
+      ]
+    },
+    {
+      "heading": "Mexican Pot Beans",
+      "steps": [
+        "In a saucepan, cook the diced onion in the oil until it is starting to brown and turn translucent.",
+        "Add the epazote and stir, continuing to brown the onions.",
+        "Add the beans and stir, then add the water and increase heat to high, bringing the beans to a boil for about 5 minutes.",
+        "Reduce heat to a simmer and cook for about 2 hours, until beans are nice and soft. Add water as needed, so that they don't dry out and burn.",
+        "When the beans are soft allow most of the water to cook off, so that the bean broth starts to thicken.",
+        "Add salt to taste. Do not add salt before the beans are soft, as it will cause them to cook unevenly. Let cook for another 10-15 minutes on low to incorporate the salt."
+      ]
+    },
+    {
+      "heading": "Fresh Tomatillo Salsa",
+      "steps": [
+        "Combine all ingredients in a food processor or blender, except the cumin, salt, and pepper and blend until smooth.",
+        "Add spices and adjust spice levels and seasoning to your liking. Add more jalapeños if desired.",
+        "Serve immediately, or refrigerate for later. Because of the fresh avocado, this recipe is best eaten as fresh as possible."
+      ]
+    },
+    {
+      "heading": "Oven Roasted Yams and Onions",
+      "steps": [
+        "Preheat oven to 200°C (400°F). Wash the yams, keep the skins on, chop into small cubes and dice the onion.",
+        "Toss the yams and onions with the oil and salt and evenly spread them on an oven tray and roast in the oven for about 45 minutes, or until they are soft and browning. The caramelization really brings out the sweetness of the yams."
+      ]
+    },
+    {
+      "heading": "Building Tacos",
+      "steps": [
+        "The secret to a good taco is not too much of each ingredient. Build, starting with the cheese and then the beans and then the remaining elements as desired. Top with toasted pumpkin seeds and fresh cilantro."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+#recipeContainer{
+    margin: 20px;
+}
+
+.recipeTitle{
+    margin-bottom: 0;
+}
+.restaurantTitle{
+    margin: 5px 0 25px 0;
+}
+.heroImg{
+    width: 100%;
+    border-radius: 8px;
+    border: solid 2px;
+    border-color: var(--bookColorHighLight);
+    outline: solid 1px;
+    outline-color: white;
+    box-shadow: -7px -7px var(--bookColorMain);
+    margin-bottom: 35px;
+}
+.recipeDetails{
+    border: solid 2px;
+    border-color: var(--bookColorHighLight);
+    outline: solid 1px;
+    outline-color: white;
+    box-shadow: 7px 7px var(--bookColorMain);
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 35px;
+    text-transform: capitalize;
+    display: grid;
+    grid-template-areas: 
+    "tl tr"
+    "bl br";
+    gap: 5px
+}
+.tl{
+    grid-area: tl;
+}
+.tr{
+    grid-area: tr;
+}
+.bl{
+    grid-area: bl;
+}
+.br{
+    grid-area: br;
+}
+.ingredLst{
+    border: solid 2px;
+    border-color: var(--bookColorHighLight);
+    outline: solid 1px;
+    outline-color: white;
+    box-shadow: -7px -7px var(--bookColorMain);
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 35px;
+}
+.ingredLst ul{
+    list-style-type: none;
+    padding: 0;
+}
+.ingredLstSectName{
+    margin-bottom: 5px;
+}
+.ingredLstSectName:not(:first-child){
+    margin-top: 10px;
+}
+.ingredItem{
+    list-style-type: none;
+    padding: 0;
+}
+.method{
+    margin-top: 5px;
+}
+.methodLst{
+    border: solid 2px;
+    border-color: var(--bookColorHighLight);
+    outline: solid 1px;
+    outline-color: white;
+    box-shadow: 7px 7px var(--bookColorMain);
+    padding: 10px;
+    border-radius: 8px;
+}
+.mthdLstSectName{
+    margin-bottom: 5px;    
+}
+.mthdLstSectName:not(:first-child){
+    margin-top: 10px;
+}
+
+
+
+@media (min-width: 449px) {  /*MOBILE FIRST!!!*/
+
+}
+

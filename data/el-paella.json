@@ -1,0 +1,42 @@
+{
+  "id": "el-paella",
+  "restaurant": "BLVD Bistro",
+  "heroImage": "el-paella.jpg",
+  "title": "El Paella de Patron",
+  "book": "The North Shore Foodie",
+  "notes": "BLVD's breakfast gets a fried sunnyside up egg!",
+  "ingredientSections": [
+    {
+      "heading": "Paella",
+      "items": [
+        "500g Arborio Rice",
+        "Olive oil",
+        "Knob of butter",
+        "1 White onion",
+        "3 Cloves garlic",
+        "1 Pinch of Saffron threads",
+        "1L Chicken stock",
+        "½ Cup Green peas",
+        "Optional proteins: Chorizo, Chicken, Smoked pork, Mussels, Clams, Prawns"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Preparing the Rice",
+      "steps": [
+        "Sweat finely diced onion and garlic in the olive oil on medium-high in a large thick-bottomed pot until translucent. Add the rice to the onions and toast slightly and then add the saffron and stir for 30 seconds more.",
+        "Slowly add the stock 1 cup at a time. Only add enough to wet the bottom of the pot so that the rice moves easily.",
+        "Keep stirring in stock cup by cup until rice is just passed al dente. You should have a very slight firmness when biting into a grain.",
+        "In a parchment-lined tray, pour the rice and flatten on tray allowing it to finish steaming. Store uncovered in refrigerator for a minimum of 24 hours. This is an integral step because the rice will dry slightly yielding a crispier product."
+      ]
+    },
+    {
+      "heading": "Paella",
+      "steps": [
+        "The next day, heat oil in a heavy-bottom skillet or pan until very hot. Add desired proteins and sauté until half cooked.",
+        "Add the dried rice and a generous knob of butter and sauté until rice becomes golden and crisp, and the proteins are cooked. Before plating, toss in green peas and serve."
+      ]
+    }
+  ]
+}

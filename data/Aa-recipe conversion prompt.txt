@@ -1,0 +1,56 @@
+I have a folder full of .json formatted recipes just like the 2 samples attached. some of the recipes are represented in the index.json file, also attached, and some are not. I need to update the index.json file. Can you please write a python script that... 1. searches the mentioned folder for recipe files that are not represented in the index and adds them to the index, please use the recipes "id" as the recipe objects name,  new additions need to have "The Gastown Foodie" as the 'book' key, add the "restaurant" value from the corresponding recipe file next, followed by "heroImage" and "title".
+
+
+
+Convert this recipe from plain text format into JSON following this exact structure:
+JSON Structure:
+
+{
+  "id": "kebab-case-recipe-title",
+  "restaurant": "Restaurant Name (convert to Title Case)",
+  "heroImage": "leave empty",
+  "title": "ORIGINAL TITLE (convert to Title Case)",
+  "notes": note, or null
+  "ingredientSections": [
+    {
+      "heading": "Section Name",
+      "items": ["ingredient 1", "ingredient 2", ...]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Section Name",
+      "steps": ["step 1", "step 2", ...]
+    }
+  ]
+}
+
+Rules:
+
+    ID: Convert title to lowercase, replace spaces with hyphens
+    Title: Convert to Title Case
+    Serves: IGNORE The serves line.
+    Restaurant: Restaurant Name will be come before the recipe title in the raw data
+    Ingredient Sections:
+        Each section usually has a heading (e.g., "Sweet Onion Puree", "Garnish")
+        If there is no heading use the Title name
+        Items array contains all ingredients under that heading
+        Items without quantities (like "Applewood Chips", "Fennel Fronds") are still ingredients, NOT headings
+        A heading introduces a group; an item is a single component to be used
+    Method Sections:
+        Each section heading matches the corresponding ingredient section name
+        If there is no heading use the Title name
+        Steps are numbered instructions without the numbers (just the text)
+        Preserve all text exactly, including measurements and special characters
+    Text Handling:
+        Merge any line breaks within ingredients or steps into single strings
+        MUST keep all special characters (¼, ½, °, etc.)
+        Remove leading/trailing whitespace from each string
+        There may be sections that clearly are not Ingredient or Method sections, these should be handled as notes.
+        
+
+Output: Return ONLY the JSON object (no markdown code blocks, no explanation).
+
+Convert the following recipe:
+
+Attached is a pdf and a sample json file. I need all the recipes in the pdf extracted and saved as individual json files that follow the exact format of the sample json file. The top of each page has a restaurant name and the recipes name. The "id" is the recipe name in lowercase with hyphen spacing. Most of the recipes follow the same format but there are some exceptions. Some recipes have notes and other do not; from context you should be able to work out what are method instruction and what are notes. If there are no notes please make the value null. Most recipes have sections titles for the both the indredients and method, if they do not please use the recipe name as the "heading" for the corresponding "items" or "steps". The 'book' for all of these recipes is "The North Shore Foodie". Please leave the heroImage field empty for now. Please ignore the serving sizes for now too.

@@ -1,0 +1,33 @@
+{
+  "id": "spicy-chorizo-chilliwack-corn-pizza",
+  "restaurant": "Bridge Brewing Company",
+  "heroImage": "spicy-chorizo-chilliwack-corn-pizza.jpg",
+  "title": "Pale Ale Pizzas, Spicy Chorizo",
+  "book": "The North Shore Foodie",
+  "notes": "Recipes created by Krissy Seymour. krissy@fraichecreations.com",
+  "ingredientSections": [
+    {
+      "heading": "Spicy Chorizo, Chilliwack Corn Pizza",
+      "items": [
+        "1 Flatbread",
+        "1 Soft chorizo sausage, casing removed",
+        "½ Cup Chilliwack corn, cut off cob uncooked",
+        "1 Duck egg",
+        "Heirloom tomato and birdseye chilli sauce",
+        "Fresh farmers cheese",
+        "Vegetable oil"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Spicy Chorizo, Chilliwack Corn Pizza with Fried Duck Egg",
+      "steps": [
+        "Beer pairing: Bridge Brewing Hopilano IPA.",
+        "Preheat oven to 220°C (425°F). Crumble sausage into a pan with 1 tsp oil and fry on medium heat until cooked and broken up.",
+        "Generously spread flatbread with tomato sauce and scatter cooked chorizo and corn on top. Add dollops of fresh farmers cheese. Place on oven rack and bake for 10 minutes or until crispy around the edges.",
+        "Fry the duck egg sunnyside up in oil in a nonstick pan on medium heat, place on top of the cooked flatbread."
+      ]
+    }
+  ]
+}

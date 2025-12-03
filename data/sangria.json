@@ -1,0 +1,40 @@
+{
+  "id": "sangria",
+  "restaurant": "Bodega On Main",
+  "heroImage": "sangria.jpg",
+  "title": "Sangria",
+  "book": "The East Van Foodie",
+  "notes": "What is the best wine to use in Sangria? Part of the fun of Sangria is experimenting, but you would want to avoid wines that are high in tannins or heavily oaken. Grenache (Garnacha in Spanish), 'un-oakened' Tempranillo or Zinfandel would be a good start. If red wine is not your thing why not try a White or Rose Sangria? Use Sauvignon Blanc, Riesling or Gewürztraminer or, for the sweet tooth, try Moscato. Drop the lemon and blackberries and add strawberries, try switching the Triple Sec/Grand Marnier for Peach Schnapps and you can even use ginger ale instead of lemon soda.",
+  "ingredientSections": [
+    {
+      "heading": "Sangria",
+      "items": [
+        "1 Lemon",
+        "1 Orange",
+        "1 Apple",
+        "A handful of Blackberries",
+        "1 bottle of Spanish Red Wine (see note below)",
+        "45ml Triple Sec or Grand Marnier",
+        "45ml Brandy",
+        "60ml Lemonade",
+        "60ml Orange Juice",
+        "200ml Soda Water and/or Lemon Soda"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Sangria",
+      "steps": [
+        "Chill the wine in the fridge beforehand.",
+        "Peel the orange and lemon carefully trying to keep the peels whole to use later as garnishes.",
+        "Slice the apples finely.",
+        "Cut the orange and lemon into thin wedges.",
+        "Half fill a large pitcher with ice and then place the fruit on top.",
+        "Stir all the liquids together except the soda water.",
+        "Taste and if you prefer a sweeter version add more lemon soda or if you prefer a dryer version add more soda water.",
+        "Garnish some wine glasses with the orange and lemon peel, find some friends and a place in the sun to enjoy."
+      ]
+    }
+  ]
+}

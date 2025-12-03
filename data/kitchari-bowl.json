@@ -1,0 +1,60 @@
+{
+  "id": "kitchari-bowl",
+  "restaurant": "The Green Moustache Organic Café",
+  "heroImage": "greenMust1.jpg",
+  "title": "Kitchari Bowl",
+  "book": "The Plant-based Foodie",
+  "notes": "Kitchari. It is said that there are as many versions of Kitchari as there are chefs in India. It’s one of those ancient cross-cultural comfort foods that has a basic structure but innumerable variations. It is often the first solid food a baby will be given and is used to prepare for cleanses and fasting because it is very easy to digest. Kitchari roughly translates to “mixture” which refers to the mixture of rice and legumes.\nAjwain. This version uses Ajwain, a spice that looks like a tiny seed but is actually the fruit of the plant. It smells unmistakably like thyme and tastes similar to oregano with a subtle aniseed twist. Ajwain is available in the Indian spice section of most good supermarkets.",
+  "ingredientSections": [
+    {
+      "heading": "Kitchari",
+      "items": [
+        "1½ Cups basmati rice",
+        "¾ Cup moong dal (mung dal, split mung beans)",
+        "1 small yam or sweet potato",
+        "2 carrots",
+        "½ bunch dark kale",
+        "1 thumb-sized piece ginger",
+        "1 medium onion",
+        "2 tsp turmeric powder",
+        "¼ tsp ground cardamom",
+        "2 tsp cumin",
+        "2 tsp ground coriander seeds",
+        "2 tsp black mustard seeds",
+        "2 tsp ground ajwain",
+        "6 Cups water",
+        "Dried coconut",
+        "Cilantro"
+      ]
+    },
+    {
+      "heading": "Bowl Salad",
+      "items": [
+        "Carrot",
+        "Beet",
+        "Sprouts",
+        "Pumpkin seeds",
+        "Sunflower seeds",
+        "Red cabbage",
+        "Kale",
+        "Cherry tomatoes",
+        "Lemon wedge"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Kitchari",
+      "steps": [
+        "Soak both the rice and dal in water overnight.",
+        "Dice the onion and chop the yams, carrots and kale into bite-size pieces.",
+        "Dry roast all of the spices, except the turmeric, in a large pot over a medium heat for 1 minute and then add 2 Tbsp of water and stir together.",
+        "Add the diced onions to the spices and sautée until soft and translucent.",
+        "Grate the ginger and add 6 cups of water, the dal, rice, ginger, turmeric, carrots and yams to the pan.",
+        "Increase the temperature until boiling and then reduce to a simmer. Cook for 30-45 minutes or until most of the liquid is absorbed and the rice and dal are soft. If the water evaporates off too quickly, add a touch more until everything is cooked.",
+        "Transfer the cooked Kitchari to a serving bowl and garnish with dried coconut, cilantro and serve with a lemon wedge and some gluten-free tamari.",
+        "Serve with your choice of finely sliced side salad, which could include carrot, beet, sprouts, pumpkin seeds, sunflower seeds, red cabbage, kale and cherry tomatoes. This salad would go really well dressed with House Nutritional Yeast Dressing (previous page)."
+      ]
+    }
+  ]
+}

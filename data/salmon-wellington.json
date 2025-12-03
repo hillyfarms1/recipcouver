@@ -1,0 +1,59 @@
+{
+  "id": "salmon-wellington",
+  "restaurant": "Fishworks Restaurant",
+  "heroImage": "salmon-wellington.jpg",
+  "title": "Salmon Wellington",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Salmon Wellington",
+      "items": [
+        "1 Sockeye salmon fillet",
+        "150g Almonds",
+        "80g Dried cranberry",
+        "8 Fresh basil leaves",
+        "Dijon mustard",
+        "4 Sheets Filo pastry",
+        "Roughly ½ Cup Butter, melted",
+        "Salt and pepper"
+      ]
+    },
+    {
+      "heading": "Pistachio Pesto",
+      "items": [
+        "1½ Cups Fresh basil",
+        "½ Cup Cilantro",
+        "1 Cup Pistachio nuts, shelled and dry roasted",
+        "¼ Cup Parmesan cheese",
+        "½ Cup Olive oil",
+        "Juice of ½ lime",
+        "½ Cup Cream"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Salmon Wellington",
+      "steps": [
+        "Preheat oven to 190°C (375°F). Cut the salmon fillet into 4 equal portions.",
+        "Take a sheet of filo pastry for each piece for salmon and brush lightly with melted butter. In the centre of each sheet place two basil leaves and then place a piece of salmon on the basil. Sprinkle a pinch of salt and pepper on the salmon.",
+        "Coat the salmon with a couple of teaspoons of Dijon mustard. Finely chop the cranberries and smash the almonds in a pestle and mortar and then sprinkle both over the salmon.",
+        "Fold the filo pastry over the salmon, making wrapped parcels. Brush all sides of the parcels with butter, covering completely and cook in a fry-pan on a medium heat until both sides are golden and crispy. Finish the cooking by baking in the oven for roughly 10 minutes."
+      ]
+    },
+    {
+      "heading": "Pistachio Pesto",
+      "steps": [
+        "Blend all ingredients except the cream in a blender or food processor until smooth adjusting the quantity of oil if necessary. Optionally, make a larger batch, store in the fridge for up to 2 weeks and use with other dishes.",
+        "When the salmon is ready to serve, stir together and warm the pesto and cream in a saucepan."
+      ]
+    },
+    {
+      "heading": "Serving",
+      "steps": [
+        "Pour the warmed creamy pesto on a plate, cut the salmon parcels in half and place in the pesto. Serve with steamed or roasted vegetables."
+      ]
+    }
+  ]
+}

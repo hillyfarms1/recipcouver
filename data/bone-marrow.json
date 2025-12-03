@@ -1,0 +1,54 @@
+{
+  "id": "bone-marrow",
+  "restaurant": "Wildebeest",
+  "heroImage": "bone-marrow.jpg",
+  "title": "Bone Marrow",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Crimini Mushroom Vinaigrette",
+      "items": [
+        "10 crimini mushrooms",
+        "1 shallot",
+        "1 Tbsp canola oil",
+        "¼ Cup balsamic vinegar",
+        "¼ Cup sherry vinegar",
+        "1 tsp salt"
+      ]
+    },
+    {
+      "heading": "Bone Marrow",
+      "items": [
+        "4 pieces crosscut beef marrow bones",
+        "1 loaf sourdough bread",
+        "4 Tbsp Crimini Mushroom Vinaigrette",
+        "1 leek",
+        "2 king oyster mushrooms",
+        "1 Tbsp butter",
+        "Salt to taste"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Crimini Mushroom Vinaigrette",
+      "steps": [
+        "Slice the shallot and the mushrooms and then sauté in the oil in a saucepan until golden brown.",
+        "Remove from the heat and add the vinegars.",
+        "Season with the salt and allow to cool.",
+        "Blend the mixture in the food processor until it reaches a consistency similar to olive tapenade."
+      ]
+    },
+    {
+      "heading": "Bone Marrow",
+      "steps": [
+        "Roast the bone marrow on broil in the oven cut side up, for 5-7 minutes. Using a cake tester, probe the thickest part of the marrow to see if it's cooked all the way through.",
+        "While the marrow is roasting, slice and then sauté the leeks and oyster mushrooms with the butter until tender.",
+        "Season the bone marrow and the mushrooms and leeks with the salt.",
+        "To finish, spread the Crimini Mushroom Vinaigrette on the Bone Marrow, top with the sautéed leeks and mushrooms.",
+        "Serve with the warmed sourdough bread."
+      ]
+    }
+  ]
+}

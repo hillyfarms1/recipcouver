@@ -1,0 +1,43 @@
+{
+  "id": "veggie-burgers",
+  "restaurant": "Biercraft",
+  "heroImage": "veggie-burgers.jpg",
+  "title": "Veggie Burgers",
+  "book": "The East Van Foodie",
+  "notes": "These patties aren't just good for vegetarians, they go really well with bacon!",
+  "ingredientSections": [
+    {
+      "heading": "Veggie Burgers",
+      "items": [
+        "2 White Onions, coarsely chopped",
+        "400g Button Mushrooms, left whole",
+        "3 Tbsp Garlic, chopped",
+        "2 Tbsp Dried Mixed Herbs",
+        "2 tsp Paprika",
+        "1 tsp Dried Dill",
+        "2 tsp Cumin",
+        "1 Cup Pecans, toasted, cooled and then crushed",
+        "3 Cups Panko Bread Crumbs",
+        "1 Cup Peas",
+        "2 Eggs",
+        "2 Cups Asiago Cheese",
+        "2 Tbsp Sriracha Sauce",
+        "2 tsp Salt",
+        "2 tsp Pepper"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Veggie Burgers",
+      "steps": [
+        "In a large fry pan cook the onions, mushrooms, garlic, and herbs until the onions start to caramelize. Remove from heat and allow to cool.",
+        "Pulse the mixture with a food processor for 5-8 seconds, so it is chopped up, but not too fine.",
+        "In a large bowl, combine all the ingredients well.",
+        "Form into 180g patties.",
+        "Pan fry the patties till they are golden brown on each side and then place in an oven, preheated to 180°C (350°F), for 7 minutes.",
+        "Serve with all your favourite burger ingredients."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "spanakopita",
+  "restaurant": "Glorious Organics",
+  "heroImage": "gloriousOrganics3.jpg",
+  "title": "Spanakopita",
+  "book": "The Plant-based Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Vegan Ricotta",
+      "items": [
+        "1½ Cups cashews",
+        "½ Cup water",
+        "1 Tbsp nutritional yeast",
+        "2 Tbsp lemon juice",
+        "½ tsp garlic powder",
+        "Pinch onion powder",
+        "Salt and pepper to taste"
+      ]
+    },
+    {
+      "heading": "Filling",
+      "items": [
+        "1 Tbsp olive oil",
+        "1 medium onion",
+        "1 bunch green onions",
+        "1 clove garlic",
+        "900g various greens, fresh or frozen",
+        "½ Cup soft tofu",
+        "½ Cup vegan ricotta*",
+        "¼ Cup vegan parmesan",
+        "½ Cup vegan feta"
+      ]
+    },
+    {
+      "heading": "Spanakopita",
+      "items": [
+        "1 packet phyllo pastry",
+        "⅓ Cup extra-virgin olive oil",
+        "⅓ Cup margarine or vegan butter"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Vegan Ricotta",
+      "steps": [
+        "Soak the cashews in water for 3-4 hours and then drain.",
+        "Add all the ingredients, except the salt and pepper, to a blender and blend until smooth. Add a few splashes of water if the mixture gets too dry.",
+        "Add salt and pepper to taste and also adjust all the other flavours to your liking, especially the cheesiness of the nutritional yeast."
+      ]
+    },
+    {
+      "heading": "Filling",
+      "steps": [
+        "If using fresh greens, wash, destem and roughly chop before cooking down in a large pot with a small amount of water. Do this in batches if necessary. When wilted and soft, remove from the pot, drain and set aside.",
+        "Finely dice the onion, garlic and green onions, and sautée in a large saucepan in a splash of oil. When the onions are translucent, add the cooked down or frozen greens and mix everything together well.",
+        "Transfer the onions/greens mixture to a blender or food processor and add the cheeses and tofu. Pulse until the mixture combines and the leaves are evenly broken down but don’t over mix."
+      ]
+    },
+    {
+      "heading": "Spanakopita",
+      "steps": [
+        "Melt the margarine and mix it with the olive oil in a small bowl. Preheat the oven to 180°C (350°F).",
+        "Using a pastry or basting brush, lightly brush a 23x33cm (9x13in) casserole dish with some of the oil.",
+        "Add the phyllo pastry one layer at a time, brushing each sheet lightly with oil before adding the next.",
+        "Repeat until a base is formed, which will need around 10 sheets.",
+        "Spoon the greens and cheese mixture on top of the layered pastry and spread it out evenly around the dish.",
+        "Add around 10 more layers of phyllo interspersed with more brushes of oil to create the top. Artfully place the last couple of layers of phyllo and crimp the edges so it looks pretty when cooked.",
+        "Place in the oven for 25-30 minutes."
+      ]
+    }
+  ]
+}

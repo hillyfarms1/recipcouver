@@ -1,0 +1,36 @@
+{
+  "id": "rose-petal-tea-cakes",
+  "restaurant": "Ethical Kitchen",
+  "heroImage": "rose-petal-tea-cakes.jpg",
+  "title": "Rose Petal Cordial & Rose Petal Tea Cakes",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Rose Petal Tea Cakes",
+      "items": [
+        "1 Cup Butter",
+        "½ Cup Icing sugar",
+        "2¼ Cup Unbleached white flour",
+        "Pinch Salt",
+        "Half of the Rose petal and lemon solids leftover from making cordial"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Rose Petal Tea Cakes",
+      "steps": [
+        "Thoroughly drain and chop the rose petals and lemon slices into a fine dice.",
+        "Break the cold butter into small chunks, place in a stand mixer bowl. Add the icing sugar, flour and salt. On low speed, with a paddle attachment, mix the ingredients until there is an even crumbly texture, at this point add the rose petals and lemon pieces. Mix until just combined.",
+        "Form walnut size balls and space a couple of centimetres apart on a baking sheet. Bake at 200°C (400°F) for about 10-12 minutes, take them out just as they are turning brown. Let the cakes cool."
+      ]
+    },
+    {
+      "heading": "Serve",
+      "steps": [
+        "Dust with icing sugar before serving with a glass of iced Rose Petal Cordial."
+      ]
+    }
+  ]
+}

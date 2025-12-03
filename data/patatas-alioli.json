@@ -1,0 +1,55 @@
+{
+  "id": "patatas-alioli",
+  "restaurant": "Cabrito",
+  "heroImage": "patatas-alioli.jpg",
+  "title": "Patatas Alioli",
+  "book": "The East Van Foodie",
+  "notes": "Tapas/Bebidas",
+  "ingredientSections": [
+    {
+      "heading": "Patatas",
+      "items": [
+        "12 Fingerling Potatoes",
+        "1 stem Rosemary",
+        "2 stems Thyme",
+        "2 Cloves Garlic",
+        "80ml Olive Oil",
+        "Salt and pepper to taste",
+        "Espelette to taste",
+        "6 slices Serrano Jamon",
+        "Bamboo skewers or tooth picks"
+      ]
+    },
+    {
+      "heading": "Alioli",
+      "items": [
+        "2 Egg Yolks",
+        "1 ½ Tbsp Dijon Mustard",
+        "2 tsp Red Wine Vinegar",
+        "1 Clove Garlic",
+        "250ml Grapeseed Oil",
+        "50ml Extra Virgin Olive Oil",
+        "Salt and White Pepper to taste"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Patatas",
+      "steps": [
+        "Cut the potatoes into small bite size portions. Place in a pot, cover with cold water, add salt and then bring to a boil.",
+        "Strain and place the partially cooked potato on a baking tray. Season with rosemary, thyme, olive oil, finely chopped garlic, salt, pepper, and espelette.",
+        "Roast in the oven at 200°C (400°F) for approximately 30 minutes. The potatoes should be soft inside and crispy outside.",
+        "When cool enough to touch, wrap each potato in Jamon and place back in the oven at 220°C (430°F) for approximately 6 minutes or until the Jamon is crispy.",
+        "Poke a bamboo skewer into each and serve with the alioli."
+      ]
+    },
+    {
+      "heading": "Alioli",
+      "steps": [
+        "Mix yolks, mustard, vinegar, salt, pepper, garlic together.",
+        "Slowly add both oils while whisking vigorously until creamy and smooth."
+      ]
+    }
+  ]
+}

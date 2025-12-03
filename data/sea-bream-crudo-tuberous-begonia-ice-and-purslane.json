@@ -1,0 +1,90 @@
+{
+  "id": "sea-bream-crudo-tuberous-begonia-ice-and-purslane",
+  "restaurant": "Burdock & Co.",
+  "heroImage": "sea-bream-crudo-tuberous-begonia-ice-and-purslane.jpg",
+  "title": "Sea Bream Crudo, Tuberous Begonia Ice & Purslane",
+  "book": "The East Van Foodie",
+  "notes": "Shio-koji is specially fermented rice that is used as a seasoning in Japanese cooking. It adds a soft salty sweet umami flavour to dishes and is often used as a substitute to salt. It is available at good Japanese grocers and speciality stores.",
+  "ingredientSections": [
+    {
+      "heading": "Bream",
+      "items": [
+        "2 fillets Sea Bream, very fresh"
+      ]
+    },
+    {
+      "heading": "Begonia Ice",
+      "items": [
+        "10 Tuberous Begonia Flowers, all same colour, white or yellow preferred",
+        "1 ½ tsp Salt",
+        "⅓ Cup Cold Water"
+      ]
+    },
+    {
+      "heading": "Garlic",
+      "items": [
+        "1 Clove Garlic",
+        "1 tsp Lemon Juice",
+        "1 tsp Water",
+        "Pinch Salt"
+      ]
+    },
+    {
+      "heading": "Cucumber",
+      "items": [
+        "½ Cup Cucumber, brunoise (very finely diced)",
+        "1 Tbsp Shio-koji",
+        "1 tsp White Wine Vinegar",
+        "1 tsp Grapeseed Oil"
+      ]
+    },
+    {
+      "heading": "To Plate",
+      "items": [
+        "½ Cup Purslane, picked, washed",
+        "Extra Virgin Olive Oil",
+        "Fresh Tuberous Begonia Petals, mixed colours",
+        "Shio-koji",
+        "Maldon Salt"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Bream",
+      "steps": [
+        "Slice the bream very thinly, arrange nicely on serving plates, wrap in plastic and set in fridge."
+      ]
+    },
+    {
+      "heading": "Begonia Ice",
+      "steps": [
+        "Blend the flowers, salt and water thoroughly.",
+        "Strain through a fine sieve and freeze in a bowl.",
+        "Just before serving scrape with a fork to create ice shavings."
+      ]
+    },
+    {
+      "heading": "Garlic",
+      "steps": [
+        "Slice the garlic paper-thin and then mix with the other ingredients."
+      ]
+    },
+    {
+      "heading": "Cucumber",
+      "steps": [
+        "Whisk all ingredients together well and then strain before serving."
+      ]
+    },
+    {
+      "heading": "To Plate",
+      "steps": [
+        "Remove the chilled plates and bream from the fridge. Lightly sprinkle the fish with Maldon salt.",
+        "Place a scattering of cucumber on top of the fish and top this with a few pieces of the garlic.",
+        "Drizzle with a dash of olive oil and place a few drops of shio-koji on the fish.",
+        "Decorate with the petals and purslane. These are the acid component of the dish.",
+        "Top with begonia ice shavings and serve immediately."
+      ]
+    }
+  ]
+}

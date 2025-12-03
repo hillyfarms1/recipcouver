@@ -1,0 +1,61 @@
+{
+  "id": "peanut-butter-shorties",
+  "restaurant": "Purebread",
+  "heroImage": "peanut-butter-shorties.jpg",
+  "title": "Peanut Butter Shorties",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Shortie Base",
+      "items": [
+        "1 Cup (250g) melted butter",
+        "3½ Cups (425g) flour",
+        "1 tsp (5g) baking soda",
+        "1 tsp (5g) salt",
+        "¾ Cup (150g) brown sugar"
+      ]
+    },
+    {
+      "heading": "Peanut Ganache",
+      "items": [
+        "2½ Cups (510g) white chocolate",
+        "¾ Cup (180g) cream",
+        "1 pinch salt",
+        "1 Cup (250g) smooth or crunchy peanut butter",
+        "1 Cup (150g) chopped roasted peanuts"
+      ]
+    },
+    {
+      "heading": "Garnish",
+      "items": [
+        "Dark chocolate",
+        "Chopped roasted peanuts"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Shortie Base",
+      "steps": [
+        "Preheat the oven to 175°C (350°F) and grease a 23x33cm (9x13in) baking pan.",
+        "Whisk together the flour, baking soda, salt and brown sugar.",
+        "Add the melted butter and mix to combine until a dough forms.",
+        "Press firmly and evenly into the base of the prepared baking pan and bake for approximately 20 minutes or until lightly golden and slightly firm to the touch.",
+        "Allow to cool."
+      ]
+    },
+    {
+      "heading": "Peanut Ganache",
+      "steps": [
+        "Place the white chocolate and cream into a microwave-proof bowl.",
+        "Microwave and stir in 1 minute intervals until it is completely melted and smooth.",
+        "Measure the peanut butter, salt and peanuts into a large bowl.",
+        "Mix in the melted white chocolate ganache into the bowl and thoroughly combine all the ingredients.",
+        "When the base is completely cool, pour the peanut butter white chocolate ganache over the top and spread out evenly with a spatula.",
+        "Chill in the fridge until firm.",
+        "To serve, slice into triangles and dip the longer side in melted dark chocolate and then in chopped peanuts."
+      ]
+    }
+  ]
+}

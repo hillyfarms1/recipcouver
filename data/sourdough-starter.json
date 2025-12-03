@@ -1,0 +1,27 @@
+{
+  "id": "sourdough-starter",
+  "restaurant": "Ethical Kitchen",
+  "heroImage": "sourdough-starter.jpg",
+  "title": "Sourdough Starter",
+  "book": "The North Shore Foodie",
+  "notes": "Sourdough starter is a natural yeast that you can make easily at home. It requires a few days growing time, but if looked after can then it can be kept for many years, even generations. This is a very basic primer, do some more reading on how to use and look after your starter longterm. Any time you use the starter make sure you reserve at least a half a cup in the original container and continue feeding so you will not have to start over.",
+  "ingredientSections": [
+    {
+      "heading": "Sourdough Starter",
+      "items": [
+        "1 Cup White unbleached flour",
+        "1 Cup Water"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "To Start a Starter",
+      "steps": [
+        "Mix the flour and water to form a paste and transfer it into a clean jar or bowl with at least a 1.5 litre volume. Cover the container but the lid cannot be airtight, there must be a flow of air but also no fruit flies. Using a paper coffee filter and rubberband is one option. Keep the container in a warm place, a window sill perhaps, for 24 hours.",
+        "The flour water mixture will act as a medium to attract natural yeasts and microorganisms to grow. Every 24 hours you need to feed the starter with ¼ Cup unbleached flour and ¼ Cup water, mixing it in thoroughly.",
+        "After 3-4 days, you should notice the starter is becoming bubbly and looking alive. This is a good sign! Keep feeding it for another day or so, until you really notice some vigorous bubble action. Then it is ready to use."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "horseradish-sour",
+  "restaurant": "Wildebeest",
+  "heroImage": "horseradish-sour.jpg",
+  "title": "Horseradish Sour",
+  "book": "The Gastown Foodie",
+  "notes": "This cocktail is a longtime favourite and best seller at Wildebeest not least because it goes great with any meat-forward dish. The soothing honey and punch of horseradish is also the perfect tonic if you are feeling a bit run down.",
+  "ingredientSections": [
+    {
+      "heading": "Horseradish Sour",
+      "items": [
+        "1 tsp creamed horseradish",
+        "60ml London dry gin",
+        "15ml honey",
+        "30ml lemon juice",
+        "Dash egg white"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Horseradish Sour",
+      "steps": [
+        "Add all ingredients to a cocktail shaker full of ice.",
+        "Shake and strain into a chilled low ball glass.",
+        "Garnish creatively with cracked pepper."
+      ]
+    }
+  ]
+}

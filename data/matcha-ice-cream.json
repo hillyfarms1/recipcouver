@@ -1,0 +1,36 @@
+{
+  "id": "matcha-ice-cream",
+  "restaurant": "Say Hello! Sweets",
+  "heroImage": "sayHello.jpg",
+  "title": "Matcha Ice Cream",
+  "book": "The Plant-based Foodie",
+  "notes": "Matcha. Matcha’s history dates back around 1,000 years in Japan and precursor tea production techniques date back much further in China. The main thing that separates matcha tea from regular green tea is that it is produced in powdered form and therefore is dissolved in a liquid as opposed to infused. Green tea plants are shaded from direct sunlight for up to 20 days prior to harvest, which forces the plant to adapt and changes the chemistry of the leaves. Increased levels of chlorophyll changes the leaves’ colour as the plant ups photosynthesis. Levels of theanine, an amino acid that has caffeine-like effects, increases and also adds a sweetness to the tea. Tannins are reduced meaning astringency is low and it feels smoother on the tongue. After picking, the leaves are steamed, dried, destemmed and deveined before being ground by special stone grinders that need to be gentle to reduce heat and therefore take an hour to grind just a handful of tea.",
+  "ingredientSections": [
+    {
+      "heading": "Matcha Ice Cream",
+      "items": [
+        "3 Cups full fat coconut milk",
+        "¼ Cup cane sugar",
+        "½ Cup agave syrup",
+        "3 Tbsp premium matcha",
+        "½ tsp vanilla extract",
+        "¼ tsp salt",
+        "2 Tbsp coconut oil",
+        "1 Tbsp arrowroot or tapioca starch"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Matcha Ice Cream",
+      "steps": [
+        "Measure the matcha, salt, vanilla extract and coconut milk into a blender and blend on low until smooth.",
+        "Add the arrowroot or tapioca starch and blend on medium speed until combined.",
+        "Transfer the mixture to a saucepan and add the sugar, agave syrup and coconut oil. Stir over low heat until the coconut oil and sugar have fully melted and the mixture is warm.",
+        "Continually whisk until the mixture comes to a soft boil. This will activate the starch and thicken the mix, but lumps will form if it’s not continually whisked.",
+        "Remove from the heat and transfer to a bowl. Cover with cling film and press it against the surface of the mixture so a skin does not form. Allow to cool for 1 hour in the fridge or in an ice bath.",
+        "Transfer to an ice cream maker and follow its instructions for churning. Once out of the ice cream maker, place in an airtight ice cream or storage container, cover, and freeze to allow it to further firm up. Or eat it straight out of the ice cream maker!"
+      ]
+    }
+  ]
+}

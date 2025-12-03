@@ -1,0 +1,46 @@
+{
+  "id": "chill-pill-centering-bar",
+  "restaurant": "Buddha-Full",
+  "heroImage": "buddhafull.jpg",
+  "title": "Chill-Pill Centering Bar",
+  "book": "The Plant-based Foodie",
+  "notes": "Ashwagandha. Ashwagandha powder is the dried and ground-up root of the Withania Somnifera plant, which grows in the wild from India to the Mediterranean and is where the chill comes from in this recipe. It has been used for millennia in Indian medicine to promote overall health in a similar way that Chinese medicine uses Ginseng. In fact, another name for it is Indian Ginseng. Ashwagandha, translates roughly to the smell and strength of a horse, referring to the plant's alleged ability to enhance sexual vigour. Clinical studies have shown that, in certain circumstances, it can reduce blood sugar levels, help fight some cancers, reduce cortisol levels and therefore stress and anxiety, lessen symptoms of depression, boost testosterone and fertility in men, increase muscle mass and strength, reduce inflammation, lower cholesterol and triglycerides and improve brain function including memory. It is considered safe for most people, however, as with all such ingredients, do your own research and seek professional advice, especially if pregnant, breastfeeding or on any other medication.",
+  "ingredientSections": [
+    {
+      "heading": "Centering Bar",
+      "items": [
+        "2 Cups gluten-free oats",
+        "5 Tbsp chia seeds",
+        "2¼ Cups almond butter",
+        "½ Cup sunflower seeds",
+        "12 medjool dates, pitted and chopped",
+        "5 Tbsp coconut butter",
+        "½ tsp sea salt",
+        "1 tsp cinnamon",
+        "½ tsp green cardamom",
+        "½ tsp ground ginger",
+        "3 Tbsp ashwagandha powder",
+        "1 Tbsp reishi mushroom powder"
+      ]
+    },
+    {
+      "heading": "Toppings",
+      "items": [
+        "chopped sunflower seeds",
+        "chia seeds",
+        "chopped goji berries"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Centering Bar",
+      "steps": [
+        "Combine all the ingredients into a food processor and pulse repeatedly until mixture forms a ball.",
+        "Press the mixture into 8in square pan. Flatten by placing a piece of parchment paper on top and smoothing out the dough.",
+        "Add your toppings of choice and partially push them into dough using a piece of parchment paper.",
+        "Slice into serving portions and refrigerate for around an hour or until set."
+      ]
+    }
+  ]
+}

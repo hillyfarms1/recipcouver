@@ -1,0 +1,62 @@
+{
+  "id": "zughetti",
+  "restaurant": "Café By Tao",
+  "heroImage": "zughetti.jpg",
+  "title": "Zughetti with Alfredo Dill Sauce",
+  "book": "The North Shore Foodie",
+  "notes": "Think of it! Replacing pasta with zucchini is brilliant! If we consider pasta as an ingredient required to accompany a tasty sauce then zucchini is a perfect replacement. Zucchini noodles are made with a simple appliance called a spirulizer. Instead of a spirulizer you could use a carrot peeler and make Zuguine (zucchini linguine) instead.",
+  "ingredientSections": [
+    {
+      "heading": "Alfredo Dill Sauce",
+      "items": [
+        "200g (1¼) Cup Cashews",
+        "50g (¼ Cup) Water",
+        "6g (2 tsp) Garlic, minced",
+        "1 Tbsp Lemon juice",
+        "Pinch Himalayan salt",
+        "Pinch Black pepper",
+        "24g (⅔ Cup) Dill, fresh or frozen"
+      ]
+    },
+    {
+      "heading": "Zughetti",
+      "items": [
+        "4 Medium Zucchini, peeled",
+        "1 Medium Zucchini, unpeeled",
+        "1 Small Bell pepper red, yellow or orange",
+        "1 Small Butternut squash, peeled and grated",
+        "8 Olives, dried",
+        "Alfalfa sprouts",
+        "Pine nuts, slightly ground or minced"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Alfredo Dill Sauce",
+      "steps": [
+        "Soak the cashews for two hours. Add the soaked cashews, water, garlic, lemon juice, salt and black pepper to a small (2 cup) blender. Blend until creamy.",
+        "Remove from blender and transfer to a mixing bowl. Mince the dill finely and mix well with the cashew sauce. The sauce will keep 5 days in the fridge, 3 months in the freezer."
+      ]
+    },
+    {
+      "heading": "Zughetti",
+      "steps": [
+        "Remove the ends and peel 4 medium zucchini. Use a vegetable spiral slicer to turn the peeled zucchini into zucchini noodles.",
+        "Remove the ends from the 5th zucchini, but keep the peel on. Cut into thin strips using a mandolin or a potato peeler. Dice the bell pepper and cut the dried olives into thin rings. Peel the butternut squash and remove the seeds. Grate enough to fill a half a cup (80g)."
+      ]
+    },
+    {
+      "heading": "Zughetti Rolls",
+      "steps": [
+        "Place about half a tablespoon of the Alfredo Dill Sauce on each zucchini strip. Spread it along each zucchini strip and then roll up. Cut the rolls in half and display them green peel side up."
+      ]
+    },
+    {
+      "heading": "To Serve",
+      "steps": [
+        "Separate the zucchini noodles into 4 equal piles and mound each pile on a plate. Sprinkle the grated butternut squash, alfalfa sprouts, diced bell pepper, dried olives and pine nuts evenly over the zucchini noodles. Arrange the halved zucchini rolls around the edges of each of the mounded zucchini noodles."
+      ]
+    }
+  ]
+}

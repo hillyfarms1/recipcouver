@@ -1,0 +1,45 @@
+{
+  "id": "bacon-sour-cream-and-chive-scones",
+  "restaurant": "Purebread",
+  "heroImage": "bacon-sour-cream-and-chive-scones.jpeg",
+  "title": "Bacon, Sour Cream & Chive Scones",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Bacon, Sour Cream & Chive Scones",
+      "items": [
+        "3¼ Cups (530g) flour",
+        "1 Tbsp (14g) baking powder",
+        "½ tsp (2.75g) baking soda",
+        "¼ Cup (48g) sugar",
+        "1 tsp (6.25g) salt",
+        "1 pinch pepper",
+        "12 slices bacon",
+        "1½ Cup (225g) cheddar cheese",
+        "½ Cup (23g) chopped chives",
+        "1 Cup (225g) cold butter",
+        "½ Cup (138g) whipping cream",
+        "1 Cup (200g) sour cream",
+        "1-2 eggs for wash"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Bacon, Sour Cream & Chive Scones",
+      "steps": [
+        "Broil or pan fry the bacon over a medium heat until lightly crisp.",
+        "Chop the cheese into small cubes, finely chop the chives and set both to the side.",
+        "Preheat the oven to 190°C (375°F) and line a baking tray with parchment paper.",
+        "When the bacon has cooled, slice into small pieces.",
+        "Whisk together the flour, baking powder, baking soda, sugar, salt and pepper in a large bowl.",
+        "Cut cold butter straight from the fridge into 1cm cubes and then rub it into the flour with your fingertips until it's in dime-sized pieces.",
+        "Add the chopped bacon, cheddar cheese and chives and mix until well incorporated.",
+        "In a small bowl, stir together the sour cream and whipping cream. Add this into the other ingredients and mix until a dough just forms.",
+        "Turn out the dough onto a lightly floured surface and portion as desired. Remember, the less the dough is handled the better!",
+        "Place the scones on the baking sheet, brush with egg wash and bake for around 20 minutes until golden brown and a skewer poked into the centre comes out clean."
+      ]
+    }
+  ]
+}

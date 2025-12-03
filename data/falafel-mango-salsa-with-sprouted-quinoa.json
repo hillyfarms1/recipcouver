@@ -1,0 +1,86 @@
+{
+  "id": "falafel-mango-salsa-with-sprouted-quinoa",
+  "restaurant": "Café By Tao",
+  "heroImage": "cafeTao2.jpg",
+  "title": "Falafel Mango Salsa With Sprouted Quinoa",
+  "book": "The Plant-based Foodie",
+  "notes": "Café Tao weighs their ingredients instead of using measuring cups. This ensures accuracy, for example, things like almonds can come in different sizes and therefore fill measuring cups differently, dates can be packed together and how much carrot fits in a cup depends on the size of its dice. It’s much quicker too.",
+  "ingredientSections": [
+    {
+      "heading": "Dill Cheese",
+      "items": [
+        "60g (60ml) filtered water",
+        "30g (30ml) lemon juice",
+        "65g (½ Cup) almonds",
+        "25g (¼ Cup) macadamias",
+        "2g (½ clove) fresh garlic",
+        "20g (⅓ stalk) celery",
+        "10g (1-2 Tbsp chopped) onion",
+        "Pinch ground black pepper",
+        "7g (¼ Cup) fresh dill",
+        "¼ tsp salt"
+      ]
+    },
+    {
+      "heading": "Mango Salsa",
+      "items": [
+        "400g mango (roughly 2 mangos)",
+        "400g cherry tomatoes",
+        "40g lime juice (roughly 3 limes)",
+        "30g butternut squash",
+        "30g raw sprouted quinoa"
+      ]
+    },
+    {
+      "heading": "Cooking Quinoa",
+      "items": [
+        "250g (1½ Cups) quinoa",
+        "500ml water",
+        "¼ tsp salt"
+      ]
+    },
+    {
+      "heading": "Falafel",
+      "items": [
+        "240g (1½ Cups) sprouted chickpeas (see over page)",
+        "100g (¾ Cup) sunflower seeds sprouted (see over page)",
+        "50g fresh cilantro",
+        "100g lemon juice",
+        "100g tahini",
+        "30g tamari",
+        "1 tsp cumin powder"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Dill Cheese",
+      "steps": [
+        "Place a mixing bowl on a kitchen scale and tare it to zero. Add water until the scale says 60g, lemon juice until the scale says 90g, almonds to 155g, macadamias to 180g, the garlic to 182g, celery to 202g and finally onion to 212g.",
+        "Add these ingredients to a food processor. Blend until smooth and refrigerate until serving. Keeps for 2 weeks refrigerated."
+      ]
+    },
+    {
+      "heading": "Mango Salsa",
+      "steps": [
+        "Cut the mango into 1-2 cm (½-1in) cubes, halve the cherry tomatoes and julienne the squash.",
+        "Mix all ingredients together and refrigerate. Keeps for 5 days refrigerated."
+      ]
+    },
+    {
+      "heading": "Cooking Quinoa",
+      "steps": [
+        "Place in a saucepan, bring to a boil and then reduce to a simmer for around 15 minutes. You can also use a rice cooker."
+      ]
+    },
+    {
+      "heading": "Falafel",
+      "steps": [
+        "Weigh the chickpeas, sunflower seeds and cilantro into a mixing bowl on a scale. Add these ingredients to a food processor and process until all ingredients are broken up but retain a slight crunch.",
+        "Weigh the remaining ingredients into a mixing bowl, add this to a blender and blend until smooth. Thoroughly stir together the blended ingredients and chickpea mix.",
+        "Using an ice cream scooper or large soup spoon, portion the falafel mixture onto a lined oven or dehydrator tray and then flatten into a pattie. If following a raw diet, dehydrate for 4 hours at 45°C (115°F) then flip over onto the mesh, remove the liner and dehydrate for another 6 hours. Otherwise, cook in the oven at its lowest setting for 45 minutes, then remove the liner and continue cooking until there is a good crust on the outside and they are moist on the inside.",
+        "Serve with the dill cheese, quinoa and mango salsa with mixed greens."
+      ]
+    }
+  ]
+}

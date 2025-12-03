@@ -1,0 +1,80 @@
+{
+  "id": "yucca-fries-and-garlic-aioli",
+  "restaurant": "Cuchillo",
+  "heroImage": "yucca-fries-and-garlic-aioli.jpg",
+  "title": "Yucca Fries & Garlic Aioli",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Garlic Aioli",
+      "items": [
+        "1 egg yolk",
+        "Juice of 1 lemon",
+        "1 small head garlic",
+        "30ml rice wine vinegar",
+        "2 Cups vegetable oil",
+        "Salt & pepper"
+      ]
+    },
+    {
+      "heading": "Yucca Fries",
+      "items": [
+        "1kg yucca root, as fresh as possible",
+        "Vegetable oil"
+      ]
+    },
+    {
+      "heading": "Paired Cocktails",
+      "items": [
+        "Dark & Filthy: 30ml Gosling's rum, 15ml ancho chile liqueur, 10ml agave syrup, 10ml fresh lime juice, 60ml ginger beer",
+        "El Chabacano: 45ml house infused apricot Pisco, 15ml fresh lemon juice, 15ml fresh lime juice, 15ml simple syrup, 10ml Grand Marnier, 1 egg white, 2 dashes of peach bitters",
+        "Piña Borracha: 30ml Havana 3 white rum, 15ml Wray and Nephew overproof rum, 60ml grilled pineapple purée, 30ml lemon juice, 15ml vanilla syrup"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Yucca Fries",
+      "steps": [
+        "Bring large pot of salted water to a boil. Peel the yucca, cut it into 1-2cm batons and add to boiling water.",
+        "Simmer for approximately 40 minutes until the batons are really soft and starting to break down. Older yucca will take longer to cook and if not fully cooked will be tough, woody and unappetising. Don't be too worried about over cooking them, they be less soft when cooled.",
+        "Drain and spread out on a tray to cool.",
+        "Half fill a large pot with vegetable oil and heat it to 180°C (350°F).",
+        "Fry the blanched yucca, without crowding the pot, in batches if necessary, until golden and crispy. Season generously and serve with the Garlic Aioli."
+      ]
+    },
+    {
+      "heading": "Garlic Aioli",
+      "steps": [
+        "Break down and peel the garlic and place in a saucepan with the oil. Simmer gently over a medium low heat for roughly 30 minutes until golden and soft.",
+        "Strain and reserve both the garlic infused oil and the garlic and allow to cool to room temperature.",
+        "Add all ingredients into a food processor, except for the garlic infused oil, and begin processing. Very slowly add the infused oil to the processor until the mixture is emulsified and creamy."
+      ]
+    },
+    {
+      "heading": "El Chabacano",
+      "steps": [
+        "Pit 3-4 apricots and roughly dice. Place in a mason jar, cover in Pisco and screw on the lid. Let sit at room temperature for 3-5 days. Finely strain and discard the apricot.",
+        "Add all the ingredients, except the egg white and bitters, to a cocktail shaker full of ice and shake.",
+        "Strain and discard the ice. Add the egg white and shaken mixture to the cocktail shaker and shake again.",
+        "Strain into a stemmed glass and garnish with a few drops of bitters."
+      ]
+    },
+    {
+      "heading": "Piña Borracha",
+      "steps": [
+        "Grill some sliced fresh pineapple until soft, fragrant and it has some colour. Blend and add a splash of pineapple juice to adjust the consistency if necessary.",
+        "Shake all ingredients, pour into a Collins glass and top with soda.",
+        "Garnish with pineapple fronds or dehydrated pineapple."
+      ]
+    },
+    {
+      "heading": "Dark & Filthy",
+      "steps": [
+        "Shake all the ingredients with ice in a cocktail shaker except the ginger beer. Strain over crushed ice and then top with the ginger beer.",
+        "Garnish with a dehydrated lime wheel."
+      ]
+    }
+  ]
+}

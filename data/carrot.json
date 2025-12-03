@@ -1,0 +1,127 @@
+{
+  "id": "carrot",
+  "restaurant": "The Acorn",
+  "heroImage": "_BHI2320A.jpg",
+  "title": "Carrot",
+  "book": "The Plant-based Foodie",
+  "notes": "Spruce tips. Spruce, pine or fir tips are the edible new growth that appears on the very ends of the trees' fronds in spring. They have a lightly resin and citrus flavour and when picked at the right time are very tender. They will have a brown papery casing and be considerably lighter in colour than the older fronds. If foraging on public land, ensure it is legal first, pick tips from branches shaded under other foliage first as they will die off naturally and don't pick too many tips from the same branch to avoid stumping its growth.",
+  "ingredientSections": [
+    {
+      "heading": "Carrot Jus",
+      "items": [
+        "2¼ kg carrots",
+        "½ tsp thyme",
+        "1 tsp cornstarch",
+        "2 Tbsp water",
+        "Salt to taste"
+      ]
+    },
+    {
+      "heading": "Hazelnut Carrot Crumb",
+      "items": [
+        "2 Cups carrot pulp, dehydrated (from juiced carrots in jus recipe)",
+        "1 Cup hazelnuts",
+        "3 Tbsp reduced carrot juice (reserved from jus recipe)",
+        "Pinch salt"
+      ]
+    },
+    {
+      "heading": "Roasted Carrots",
+      "items": [
+        "12 carrots, washed",
+        "1 tsp salt",
+        "½ tsp pepper",
+        "2 Tbsp olive oil"
+      ]
+    },
+    {
+      "heading": "Marinade",
+      "items": [
+        "1 Tbsp garlic, minced",
+        "¼ Cup maple syrup",
+        "½ Cup lemon juice",
+        "½ Cup olive oil",
+        "2 Tbsp spruce tips, chopped (see note opposite page)",
+        "¼ Cup parsley",
+        "Pinch salt",
+        "Pinch pepper"
+      ]
+    },
+    {
+      "heading": "Carrot Top Pesto",
+      "items": [
+        "1 Cup carrot top greens",
+        "½ Cup spinach",
+        "½ Cup basil",
+        "½ Cup olive oil",
+        "2 Tbsp maple syrup",
+        "¼ tsp salt",
+        "Pinch black pepper"
+      ]
+    },
+    {
+      "heading": "Browned Hazelnut Butter",
+      "items": [
+        "3 Cups hazelnuts, skin on",
+        "2 tsp salt"
+      ]
+    },
+    {
+      "heading": "To Serve",
+      "items": [
+        "Greens and herbs to garnish, like dill or fennel fronds"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Carrot Jus",
+      "steps": [
+        "Juice the carrots and reserve the fibres for the Hazelnut Carrot Crumb recipe below.",
+        "Reduce the carrot juice in a saucepan over a low heat until the liquid has reduced by two-thirds and the bubbles look slightly gelatinous. Set aside 3 Tbsp of the reduced juice now for the Hazelnut Carrot Crumb recipe below.",
+        "Make a slurry with the water and cornstarch, stir it through the reduced simmering carrot juice and cook for another 2 minutes. Pick the leaves from the thyme and add to the saucepan.",
+        "Transfer the liquid to a blender and blend until smooth. Strain through a fine mesh sieve. Season with salt to taste."
+      ]
+    },
+    {
+      "heading": "Hazelnut Carrot Crumb",
+      "steps": [
+        "Toast the hazelnuts in the oven at 180°C (350°F) for approximately 10 minutes.",
+        "If you have a dehydrator, spread the carrot pulp on the dehydrator tray and discard any large chunks. Dehydrate until completely dry. If you don't have a dehydrator, use the oven on its lowest setting and watch closely.",
+        "Add the toasted hazelnuts to a food processor along with the dehydrated carrot pulp, a pinch of salt, and 3 Tbsp of the reduced carrot juice. Blend down to small breadcrumb-sized pieces.",
+        "Spread the mixture onto an oven tray lined with parchment paper and place it in the oven at 95°C (200°F) for 10 minutes to dry. Transfer to a bowl and crumble with your hands."
+      ]
+    },
+    {
+      "heading": "Roasted & Marinated Carrots",
+      "steps": [
+        "Preheat the oven to 205°C (400°F). Mix all the marinade ingredients thoroughly and set aside.",
+        "Toss the carrots in the olive oil, salt and pepper. Roast in a casserole dish for 10 minutes or until the carrots are starting to cook on the outside but still have crunch on the inside.",
+        "Remove from the oven and, while the carrots and dish are still hot, pour the marinade over and mix. Cover and allow to cool and marinate for 2 hours."
+      ]
+    },
+    {
+      "heading": "Carrot Top Pesto",
+      "steps": [
+        "Add all the ingredients into the blender and blend quickly, leaving the pesto with a rough texture. Adjust the seasoning to taste."
+      ]
+    },
+    {
+      "heading": "Browned Hazelnut Butter",
+      "steps": [
+        "Preheat the oven to 180°C (350°F). Toast the hazelnuts on an oven tray for 10-15 minutes or until the skins are dark and the nuts are very well toasted.",
+        "While the hazelnuts are still warm, rub off all the skins. Add the peeled hazelnuts and salt to a blender and blend on a medium speed, scraping down the sides regularly to keep the mixture moving. If the hazelnuts cool down too much, they will become difficult to blend, so simply place back in the oven for around 3 minutes to soften the natural oils.",
+        "When the mixture is evenly broken down and moving in the blender, increase the speed to high and let this run for 2-4 minutes or until it is silky smooth and buttery."
+      ]
+    },
+    {
+      "heading": "To Serve",
+      "steps": [
+        "Spread a layer of 1 Tbsp of the hazelnut butter on each serving plate.",
+        "Glaze and reheat the carrots once more with the marinade in a frying pan then arrange on top of the hazelnut butter. Feel free to arrange the carrots any way you like, they don't necessarily need to be cut as pictured, leaving them whole looks great too.",
+        "Place a few small spoonfuls of the pesto around the plate between the carrots. Then scatter the carrot crumb, shaved carrots and herbs around the plate.",
+        "Drip the carrot jus around and on top of the carrots and herbs. It is a very sweet sauce from the reduced sugar naturally found in the carrots so don't add too much."
+      ]
+    }
+  ]
+}

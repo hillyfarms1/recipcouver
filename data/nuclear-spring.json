@@ -1,0 +1,46 @@
+{
+  "id": "nuclear-spring",
+  "restaurant": "The Diamond",
+  "heroImage": "nuclear-spring.jpg",
+  "title": "Nuclear Spring",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Banana and Nut Tea Syrup",
+      "items": [
+        "Banana and nut tea (from specialty tea store)",
+        "Sugar",
+        "Water"
+      ]
+    },
+    {
+      "heading": "Nuclear Spring",
+      "items": [
+        "30ml 3-year-old Cuban rum",
+        "15ml yellow chartreuse",
+        "15ml overproof Jamaican rum",
+        "20ml fresh pineapple juice",
+        "20ml fresh lime juice",
+        "10ml Banana and Nut Tea Syrup*"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Banana and Nut Tea Syrup",
+      "steps": [
+        "Measure 1 part dried tea and 1 part sugar and add to 4 parts boiled water.",
+        "Add the banana and nut tea and allow to steep and cool. Strain and store in the fridge."
+      ]
+    },
+    {
+      "heading": "Nuclear Spring",
+      "steps": [
+        "Combine all ingredients over ice in a cocktail shaker.",
+        "Shake until chilled and serve in a coupe glass.",
+        "Garnish with an orange twist."
+      ]
+    }
+  ]
+}

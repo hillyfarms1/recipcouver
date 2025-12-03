@@ -1,0 +1,37 @@
+{
+  "id": "burrata-peaches-insalata",
+  "restaurant": "Puccini's Deli",
+  "heroImage": "burrata-peaches-insalata.jpg",
+  "title": "Burrata & Peaches Insalata",
+  "book": "The North Shore Foodie",
+  "notes": "Burrata is a creamy mozzarella that is great with a wide variety of added flavours. At Puccini's we import Italian Burrata from Bari in southern Italy fresh every two weeks.",
+  "ingredientSections": [
+    {
+      "heading": "Burrata & Peaches Insalata",
+      "items": [
+        "1 Burrata",
+        "2 or 3 Peaches",
+        "1 punnet Cherry tomatoes",
+        "Fresh basil",
+        "Fresh cracked pepper",
+        "Sea salt",
+        "Balsamic vinegar",
+        "Extra virgin olive oil"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Burrata & Peaches Insalata",
+      "steps": [
+        "Make sure the peaches are soft and juicy, full of flavour and locally grown if possible -cut them into thick slices and scatter around a serving plate.",
+        "Get cherry tomatoes in a mix of colours, red, yellow and green if possible, cut them in half or you can leave them whole if you like their pop in your mouth. Scatter them through the peaches.",
+        "Pull apart the Burrata with your fingers into bite-sized pieces and arrange it over the top of the peaches and tomatoes.",
+        "Finely chop a small handful of fresh basil and sprinkle over the top.",
+        "Fresh crack some black pepper and sea salt all around the salad to add flavour.",
+        "Drizzle Dodi Modena balsamic vinegar, which is aged 20 years in small barrels, over the salad.",
+        "Finally drizzle over Giani Extra Virgin olive oil, made from handpicked olives from Puglia, Italy, the hometown of Paolo Pucci, Lino and Maria's dad."
+      ]
+    }
+  ]
+}

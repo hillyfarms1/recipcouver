@@ -1,0 +1,80 @@
+{
+  "id": "rosemary-and-strawberry-scones",
+  "restaurant": "Gluten Free Epicurean",
+  "heroImage": "rosemary-and-strawberry-scones.jpg",
+  "title": "Rosemary & Strawberry Scones",
+  "book": "The East Van Foodie",
+  "notes": "This is a great recipe to experiment with flavours, try the flavour options listed or create your own keeping in mind the flavours will need to be balanced and too much liquid will effect the dough. Dried fruit, nuts and/or chocolate chips are a great start. If you would like to try a dairy version replace the coconut milk with buttermilk, leave out the vinegar and replace the vegan margarine with butter.",
+  "ingredientSections": [
+    {
+      "heading": "Vegan Sweet Scones",
+      "items": [
+        "1 Cup Brown Rice Flour",
+        "½ Cup Sweet Rice Flour",
+        "1 Cup Tapioca Starch",
+        "½ Cup Sorghum Flour",
+        "½ Cup Sugar",
+        "2 tsp Baking Powder",
+        "½ tsp Baking Soda",
+        "½ tsp Xanthan Gum",
+        "½ tsp Salt"
+      ]
+    },
+    {
+      "heading": "Vegan Savoury Scones",
+      "items": [
+        "as above except...",
+        "⅛ Cup Sugar",
+        "¾ tsp Salt"
+      ]
+    },
+    {
+      "heading": "Both Savoury and Sweet",
+      "items": [
+        "160g Frozen Vegan Margarine",
+        "1 Cup Coconut Milk",
+        "1 tsp Apple Cider Vinegar",
+        "1 tsp Vanilla Extract"
+      ]
+    },
+    {
+      "heading": "Sweet Flavour Options",
+      "items": [
+        "½ Cup Strawberries, diced",
+        "2 tsp Fresh Rosemary, chopped finely",
+        "or",
+        "½ Cup Blueberries",
+        "⅛ Cup Basil, chopped",
+        "or",
+        "1 Tbsp Lavender",
+        "Zest of 1 Lemon"
+      ]
+    },
+    {
+      "heading": "Savoury Flavour Options",
+      "items": [
+        "½ Cup Kale, chopped",
+        "⅛ Cup Red Onion, minced",
+        "or (not Vegan... obviously)",
+        "⅓ Cup Bacon, cooked, chopped",
+        "⅓ Cup Cheese, grated"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Rosemary & Strawberry Scones",
+      "steps": [
+        "Preheat oven to 220°C (425°F)",
+        "Mix the dry ingredients together in a mixing bowl.",
+        "Grate the frozen margarine and mix it into the dry ingredients.",
+        "Mix the wet ingredients together and then into the dry ingredients until everything combines into a dough.",
+        "Mix in the flavour ingredients or your choice.",
+        "Sprinkle a dry surface with a bit of rice flour and on this shape the dough into a circular shape roughly 2-3cm thick.",
+        "Cut the dough in 8 wedges.",
+        "Brush with coconut milk and, if making sweet scones, sprinkle with some sugar.",
+        "Place on a baking tray and into the oven and bake for 15mins."
+      ]
+    }
+  ]
+}

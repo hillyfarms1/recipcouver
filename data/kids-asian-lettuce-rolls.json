@@ -1,0 +1,54 @@
+{
+  "id": "kids-asian-lettuce-rolls",
+  "restaurant": "Well Fed Kids",
+  "heroImage": "kids-asian-lettuce-rolls.jpg",
+  "title": "Build Your Own Asian Lettuce Roll Ups",
+  "book": "The North Shore Foodie",
+  "notes": "A key component in developing healthy eating habits into adulthood is to start the process early in childhood; experiencing lots of different foods, textures, combinations and flavour profiles. Our Asian Lettuce Roll Ups are a great tool to do just that. This recipe uses Asian flavours with lean ground pork but you can certainly interchange with other proteins such as lean beef or ground chicken. Kids love this meal because it gives them the opportunity to build their own roll ups (i.e. play with their food) and parents love it because of the variety of veggies that can be used as toppings. Remember to focus on different colours in your options as they supply different types of vitamins and nutrients. Get the kids involved in chopping and setting up this delicious dinner to gain kitchen skills and to use their creativity – who knows, they might even snack on the toppings while you prep. Fun and yummy.",
+  "ingredientSections": [
+    {
+      "heading": "Asian Lettuce Roll Ups",
+      "items": [
+        "450g (1lb) Lean ground pork",
+        "½ Tbsp Olive oil",
+        "1 Cup Onion, finely diced"
+      ]
+    },
+    {
+      "heading": "Asian Sauce",
+      "items": [
+        "1½ tsp Garlic, finely chopped",
+        "2 tsp Ginger, finely chopped",
+        "¼ Cup Hoisin sauce",
+        "⅓ Cup Honey",
+        "1 Tbsp Soy sauce",
+        "1 Tbsp Rice wine vinegar",
+        "½ Tbsp Sesame seed oil",
+        "½ Cup Water chestnuts, finely diced",
+        "½ Cup Green onions, chopped"
+      ]
+    },
+    {
+      "heading": "Accompaniments",
+      "items": [
+        "Butter lettuce leaves or similar lettuce serve as the wrap",
+        "Toppings can include: Carrots, Cucumbers, Edamame beans, Bell peppers, Fresh cilantro, Bean sprouts, Thai basil, Green onion, Hoisin sauce"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Asian Sauce",
+      "steps": [
+        "Heat the oil in a fry-pan on medium high heat. Sweat the finely diced onion and brown the pork in the pan for 3-5 minutes. Drain any excess fat.",
+        "Add the finely chopped garlic and ginger and then the hoisin, honey, soy sauce, rice wine vinegar, sesame oil and finally the finely diced water chestnuts and green onions and cook for another 3-5 minutes."
+      ]
+    },
+    {
+      "heading": "Serving Up",
+      "steps": [
+        "Serve with washed whole butter lettuce leaves and your choice of toppings such as finely julienned carrots, sliced cucumbers, edamame beans, chopped bell peppers, bean sprouts, fresh cilantro, Thai basil, green onion and hoisin sauce."
+      ]
+    }
+  ]
+}

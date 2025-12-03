@@ -1,0 +1,46 @@
+{
+  "id": "penicillin",
+  "restaurant": "Shebeen Whiskey House",
+  "heroImage": "penicillin.jpg",
+  "title": "Penicillin",
+  "book": "The Gastown Foodie",
+  "notes": "",
+  "ingredientSections": [
+    {
+      "heading": "Ginger Syrup",
+      "items": [
+        "½ Cup water",
+        "½ Cup sugar",
+        "½ Cup fresh ginger"
+      ]
+    },
+    {
+      "heading": "Penicillin",
+      "items": [
+        "30ml Bruichladdich Laddie Classic",
+        "15ml Bruichladdich Port Charlotte",
+        "30ml fresh lemon juice",
+        "20ml ginger syrup",
+        "Lemon twist garnish"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Ginger Syrup",
+      "steps": [
+        "Measure equal parts boiling water, sugar and fresh ginger into a blender and blend to a smooth purée.",
+        "Strain with a fine mesh sieve or cheesecloth, allow to cool and store in the fridge."
+      ]
+    },
+    {
+      "heading": "Penicillin",
+      "steps": [
+        "Measure all ingredients into a cocktail shaker.",
+        "Fill the shaker with ice and shake vigorously.",
+        "Strain into a rocks glass with fresh ice.",
+        "Garnish with a lemon twist and slice of ginger."
+      ]
+    }
+  ]
+}

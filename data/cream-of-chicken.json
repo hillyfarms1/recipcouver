@@ -1,0 +1,61 @@
+{
+  "id": "cream-of-chicken",
+  "restaurant": "The Soup Meister",
+  "heroImage": "cream-of-chicken.jpg",
+  "title": "Cream of Chicken Soup",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Cream of Chicken Soup",
+      "items": [
+        "200g White onions",
+        "200g Butter",
+        "20g Garlic",
+        "140g Flour",
+        "50g Arrowroot flour",
+        "90g Chickpea flour",
+        "20g Cornstarch",
+        "2 Cups Hot chicken stock",
+        "2 Drops Lemon juice",
+        "1 Splash Tabasco",
+        "Pinch Salt",
+        "Pinch White pepper",
+        "Pinch Nutmeg",
+        "20 oz White wine",
+        "400g Whipping cream"
+      ]
+    },
+    {
+      "heading": "Optional Garnishes",
+      "items": [
+        "Slicked poached chicken",
+        "Sliced fresh or sautéed mushrooms",
+        "Chopped spinach",
+        "Wild rice"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Cream of Chicken Soup",
+      "steps": [
+        "Melt the butter in a pan and dice and then saute the onions and garlic until translucent. Add the 3 flours and the cornstarch and stir until incorporated.",
+        "Allow the flour and onion mixture to cool to room temperature then add the remaining ingredients.",
+        "Return to heat and whisk ingredients together until the mixture reaches a full boil. Reduce to a simmer and stir for a further 2 minutes. Remove from heat and blend until smooth using a stick mixer."
+      ]
+    },
+    {
+      "heading": "Optional Garnishes",
+      "steps": [
+        "Top with sliced poached chicken, sliced fresh or sautéed mushrooms, chopped spinach, or wild rice as desired."
+      ]
+    },
+    {
+      "heading": "Convert to a Rich Alfredo Sauce",
+      "steps": [
+        "Add around a cup in total of a mixture of parmesan, provolone and/or mozzarella."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "spice-bag",
+  "restaurant": "The Irish Heather",
+  "heroImage": "spice-bag.jpg",
+  "title": "Spice Bag",
+  "book": "The Gastown Foodie",
+  "notes": "True foodie genius is certainly not a monopoly of tall white toque clad kitchen snobs. Sometimes a combination of flavours and a style of service is hit upon, with little regard to established norms, usually filling some niche desire, and just works. Chippers in Ireland are fast-food joints that come to life when the pubs close. They are often run by families who originated from the Indian subcontinent and they usually serve up a menu that a sober mind may question. In these hallowed halls, only a few years ago, a booze-fueled cultural exchange occurred, and the Spice Bag was born. It is now a phenomenon, and was voted Ireland's favourite fast food. In the land of Yeats, Joyce, Wilde and Swift there is certainly more refined genius, but, like poetry, the Spice Bag is all about the context.",
+  "ingredientSections": [
+    {
+      "heading": "Curry Sauce",
+      "items": [
+        "1 onion",
+        "2 cloves garlic",
+        "1 tsp ginger",
+        "1 tsp chilli flakes",
+        "2 Tbsp curry powder",
+        "1 L vegetable stock",
+        "2 Tbsp cornstarch",
+        "90ml water"
+      ]
+    },
+    {
+      "heading": "Fries",
+      "items": [
+        "900g russet potatoes",
+        "frying oil",
+        "salt & pepper"
+      ]
+    },
+    {
+      "heading": "Spice Bag Chicken Flour",
+      "items": [
+        "½ Cup all purpose flour",
+        "1 Cup corn starch",
+        "¼ Cup Chinese 5 spice blend",
+        "2 tsp powdered chilli powder"
+      ]
+    },
+    {
+      "heading": "Chicken & Spice",
+      "items": [
+        "450g chicken",
+        "120g red pepper",
+        "60g red onion",
+        "30g garlic",
+        "1 Tbsp green onion",
+        "1 Tbsp Chinese 5 spice blend"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Curry Sauce",
+      "steps": [
+        "Remove the skin from the onion, garlic and ginger, roughly chop and then blend into a mince. Add to a large saucepan over a medium heat with the chili flakes and curry powder and cook until translucent and fragrant, stirring often to avoid burning. Add the stock and bring to a simmer.",
+        "Stir the cornstarch and water together to form a slurry. Add this to the saucepan, stir through and simmer for 10 minutes."
+      ]
+    },
+    {
+      "heading": "Fries",
+      "steps": [
+        "Cut the potatoes into roughly 1-2cm chips, with or without the skin, and place in a large bowl of cold water so some of the excess starches and sugars are washed off.",
+        "Half fill a pot or large saucepan with canola oil and heat it to between 120-150°C (250-300°F) using a cooking thermometer.",
+        "In batches, cook the chips for around 5-6 minutes. Don't overcrowd the pot. They should be cooked through, but still white and limp.",
+        "Remove from the pot with a slotted spoon and drain.",
+        "Allow the chips to cool completely to room temperature and rest for at least a few hours.",
+        "Replenish the oil if necessary and heat up to 160-180°C (325-350°F). Fry the blanched chips in batches for 3-5 minutes or until crispy.",
+        "Remove the fries with a slotted spoon and drain."
+      ]
+    },
+    {
+      "heading": "Chicken & Spice",
+      "steps": [
+        "Mix the Spice Bag Chicken Flour ingredients together thoroughly in a bowl. Slice the chicken into a large dice. Dice the pepper and onion, and mince the garlic.",
+        "Liberally coat the chicken in the chicken flour and then pan fry in a large pan with a splash of oil until completely cooked and nicely coloured. Set the chicken aside.",
+        "Separate the the fries into two equal portions. Toss one of the portions in salt, pepper and half of the 5 spice blend. Divide this portion into 4 paper sandwich bags.",
+        "Add the onion, pepper and garlic to the pan and cook until tender. Add the chicken and remaining fries and toss together with the remaining 5 spice blend. Sauté until fragrant.",
+        "Divide the spiced chicken and fries into the 4 paper sandwich bags and garnish with chopped green onions."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "lamb-chops",
+  "restaurant": "Arms Reach Bistro",
+  "heroImage": "lamb-chops.jpg",
+  "title": "Lamb Chops, Raita & Barley Risotto",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Grilled Lamb",
+      "items": [
+        "2 8-10 Bone full lamb racks (4 chops per serving)",
+        "2-3 Cloves of garlic, pureed or minced",
+        "Salt and pepper to taste"
+      ]
+    },
+    {
+      "heading": "Barley Risotto",
+      "items": [
+        "350g Uncooked barley",
+        "1.5L Chicken stock",
+        "100ml Olive oil",
+        "75g Sliced shallots",
+        "½ Large Yellow zucchini",
+        "½ Large Green zucchini, small dice",
+        "4-5 Cloves Garlic, roughly chopped",
+        "200g Parmesan cheese, grated",
+        "50g Butter",
+        "200ml Dry white wine",
+        "15g Fresh thyme",
+        "Salt and pepper to taste"
+      ]
+    },
+    {
+      "heading": "Raita",
+      "items": [
+        "1½ Cups Natural yogurt",
+        "½ Medium sized cucumber",
+        "½ Tbsp Garlic, minced",
+        "½ Tbsp Chilli powder",
+        "½ Tbsp Paprika",
+        "1 tsp Cumin",
+        "1½ Tbsp Mint, finely chopped",
+        "Juice of ½ Lime",
+        "Salt to taste"
+      ]
+    },
+    {
+      "heading": "Star Anise Demi-Glace",
+      "items": [
+        "50g Butter",
+        "10g Shallots, sliced",
+        "1 Tbsp Olive oil",
+        "100ml Red wine",
+        "1 Cup Demi-glace (from Ralf at the Soupmeister in Lonsdale Quay)",
+        "1-2 Cloves of Star anise"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Grilled Lamb",
+      "steps": [
+        "Lightly coat each side of lamb chops with garlic and season both sides with salt and pepper. Rub some cooking oil on the grill so that the garlic has a chance to form a crust while cooking.",
+        "Place the lamb on grill, for medium to medium rare temperature, which is preferred in the kitchen at Arms Reach Bistro, cook lamb for 1½-2 minutes, depending on size and thickness of the chops. Then quarter turn chops and repeat for another 1½ minutes. Flip chops and repeat quarter turn process.",
+        "Once the meat just barely begins to bleed through on the top, the chops are done and should be rested for a minimum of 4 minutes."
+      ]
+    },
+    {
+      "heading": "Barley Risotto",
+      "steps": [
+        "Put the chicken stock in a saucepan and bring it up to a simmer.",
+        "In another saucepan add the olive oil, shallots and garlic and cook until the garlic slightly browns and the shallots are transparent.",
+        "Add barley and toast it on a high heat for 2 minutes while constantly stirring.",
+        "Once barley is toasted, add the wine and cook until the smell of alcohol is gone (roughly 1-2 minutes).",
+        "Reduce the temperature to medium to low and slowly add the hot chicken stock so that the barley is just covered in liquid. Be sure to stir consistently as you want the barley to cook evenly. Slowly adding stock and cooking will take minimum 20 minutes as the barley absorbs the stock.",
+        "Once almost all stock is absorbed into barley, add the small diced zucchini into pot and cook for another 2-4 minutes. Add the butter, cheese, thyme and salt and pepper to taste."
+      ]
+    },
+    {
+      "heading": "Raita",
+      "steps": [
+        "Deseed and finely dice the cucumber. Combine all the ingredients in a bowl and mix thoroughly."
+      ]
+    },
+    {
+      "heading": "Star Anise Demi-Glace",
+      "steps": [
+        "Add half of the butter, all of the star anise, shallots and oil in a saucepan and cook until shallots are transparent. Add the wine, cook off the alcohol and reduce the liquid by half. Add the demi-glace and let simmer for 10 minutes.",
+        "Strain the liquid and whisk in the other half of the butter."
+      ]
+    },
+    {
+      "heading": "Serving Up",
+      "steps": [
+        "Place about half to three quarters of a cup of the risotto on one half of each plate. On the other half of the plate, place 1-2 Tbsp of the raita and place the chops in the middle. Drizzle with the demi-glace and serve."
+      ]
+    }
+  ]
+}

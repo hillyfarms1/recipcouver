@@ -1,0 +1,49 @@
+{
+  "id": "croque-madame",
+  "restaurant": "Café Ça Va",
+  "heroImage": "croque-madame.jpg",
+  "title": "Croque Madame",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Mornay",
+      "items": [
+        "40g All-purpose flour",
+        "40g Butter, unsalted",
+        "400ml Whole milk",
+        "100ml Whipping cream",
+        "1 Cup Gruyère cheese"
+      ]
+    },
+    {
+      "heading": "Croque Madame",
+      "items": [
+        "4 Slices Sourdough bread",
+        "2 Tbsp Dijon mustard",
+        "4 Tbsp Mornay",
+        "100g Black Forest ham",
+        "200g Gruyère cheese",
+        "2 Eggs"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Mornay",
+      "steps": [
+        "Melt the butter in a sauce pan over low heat. Whisk in the flour and allow it to cook for 2 minutes while regularly stirring to avoid colouring.",
+        "Whisk in the cream and milk. Stir frequently for 15 minutes on a very low heat. Take off the heat, add the cheese and season."
+      ]
+    },
+    {
+      "heading": "Croque Madame",
+      "steps": [
+        "Lightly toast the sourdough bread slices until they are evenly coloured, but not too dry.",
+        "Evenly spread the Dijon mustard on 2 of the slices and then layer the black forest ham and the Gruyère on top.",
+        "Spread roughly a tablespoon of mornay on each of the remaining two slices of toast and place mornay-side-down to close the sandwiches. Spread rest of the mornay on the top of each of the sandwiches and bake or use a toaster oven until the cheese in the middle has melted.",
+        "While baking the sandwiches, place a non-stick fry-pan over a medium high heat and make 2 sunnyside up eggs. Place the eggs on top of the sandwiches and enjoy."
+      ]
+    }
+  ]
+}

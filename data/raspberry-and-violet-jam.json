@@ -1,0 +1,31 @@
+{
+  "id": "raspberry-and-violet-jam",
+  "restaurant": "The Preservatory",
+  "heroImage": "preservatory.jpg",
+  "title": "Raspberry And Violet Jam",
+  "book": "The Plant-based Foodie",
+  "notes": "Cooking to Set & Processing. Cooking preserves and jams is one of the great ways of making the most out of seasonal produce. It is fun and relatively easy but it wouldn’t be possible to cover all the tips and techniques on a few pages. Luckily there is The Preservatory cookbook by Vista D’oro Farms and Winery and The Preservatory owner Lee Murphy. However, understanding two terms will help with this recipe: “cooking to set” and “processing the jars”. “Cooking to set” means bringing the temperature up to a point where the ratio of sugar and water encourages the pectin, which occurs naturally in raspberries, to set. Not doing this properly will result in either runny or overcooked jam. Simply bring the temperature of the fruit and sugar up to 105°C (221°F) for 5-10 minutes. Drop a teaspoon of the hot jam onto a cold plate, if the jam runs around the plate, cook for another 3-5 minutes before checking again. When the jam sets on the plate, it’s ready to jar. “Processing the jars” is basically a final sterilization of the jam, jars, lids and all. Bring a large pot of water to a boil. Carefully lower the jam-filled tightly lidded jars into the boiling water. There should be at least 2-3cm (1in) of water above the tops of the jars and consider using special jar lifting tongs to move the hot jars around. When the water comes back to a boil, set a timer for 15 minutes. Remove from the water and allow to cool completely.",
+  "ingredientSections": [
+    {
+      "heading": "Raspberry And Violet Jam",
+      "items": [
+        "2 kg raspberries",
+        "1.7 kg sugar",
+        "125ml fresh lemon juice",
+        "3 tsp violet flavouring or 125ml violet syrup"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Raspberry And Violet Jam",
+      "steps": [
+        "Give the berries a quick rinse if they need it and if you’re using fresh; frozen works as well.",
+        "Combine the berries together with the sugar and lemon juice in a jam pot. Bring to a boil, stirring and skimming often.",
+        "Cook jam to set*, to 105°C (221°F), and check the set on cold plate.",
+        "Remove from the heat and stir in the violet flavouring.",
+        "Allow to sit 5 minutes then ladle into sterilized jars leaving as little air as possible in the top, wipe rims, place sterilized lids on tightly and process* for 15 minutes."
+      ]
+    }
+  ]
+}

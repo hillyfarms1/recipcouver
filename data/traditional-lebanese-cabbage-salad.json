@@ -1,0 +1,49 @@
+{
+  "id": "traditional-lebanese-cabbage-salad",
+  "restaurant": "Jamjar",
+  "heroImage": "traditional-lebanese-cabbage-salad.jpg",
+  "title": "Traditional Lebanese Cabbage Salad",
+  "book": "The East Van Foodie",
+  "notes": "Cabbage Salad is the traditional accompaniment for Mujadara. It is often overlooked on menus by restaurants for more popular salads like Fattoush or Tabbouli, however, it is a staple of most Lebanese homes and therefore in line with Jamjar's approach of offering home style folk food.",
+  "ingredientSections": [
+    {
+      "heading": "Dressing",
+      "items": [
+        "¼ Yellow Onion",
+        "¼ Tomato",
+        "¼ Cucumber",
+        "2 Cloves Garlic",
+        "½ Cup Fresh Mint",
+        "250ml Olive Oil",
+        "1 tsp Black Pepper",
+        "2 tsp Salt"
+      ]
+    },
+    {
+      "heading": "Cabbage Salad",
+      "items": [
+        "1 Medium Green Cabbage",
+        "½ Red Cabbage",
+        "2 Tbsp Dried Mint",
+        "1 Cup Parsley"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Dressing",
+      "steps": [
+        "Place all ingredients in a blender and blend until fully emulsified.",
+        "Transfer to a sealed container and refrigerate for up to a week. Shake well before use."
+      ]
+    },
+    {
+      "heading": "Cabbage Salad",
+      "steps": [
+        "Finely shred the green and red cabbage.",
+        "Chop the parsley finely.",
+        "Toss the cabbage, parsley and dry mint with a good portion of the dressing until well mixed."
+      ]
+    }
+  ]
+}

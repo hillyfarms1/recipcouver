@@ -1,0 +1,106 @@
+{
+  "id": "roasted-cauliflower-tacos",
+  "restaurant": "Cuchillo",
+  "heroImage": "roasted-cauliflower-tacos.jpg",
+  "title": "Roasted Cauliflower Tacos",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Tomato Jam",
+      "items": [
+        "1 large yellow onion",
+        "30g garlic",
+        "30g ginger",
+        "1 tsp ground cumin",
+        "800g Roma tomatoes, medium dice",
+        "20g white granulated sugar",
+        "45ml rice wine vinegar",
+        "20g sea salt",
+        "40g achiote paste",
+        "100g crystallized ginger"
+      ]
+    },
+    {
+      "heading": "Almond Butter",
+      "items": [
+        "200g moist pitted dates",
+        "250g thinly sliced toasted almonds",
+        "30ml canola oil",
+        "30ml water",
+        "Salt & pepper to taste"
+      ]
+    },
+    {
+      "heading": "Kale Tortillas",
+      "items": [
+        "215g black kale, blanched",
+        "2 Cups Maseca cornflour",
+        "120ml olive oil",
+        "120ml water",
+        "30g toasted hemp hearts",
+        "1 Tbsp salt"
+      ]
+    },
+    {
+      "heading": "Cauliflower",
+      "items": [
+        "2 medium-sized cauliflowers",
+        "¼ Cup turmeric",
+        "2 Tbsp salt, plus extra for seasoning",
+        "3L water",
+        "Canola oil",
+        "Juice of 1 lemon"
+      ]
+    },
+    {
+      "heading": "To Serve",
+      "items": [
+        "¼ Cup toasted almond slices",
+        "2 green onions"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Tomato Jam",
+      "steps": [
+        "Finely dice the onion, garlic and fresh ginger and add to a large, medium-hot pan along with the cumin and sauté until the onion is translucent.",
+        "Slice the tomatoes into a medium dice and add to the pan with the sugar, vinegar, salt and achiote paste.",
+        "Bring this to a boil, reduce heat and simmer until the excess liquid has evaporated and the mixture resembles a thick jam. Remove from heat and spread the jam over a large, flat tray, to a depth of at most a couple of centimetres and let cool.",
+        "Roughly shop the crystallized ginger into half centimetre chunks and mix into the jam thoroughly."
+      ]
+    },
+    {
+      "heading": "Almond Butter",
+      "steps": [
+        "Blend all the ingredients in a blender for 2 minutes. Adjust the consistency with water or oil the mixture should be spreadable."
+      ]
+    },
+    {
+      "heading": "Kale Tortillas",
+      "steps": [
+        "De-rib the kale and blanch in boiling salted water for 30 seconds, strain then shock in ice water. Strain again and remove excess moisture with paper towel or a salad spinner.",
+        "Blend the kale and olive oil to form paste then add the water to the paste and blend some more. Strain this kale paste through a sieve, reserving both the liquid and pulp.",
+        "Mix the cornflour and salt in a bowl. Add 30g of the kale pulp and all of the strained kale liquid.",
+        "Work the mixture into a dough by hand until uniform in colour and texture. The resulting dough should not be dry and crumbly but also not too sticky and wet. Adjust the consistency with more water or flour if necessary. Form 25g balls with the dough.",
+        "Use either a tortilla press or a heavy frying pan and the kitchen counter to press the balls into tortillas. In both cases use parchment paper to stop the tortilla from sticking. Press down strongly and evenly so the tortilla is an even thickness.",
+        "Bring a comal or heavy frying pan to a medium heat. Place a freshly pressed tortilla on the pan until it has browned slightly and is steaming. Flip the tortilla, press down on it with a spatula and let it cook for another minute."
+      ]
+    },
+    {
+      "heading": "Cauliflower",
+      "steps": [
+        "Bring the water to a boil in a large pot and break down the cauliflower into large florets. Add the cauliflower, turmeric and salt to the boiling water and cook until al dente.",
+        "Place the florets on a large tray and put in fridge to cool completely.",
+        "Pour canola oil into a large frying pan to a depth of 2cm and heat to 180°C (350°F). Carefully add the cauliflower so that there's one layer and pan is not over crowded. Fry for approximately 2 minutes, turning often to get even caramelization. Place in a metal bowl and toss with a splash of lemon juice and salt."
+      ]
+    },
+    {
+      "heading": "To Serve",
+      "steps": [
+        "Spread the tortillas with almond butter. Place your desired amount of cauliflower on top. Spoon Tomato Jam over the top then finish with roasted sliced almonds and thinly sliced green onion."
+      ]
+    }
+  ]
+}

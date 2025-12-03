@@ -1,0 +1,39 @@
+{
+  "id": "chaga-latte",
+  "restaurant": "Ethical Kitchen",
+  "heroImage": "chaga-latte.jpg",
+  "title": "Chaga Latte",
+  "book": "The North Shore Foodie",
+  "notes": "Chaga is a wonderful medicinal mushroom that offers many health benefits. It grows wild in all boreal regions of the world and has been used traditionally by all boreal peoples as an immune supportive beverage. It was recently discovered that maple trees with chaga growing on them are immune to maple blights, which is now stimulating the inoculation of maple trees with chaga spores to keep them healthy and blight free. Today, chaga is used to discourage the growth of tumours through its high antioxidant count and encourage overall health.",
+  "ingredientSections": [
+    {
+      "heading": "Chaga Latte",
+      "items": [
+        "1L of water",
+        "1 tsp Fine ground chaga mushroom",
+        "Organic half and half milk or cereal cream",
+        "Raw honey"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Chaga Latte",
+      "steps": [
+        "Bring the water to a boil and add the chaga powder. Simmer on low for 20 minutes, replenish the water if necessary. The result will be a rich dark brown infusion."
+      ]
+    },
+    {
+      "heading": "Hot Chaga Latte",
+      "steps": [
+        "Strain the brew into four mugs, add some honey and a little cream. This is a wonderful coffee substitute or alternative as it has a very similar texture as coffee."
+      ]
+    },
+    {
+      "heading": "Iced Chaga Latte",
+      "steps": [
+        "Add honey to the brew while it is warm, let the brew cool, then strain into four glasses, add some ice and a bit of cream."
+      ]
+    }
+  ]
+}

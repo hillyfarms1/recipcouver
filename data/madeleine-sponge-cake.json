@@ -1,0 +1,101 @@
+{
+  "id": "madeleine-sponge-cake",
+  "restaurant": "Chill Winston",
+  "heroImage": "madeleine-sponge-cake.jpg",
+  "title": "Madeleine Sponge Cake",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Earl Grey White Chocolate Mousse",
+      "items": [
+        "250g white chocolate",
+        "320ml milk",
+        "10g Earl Grey tea",
+        "3 eggs, large, separated",
+        "375ml cream, whipped"
+      ]
+    },
+    {
+      "heading": "Citrus Salad",
+      "items": [
+        "2 orange segments",
+        "2 grapefruit segments",
+        "1 lemon segment",
+        "1 lime segment",
+        "2 Tbsp mint, chopped or torn",
+        "1 tsp cinnamon, ground",
+        "1 Tbsp sugar"
+      ]
+    },
+    {
+      "heading": "Citrus Yogurt",
+      "items": [
+        "250ml Greek yogurt",
+        "30ml orange juice",
+        "15ml lemon juice",
+        "15ml lime juice",
+        "1 vanilla bean"
+      ]
+    },
+    {
+      "heading": "Madeleine Sponge Cake",
+      "items": [
+        "226g AP flour",
+        "8g Kosher salt",
+        "9g baking powder",
+        "225g sugar",
+        "Juice of 3 lemons, zest of 2",
+        "4 eggs, large",
+        "30ml milk",
+        "85g butter, melted",
+        "140g honey",
+        "Earl Grey Mousse*",
+        "Citrus Salad*",
+        "Citrus Yogurt*",
+        "Mint",
+        "Dried citrus wedges"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Earl Grey White Chocolate Mousse",
+      "steps": [
+        "Separate the eggs into yolks and whites, and whip the cream to stiff peaks.",
+        "Heat the milk in a small saucepan, add the Earl Grey tea, remove from heat, and allow to steep for 20 minutes.",
+        "Melt the chocolate gently over a bain marie (double boiler). Add the steeped milk and stir until fully combined. Remove from the heat and allow to cool slightly.",
+        "Temper the egg yolks into the milk chocolate mixture. Tempering egg is achieved by slowly adding a tiny bit of yolk to the warm mixture at a time and whisking constantly. Keep mixing until fully incorporated.",
+        "Whip the egg whites into firm peaks and then fold into chocolate mixture.",
+        "Fold the chocolate egg mixture into the whipped cream.",
+        "Transfer to a container or piping bag and cool until set."
+      ]
+    },
+    {
+      "heading": "Citrus Yogurt",
+      "steps": [
+        "Split and scrape the vanilla bean and mix all ingredients together.",
+        "Chill until ready to plate."
+      ]
+    },
+    {
+      "heading": "Citrus Salad",
+      "steps": [
+        "Segment all the citrus fruit and place in a bowl. Toss together in the cinnamon and sugar. Add torn mint and toss to combine."
+      ]
+    },
+    {
+      "heading": "Madeleine Sponge Cake",
+      "steps": [
+        "Preheat oven to 190°C (375°F) with fan on. Line 22x30cm (9x12in) pan with parchment paper and spray with cooking spray.",
+        "Whisk the flour, salt and baking powder together into a bowl.",
+        "Place the sugar, zest and eggs into a stand mixer and beat at medium-high until light and fluffy. Add the milk and beat to combine.",
+        "Scrape down the sides of the bowl, add the dry ingredients and mix until smooth.",
+        "Add the lemon juice, butter and honey, one at a time, mixing thoroughly and scraping down the bowl between each addition. Beat on high until the batter is light.",
+        "Spread evenly into the lined baking pan and bake for 7-10 minutes, rotating halfway through.",
+        "Remove from the oven and allow to cool on a wire rack.",
+        "Portion the cake as desired and serve with the Earl Grey mousse, Citrus Salad and Citrus Yogurt. Garnish with dried citrus wedges and torn mint."
+      ]
+    }
+  ]
+}

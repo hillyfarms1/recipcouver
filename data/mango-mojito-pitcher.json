@@ -1,0 +1,31 @@
+{
+  "id": "mango-mojito-pitcher",
+  "restaurant": "Havana",
+  "heroImage": "mango-mojito-pitcher.jpg",
+  "title": "Mango Mojito Pitcher",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Mango Mojito Pitcher",
+      "items": [
+        "350ml White Rum",
+        "3 Limes, in wedges",
+        "3 ½ Tbsp Brown Sugar",
+        "20 Fresh Mint Leaves",
+        "1 Mango, cubed",
+        "1 Orange, sliced",
+        "Soda Water",
+        "Crushed Ice"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Mango Mojito Pitcher",
+      "steps": [
+        "Muddle the limes, sugar, rum, and most of the mint in the pitcher until the sugar has dissolved. Add half of the mango and orange and muddle some more to break them up. Fill the pitcher with ice and the remaining fruit and stir. Top with soda water and garnish with the remaining mint."
+      ]
+    }
+  ]
+}

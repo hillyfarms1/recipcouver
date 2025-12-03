@@ -1,0 +1,79 @@
+{
+  "id": "jerk-prawns-and-green-papaya-salad",
+  "restaurant": "Calabash Bistro",
+  "heroImage": "jerk-prawns-and-green-papaya-salad.jpg",
+  "title": "Jerk Prawns & Green Papaya Salad",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Green Papaya Salad",
+      "items": [
+        "¾ Cup saltfish rehydrated, optional",
+        "4 Cups or 800g green papaya",
+        "¼ Cup red pepper",
+        "¼ Cup yellow pepper",
+        "½ bunch green onion",
+        "1 tsp coriander"
+      ]
+    },
+    {
+      "heading": "Dressing",
+      "items": [
+        "¼ Cup mango pulp",
+        "¼ Cup apple cider vinegar",
+        "1 Cup olive oil",
+        "½ bunch cilantro",
+        "1 tsp black pepper",
+        "Salt to taste"
+      ]
+    },
+    {
+      "heading": "Prawns",
+      "items": [
+        "450g prawns",
+        "3 Tbsp jerk marinade"
+      ]
+    },
+    {
+      "heading": "Coconut Jumby",
+      "items": [
+        "45ml El Dorado 3 white rum",
+        "120ml coconut water",
+        "15ml agave syrup",
+        "Lemongrass",
+        "Mint",
+        "Lime zest",
+        "Fresh or dried coconut slivers"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Salad & Dressing",
+      "steps": [
+        "Rinse the saltfish, if using, and cook in boiling water for 5 minutes.",
+        "Peel and de-seed the papaya and then shred using a mandoline.",
+        "Finely dice the peppers, chop up the green onion and mix both with the shredded papaya, saltfish and coriander.",
+        "Add the vinegar, mango pulp, black pepper and chopped-up coriander to a bowl. Slowly add the oil while whisking until the dressing is emulsified.",
+        "Add half of the dressing to papaya salad and season to taste."
+      ]
+    },
+    {
+      "heading": "Prawns",
+      "steps": [
+        "Marinate the prawns in the jerk marinade for at least a few hours.",
+        "Grill the prawns over a high heat for around 30 seconds per side then arrange on top of the salad and serve."
+      ]
+    },
+    {
+      "heading": "Coconut Jumby",
+      "steps": [
+        "Cut a 4-5cm length from a stem of lemongrass and thoroughly muddle in an empty cocktail shaker. Add 2 mint leaves and roughly 1 tsp of lime zest and muddle some more.",
+        "Measure in the rum, coconut water and agave syrup, top with ice and shake well.",
+        "Double strain into a tall glass full of fresh ice.",
+        "Garnish with a few mint leaves, a pinch of lime zest and coconut."
+      ]
+    }
+  ]
+}

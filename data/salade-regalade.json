@@ -1,0 +1,78 @@
+{
+  "id": "salade-regalade",
+  "restaurant": "La Régalade",
+  "heroImage": "salade-regalade.jpg",
+  "title": "Salade Régalade",
+  "book": "The North Shore Foodie",
+  "notes": "This is Chef Alain Rayé's take on a Caesar Salad. The piling of the warm seafood on top of the already more tender baby romaine lettuce results in a comforting, wholesome dish that is still light like a salad.",
+  "ingredientSections": [
+    {
+      "heading": "Vinaigrette",
+      "items": [
+        "1 Egg yolk",
+        "30ml Dijon mustard",
+        "1 Cup Olive oil",
+        "80ml Lobster stock (available from specialty stores)",
+        "40ml Lemon juice (About 2 lemons)",
+        "Small sprig tarragon",
+        "½ Clove garlic",
+        "30ml Freshly grated parmesan cheese",
+        "1 Anchovy fillet",
+        "Small dash tabasco",
+        "Salt and white pepper to taste"
+      ]
+    },
+    {
+      "heading": "Salad",
+      "items": [
+        "1Tbsp Olive oil",
+        "10 Prawns, shelled, devained and uncooked",
+        "¼ Cup Minced onion",
+        "15 Small Calamari cleaned and left whole",
+        "¼ Cup Diced bacon, cooked and drained",
+        "¼ Cup Diced tomato",
+        "1Tbsp Chopped green onion",
+        "Sea salt",
+        "A good Pinch of piment d'Espelette (available from specialty stores) or sweet Hungarian paprika",
+        "10 Heads Baby romaine lettuce"
+      ]
+    },
+    {
+      "heading": "Garnish",
+      "items": [
+        "Croutons",
+        "Lemon wedges",
+        "Freshly grated parmesan cheese"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "The Vinaigrette",
+      "steps": [
+        "Combine all the vinaigrette ingredients in a blender and pulse until they emulsify. This dressing will keep for up to a week in an airtight container in the refrigerator."
+      ]
+    },
+    {
+      "heading": "The Salad",
+      "steps": [
+        "Preheat a pan over a high heat and add the oil.",
+        "Sauté the prawns for about 3 minutes and remove from the pan.",
+        "In the same hot pan sauté the onion, calamari and bacon together.",
+        "At the last minute add the tomato and green onion.",
+        "Season with salt and a pinch of piment d'Espelette.",
+        "In a bowl mix the baby romaine with around 5 tbsp of the vinaigrette and toss loosely. Do not do this before cooking the warm ingredients as the vinaigrette will burn the romaine."
+      ]
+    },
+    {
+      "heading": "Serving Up",
+      "steps": [
+        "Pile the dressed romaine in the centre of large bowl plates.",
+        "Stack the cooked ingredients on top of the lettuce and let tumble down the sides.",
+        "Crown the dish with the prawns.",
+        "Sprinkle parmesan over the top and add the croutons.",
+        "Serve with lemon wedges."
+      ]
+    }
+  ]
+}

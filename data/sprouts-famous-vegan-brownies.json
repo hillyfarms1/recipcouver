@@ -1,0 +1,33 @@
+{
+  "id": "sprouts-famous-vegan-brownies",
+  "restaurant": "Sprouts And Seedlings",
+  "heroImage": "rootsShoots.jpg",
+  "title": "Sprouts' Famous Vegan Brownies",
+  "book": "The Plant-based Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Sprouts' Famous Vegan Brownies",
+      "items": [
+        "1 ⅓ Cups vegetable oil",
+        "1½ Cups soy milk",
+        "1 Tbsp vanilla",
+        "4 Cups sugar",
+        "1 ⅓ Cups cocoa",
+        "4 Cups flour",
+        "½ tsp salt"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Sprouts' Famous Vegan Brownies",
+      "steps": [
+        "Sift dry ingredients into a large bowl and mix the wet ingredients together in another bowl.",
+        "Create a mound out of the dry ingredients in the bowl and dig a little well in the top. Add the wet ingredients gradually into the well and stir together with a spatula. Allow to rest for around 30 minutes or even overnight.",
+        "Spread onto a baking tray lined with parchment paper about 2-3cm (1in) deep or 3-4cm (1½in) for extra fudgy brownies.",
+        "Bake for 30 minutes at 180°C (350°F)."
+      ]
+    }
+  ]
+}

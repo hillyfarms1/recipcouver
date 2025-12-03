@@ -1,0 +1,127 @@
+{
+  "id": "virtuous-pie",
+  "restaurant": "Stranger Wings Pizza",
+  "heroImage": "virtiousPie.jpg",
+  "title": "Virtuous Pie",
+  "book": "The Plant-based Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Blue Cheese Drizzle",
+      "items": [
+        "½ Cup Vegenaise",
+        "2 tsp tahini",
+        "1 Tbsp apple cider vinegar",
+        "¼ tsp onion powder",
+        "¼ tsp garlic powder",
+        "½ Tbsp nutritional yeast",
+        "¼ tsp salt",
+        "1 clove garlic",
+        "½ Tbsp lemon juice",
+        "1½ Tbsp water"
+      ]
+    },
+    {
+      "heading": "Buffalo Cauliflower",
+      "items": [
+        "1 large cauliflower",
+        "300g chickpea flour",
+        "1 Tbsp paprika",
+        "¼ Tbsp cayenne pepper",
+        "½ Tbsp onion powder",
+        "½ Tbsp garlic powder",
+        "½ Tbsp kosher salt",
+        "½ Tbsp black pepper, coarsely ground",
+        "500ml water (approx)",
+        "½ Cup bbq sauce",
+        "½ Cup sriracha sauce",
+        "¼ tsp tapioca flour"
+      ]
+    },
+    {
+      "heading": "Cauliflower Bianca",
+      "items": [
+        "250g (½ lb) cauliflower trimmings from above buffalo recipe",
+        "150g potato, skin on",
+        "60g white onion",
+        "4 cloves garlic",
+        "½ Tbsp lemon juice",
+        "½ Tbsp chickpea miso",
+        "¼ Tbsp salt",
+        "¼ tsp ground nutmeg",
+        "1 Tbsp nutritional yeast",
+        "1 Tbsp tapioca flour"
+      ]
+    },
+    {
+      "heading": "Pizza Dough",
+      "items": [
+        "4 Cups whole wheat or all-purpose flour or a combination of both",
+        "1 Tbsp sugar",
+        "1 tsp salt",
+        "¼ Cup olive oil",
+        "8g active dried yeast"
+      ]
+    },
+    {
+      "heading": "Stranger Wings Pizza",
+      "items": [
+        "Fried shallots",
+        "Spring onions",
+        "Pizza dough",
+        "Bianca sauce",
+        "Buffalo Cauliflower",
+        "“Blue Cheese” Drizzle"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Blue Cheese Drizzle",
+      "steps": [
+        "Mince the garlic clove, add all ingredients to a bowl and whisk together.",
+        "Transfer to a squeeze bottle and store in the fridge until ready to serve."
+      ]
+    },
+    {
+      "heading": "Cauliflower Bianca",
+      "steps": [
+        "Roughly chop the cauliflower trimmings, potato and onion. Place in a microwave safe container with 300ml of water and microwave for 4-5 minutes to steam and soften.",
+        "While still hot add to a blender, water and all, along with all the remaining ingredients, except the tapioca flour, and blend until smooth.",
+        "Create a slurry out of the tapioca flour with 2 Tbsp of water. Transfer the blended mix to a saucepan, stir through the slurry and simmer until it has thickened into a sauce. Set aside until building the pizza."
+      ]
+    },
+    {
+      "heading": "Buffalo Cauliflower",
+      "steps": [
+        "Preheat the oven to 230°C (450°F). Cut the cauliflower into bite-size florets separating the best 700g (1½ lb) from the stalky parts. Save the stalky parts and remaining florets for the Bianca recipe below.",
+        "Mix all the remaining ingredients, except the bbq and sriracha sauces and tapioca flour, in a large bowl. Add the water last and adjust the amount until a good batter consistency is achieved.",
+        "Add the cauliflower florets to the bowl and gently toss until fully coated. Try not to break up the cauliflower any more than it is, work in batches if necessary.",
+        "Line a few oven trays with parchment paper and spray or wipe with cooking oil. Arrange the florets being careful not to overcrowd and leaving space between each piece.",
+        "Place in the oven for 8-10 minutes for a convection oven or around 20 minutes for a conventional oven. The cauliflower should be cooked but not browning too much. Remove from the oven and allow to cool completely.",
+        "Whisk the bbq and sriracha sauces and tapioca flour together in a large bowl. Gently toss the cooked and cooled cauliflower until each piece is evenly coated. Set aside until building the pizza."
+      ]
+    },
+    {
+      "heading": "Pizza Dough",
+      "steps": [
+        "Pour 1½ cups of warm water into a large bowl, stir in the sugar, sprinkle with the yeast and let stand until foamy (about 5 minutes).",
+        "Stir the oil and salt into yeast mixture. Add the flour and stir until a sticky dough forms.",
+        "Transfer dough to a lightly oiled bowl and lightly brush the top with oil. Cover with plastic wrap or a dry tea towel and set aside in a warm, draft-free place until dough has doubled in size (30 minutes to an hour).",
+        "Turn out onto a lightly floured work surface and gently knead once or twice before using.",
+        "If you have the time you could let it stand for another 30 minutes to an hour, this will result in better structured pizza base. Gently knead once or twice between the standing periods to release the gas bubbles formed by the yeast."
+      ]
+    },
+    {
+      "heading": "Stranger Wings Pizza",
+      "steps": [
+        "Preheat the oven to 260°C (500°F), ideally with a pizza stone.",
+        "Divide the dough in two and stretch out to roughy 30cm (12in) diameter on a well-floured work surface. Unless you’re a seasoned pro, it’s easiest using a rolling pin. The dough should be quite thin.",
+        "Spread the Bianca sauce around the base until it’s evenly covered and roughly 1cm (½in) from the edges and then arrange the 12-15 Buffalo Cauliflower florettes on top of this.",
+        "Bake in the oven for 5-10 minutes or until the crust is starting the develop a nice colour.",
+        "When cooked, drizzle some “Blue Cheese” Drizzle over the top and scatter some chopped spring onions and fried shallots.",
+        "Cut with a wheel knife and serve."
+      ]
+    }
+  ]
+}

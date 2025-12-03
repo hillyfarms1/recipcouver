@@ -1,0 +1,32 @@
+{
+  "id": "beet-gorgonzola-pistachio-pizza",
+  "restaurant": "Bridge Brewing Company",
+  "heroImage": "beet-gorgonzola-pistachio-pizza.jpg",
+  "title": "Pale Ale Pizzas, Beet, Gorgonzola and Pistachio",
+  "book": "The North Shore Foodie",
+  "notes": "Recipes created by Krissy Seymour. krissy@fraichecreations.com",
+  "ingredientSections": [
+    {
+      "heading": "Beet, Gorgonzola & Pistachio Pizza",
+      "items": [
+        "1 Flatbread",
+        "1 Medium Golden beet",
+        "1 Medium Red beet",
+        "½ Cup Gorgonzola crumbled",
+        "A handful pistachios chopped",
+        "Heirloom tomato and birdseye chilli sauce",
+        "Fresh farmers cheese",
+        "Pickled red onions"
+      ]
+    }
+    ]
+    {
+      "heading": "Beet, Gorgonzola & Pistachio Pizza with Pickled Red Onion",
+      "steps": [
+        "Beer Pairing: Bridge Brewing All Out Stout.",
+        "Scrub beets and wrap in foil. Bake at 200°C (400°F) for approximately 45-60 minutes or until tender. Once cool, remove the skins with a knife and slice beets into thin slices.",
+        "Preheat oven to 220°C (425F). Generously spread tomato sauce onto flatbread. Line with slices of red and golden beet. Scatter gorgonzola and pistachios and top with dollops of farmers cheese.",
+        "Place on oven rack and bake for 10 minutes or until crispy around the edges. Top with a sparing amount of pickled red onion."
+      ]
+    }
+    }

@@ -1,0 +1,91 @@
+{
+  "id": "braised-boneless-short-rib",
+  "restaurant": "The Cascade Room",
+  "heroImage": "braised-boneless-short-rib.jpg",
+  "title": "Braised Boneless Short Rib",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Ribs",
+      "items": [
+        "4 Short Ribs",
+        "1 Onion, peeled, roughly chopped",
+        "3 Sticks Celery, rinsed, cut into 4",
+        "1 Large Carrot peeled, cut into 4",
+        "6 Cloves Garlic",
+        "2L Beef Stock",
+        "¼ Cup Tomato Paste",
+        "½ Cup Red Wine",
+        "⅛ Cup Red Wine Vinegar",
+        "2 Tbsp Butter",
+        "Salt & Pepper",
+        "Canola Oil"
+      ]
+    },
+    {
+      "heading": "Aromatics",
+      "items": [
+        "4 Bay Leaves,",
+        "1 Tbsp Black Peppercorns,",
+        "1 Clove",
+        "1 Star Anise",
+        "½ Stick Cinnamon",
+        "Fresh Thyme"
+      ]
+    },
+    {
+      "heading": "Potatoes",
+      "items": [
+        "3 Large Yukon Gold Potatoes",
+        "½ Cup butter",
+        "½ Cup Whipping Cream",
+        "Salt",
+        "¼ Cup Parsley and Chives, chopped",
+        "2 Whole Bulbs Garlic"
+      ]
+    },
+    {
+      "heading": "Kale",
+      "items": [
+        "2 bunches Kale, cleaned",
+        "⅛ Cup Vegetable Sock, or water",
+        "1 Tbsp Butter",
+        "Salt & Pepper"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Ribs",
+      "steps": [
+        "Ask any good butcher for four boneless short ribs cut to 5x8cm (2x3in).",
+        "Preheat the oven to 190°C (375°F). Heat a braising pan to a high heat and add enough canola oil to cover the bottom.",
+        "Heavily season the ribs with salt and pepper and place in the pan. Sear evenly on all sides, turning when each side is golden brown. Remove ribs from the pan and rest on a plate.",
+        "Place the onion, celery, carrot, and garlic into the pan and cook until caramelized and the onion is starting to become translucent.",
+        "Add the tomato paste, mix through, and then add the red wine and vinegar and reduce by half.",
+        "Add beef stock and aromatics and place ribs back into pan. Heat to a simmer then remove from heat, tightly cover with foil and place in the preheated oven for 4 hours.",
+        "When the meat is fall-apart tender remove from the oven and allow to sit in the pan for 30 minutes. Remove ribs and strain the braising liquid into a saucepan and reduce by half.",
+        "Add the butter to the jus and cook down to desired thickness, season to taste."
+      ]
+    },
+    {
+      "heading": "Potatoes",
+      "steps": [
+        "Fill a large saucepan with heavily salted water and bring to the boil.",
+        "Cut the tops off each whole bulb of garlic exposing the ends of the cloves. Rub all over in olive oil, wrap in foil and place in oven 25 minutes. (While the ribs are cooking).",
+        "Peel the potatoes cut into cubes and boil until soft, 15-20 minutes.",
+        "Drain and place back into the same saucepan. Remove the garlic from the oven and squeeze the ends, releasing the cooked cloves. Add to potatoes.",
+        "Add the butter and cream and mash until smooth, stir in the chopped herbs and season to taste."
+      ]
+    },
+    {
+      "heading": "Kale",
+      "steps": [
+        "Heat a large frying pan to a medium heat.",
+        "Place kale into the frying pan along with stock, butter, and seasoning.",
+        "Cook until wilted and tender."
+      ]
+    }
+  ]
+}

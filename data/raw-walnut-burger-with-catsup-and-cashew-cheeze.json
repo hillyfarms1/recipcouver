@@ -1,0 +1,97 @@
+{
+  "id": "raw-walnut-burger-with-catsup-and-cashew-cheeze",
+  "restaurant": "Blue Heron Cheese",
+  "heroImage": "blueHeron2.jpg",
+  "title": "Raw Walnut Burger With Catsup And Cashew Cheeze",
+  "book": "The Plant-based Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Raw Walnut Burger",
+      "items": [
+        "½ Cup sunflower seeds",
+        "½ Cup walnut pieces",
+        "¼ Cup ground flax seeds",
+        "½ Cup pumpkin seeds",
+        "3 tsp apple cider vinegar",
+        "2 tsp salt",
+        "½ tsp pepper",
+        "¼ Cup olive oil",
+        "3 tsp dried oregano",
+        "1 tsp garlic powder",
+        "1 Tbsp miso",
+        "2 cloves garlic",
+        "2 Tbsp psyllium husk"
+      ]
+    },
+    {
+      "heading": "Raw Catsup",
+      "items": [
+        "225g fresh tomatoes",
+        "6 medjool dates",
+        "½ tsp black pepper",
+        "1 clove garlic",
+        "Pinch ground cloves",
+        "1 Tbsp apple cider vinegar",
+        "¼ tsp cumin",
+        "¼ tsp cinnamon",
+        "Salt to taste",
+        "1 tsp coconut sugar or maple syrup or coconut syrup (optional)",
+        "½ tsp psyllium husk"
+      ]
+    },
+    {
+      "heading": "Raw Cashew Cheeze Sauce",
+      "items": [
+        "1 Cup macadamia nuts",
+        "1 Cup cashews",
+        "2-3 Tbsp nutritional yeast",
+        "1½ tsp salt",
+        "2 Tbsp lemon juice",
+        "1 Tbsp apple cider vinegar",
+        "Your choice of herbs, spices and/or garlic"
+      ]
+    },
+    {
+      "heading": "To Serve",
+      "items": [
+        "Burger bun or similar",
+        "Fresh tomato",
+        "Lettuce or other greens",
+        "Pickled cucumber and/or beet, sauerkraut, sautéed mushrooms, caramelized onion and/or mustard"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Raw Walnut Burger",
+      "steps": [
+        "Soak the sunflower seeds and walnuts separately, for at least 30 minutes.",
+        "Place the soaked and rained walnut pieces, ground flax and psyllium husk into a blender and blend on a low speed until finely ground.",
+        "Drain the sunflower seeds and add to the blender along with the garlic cloves, and pulse some more. Add the remaining ingredients and pulse until the mixture is well combined and clumping together.",
+        "Transfer the mixture to a bowl and knead a few times so the psyllium and flax can start absorbing moisture. Check and adjust the seasoning as required. Measure out ¼ cup portions of the mixture, shape into small burger patties then place on a parchment lined baking tray.",
+        "These burgers can be eaten raw or pan fried. For the latter simply fry in a hot pan with a small splash of oil until coloured to your liking. For a raw version you can use either an oven or dehydrator. Set the oven to its lowest temperature and dehydrate the burger patties for 60 minutes per side. If you have a dehydrator set it to 55°C (135°F) for around 6 hours, flipping the patties halfway through."
+      ]
+    },
+    {
+      "heading": "Raw Catsup",
+      "steps": [
+        "Wash the tomatoes, remove their cores and roughly chop. Place all ingredients into a blender and start blending on a low speed. As the mixture combines, increase the speed up to medium.",
+        "If the resulting catsup is too runny, strain some of the liquid using a fine nut milk bag or cheesecloth. Keeps for up to 5 days covered in the refrigerator."
+      ]
+    },
+    {
+      "heading": "Raw Cashew Cheeze Sauce",
+      "steps": [
+        "Soak the cashews and macadamia nuts for ½-1 hour. Place all the ingredients, except the herbs, spices or garlic, into a blender. Pulse until broken down, add water a little at a time and blend into a thick spread consistency.",
+        "Transfer the mixture to a bowl and fold in the herbs, spices and/or garlic to taste. Keep covered and refrigerate. Keeps for up to 7 days."
+      ]
+    },
+    {
+      "heading": "To Serve",
+      "steps": [
+        "Build the burgers as desired layering the burger patty with the cheeze and catsup along with your choice of other toppings and flavours. Sautée a few large mushroom caps to use as an interesting alternative to burger buns."
+      ]
+    }
+  ]
+}

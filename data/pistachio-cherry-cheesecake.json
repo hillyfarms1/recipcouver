@@ -1,0 +1,74 @@
+{
+  "id": "pistachio-cherry-cheesecake",
+  "restaurant": "The Snug Cafe",
+  "heroImage": "pistachio-cherry-cheesecake.jpg",
+  "title": "Pistachio and Sour Cherry Cheesecake",
+  "book": "The North Shore Foodie",
+  "notes": "To water bath or not? A water bath cooks the cake more evenly by slowing the cooking around the outside and allowing the middle to keep up. This results in a creamier filling and reduces the risk of cracking. Simply place the springform tin in a larger roasting tray and the fill with water until it is part way up the side of the springform. If you have a very good quality springform then a water bath is a good idea but it is still important to cover the bottom and sides of the pan with foil to help prevent water leakage. If you only have an old flimsy springform it's fine to skip the water bath and cook the cake at 150°C (300°F) instead of 180°C (350°F) for a bit longer.",
+  "ingredientSections": [
+    {
+      "heading": "Crust",
+      "items": [
+        "1 Cup Graham cracker crumbs",
+        "1 Cup Salted toasted pistachios",
+        "½ Cup Unsalted butter",
+        "¼ Cup White sugar"
+      ]
+    },
+    {
+      "heading": "Filling",
+      "items": [
+        "900g Cream cheese (room temperature)",
+        "1 Cup White sugar",
+        "1 Cup Bottled sour cherries (pitted and drained; save the juice though)",
+        "1 Tbsp Cornstarch",
+        "⅛ tsp Salt",
+        "½ Cup Sour cream",
+        "1 tsp Vanilla essence, good quality",
+        "3 Large Eggs",
+        "1 Large Egg yolk",
+        "⅓ Cup Lemon Juice"
+      ]
+    },
+    {
+      "heading": "Topping and Garnish",
+      "items": [
+        "1½ Cups Liquid from the jarred sour cherries",
+        "3 Tbsp Cornstarch",
+        "3 Tbsp Cold water",
+        "½ Cup Roasted, salted pistachios – roughly chopped"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Preparation",
+      "steps": [
+        "Preheat the oven to 180°C (350°F) with the rack in a low to middle height within the oven. Grease the a 10in springform tin and wrap the base in foil if using a water bath. Drain your bottled cherries reserving the liquid for later. Leave the cream cheese on the counter to come to room temperature."
+      ]
+    },
+    {
+      "heading": "Crust",
+      "steps": [
+        "Put your pistachios in the food processor with the blade attachment and grind until a similar texture to the graham cracker crumbs, then add the graham crackers crumbs and pulse a few times to combine.",
+        "In a bowl combine the pistachio graham cracker mixture with the unsalted butter and sugar and mix with your hands until it holds together. Turn this mixture into your prepared springform and press the crust into the base and 3cm up the side. Bake the crust for 10 minutes or until lightly golden and set. Set crust aside to cool."
+      ]
+    },
+    {
+      "heading": "Filling",
+      "steps": [
+        "Combine the room temperature cream cheese, cornstarch, salt and sugar in the bowl of a mixer. Using the paddle attachment beat on medium speed for 2 minutes then scrape down the sides of the bowl with a spatula and beat again for another 2 minutes until light and creamy.",
+        "Add the sour cream, lemon juice and vanilla and beat until incorporated again, scraping down the sides with a spatula. Beat in each egg separately waiting until the last egg is just about incorporated before adding the next. Scrape down the sides of the bowl with a spatula making sure you scrape the bottom of the bowl as well. Ensure that all the ingredients are well incorporated.",
+        "Sprinkle your drained cherries over the cooled base. Pour the cream cheese batter over the cherries and crust. Place in the middle of the oven and bake for roughly 45 minutes. The cheesecake is ready when the outer rim is starting to puff but the middle still has some jiggle. As all ovens differ, its best to keep an eye on the cake and use the jiggle test instead of just setting a timer for 45 minutes.",
+        "Once the cake is done open the oven door a crack and turn it completely off, allowing the cake to cool to room temperature in there. This is a very important step to prevent cracking. Once the cake is room temperature transfer to the fridge for at least 12 hours."
+      ]
+    },
+    {
+      "heading": "Topping",
+      "steps": [
+        "Bring the cherry juice to a simmer. Mix cornstarch with water and add to simmering liquid. Once the mixture is thickened allow to boil for 2 minutes, remove and chill. Take cheesecake from the fridge and run a warm knife around the sides of the springform and remove the pan from the base.",
+        "Spread the thickened cherry juice over the top of the cake and decorate the rim with chopped pistachios."
+      ]
+    }
+  ]
+}

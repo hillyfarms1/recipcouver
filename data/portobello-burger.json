@@ -1,0 +1,116 @@
+{
+  "id": "portobello-burger",
+  "restaurant": "Indigo Age Cafe",
+  "heroImage": "indigoAge2.jpg",
+  "title": "Portobello Burger",
+  "book": "The Plant-based Foodie",
+  "notes": "Gluten-free, diabetic friendly, raw",
+  "ingredientSections": [
+    {
+      "heading": "Veg Burger",
+      "items": [
+        "350g carrots",
+        "425g zucchini",
+        "30g onion",
+        "165g sunflower seeds",
+        "135g pumpkin seeds",
+        "6g cumin seeds",
+        "2g black pepper",
+        "4g coriander",
+        "2g garam masala",
+        "6g salt",
+        "25g olive oil",
+        "10g lemon juice",
+        "2g apple cider vinegar"
+      ]
+    },
+    {
+      "heading": "Marinated Portobello & Onion",
+      "items": [
+        "6 large portobello mushrooms",
+        "1 Cup red onions, diced",
+        "1 Cup nama shoyu or tamari",
+        "½ Cup agave syrup or coconut nector"
+      ]
+    },
+    {
+      "heading": "Alfredo Sauce",
+      "items": [
+        "1 Cup organic cashews",
+        "2 cloves garlic",
+        "¼ tsp sea salt",
+        "2 Tbsp lemon juice",
+        "⅓ Cup nutritional yeast",
+        "¾ Cup water",
+        "1 tsp apple cider vinegar"
+      ]
+    },
+    {
+      "heading": "Guacamole",
+      "items": [
+        "3 avocados",
+        "2-3 sprigs fresh cilantro",
+        "¼ jalapeño with seeds",
+        "Pinch salt to taste",
+        "1 Tbsp lime or lemon juice"
+      ]
+    },
+    {
+      "heading": "Salsa",
+      "items": [
+        "¼ bunch cilantro",
+        "½ mango",
+        "2 tomatoes",
+        "⅓ small onion",
+        "¼ jalapeño",
+        "1 Tbsp lime juice to taste",
+        "Pinch sea salt and pepper to taste"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Marinated Portobello And Onion",
+      "steps": [
+        "Dice the onion and clean and remove the stalk from the mushrooms. Mix the nama shoyu or tamari with the syrup or nector and 1 cup of water in a large baking dish. Add the onions and allow to marinate for 1-3 hours.",
+        "Add the mushrooms and allow to marinate for another hour. Drain and place in a dehydrator for 10 hours at 45°C (115°F). Or place in a baking dish, marinade liquid and all, into the oven preheated to 180°C (350°F) for 20 minutes or until the mushrooms are soft. Remove the mushrooms and onions from the liquid."
+      ]
+    },
+    {
+      "heading": "Veg Burger",
+      "steps": [
+        "Add all ingredients to a food processor and process until everything comes together. Form the processed mix into 6 burger patties.",
+        "Transfer to a dehydrated tray and dry them for 6 hours before flipping and drying the other side for other 4 hours. Start at the dehydrator’s highest temperature for 1 hour and then reduce the temperature 45°C (115°F).",
+        "If you don’t have a dehydrator and don’t follow a raw diet, you can bake the burgers in the oven on parchment paper at 180°C (350°F) for 20 minutes on one side before flipping and cooking for another 5 minutes."
+      ]
+    },
+    {
+      "heading": "Alfredo Sauce",
+      "steps": [
+        "Soak the cashews in water for 2 hours, drain and rince under fresh water.",
+        "Add all ingredients to a blender and blend until creamy."
+      ]
+    },
+    {
+      "heading": "Guacamole",
+      "steps": [
+        "Remove the skin and seed from the avocados, add all ingredients to a food processor and process until smooth."
+      ]
+    },
+    {
+      "heading": "Salsa",
+      "steps": [
+        "Chop the cilantro and jalapeño, peel and dice the mango and dice the tomato.",
+        "Mix everything together in a bowl with a fork and adjust the seasoning and acidity if necessary."
+      ]
+    },
+    {
+      "heading": "To Serve",
+      "steps": [
+        "Arrange the mushrooms with gills facing up on a work surface. Generously spread the alfredo sauce on the mushrooms and top this with some marinated onions.",
+        "Add the patty next and spread it liberally with guacamole. Sprinkle salsa on top of the guacamole.",
+        "Serve with your choice of fresh salad, cut tomatoes and dehydrated eggplant and dress with the Alfredo Sauce."
+      ]
+    }
+  ]
+}

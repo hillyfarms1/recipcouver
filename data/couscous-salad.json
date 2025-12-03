@@ -1,0 +1,47 @@
+{
+  "id": "couscous-salad",
+  "restaurant": "The Gourmet Warehouse",
+  "heroImage": "couscous-salad.jpg",
+  "title": "Couscous Salad",
+  "book": "The East Van Foodie",
+  "notes": "Couscous isn't a grain, it's more like a type of pasta made from semolina wheat. Middle Eastern Couscous is much larger in size than the more common granular kind and is sometimes aptly called Pearl Couscous. This dish is great as a stand alone meal or as a side and if there are any left overs perfect for lunch the next day.",
+  "ingredientSections": [
+    {
+      "heading": "Couscous Salad",
+      "items": [
+        "½ Cup Sweet Port or Madeira",
+        "1 Cup Black Mission Figs, quarters",
+        "3 Tbsp Unsalted Butter",
+        "1 Spanish Onion, sliced",
+        "2 Cloves of Garlic, minced",
+        "½ Jalapeño, diced (optional)",
+        "1 tsp Ground Cinnamon",
+        "1 tsp Saffron Threads, ground into powder",
+        "1 ½ tsp Ground Cumin",
+        "1 tsp Ground Cardamom",
+        "5 Cups Chicken Stock",
+        "3 Cups Toasted Middle Eastern Couscous",
+        "2 Red Bell Peppers, roasted and diced OR the equivalent from a can or jar",
+        "½ Cup Fresh Parsley, chopped",
+        "½ Cup Fresh Cilantro, chopped",
+        "¼ Cup Fresh Mint, chopped",
+        "Salt and Pepper to taste",
+        "1 Cup Pistachio Nuts, toasted and chopped"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Couscous Salad",
+      "steps": [
+        "In a saucepan heat the Port or Madeira in a small pot, add the chopped figs and simmer for about 5 minutes, or until most of the liquid is absorbed. Set aside.",
+        "Melt the butter in a large frypan and sauté the onion, garlic and jalapeño until the onion is browned.",
+        "Add the cinnamon, cumin and cardamom and continue to cook for about a minute to bring out the spice flavours.",
+        "In a large pot bring the chicken stock to a boil, add the couscous and saffron and let simmer for about 5 minutes or until all the stock is absorbed.",
+        "Stir the cooked onion and fig mixtures into the couscous.",
+        "Add the diced peppers, all the fresh herbs and adjust the seasoning as necessary.",
+        "Turn out into a serving platter and garnish with the toasted pistachios."
+      ]
+    }
+  ]
+}

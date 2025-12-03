@@ -1,0 +1,54 @@
+{
+  "id": "pan-fried-cabbage-and-ugali",
+  "restaurant": "Kula Foods",
+  "heroImage": "farmersMarket.jpg",
+  "title": "Pan-Fried Cabbage And Ugali",
+  "book": "The Plant-based Foodie",
+  "notes": "Ugali is the name commonly used in the south-east of Africa for broadly similar cornmeal dishes that are a staple across the continent. It is, essentially, African polenta. When cooked, Ugali is used as a utensil to scoop up other dishes by hand. Pick up a half mouthful-sized ball of ugali and balance it on your three middle fingers. Push a divot into the ball with the thumb of the same hand. Use this as a spoon to scoop up, in this case, some fried cabbage. Collard greens can be either added to the cabbage or can replace it and in many parts of East Africa this is known as Sukuma Wiki, which translates to “stretch the week”, referring to making the dish last longer.",
+  "ingredientSections": [
+    {
+      "heading": "Pan-Fried Cabbage",
+      "items": [
+        "2 Tbsp olive oil",
+        "1 medium onion",
+        "2 cloves garlic",
+        "2 Tbsp tomato paste",
+        "2 large russet potatoes",
+        "½ red hot Thai pepper, optional",
+        "1 tsp harissa spice blend",
+        "1 medium cabbage",
+        "2 tsp salt"
+      ]
+    },
+    {
+      "heading": "Ugali",
+      "items": [
+        "2 Cups fine cornmeal",
+        "1 Tbsp olive oil",
+        "½ tsp salt"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Pan-Fried Cabbage",
+      "steps": [
+        "Dice the onion and potatoes, crush the garlic, finely slice the pepper, and chop the cabbage. Heat a large frying pan over a medium heat.",
+        "Add the olive oil, onion, garlic and hot pepper and, stirring occasionally, allow to soften before adding the harissa spice stirring well and cooking for a few more minutes.",
+        "Add the tomato paste, potatoes and stir, then add a ½ cup of water and cook for 10 minutes.",
+        "Add the cabbage and another cup of water and cook for another 15 minutes.",
+        "Add the salt and check the seasoning, cook for 5 more minutes."
+      ]
+    },
+    {
+      "heading": "Ugali",
+      "steps": [
+        "Add 3 cups of water to a large saucepan with the salt and oil and bring to a boil.",
+        "Gradually add the cornmeal while stirring with a wooden spoon and cook for 10 minutes. Reduce heat if lumps form.",
+        "Add another cup of water, stir and cook for another 10 minutes.",
+        "Remove from heat and allow to cool.",
+        "Serve the ugali on the side of the pan-fried cabbage and use it as a utensil to scoop up the cabbage."
+      ]
+    }
+  ]
+}

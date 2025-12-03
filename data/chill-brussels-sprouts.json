@@ -1,0 +1,90 @@
+{
+  "id": "chill-brussels-sprouts",
+  "restaurant": "Chill Winston",
+  "heroImage": "chill-brussels-sprouts.jpg",
+  "title": "Brussels Sprouts",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Pickled Asian Pear",
+      "items": [
+        "2 Asian pears",
+        "30ml yuzu juice (from an Asian grocery or use lemon)",
+        "2 tsp salt",
+        "15ml lemon juice",
+        "15ml lime juice",
+        "1 tsp Aleppo pepper flakes"
+      ]
+    },
+    {
+      "heading": "Sunflower Seed Butter",
+      "items": [
+        "2 Cups sunflower seeds",
+        "½ Cup canola oil",
+        "1 Tbsp salt"
+      ]
+    },
+    {
+      "heading": "Black Garlic Aioli",
+      "items": [
+        "4 cloves black garlic",
+        "2 cloves garlic",
+        "1 Tbsp lemon juice",
+        "1 tsp salt",
+        "1 egg yolk",
+        "250ml canola oil"
+      ]
+    },
+    {
+      "heading": "Brussels Sprouts",
+      "items": [
+        "900g Brussels sprouts, halved with the outer leaves removed",
+        "2 Tbsp canola oil",
+        "1 tsp salt",
+        "Juice of 1 lemon",
+        "Sunflower Seed Butter*",
+        "Black Garlic Aioli*",
+        "Pickled Pear*"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Pickled Asian Pear (prepare in advance)",
+      "steps": [
+        "Peel and finely dice Asian pear.",
+        "Combine the juices, salt and chili flakes.",
+        "Marinate the pear in juice mix overnight."
+      ]
+    },
+    {
+      "heading": "Sunflower Seed Butter",
+      "steps": [
+        "Preheat oven to 200°C (400°F).",
+        "Spread sunflower seed out on a baking tray and roast for 15-20 minutes or until they start to take on a little colour and become fragrant.",
+        "Transfer the toasted seeds to a food processor, add the salt and puree. Slowly add the oil while blending until smooth."
+      ]
+    },
+    {
+      "heading": "Black Garlic Aioli",
+      "steps": [
+        "Place the black garlic, garlic, lemon juice, salt and egg yolk in a food processor and blend until smooth.",
+        "Slowly add the canola oil to form an emulsion. If necessary, add a bit of room temperature water to thin the consistency.",
+        "Taste and adjust the seasoning as necessary."
+      ]
+    },
+    {
+      "heading": "Brussels Sprouts",
+      "steps": [
+        "Preheat oven to 200°C (400°F).",
+        "Bring a pot of water to a rolling boil and prepare an ice bath.",
+        "Blanch the sprouts in the boiling water for 4-5 minutes.",
+        "Remove from the heat, strain and then chill in the ice bath or under running cold water. Drain fully.",
+        "Toss the blanched sprouts in oil, season and spread on an oven tray. Roast for 20 to 25 minutes, or until they have softened a little and started to take on some colour.",
+        "Transfer to mixing bowl, season with lemon juice and toss with the sunflower butter.",
+        "Garnish with the aioli and pickled pear."
+      ]
+    }
+  ]
+}

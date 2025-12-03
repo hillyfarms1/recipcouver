@@ -1,0 +1,61 @@
+{
+  "id": "lamb-barbacoa",
+  "restaurant": "La Mezcaleria",
+  "heroImage": "lamb-barbacoa.jpg",
+  "title": "Lamb Barbacoa",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Barbacoa Marinade",
+      "items": [
+        "5 ancho chilies",
+        "2-4 morita or chipotle chilies",
+        "1 small onion",
+        "½ head garlic",
+        "4-5 grains or ½ tsp ground all-spice",
+        "½ stick cinnamon",
+        "2 bay leaves",
+        "½ tsp black pepper",
+        "2 Tbsp salt"
+      ]
+    },
+    {
+      "heading": "Lamb Barbacoa",
+      "items": [
+        "1 lamb shoulder (2-3 lbs)",
+        "1-2 banana leaves",
+        "⅔ Cup Barbacoa Marinade*",
+        "Kitchen twine",
+        "A deep oven-safe casserole dish or dutch oven with a lid",
+        "A small plate that fits in the above casserole dish"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Barbacoa Marinade",
+      "steps": [
+        "Clean the dried chilies by removing the stems and cutting them open to remove as many of the seeds as possible. If you like a bit more spice use a few more chilies; the marinating process will reduce the spiciness.",
+        "Place all the ingredients except the salt in a small saucepan and add just enough water to almost cover everything. Bring to a boil and then reduce to a simmer for a few minutes until the chilies are quite soft and the onion is transparent.",
+        "Transfer everything into a blender along with about half of the liquid and blend until smooth. Add more of the cooking liquid to thin if necessary.",
+        "Strain into a bowl, add the salt and stir thoroughly."
+      ]
+    },
+    {
+      "heading": "Lamb Barbacoa",
+      "steps": [
+        "Rinse the lamb under cold water and then coat it with the marinade thoroughly. Place in a bowl and allow to marinate overnight.",
+        "Place the banana leaves in a shallow pan and pour boiling water over them to make them soft and pliable.",
+        "Lay out the banana leaves and arrange them so as to have a large enough sheet to wrap the lamb in like a giant burrito. Tie the package securely with kitchen twine.",
+        "Place a small plate upside down in the bottom of the casserole dish to keep the banana leaves from touching the bottom and place the lamb leaf package on top of the plate.",
+        "Pour 1 Cup of water into the casserole dish and cover with the lid. Place in the oven at 165°C (325°F) for 3½ hours or until the internal temperature reaches 70°C (160°F).",
+        "Remove from the oven, spread the leaves with a fork gently and test the meat. It should pull apart easily and be very tender. If it still feels a bit firm, let it roast for another 30 minutes.",
+        "Re-wrap in the banana leaves, remove the package from the casserole dish and set aside. Pour the pan broth into a small saucepan and bring to a boil. Skim off the top layer of lamb fat and discard. Season to taste.",
+        "Serve the Barbacoa on a platter and open the banana leaves at the table so the heat is preserved. Use two forks to pull the lamb apart and serve.",
+        "Serve the broth on the side, it will add flavour and keep the dish nice and moist.",
+        "Barbacoa can be served with hot corn tortillas and your favourite salsa to make tacos, with rice and vegetables, or in a crispy bun as a pulled lamb sandwich."
+      ]
+    }
+  ]
+}

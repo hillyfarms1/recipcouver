@@ -1,0 +1,76 @@
+{
+  "id": "aussie-meat-pie",
+  "restaurant": "Aussie Pie Guy",
+  "heroImage": "aussie-meat-pie.jpg",
+  "title": "Aussie Meat Pie",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Pie Base",
+      "items": [
+        "400g Flour, plain, all-purpose",
+        "1 tsp Salt",
+        "100g Butter",
+        "190ml Cold Water",
+        "1 tsp Sugar",
+        "2 tsp Cornstarch"
+      ]
+    },
+    {
+      "heading": "Pie Top",
+      "items": [
+        "1 packet of Puff Pastry, thawed"
+      ]
+    },
+    {
+      "heading": "Pie Filling",
+      "items": [
+        "500g Stewing Beef, 1-2cm cubes",
+        "½ Large Red Onion, sliced",
+        "3 or 4 Cloves Garlic, sliced",
+        "1 Cup Pale Ale Beer",
+        "1 tsp Salt",
+        "2 tsp Black Pepper",
+        "¼ Cup Ketchup",
+        "900ml Beef Stock",
+        "Olive Oil"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Pie Base",
+      "steps": [
+        "In a mixing bowl, add salt to the flour and then cut in the butter until it's thoroughly coated in flour and in pea sized lumps.",
+        "Add water and sugar and form a lose dough with your fingers.",
+        "Remove the dough from the bowl and gently knead on a lightly-floured surface. Do not over work the dough and work quickly so the heat from your fingers doesn't melt the butter.",
+        "Let the dough rest for at least 20 minutes in the fridge."
+      ]
+    },
+    {
+      "heading": "Pie Filling",
+      "steps": [
+        "In a large pot, heat a splash of olive oil and sweat the onions. When they are near translucent add the cubed beef and brown on all tides. When the meat is partially browned add the garlic, salt, and pepper.",
+        "Add the ketchup, beer, and stock in that order, allowing to cook down for a few minutes between each addition.",
+        "Bring back to the boil, place a lid on the pot and reduce heat to low. Allow to simmer and reduce for 2 hours or until the meat is extra tender.",
+        "Strain roughly half a cup of the liquid out of the saucepan into a container. Thoroughly stir the cornstarch into liquid ensuring there are no lumps.",
+        "Pour back into the saucepan and bring to a boil while breaking up the meat.",
+        "When the gravy has thickened allow to cool."
+      ]
+    },
+    {
+      "heading": "Pies",
+      "steps": [
+        "Roll out the dough to about 4mm thick.",
+        "Cut the dough into rounds that will fill the bottom and sides of the moulds of a large muffin pan. The muffin moulds should be at least 10cm in diameter and 3-4cm deep.",
+        "Roll the defrosted puff pastry to 2mm thick and then into rounds slightly larger that the muffin moulds diameter.",
+        "Spoon the filling into the dough-lined moulds.",
+        "Wet the top rim of pastry in the mould with water, this will act as a glue for the lid.",
+        "Place the puff pastry lids on top of each pie and fold and crimp to top the pie. Poke a few holes in the lid to allow steam to escape.",
+        "Bake for 30 minutes at 180°C (350°F) or until the pastry is golden.",
+        "Serve with dead horse... tomato sauce (ketchup)."
+      ]
+    }
+  ]
+}

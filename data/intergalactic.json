@@ -1,0 +1,33 @@
+{
+  "id": "intergalactic",
+  "restaurant": "Guilt & Co",
+  "heroImage": "intergalactic.jpg",
+  "title": "Intergalactic",
+  "book": "The Gastown Foodie",
+  "notes": "Cachaça 51, also known as Brazilian Rum, is a distilled spirit made from sugarcane. It differs from rum in that it is made from fermented sugarcane juice, whereas rum is made from molasses, which is boiled, and reduced sugarcane juice. Cream of coconut is quite different from coconut cream or milk. It is sweetened and quite thick and primarily used for mixing drinks or in desserts. Coco Lopez or Coco Casa are popular brands.",
+  "ingredientSections": [
+    {
+      "heading": "Intergalactic",
+      "items": [
+        "22ml Diplomatico Reserva Exclusiva Rum",
+        "15ml Sons Of Vancouver No. 82 Amaretto",
+        "15ml Cinzano Martini Rosso",
+        "7ml Campari",
+        "1 small wedge grapefruit"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Intergalactic",
+      "steps": [
+        "Muddle the grapefruit — translation: mash the grapefruit in a large bar glass with the end of a rolling pin or something similar.",
+        "Measure all the ingredients into the same bar glass, fill with ice and then stir with a long cocktail spoon.",
+        "Fill a rocks glass with fresh ice.",
+        "Strain the stirred bar glass into the rocks glass.",
+        "Peel a good sliver of grapefruit peel and carefully hold it over a flame to heat it up. Give the hot peel a quick sharp squeeze over the cocktail while holding a flame to it. Heated up oils from the peel will briefly ignite. Aside from being a cool bit of theatre, this will coat the top of the cocktail with a delicious burnt citrus aroma.",
+        "Garnish with the burnt grapefruit peel or a fresh grapefruit twist."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "scallop-ceviche",
+  "restaurant": "Cuchillo",
+  "heroImage": "scallop-ceviche.jpg",
+  "title": "Scallop Ceviche",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Scallop Ceviche",
+      "items": [
+        "200g large fresh scallops with the abductor muscle removed",
+        "Juice of 2 limes",
+        "Juice of 1 lemon",
+        "60ml mirin",
+        "½ tsp salt"
+      ]
+    },
+    {
+      "heading": "Yam Jam",
+      "items": [
+        "450g yellow and/or orange yams",
+        "1 tsp ginger, finely diced",
+        "60ml olive oil",
+        "1 medium white onion",
+        "50g dried apricots",
+        "3 Tbsp sugar",
+        "¼ small red onion",
+        "1 jalapeño",
+        "5 sprigs cilantro",
+        "60ml rice wine vinegar"
+      ]
+    },
+    {
+      "heading": "Charred Buttered Corn",
+      "items": [
+        "2 ears of corn",
+        "Butter",
+        "Salt"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Scallop Ceviche",
+      "steps": [
+        "Stir the marinade ingredients together in a small sealable container.",
+        "Add the scallops and marinate in the refrigerator for around 6 hours."
+      ]
+    },
+    {
+      "heading": "Yam Jam",
+      "steps": [
+        "Preheat the oven to 180°C (350°F).",
+        "Peel the yams and slice into a 1cm dice. Place in a bowl, add the ginger and olive oil and mix well so the yam is evenly coated.",
+        "Transfer the yams to an oven tray, spread out evenly and roast for roughly 40 minutes, or until tender.",
+        "Roughly chop the apricots, place in a heat-proof container and pour boiling water over to just cover them. Stir through the sugar let sit and rehydrate for 15-20 minutes.",
+        "Dice the onion finely and sauté with a splash of oil over a medium heat until translucent.",
+        "Finely dice the red onion, de-seed and finely dice the jalapeño and roughly chop the cilantro.",
+        "Allow the yams to cool, transfer them to a mixing bowl and coarsely mash them with a fork.",
+        "Fold in the sautéed onion, rehydrated apricots, rice wine vinegar, diced red onions, diced jalapeño and cilantro.",
+        "Season to taste and then refrigerate."
+      ]
+    },
+    {
+      "heading": "Charred Buttered Corn",
+      "steps": [
+        "Husk the corn, cut into 2in rounds and steam for around 5 minutes or until tender.",
+        "Chargrill the cooked corn to add some colour and then douse in salted butter.",
+        "Arrange the charred buttered corn on serving plates, spoon the cold Yam Jam on top of the corn and garnish with fresh cilantro.",
+        "Top with scallops and season with good-quality sea salt."
+      ]
+    }
+  ]
+}

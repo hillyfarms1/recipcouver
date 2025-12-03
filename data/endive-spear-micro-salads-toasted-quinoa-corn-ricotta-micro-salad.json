@@ -1,0 +1,63 @@
+{
+  "id": "endive-spear-micro-salads-toasted-quinoa-corn-ricotta-micro-salad",
+  "restaurant": "The Preservatory",
+  "heroImage": "preservatory1.jpg",
+  "title": "Endive Spear Micro Salads - Toasted Quinoa, Corn, Ricotta Micro Salad",
+  "book": "The Plant-based Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Toasted Quinoa",
+      "items": [
+        "1 Cup white quinoa",
+        "¼ tsp salt",
+        "1¾ Cups water"
+      ]
+    },
+    {
+      "heading": "Dijon Dressing",
+      "items": [
+        "1 Tbsp fresh lemon juice",
+        "2 tsp Dijon mustard",
+        "1 Tbsp white wine vinegar",
+        "3 tsp Peach Jalapeño Tequila Preserve",
+        "1 garlic clove, minced",
+        "½ cup extra-virgin olive oil",
+        "Ground salt and pepper to taste"
+      ]
+    },
+    {
+      "heading": "Assembly",
+      "items": [
+        "24 Belgian endive leaves (approx. 2 heads)",
+        "1 cob corn",
+        "2 avocados",
+        "1 Tbsp lemon juice",
+        "Peach Jalapeño Tequila Preserve",
+        "Plant-based nut ricotta"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Toasted Quinoa",
+      "steps": [
+        "Rinse the quinoa until the water runs clear and then place in a saucepan. Cook over a medium heat while stirring continuously. It will dry and then begin to stick before beginning to toast to a light gold colour and smell toasted.",
+        "Add the water and salt, increase the heat and bring to a boil. Reduce the heat to a simmer and allow all the water to absorb, roughly 30 minutes."
+      ]
+    },
+    {
+      "heading": "Dijon Dressing",
+      "steps": [
+        "Whisk all of the ingredients together except the olive oil and salt and pepper. Slowly add the olive oil bit by bit while continuing to whisk. Season to taste."
+      ]
+    },
+    {
+      "heading": "Assembly",
+      "steps": [
+        "Cook and blacken the cob on a BBQ or griddle. Remove the corn from the cob and place in a bowl with the diced avocados, lemon juice and toasted quinoa. Season lightly to taste.",
+        "Arrange the endive spears so they are ready to fill. Place a spoonful of the filling mixture onto each endive spear along with a sprinkle of the crumbled ricotta and dressing. Serve with the preserve on the side."
+      ]
+    }
+  ]
+}

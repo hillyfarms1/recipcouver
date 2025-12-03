@@ -1,0 +1,52 @@
+{
+  "id": "red-watermelon-salad-with-raspberry-dressing",
+  "restaurant": "Indigo Age Cafe",
+  "heroImage": "indigoAge1.jpg",
+  "title": "Red Watermelon Salad With Raspberry Dressing",
+  "book": "The Plant-based Foodie",
+  "notes": "Gluten-free, diabetic friendly, raw. Coconut Nectar. Coconut nectar comes from the coconut’s flowers and is used as a natural sweetener. When dehydrated and granulated it becomes coconut sugar. It is low in fructose, unlike agave, and has a low GI (glycemic index) meaning it doesn’t spike blood sugar levels to the extent that some sweeteners do. This said, it is still a sweetener with lots of calories and little additional nutritional value. It has a light maple syrup, earthy flavour with a bittersweet aftertaste. In this recipe, coconut nectar could be substituted for maple syrup, honey or agave syrup.",
+  "ingredientSections": [
+    {
+      "heading": "Raspberry Dressing",
+      "items": [
+        "130g fresh raspberries",
+        "2 Tbsp organic balsamic reduction (blueberry or raspberry)",
+        "1 Tbsp coconut nectar",
+        "2 Tbsp cold pressed virgin olive oil"
+      ]
+    },
+    {
+      "heading": "Watermelon Salad",
+      "items": [
+        "1½ kg watermelon",
+        "140g green spring mix salad and watercress",
+        "40g raspberries",
+        "20g cherries (if in season)",
+        "⅓ Cup pomegranate seeds",
+        "2 tsp orange rind, grated",
+        "2 Tbsp fresh basil",
+        "1 Tbsp dried pink peppercorns"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Raspberry Dressing",
+      "steps": [
+        "Mash raspberries in a bowl.",
+        "Stir in the remaining ingredients.",
+        "Season to taste."
+      ]
+    },
+    {
+      "heading": "Watermelon Salad",
+      "steps": [
+        "Arrange green spring mix salad and watercress on a large serving platter.",
+        "Cut the watermelon into 1cm (½in) thick triangles.",
+        "Arrange the watermelon triangles on top of the green salad and drizzle with the raspberry dressing.",
+        "Halve the raspberries and cherries, removing the pits, and arrange on top of salad. Add the finely chopped basil leaves.",
+        "Sprinkle the pomegranate seeds, orange rind and peppercorns over everything and serve."
+      ]
+    }
+  ]
+}

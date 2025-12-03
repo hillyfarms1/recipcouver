@@ -1,0 +1,87 @@
+{
+  "id": "mostarda-di-pere-guinness-mustard-and-pickled-vegetables",
+  "restaurant": "Salt Tasting Room",
+  "heroImage": "mostarda-di-pere-guinness-mustard.jpg",
+  "title": "Mostarda di Pere, Guinness Mustard & Pickled Vegetables",
+  "book": "The Gastown Foodie",
+  "notes": "These condiments will go with any of your favourite charcuterie, but why not try it with Salt Tasting Room's own Salami range, locally produced from local product. Available online or from the restaurant. Pictured is the Smokey Salami, Whiskey Salami and goats cheese.",
+  "ingredientSections": [
+    {
+      "heading": "Mostarda di Pere",
+      "items": [
+        "4 bosc pears",
+        "1kg (approx) white sugar",
+        "1-2 star anise",
+        "1 small stick cinnamon",
+        "½ lemon",
+        "¼ Cup smooth Dijon mustard",
+        "½ Cup white mustard seeds"
+      ]
+    },
+    {
+      "heading": "Pickled Vegetables",
+      "items": [
+        "½ zucchini",
+        "1 carrot",
+        "½ English or seedless cucumber",
+        "500ml water",
+        "125ml apple cider vinegar",
+        "1 Cups sugar",
+        "2 Tbsp kosher salt",
+        "1 small bunch fresh thyme",
+        "1 large bay leaf",
+        "1 Tbsp pink peppercorns",
+        "1 Tbsp white peppercorns",
+        "1 Tbsp black peppercorns"
+      ]
+    },
+    {
+      "heading": "Guinness Mustard",
+      "items": [
+        "1 Cup smooth Dijon mustard",
+        "2 Cups grainy Dijon mustard",
+        "¼ Cup molasses",
+        "500ml Guinness",
+        "2 Tbsp honey"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Mostarda di Pere",
+      "steps": [
+        "Day 1: Peel the pears and place them in an airtight container.",
+        "Toast the star anise and the cinnamon in a pan until fragrant and add them to the peeled pears.",
+        "Pour in the sugar over the pears covering them completely.",
+        "Squeeze the lemon and pour the juice over the sugar.",
+        "Place the lid on the container and store in the fridge overnight.",
+        "Day 2: Remove the pears from the sugar mixture and set the pears aside.",
+        "Pour the sugar mixture into a saucepan and heat over a medium heat, stirring occasionally, until a uniform syrup forms.",
+        "Place the pears in a clean airtight container, pour the hot syrup over the top, and allow to cool to room temperature.",
+        "Place the lid on the container and store in the fridge overnight.",
+        "Day 3: Remove the pears from the syrup, core and slice them to a large dice. Discard the cores.",
+        "Add both the pears and the syrup to a saucepan and cook over a medium heat until pears have softened, about 8-12 minutes.",
+        "Remove the star anise and cinnamon stick and discard.",
+        "Purée into a uniform consistency. Add the Dijon mustard and purée together.",
+        "Stir through the mustard seeds and set aside to cool."
+      ]
+    },
+    {
+      "heading": "Pickled Vegetables",
+      "steps": [
+        "Place all the ingredients except the vegetables in a large saucepan and bring to a boil.",
+        "Immediately remove this brine from the heat and allow to cool to room temperature.",
+        "Wash the vegetables and slice them on a mandoline into 1mm slices.",
+        "Place the vegetables in a sealable container and pour the brine over. Refrigerate for 2 days before using."
+      ]
+    },
+    {
+      "heading": "Guinness Mustard",
+      "steps": [
+        "Place the Guinness in a small saucepan over medium heat and simmer and reduce to about 1/3 the original quantity.",
+        "Combine the remaining ingredients in a large bowl with a whisk.",
+        "Allow the reduced Guinness to cool a bit and then whisk into the mustard mixture."
+      ]
+    }
+  ]
+}

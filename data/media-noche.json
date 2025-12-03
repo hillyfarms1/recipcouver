@@ -1,0 +1,96 @@
+{
+  "id": "media-noche",
+  "restaurant": "Havana",
+  "heroImage": "media-noche.jpg",
+  "title": "Media Noche",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Tostones",
+      "items": [
+        "½ Plantain per serving",
+        "1L Oil, for frying",
+        "Salt and pepper to taste"
+      ]
+    },
+    {
+      "heading": "Chipotle Aioli",
+      "items": [
+        "8 parts Mayonnaise",
+        "1 part Chipotle in Adobo, blended"
+      ]
+    },
+    {
+      "heading": "Media Noche",
+      "items": [
+        "1 Portuguese Bun",
+        "15ml Dijon Mustard",
+        "2 Pickle Slices",
+        "50g Ham, sliced",
+        "125g Pulled Pork (recipe below)",
+        "2 Slices Swiss Cheese",
+        "15ml Mayonnaise"
+      ]
+    },
+    {
+      "heading": "Pulled Pork",
+      "items": [
+        "1kg Pork Shoulder (Pork Butt), boneless",
+        "400ml Vegetable Stock",
+        "12g Salt",
+        "2g Black Pepper",
+        "25g Ancho Powder",
+        "5 or 6 Cloves Garlic",
+        "1 Lime, sliced",
+        "1 Orange, sliced",
+        "½ Red Onion, diced",
+        "115ml Orange Juice"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Tostones",
+      "steps": [
+        "Heat the oil to 180°C (350°F).",
+        "Peel the plantains and cut them into 2-3cm (1in) pieces.",
+        "Fry the pieces in the oil until they begin to crisp on the outside.",
+        "Let cool for a few minutes, then squash them into medallions using a metal spatula or the bottom of a pan.",
+        "Fry these medallions in the oil again until crisp and golden brown.",
+        "Season with salt and pepper."
+      ]
+    },
+    {
+      "heading": "Chipotle Aioli",
+      "steps": [
+        "Using an immersion blender, blend both ingredients together.",
+        "Chill until served."
+      ]
+    },
+    {
+      "heading": "Media Noche",
+      "steps": [
+        "Preheat a sandwich press to medium hot.",
+        "Spread the mayonnaise and Dijon on the cut buns.",
+        "Lay the ham slices on the bottom bun then top with the pulled pork.",
+        "Add the pickles, followed by the cheese and top half of the bun.",
+        "Cook in the sandwich press until the cheese begins to melt and the sandwich is warm throughout.",
+        "Serve with tostones and chipotle aioli."
+      ]
+    },
+    {
+      "heading": "Pulled Pork",
+      "steps": [
+        "Preheat the oven to 165°C (325°F). Mix the salt, pepper, and ancho powder.",
+        "Score the fatty side of the pork shoulder and rub the spice mixture all over.",
+        "Place in a pot suitable for both stove top and oven cooking. Place the sliced fruit, whole peeled garlic, and chopped onions on top of the pork.",
+        "Pour the vegetable stock and orange juice into the pot, this should cover three-quarters of the meat.",
+        "Bring to a simmer on the stove top then cover and place in the oven at 165°C (325°F) for 6 hours.",
+        "Check the pork's internal temperature ensuring it has reached 90°C (190°F).",
+        "Remove from the cooking liquid and let cool for a few minutes, then using two forks pull the meat apart.",
+        "You will have leftovers for other recipes or it will freeze well too."
+      ]
+    }
+  ]
+}

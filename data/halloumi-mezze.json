@@ -1,0 +1,59 @@
+{
+  "id": "halloumi-mezze",
+  "restaurant": "Nuba",
+  "heroImage": "halloumi-mezze.jpg",
+  "title": "Halloumi Mezze",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Dressing",
+      "items": [
+        "¼ small onion",
+        "½ celery stalk",
+        "1 small carrot",
+        "25ml pomegranate molasses",
+        "½ tsp raw sugar",
+        "¼ tsp salt",
+        "40ml water",
+        "80ml olive oil",
+        "40ml red wine vinegar"
+      ]
+    },
+    {
+      "heading": "Halloumi",
+      "items": [
+        "250g halloumi cheese",
+        "1 tomato",
+        "A small bunch fresh mint",
+        "10g walnuts, almonds and/or cashews"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Dressing",
+      "steps": [
+        "Finely dice the onion, celery and carrot.",
+        "Sauté the onion in a splash of oil until caramelized.",
+        "Add the celery and carrots and stir until they begin to release steam.",
+        "Add the sugar, salt, water and pomegranate molasses. Bring to a boil and then simmer on a low heat for 10 minutes or until everything has softened.",
+        "Remove from the heat and allow to cool.",
+        "Add the red wine vinegar and olive oil to the cooked vegetables and then blend in a blender until smooth.",
+        "Pass through a strainer collecting the dressing in a bowl."
+      ]
+    },
+    {
+      "heading": "Halloumi and Tomato",
+      "steps": [
+        "Slice the halloumi into ½cm (¼in) thick pieces.",
+        "Slice the tomato to same thickness as the halloumi.",
+        "Roughly chop the nuts and finely shred the mint as a garnish.",
+        "Heat a frying pan with a splash of oil to medium high heat.",
+        "Pan fry the halloumi for roughly 2 minutes on each side until golden brown and some colour is starting on the sides.",
+        "Layer the cooked halloumi on a serving plate with the fresh tomato slices. Drizzle the dressing over each of the layers.",
+        "Sprinkle the chopped nuts over the top layer and finish with chopped mint."
+      ]
+    }
+  ]
+}

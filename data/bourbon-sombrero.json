@@ -1,0 +1,29 @@
+{
+  "id": "bourbon-sombrero",
+  "restaurant": "The Diamond",
+  "heroImage": "bourbon-sombrero.jpg",
+  "title": "Bourbon Sombrero",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Bourbon Sombrero",
+      "items": [
+        "40ml bourbon",
+        "15ml mezcal",
+        "15ml Lillet Rouge",
+        "10ml runny maple syrup*",
+        "1 dash Fee Brothers Black Walnut Bitters"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Bourbon Sombrero",
+      "steps": [
+        "To make runny maple syrup, combine equal parts maple syrup and hot water, and stir until integrated.",
+        "Combine all ingredients in a mixing glass and stir until chilled. Pour over fresh ice and garnish with an orange twist."
+      ]
+    }
+  ]
+}

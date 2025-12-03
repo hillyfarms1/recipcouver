@@ -1,0 +1,141 @@
+{
+  "id": "elk-loin",
+  "restaurant": "Wildebeest",
+  "heroImage": "elk-loin.jpg",
+  "title": "Elk Loin",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Fermented Horseradish",
+      "items": [
+        "Horseradish root",
+        "28g salt",
+        "1 L water"
+      ]
+    },
+    {
+      "heading": "Rosemary Oil",
+      "items": [
+        "2 sprigs rosemary",
+        "2 sprigs parsley",
+        "1 Cup canola oil"
+      ]
+    },
+    {
+      "heading": "Cauliflower Purée",
+      "items": [
+        "½ head cauliflower",
+        "2 Tbsp butter",
+        "1 Cup cream",
+        "1 Tbsp Fermented Horseradish",
+        "Salt to taste"
+      ]
+    },
+    {
+      "heading": "Pickled Cauliflower",
+      "items": [
+        "Cauliflower stems",
+        "Salt",
+        "Chardonnay vinegar"
+      ]
+    },
+    {
+      "heading": "Beef Jus",
+      "items": [
+        "1 Tbsp beef fat or bone marrow",
+        "¼ Cup veal jus"
+      ]
+    },
+    {
+      "heading": "Pomme Anna",
+      "items": [
+        "3 Tbsp butter",
+        "1 sprig rosemary",
+        "2 sprigs thyme",
+        "2 Kennebec potatoes",
+        "1 shallot",
+        "3-4 Tbsp cornstarch"
+      ]
+    },
+    {
+      "heading": "Elk Loin and Serving",
+      "items": [
+        "½ head cauliflower",
+        "4 180g (6 oz) portions of elk loin",
+        "4 portions Pomme Anna potatoes*",
+        "Butter",
+        "Cauliflower purée*",
+        "Pickled Cauliflower*",
+        "Beef Jus*",
+        "Rosemary Oil*",
+        "Salt and pepper to taste"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Fermented Horseradish (3 weeks in advance)",
+      "steps": [
+        "Bring the water to a boil and then dissolve the salt in it to create a brine. Allow to cool. Sanitize a mason jar or similar in boiling water. Allow to cool.",
+        "Peel the horseradish, chop it into 2-3cm (1 in) pieces and place in the mason jar. Wear gloves to avoid bacteria transfer from your hands and do this in a ventilated area.",
+        "Cover the horseradish in the brine until it is completely submerged. Use a sanitized weight to stop it from floating if necessary.",
+        "Cover the jar with cheesecloth and let sit 3 weeks. Top up with some of the remaining brine if the level lowers in this time.",
+        "Remove the horseradish from the brine and blend until creamy."
+      ]
+    },
+    {
+      "heading": "Rosemary Oil",
+      "steps": [
+        "Strip the rosemary leaves and pick off the thick part of the parsley stems.",
+        "Blend all ingredients in a blender for 10 min."
+      ]
+    },
+    {
+      "heading": "Cauliflower Purée",
+      "steps": [
+        "Remove the cauliflower stalks and reserve them for the Pickled Cauliflower (below). Cut the florets into similar sized portions.",
+        "Bring the butter to a foam in a saucepan with the salt and then add and soften cauliflower.",
+        "Almost fully cover the cauliflower in the cream and then stir in the horseradish. Tightly cover the saucepan with plastic-wrap and cook over a low medium heat until completely cooked and soft.",
+        "Blend the cooked cauliflower and cream on high in a blender and then pass it through a fine mesh strainer. Season to taste."
+      ]
+    },
+    {
+      "heading": "Pickled Cauliflower",
+      "steps": [
+        "Slice the cauliflower thinly on a mandoline and lay out on tray or plate.",
+        "Lightly sprinkle with salt and leave for 20 minutes.",
+        "Drizzle a splash of chardonnay vinegar evenly over the cauliflower."
+      ]
+    },
+    {
+      "heading": "Beef Jus",
+      "steps": [
+        "Warm the jus and fat together and emulsify with a hand blender."
+      ]
+    },
+    {
+      "heading": "Pomme Anna",
+      "steps": [
+        "In a frying pan clarify the butter with both the rosemary and thyme and then strain reserving the butter.",
+        "Slice potatoes thinly on mandoline and chop the shallots very finely.",
+        "In large bowl, add and mix through with your fingers just enough cornstarch to the potatoes so they start to feel silky.",
+        "Layer potatoes and shallots to around 4cm (1½in) thick in a criss-cross pattern in a small oven safe dish.",
+        "Cover in the butter and, with a lid on, bake in an oven preheated to 150°C (300°F) for approximately 30 minutes or until just tender.",
+        "Press the potatoes with a weight (a large can or a stack of plates) in the fridge until cool."
+      ]
+    },
+    {
+      "heading": "Elk Loin and Serving",
+      "steps": [
+        "Preheat the oven to 180°C (350°F). Cut the cauliflower into equal florets and blanch until beginning to soften.",
+        "Season and then sear the elk lightly on all sides, and place in the oven for about 8-10 minutes or until medium rare. Allow to rest for at least 8 minutes.",
+        "While the elk is resting, cut the pressed Pomme Anna into serving-sized cubes and sear with the cauliflower florets in butter until golden brown.",
+        "Once hot, melt some more butter in another pan and flash fry the elk in it.",
+        "To build the plate, start with a smear of the Cauliflower Purée, then arrange the Pomme Anna, pickled and seared cauliflower.",
+        "Slice the elk into 2 pieces against the grain of the meat, season the cut sides with salt, and place on the plate.",
+        "Pour some of the Beef Jus over the meat and finish with the Rosemary Oil."
+      ]
+    }
+  ]
+}

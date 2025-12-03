@@ -1,0 +1,95 @@
+{
+  "id": "rotolo-farcito",
+  "restaurant": "Gusto Di Quattro",
+  "heroImage": "rotolo-farcito.jpg",
+  "title": "Rotolo Farcito di Pollo",
+  "book": "The North Shore Foodie",
+  "notes": "If you don't have the right type of ring mold you could also use an appropriately shaped small bowl or plastic container. Build the salad in reverse order and then invert onto a plate.",
+  "ingredientSections": [
+    {
+      "heading": "Homemade Pasta Dough",
+      "items": [
+        "¾ Cup Semolina flour",
+        "¾ Cup All-purpose white flour",
+        "7 Free-range eggs"
+      ]
+    },
+    {
+      "heading": "Simple Tomato Sauce",
+      "items": [
+        "3 Tbsp Extra virgin olive oil",
+        "1 Cup Diced onion",
+        "1 Extra large can (3 litres) whole Italian tomatoes",
+        "3 Tbsp Tomato paste",
+        "1 Tbsp Dried oregano",
+        "2 tsp Dried basil",
+        "1 tsp Salt",
+        "¼ Cup Salted butter",
+        "¼ Cup All-purpose white flour"
+      ]
+    },
+    {
+      "heading": "Basil Pesto Cream Sauce",
+      "items": [
+        "125g Fresh basil leaves",
+        "⅛ Cup Pine nuts",
+        "1 Clove Garlic peeled",
+        "1 Cup Extra virgin olive oil",
+        "½ Cup Grated parmesan cheese",
+        "Salt and ground black pepper",
+        "125ml Heavy cream"
+      ]
+    },
+    {
+      "heading": "Rotolo",
+      "items": [
+        "2 Tbsp Butter",
+        "250g Ground chicken",
+        "2 Tbsp Brandy",
+        "900g Ricotta",
+        "½ Cup Cooked well drained spinach",
+        "2 Egg yolks",
+        "1 whole egg",
+        "½ Cup Parmesan cheese",
+        "Pinch Nutmeg",
+        "Salt & ground black pepper"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Homemade Pasta Dough",
+      "steps": [
+        "Place the flour on a clean work surface and form a well in the centre. Add the eggs to the centre and bring the flour from the sides with your hands to make the dough.",
+        "Wrap the dough in plastic wrap and refrigerate it for at least 1 hour. Remove it from the fridge and roll it in a pasta machine or with a rolling pin until it is 2-3mm thick.",
+        "You can also skip this step and use premade fresh pasta sheets. Pre-cook them for about 3 minutes in salted boiling water to make them easier to work with."
+      ]
+    },
+    {
+      "heading": "Simple Tomato Sauce",
+      "steps": [
+        "Sweat the onion until soft with the olive oil over a low heat, the slower the better.",
+        "Add the tomatoes and tomato paste and simmer over a low heat for one hour, stirring occasionally and breaking up any large pieces. Add the oregano, basil and salt.",
+        "Make a roux in a separate small saucepan by melting the butter over a low heat and slowly whisking in the flour. Cook over low heat for around 5 minutes, stirring constantly. Whisk the cooked roux into the hot tomato sauce and simmer for 10 minutes.",
+        "Makes 3 litres, may be frozen for 6 months."
+      ]
+    },
+    {
+      "heading": "Basil Pesto Cream Sauce",
+      "steps": [
+        "Toast pine nuts in 180°C (350°F) oven for around 6 minutes, check regularly to avoid burning. Purée the garlic and ½ the olive oil. Remove stems from the basil and add with the cooled pine nuts and remaining olive oil and work into a coarse consistency. Add and mix through the parmesan. Season to taste.",
+        "In a small pan, reduce the cream, stirring regularly to avoid burning, add the pesto and remove from the heat."
+      ]
+    },
+    {
+      "heading": "Rotolo",
+      "steps": [
+        "Heat the butter in a pan over a medium heat and cook the chicken for around 3 minutes. Add the brandy to the chicken in the hot pan and flambé by igniting either with the gas burners or a match. In a mixing bowl, combine the cooked chicken with the ricotta, spinach, egg yolks and egg, parmesan, nutmeg, and salt and pepper to taste.",
+        "Form the pasta into 4 25x25cm squares. If necessary, patch sheets together by brushing an edge with water and pressing; the water acts like a glue.",
+        "On a clean surface, layout a 30x30cm double-thickness piece of cheesecloth, top with lightly oiled wax paper and centre 1 pasta sheet on top. Spread ¼ of the filling mixture over the pasta sheet leaving around 2cm of space to the edges.",
+        "Brush the top edge of the pasta with water. Starting with the bottom edge, roll the pasta toward the top edge and stick the wet top edge to the roll. Roll the wax paper and cheesecloth around the pasta roll and tie the ends tightly with kitchen string.",
+        "Cook in boiling water for 30 minutes. Remove rolls from water and let cool slightly. Remove cheesecloth and wax paper and slice into 4cm slices. Arrange 3 or 4 slices per plate, top with hot tomato sauce and basil cream. Garnish with Parmesan, pine nuts and/or parsley."
+      ]
+    }
+  ]
+}

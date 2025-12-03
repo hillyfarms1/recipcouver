@@ -1,0 +1,80 @@
+{
+  "id": "chocolate-trio",
+  "restaurant": "Thomas Haas Chocolates & Patisserie",
+  "heroImage": "chocolate-trio.jpg",
+  "title": "Chocolate Trio",
+  "book": "The North Shore Foodie",
+  "notes": "To scald milk, heat in saucepan or microwave until 85°C (185°F). Heat slowly, stirring regularly and do not allow to boil.",
+  "ingredientSections": [
+    {
+      "heading": "Dark Chocolate Cream",
+      "items": [
+        "¾ Cup Good quality bittersweet chocolate, chopped fine",
+        "¾ Cup Whipping cream 36%",
+        "⅓ Cup Milk (homo), scalded"
+      ]
+    },
+    {
+      "heading": "White Chocolate Cream",
+      "items": [
+        "¾ Cup Good quality white chocolate, chopped fine",
+        "⅓ Cup Whipping cream 36%",
+        "⅓ Cup Milk (homo), scalded"
+      ]
+    },
+    {
+      "heading": "Milk Chocolate Cream",
+      "items": [
+        "1¼ Cups Good quality milk chocolate, chopped fine",
+        "¾ Cups Whipping cream 36%",
+        "⅓ Cup Milk (homo), scalded"
+      ]
+    },
+    {
+      "heading": "Soft Caramel",
+      "items": [
+        "1¼ Cups Granulated sugar",
+        "⅓ Cup Water",
+        "1 Tbsp Honey",
+        "1 Cup Whipping cream 36%",
+        "1 Vanilla bean"
+      ]
+    },
+    {
+      "heading": "Garnish",
+      "items": [
+        "Roasted cocoa nibs or fresh raspberries"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Dark Chocolate Cream",
+      "steps": [
+        "Place chocolate in heatproof bowl set over saucepan of hot, not simmering, water until partially melted (the water should not touch the bottom of the bowl), stirring occasionally. Remove bowl from saucepan and continue stirring until melted and smooth.",
+        "Meanwhile, put whipping cream in medium bowl and beat just until soft peak forms; set aside. Add scalded milk, all at once, to warm melted chocolate and stir with spatula (not a whisk) until blended.",
+        "When the chocolate and milk mixture are approximately 40°C (104°F), add whipping cream, all at once, and stir with spatula until blended (mixture will be runny). Pour an equal portion of chocolate mixture into each 6oz. glass. Place in refrigerator for about 30-40 minutes or until set."
+      ]
+    },
+    {
+      "heading": "White Chocolate Cream",
+      "steps": [
+        "Start preparing white chocolate cream as soon as dark chocolate cream is set. Prepare white chocolate cream following the same directions as dark chocolate cream; spoon an equal portion of white chocolate cream over dark chocolate cream in each martini glass. Place in refrigerator for about 1½ hours or until set (white chocolate takes longer to set than dark chocolate)."
+      ]
+    },
+    {
+      "heading": "Milk Chocolate Cream",
+      "steps": [
+        "Start preparing milk chocolate cream as soon as white chocolate cream is set. Prepare milk chocolate cream following the same directions as dark chocolate cream; spoon an equal portion of milk chocolate cream over white chocolate cream in each martini glass. Place in refrigerator for about 1½ hours or until set."
+      ]
+    },
+    {
+      "heading": "Soft Caramel",
+      "steps": [
+        "Combine water, honey and sugar in a heavy-bottomed pot. Ensure that all the sugar is moistened and there are no crystals on the side of the pot. Place on high heat and cook to a dark caramel colour; a candy thermometer will read 165°C (330°F).",
+        "Meanwhile, heat cream and the split open vanilla bean to scalding. Once sugar reaches caramel stage, add hot cream slowly and stir with a whisk. Allow to cool before using. Can be prepared in advance and kept in fridge.",
+        "Drizzle caramel over milk chocolate cream before serving, then add garnish."
+      ]
+    }
+  ]
+}

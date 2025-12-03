@@ -1,0 +1,41 @@
+{
+  "id": "seasonal-stew",
+  "restaurant": "Sprouts And Seedlings",
+  "heroImage": "rootsShoots1.jpg",
+  "title": "Seasonal Stew",
+  "book": "The Plant-based Foodie",
+  "notes": "There are few recipes that are more fundamental than stew. There is a beauty in the simplicity of cooking solid food in a liquid and serving it with the resulting gravy. Using whatever vegetables that are in season and adding flavour with whatever herbs and spices are available means each stew is a true reflection of the environment and culture it exists in and different every time. Because UBC’s Sprouts and Seedlings are most active during the cooler academic months, stews are a favourite menu item to fuel eager minds. They are given punny names to boot.<br>-Leek-y Cauldron Stew: leeks, beets, potatoes, pumpkin.<br>-Path of Yeast Resistance: golden beets (and greens), nutritional yeast, mushrooms.<br>-Barley Legal: barley, squash, beets.<br>-Once More for Old Thymes Sake: potatoes, thyme.<br>-Butternut Mess with Sprouts!: butternut squash, shallots, leeks, mushrooms.<br>-Dill or no Dill: beets, pumpkin, dill.<br>-The Student Life Is Acorny One: acorn squash, golden beet, leek.<br>-He was A T8er Boi: potato, leek, mushroom.<br>-Freaks and Leeks: leeks, potatoes, mushrooms.<br>-Beet Exams!: beets (golden and red), potatoes.<br>-Don’t Carrot All: rainbow carrot, potatoes, barley.<br>Stews follow the same basic recipe. Fry longer cooking vegetables like onions and carrots in a splash of oil. Add herbs and spices to toast and become aromatic. Add any other vegetables, pulses or grains along with water or stock. Allow to cook until everything is soft and the water has thickened into a gravy. You can also roast or partially roast some or all of the vegetables beforehand for a richer flavour and quicker cooking time.",
+  "ingredientSections": [
+    {
+      "heading": "Seasonal Stew",
+      "items": [
+        "1 onion",
+        "2 carrots",
+        "3 cloves garlic",
+        "½ tsp cumin",
+        "½ tsp ginger",
+        "1 Tbsp curry powder",
+        "1 tsp salt",
+        "1 ⅓ Cups dry lentils or barley OR 2 ⅔ Cups pre-soaked OR canned beans",
+        "3-4 Cups seasonal vegetables*",
+        "½ bunch kale",
+        "1 apple",
+        "Water or stock",
+        "Vegetable oil",
+        "*Leeks, beets, squash, potatoes, mushrooms, pumpkin, shallots, carrot, peppers, apple, thyme, dill, curry powder, rosemary, nutritional yeast. Or whatever inspires you."
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Seasonal Stew",
+      "steps": [
+        "Chop the onions and carrots and other vegetables into bite-sized pieces. In a large pot, heat a splash of oil over medium-high heat, and sautée the onion and carrot until almost soft.",
+        "Add the spices and cook for a few more minutes. Stir in the dry lentils, barley or beans and 3 cups of water or stock.",
+        "Bring to a boil, then reduce the heat and simmer for 25 minutes.",
+        "Add the chopped seasonal vegetables and apple, cover and simmer for another hour, or until vegetables are tender.",
+        "Add the kale and stir until wilted. Garnish with some fresh apple."
+      ]
+    }
+  ]
+}

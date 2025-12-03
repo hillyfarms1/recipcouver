@@ -1,0 +1,55 @@
+{
+  "id": "smoking-techniques",
+  "restaurant": "The Acorn",
+  "heroImage": "smoking-techniques.jpg",
+  "title": "Smoking Techniques",
+  "book": "The East Van Foodie",
+  "notes": "Smoking an ingredient for a recipe adds a depth of flavour to a dish that really can be a show stopper. As is usually the case in the kitchen the trick is finding the right balance, you don’t want to overdo it. There are many ways and reasons to smoke food, the methods below are simple ways to add flavour to food that is cooked or will be cooked another way. Obviously, there are more complicated methods and equipment but these will suit the Corn and Brussels Sprouts recipes.",
+  "note-2": "A word of caution... fire is hot and burns things, this potentially includes parts of yourself and/or your house. Have a fire blanket or extinguisher at hand. A good rule of thumb in any kitchen is to cook your food, not yourself. Also, place a damp cloth under the metal baking pan before torching the wood chips to avoid damaging your kitchen bench or table. You probably don’t want to do this directly under your smoke detector either!",
+  "ingredientSections": [
+    {
+      "heading": "Baking Pan Method",
+      "items": [
+        "Metal Baking Pan",
+        "Tin Foil",
+        "Butane Torch",
+        "Wood Chips"
+      ]
+    },
+    {
+      "heading": "Smoking Gun Method",
+      "items": [
+        "Metal Baking Pan",
+        "Smoking Gun, (available at most good foodie shops including Gourmet Warehouse)",
+        "Lighter",
+        "Plastic Wrap",
+        "Masking Tape",
+        "Wood Chips"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Baking Pan Method",
+      "steps": [
+        "Line the bottom and sides of a metal baking pan with tin foil. Place the wood chips at one end of the baking pan and your ingredient of choice, in this case onions, at the other end.",
+        "Tear a piece of foil the size of the baking pan to act as a lid. Make it large enough so that it can cover and tightly seal the edges.",
+        "Light the torch away from the wood chips, and everything else for that matter, to avoid blowing them all over the place.",
+        "Using the torch, set the wood chips on fire and cover the pan with the foil lid to trap the smoke. Leave for 10 to 15 minutes as the lingering smoke absorbs into the onions.",
+        "Take the tin foil cover off, give the smoked ingredient a stir, if it is the type of ingredient that can be stirred, and taste. Repeat the process if more smoke is required."
+      ]
+    },
+    {
+      "heading": "Smoking Gun Method",
+      "steps": [
+        "Place your ingredient of choice in the baking pan, spread out as much as possible so there is maximum surface area to be smoked.",
+        "Cover the baking pan with plastic wrap, making sure that the edges are tightly sealed.",
+        "Using a small knife, make a small cut on one end of the plastic wrap and adhere the masking tape over this cut.",
+        "Place the wood chips into the chamber of the smoking gun and insert the flexible tube into the cut in the plastic wrap.",
+        "Turn the smoking gun on and set the wood chips on fire. You'll see the smoke coming out of the end of the tube. Insert it into the slit in the plastic and fill the pan with smoke.",
+        "Cover the slit in the plastic with the masking tape. Leave the onions until the smoke has dissipated.",
+        "Remove the plastic cover, give the smoked ingredient a stir, if it is the type of ingredient that can be stirred, and taste. Repeat the process if more smoke is required."
+      ]
+    }
+  ]
+}

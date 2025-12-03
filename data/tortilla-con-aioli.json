@@ -1,0 +1,58 @@
+{
+  "id": "tortilla-con-aioli",
+  "restaurant": "Bodega On Main",
+  "heroImage": "tortilla-con-aioli.jpg",
+  "title": "Tortilla Con Aioli",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Aioli",
+      "items": [
+        "4 or 5 Garlic Cloves, minced",
+        "2 Large Egg Yolks",
+        "½ Cup Olive Oil",
+        "4 tsp Lemon Juice",
+        "1 tsp Dijon Mustard",
+        "1 tsp Worcestershire Sauce",
+        "Pinch Dry Oregano",
+        "Salt and Pepper to taste"
+      ]
+    },
+    {
+      "heading": "Tortilla",
+      "items": [
+        "9 Eggs",
+        "4 Large Russet Potatoes",
+        "3 Brown Onions, julienned",
+        "½ Tbsp Salt",
+        "Canola Oil, for frying"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Aioli",
+      "steps": [
+        "Mince the garlic very finely into a paste.",
+        "Whisk together the yolks, lemon juice, Dijon and Worcestershire in a mixing bowl.",
+        "Slowly add the olive oil a small splash at a time and keep whisking. Gradually it will thicken. Use a mixer with whisk attachment if you don't feel like a workout!",
+        "When all the oil is whisked in and the Aioli has thickened to form soft peaks, mix through the garlic paste, oregano and season to your liking with salt and pepper.",
+        "Store in fridge for up to a week."
+      ]
+    },
+    {
+      "heading": "Tortilla",
+      "steps": [
+        "Thinly slice and then fry the potatoes in oil in a deep pan or use a deep fryer if available, drain and set aside.",
+        "In a 25cm (10in) thick based non-stick fry pan sauté the onions until golden then add the fried potatoes, remove from heat and allow to cool a bit.",
+        "Whisk the eggs together well in a bowl.",
+        "Add the onion and potato to the egg in the bowl and stir together well.",
+        "Pour back into the fry pan and cook slowly on a medium heat un-sticking the edges with a spatula as the egg cooks and checking that the bottom isn't browning too quickly.",
+        "This is the tricky bit. When the egg is mostly cooked through, un-stick the edge of the Tortilla as much as possible with a spatula. Place a large dinner plate, top down over the pan and holding the pan and the plate together flip over so the Tortilla is cooked side up on the plate.",
+        "Slide the Tortilla back into the pan and cook the other side.",
+        "When cooked through cut into wedges and serve with a side of aioli."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "vegan-cauliflower-miso-ramen",
+  "restaurant": "Workshop Vegetarian Cafe",
+  "heroImage": "workshop1.jpg",
+  "title": "Vegan Cauliflower Miso Ramen",
+  "book": "The Plant-based Foodie",
+  "notes": "Kombu. Kombu is Japanese kelp. It imparts a delicious umami flavour on dishes and is a great base for any vegan or vegetarian soup stock. If you have the choice get dashi kombu, which is younger and softer and therefore better suited to soaking. The major supermarkets don’t seem to stock it consistently, but a quick web search for your closest Japanese or Asian market should do the trick. You can also pick it up at The Workshop.",
+  "ingredientSections": [
+    {
+      "heading": "Garlic Truffle Oil",
+      "items": [
+        "½ tsp finely chopped garlic",
+        "1 Tbsp truffle oil"
+      ]
+    },
+    {
+      "heading": "Vegetables",
+      "items": [
+        "½ head cauliflower",
+        "5-6 stems broccolini",
+        "1 radish",
+        "A small handful green beans",
+        "1 small carrot",
+        "2 bok choy",
+        "1 kale",
+        "(or your choice of seasonal vegetables)"
+      ]
+    },
+    {
+      "heading": "Cauliflower Miso Broth",
+      "items": [
+        "10g dried kombu",
+        "150g cauliflower",
+        "½ yellow onion",
+        "1 clove garlic",
+        "1 Tbsp ginger, finely grated",
+        "70g chickpea miso",
+        "5g salt",
+        "5g nutritional yeast",
+        "Ramen or soba noodles"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Garlic Truffle Oil & Konbu Broth",
+      "steps": [
+        "Stir the garlic and truffle oil together and allow to infuse overnight.",
+        "Soak the konbu in 1L of water for at least 12 hours."
+      ]
+    },
+    {
+      "heading": "Vegetables",
+      "steps": [
+        "Cut the cauliflower into two slabs around 2cm (1in) thick, quarter the bok choy, slice the broccolini lengthwise and steam along with the green beans until soft but not falling apart. Set aside.",
+        "Remove the cauliflower and pan fry in a splash of oil until golden brown on both sides.",
+        "Finely slice the carrot and radish and cut the kale into bite-size pieces."
+      ]
+    },
+    {
+      "heading": "Cauliflower Miso Broth",
+      "steps": [
+        "Finely slice the garlic and onion and, in a splash of oil, sweat in a large pot over a gentle heat; don’t allow either to brown.",
+        "Chop the cauliflower into bite-size pieces and add to the pot with the ginger. Add the kombu water and soaked kombu, increase the heat, bring to a boil, then reduce the heat and simmer for around 10 minutes.",
+        "Remove the kombu pieces, add the remaining mixture to a blender. Add the chickpea miso, half of the garlic truffle oil, nutritional yeast and salt and blend into a broth.",
+        "Prepare your favourite Japanese noodles as directed.",
+        "Divide the hot broth and noodles into 2 bowls, arrange the vegetables over the top and drizzle the remaining garlic truffle oil."
+      ]
+    }
+  ]
+}

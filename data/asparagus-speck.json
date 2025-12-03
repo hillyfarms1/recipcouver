@@ -1,0 +1,48 @@
+{
+  "id": "asparagus-speck",
+  "restaurant": "Black Forest Meats",
+  "heroImage": "asparagus-speck.jpg",
+  "title": "Asparagus & Whistler Speck",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Hollandaise Sauce",
+      "items": [
+        "4 Egg yolks",
+        "1 Tbsp Lemon juice",
+        "½ Cup Unsalted butter",
+        "Pinch Cayenne",
+        "Pinch Salt"
+      ]
+    },
+    {
+      "heading": "Asparagus & Speck",
+      "items": [
+        "Roughly 15 Spears of Asparagus",
+        "Roughly 15 Slices of Black Forest Whistler Mountain Speck (or similar favourite cured ham)",
+        "A Touch of Olive Oil",
+        "Salt and Pepper to taste"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Hollandaise Sauce",
+      "steps": [
+        "Melt the butter and set aside, but keep it warm. Bring a saucepan of water to a light simmer.",
+        "Whisk egg yolks and lemon juice thoroughly in a stainless steel bowl until the mixture has thickened and doubled in volume.",
+        "Continue to rapidly whisk the egg while holding the bowl over the lightly simmering water. Do not let the water touch the bottom of the bowl. Don't let the eggs get too hot or they will scramble. If you see the egg sticking too much to the side of the bowl, move it away from the heat.",
+        "Slowly drizzle in the melted butter and continue to whisk until the sauce is thickened and doubled in volume again.",
+        "Whisk in cayenne and salt and remove from the heat. Cover and set aside in a warm spot. If it gets too thick, whisk in a few drops of warm water before serving."
+      ]
+    },
+    {
+      "heading": "Asparagus & Speck",
+      "steps": [
+        "Grill or pan fry the asparagus with olive oil until cooked but not too soft.",
+        "Roll a slice of speck around each spear of asparagus at an angle so the ham covers most of the spear. Drizzle with the hollandaise and serve."
+      ]
+    }
+  ]
+}

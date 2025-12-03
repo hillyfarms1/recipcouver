@@ -1,0 +1,52 @@
+{
+  "id": "matcha-cookies-with-lavender-cream",
+  "restaurant": "Workshop Vegetarian Cafe",
+  "heroImage": "workshop2.jpg",
+  "title": "Matcha Cookies With Lavender Cream",
+  "book": "The Plant-based Foodie",
+  "notes": "Egg Replacement. A vegan alternative to eggs in things like cookies, muffins, pancakes or brownies is flaxseed meal. For the equivalent of one egg, simply stir 1 Tbsp of ground flaxseeds and 2½ Tbsp of water with a fork or small whisk and let sit for as long as you can wait. Some recipes say 5 minutes is enough but it has a much thicker consistency and binds better after an hour. You can make larger batches to the same ratio depending on how many eggs a recipe calls for. It’s best to use freshly ground flaxseeds because once ground the oils start to decay, though Red Mill ground meal is also a good choice; just store the pack in an airtight container in the fridge after opening.",
+  "ingredientSections": [
+    {
+      "heading": "Matcha Cookies",
+      "items": [
+        "½ Cup brown rice flour",
+        "½ Cup white rice flour",
+        "½ Cup cane sugar",
+        "2 tsp matcha powder",
+        "¾ tsp baking powder",
+        "¼ tsp salt",
+        "1 egg replacement (see note below)",
+        "¼ tsp vanilla extract",
+        "⅔ Cup coconut milk"
+      ]
+    },
+    {
+      "heading": "Lavender Cream",
+      "items": [
+        "1 can (400ml) coconut milk",
+        "1 tsp dried lavender",
+        "¼ Cup icing or confectioners sugar"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Matcha Cookies",
+      "steps": [
+        "Preheat oven to 180°C (350°F). Sift the two flours, cane sugar, matcha powder, baking powder and salt together in a bowl, set aside.",
+        "In a separate bowl whisk the egg replacement, vanilla extract and coconut milk together.",
+        "Whisk the dry ingredients into the wet ingredients until combined. Line a large baking tray with parchment paper.",
+        "You can make the cookies any shape you like. Spooning the cookie dough onto the parchment paper will work but piping will be neater and more consistent. Spoon the dough into a piping bag or large zipper bag, cut the tip or corner off the zipper bag. Pipe the batter directly onto parchment paper.",
+        "Bake at 180°C (350°F) for 10-12 minutes or until golden on the sides. Take them out and cool completely before removing from the baking tray."
+      ]
+    },
+    {
+      "heading": "Lavender Cream",
+      "steps": [
+        "Chill the coconut cream or milk in the refrigerator overnight. This will separate the cream and liquid. Try not to shake the can while opening it. Scrape out the thick cream at the top of the can and reserve liquid for other recipes.",
+        "Gently heat the coconut cream in a small saucepan with 1 tsp of lavender. Simmer for 10-20 minutes so the lavender flavour is steeped into the cream. Cool and strain discarding lavender. Refrigerate the coconut cream so it solidifies again.",
+        "Whisk (or use a stand mixer) the icing sugar slowly into the cream until it is smooth. Place in bowl and garnish with a couple of pinches of lavender. Makes roughly 30 cookies."
+      ]
+    }
+  ]
+}

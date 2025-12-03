@@ -1,0 +1,69 @@
+{
+  "id": "lemongrass-thai-curry",
+  "restaurant": "Lotus Seed",
+  "heroImage": "lotusSeed.jpg",
+  "title": "Lemongrass Thai Curry",
+  "book": "The Plant-based Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Curry Paste",
+      "items": [
+        "1 thumb-sized piece of ginger",
+        "4 cloves garlic",
+        "8 lime leaves",
+        "2 tsp curry powder",
+        "½ tsp garam masala",
+        "½ tsp cumin",
+        "¾ tsp coriander",
+        "½ tsp turmeric",
+        "¾ Tbsp marjoram",
+        "1 Tbsp dried basil",
+        "½ tsp chili flakes (optional)",
+        "2 Tbsp minced lemongrass",
+        "2 tsp salt",
+        "Juice of 2 limes",
+        "Avocado oil"
+      ]
+    },
+    {
+      "heading": "Curry",
+      "items": [
+        "4 cloves garlic",
+        "½ red onion",
+        "1 bell pepper",
+        "1 medium potato",
+        "1 small carrot",
+        "½ Cup cauliflower florets",
+        "2 Tbsp minced lemongrass",
+        "1 Cup chickpeas",
+        "½ Cup green peas",
+        "½ Cup pineapple pieces",
+        "300g firm tofu",
+        "1 can (400ml) coconut milk",
+        "Avocado oil",
+        "Salt and pepper to taste"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Curry Paste",
+      "steps": [
+        "Peel the ginger and garlic and remove the stalks from the lime leaves.",
+        "Measure all the dried spices into a pan and toast over medium heat for a few minutes until they are aromatic. Keep the spices on the move in the pan by stirring or shaking the pan so they toast evenly.",
+        "Place all ingredients into a blender with a splash of oil and blend into a paste. You could also use a large pestle and mortar, but you’ll need to mince the ginger, garlic and lemongrass first. Add enough oil for a thick paste to come together. Set aside."
+      ]
+    },
+    {
+      "heading": "Curry",
+      "steps": [
+        "Mince the garlic and peel and roughly chop the onion. Chop the pepper, potato, carrot and cauliflower into small bite-size chunks.",
+        "In a large saucepan, sweat the onion over a low heat for 2-3 minutes in a splash of oil. Add the garlic, stir and cook for 30 seconds then add the lemongrass, stir and cook for another 30 seconds.",
+        "Add the potato, increase the heat to medium and cook for 3 minutes. Add the peppers and carrots and continue cooking for 2 minutes.",
+        "Stir in the curry paste and cook for 1 minute before adding 1 cup of water and the coconut milk. Add the chickpeas, green peas, cauliflower, pineapple and tofu, bring to a boil then reduce the temperature to a simmer.",
+        "Cook until the curry has reduced a bit and the vegetables have softened. Season to taste and serve with rice or noodles."
+      ]
+    }
+  ]
+}

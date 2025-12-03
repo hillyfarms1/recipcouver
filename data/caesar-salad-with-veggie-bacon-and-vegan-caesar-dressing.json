@@ -1,0 +1,71 @@
+{
+  "id": "caesar-salad-with-veggie-bacon-and-vegan-caesar-dressing",
+  "restaurant": "The Black Lodge",
+  "heroImage": "theBlackLodge3.jpg",
+  "title": "Caesar Salad With Veggie Bacon And Vegan Caesar Dressing",
+  "book": "The Plant-based Foodie",
+  "notes": "Extra virgin Olive Oil . Extra virgin olive oil has a tendency to become very bitter when agitated in a blender or food processor. This is because extra virgin olive oil is very high in polyphenols which are really good for you but in the right circumstances taste horrible. Polyphenols are normally wrapped up in layers of fatty acids and therefore don't mix into water-based foods, however, the rapid agitation of blending or processing can separate this protection and ruin your dressing, dip or hummus. Standard olive oil and most other cooking oils are not as high in polyphenols so don't have this problem.",
+  "ingredientSections": [
+    {
+      "heading": "Veggie Bacon",
+      "items": [
+        "500g coconut flakes",
+        "3 Tbsp pancake or maple syrup",
+        "2 Tbsp Bragg Liquid Aminos or soy sauce or tamari",
+        "2 Tbsp water",
+        "3 Tbsp liquid smoke"
+      ]
+    },
+    {
+      "heading": "Vegan Caesar Dressing",
+      "items": [
+        "¾ Cup cashews, or walnuts for a different flavour",
+        "2 cloves garlic",
+        "1 Cup extra virgin olive oil",
+        "2 Tbsp Bragg Apple Cider Vinegar",
+        "1 Tbsp Bragg Liquid Aminos or soy sauce or tamari",
+        "1 tsp Dijon mustard (optional)",
+        "1-2 Tbsp lemon juice concentrate"
+      ]
+    },
+    {
+      "heading": "Caesar Salad",
+      "items": [
+        "Kale or romaine lettuce",
+        "Avocado",
+        "Sprouts",
+        "Lemon",
+        "Croutons",
+        "Veggie Bacon",
+        "Vegan Caesar Dressing"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Veggie Bacon",
+      "steps": [
+        "Preheat the oven to 130°C (265°F).",
+        "Mix all the ingredients, except the coconut, together well in a large bowl.",
+        "Add the coconut, stir together so it is evenly coated and allow to marinate for 5 minutes, stirring a couple of times.",
+        "Spread the mixture out into a single layer on a parchment-lined baking tray.",
+        "Place into the oven for 20 minutes and check every 5 minutes. Gently stir or mix the bacon around the tray occasionally to avoid burning.",
+        "Remove from the oven and allow to cool where it will continue to dry out and crisp."
+      ]
+    },
+    {
+      "heading": "Vegan Caesar Dressing",
+      "steps": [
+        "Add the garlic, vinegar, liquid aminos, mustard and lemon juice to a blender and blend until combined.",
+        "Add the cashews and blend into a thick creamy texture. As the cashews are broken down, the mixture will become increasingly dry, so adjust with water if necessary.",
+        "Add the olive oil and pulse a few times but no longer than 10 seconds as this will add an unpleasant bitterness to the dressing."
+      ]
+    },
+    {
+      "heading": "Caesar Salad",
+      "steps": [
+        "Simply chop the kale or romaine, slice the avocado and build the salad in a salad bowl, dress and serve."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "candied-yam-soup",
+  "restaurant": "The Soup Meister",
+  "heroImage": "candied-yam-soup.jpg",
+  "title": "Candied Yam & Sweet Potato Soup",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Candied Yam & Sweet Potato Soup with Brie",
+      "items": [
+        "450g Yams",
+        "450g Sweet potatoes (Or 900g of either)",
+        "100g Demerara sugar",
+        "10g Garlic",
+        "150g White onions",
+        "375ml Cups Whipping cream",
+        "1 Cup Chicken stock",
+        "2 Drops Vanilla",
+        "2 Drops Lemon juice",
+        "2 Drops Orange juice",
+        "Pinch Cinnamon",
+        "Pinch Nutmeg",
+        "150g Brie Cheese",
+        "15g Dried cranberries"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Candied Yam & Sweet Potato Soup with Brie",
+      "steps": [
+        "Preheat the oven to 190°C (375°F).",
+        "Dice the yams/sweet potatoes, onions and garlic and mix with the sugar and whipping cream. Roast for 30 minutes or until golden brown.",
+        "Meanwhile, add the cinnamon, nutmeg, vanilla, lemon and orange juice to the chicken stock and simmer for 15 minutes. Add the roasted yams/sweet potatoes to the stock mixture.",
+        "Using a stick mixer, blend until smooth.",
+        "Bring to a simmer and serve hot.",
+        "Garnish generously with the dried cranberries and diced brie."
+      ]
+    }
+  ]
+}

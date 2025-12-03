@@ -1,0 +1,93 @@
+{
+  "id": "cioppino",
+  "restaurant": "Brioche Urban Eatery",
+  "heroImage": "cioppino.jpg",
+  "title": "Cioppino (Sicilian Seafood Stew)",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Fish Stock",
+      "items": [
+        "1kg fish frames (bones) -Save them up in the freezer or ask your fishmonger",
+        "1 onion",
+        "2 celery stalks",
+        "1 carrot",
+        "1 bay leaf",
+        "¼ Cup parsley, leaves and stems",
+        "8 thyme sprigs",
+        "½ Tbsp peppercorns",
+        "1 Cup white wine"
+      ]
+    },
+    {
+      "heading": "Shrimp Bisque",
+      "items": [
+        "Heads & shells 15 large tiger prawns (from the Cioppino recipe)",
+        "1 celery stalk",
+        "½ carrot",
+        "1 medium onion",
+        "3 garlic cloves",
+        "Olive oil or butter",
+        "Fish stock",
+        "½ Cup whipping cream",
+        "2 Tbsp tomato paste"
+      ]
+    },
+    {
+      "heading": "Cioppino",
+      "items": [
+        "4 Tbsp garlic",
+        "50ml extra virgin olive oil",
+        "1 carrot, julienned",
+        "15 large tiger prawns, remove and reserve heads and shells for the Shrimp Bisque",
+        "60g salmon, cubed",
+        "60g calamari, in rings",
+        "60g assorted white fish (sole, halibut, basa)",
+        "12 mussels",
+        "12 clams",
+        "1 Tbsp oregano",
+        "1 Tbsp chili flakes",
+        "30ml white wine",
+        "300ml Sicilian tomato sauce or similar pasta sauce",
+        "300ml Shrimp Bisque*",
+        "20g spinach",
+        "½ Cup peas",
+        "300ml Fish Stock*",
+        "50g scallops",
+        "50g baby shrimp",
+        "1 Tbsp parsley, chopped",
+        "Salt & pepper to taste"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Fish Stock",
+      "steps": [
+        "Rinse the fish frames of any blood. Cut the vegetables into rough chunks.",
+        "Gently sauté the vegetables in olive oil or butter until soft without browning. Add all the remaining ingredients and cover with water.",
+        "Bring to a boil and then simmer for 30 minutes. Carefully skim off any foam that comes to the surface.",
+        "Strain through a fine mesh strainer. Season with salt and pepper. Stock can be stored in the fridge for a few days or frozen."
+      ]
+    },
+    {
+      "heading": "Shrimp Bisque",
+      "steps": [
+        "Sauté the heads and shells of the tiger prawns from the Cioppino recipe over a medium heat with the roughly chopped vegetables in olive oil or butter until they start to caramelize.",
+        "Add the tomato paste and stir thoroughly so it coats everything and browns further.",
+        "Cover with fish stock and deglaze the bottom of the pot. Bring to a boil and then reduce the heat to a slow simmer. Simmer for several hours covered with a lid and top up with water or more fish stock as necessary.",
+        "Strain through a fine mesh sieve reserving the liquid. Add the cream and season with salt and pepper."
+      ]
+    },
+    {
+      "heading": "Cioppino",
+      "steps": [
+        "Finely chop the garlic and sauté it in a large frying pan with the olive oil and carrot. Add all the seafood except the baby shrimp and scallops. Add the chili flakes and oregano.",
+        "When the seafood is cooked all the way through, deglaze the pan with the white wine. Add the tomato sauce, shrimp bisque, peas, and spinach, stir together and bring to a boil. Add the fish stock and bring back to a boil.",
+        "Add the baby shrimp and scallops and let simmer for 3-4 minutes. Season with salt and pepper to taste.",
+        "Serve in a large bowl with a side of good bread and garnish with fresh parsley."
+      ]
+    }
+  ]
+}

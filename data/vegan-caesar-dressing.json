@@ -1,0 +1,53 @@
+{
+  "id": "vegan-caesar-dressing",
+  "restaurant": "Eternal Abundance",
+  "heroImage": "vegan-caesar-dressing.jpg",
+  "title": "Vegan Caesar Dressing",
+  "book": "The East Van Foodie",
+  "notes": "Makes 3 Cups. Will keep in fridge up to 3 weeks. Delicious for a dairy-free vegan/vegetarian Caesar salad, or with warm rice or quinoa and veggies.",
+  "ingredientSections": [
+    {
+      "heading": "Dressing",
+      "items": [
+        "½ Cup Hemp Hearts",
+        "½ Cup Sunflower Seeds",
+        "1 Cup Filtered Water",
+        "½ Cup Apple Cider Vinegar",
+        "¼ Cup Lemon Juice",
+        "3 Tbsp Tahini or 2 Tbsp Sesame Seeds blended well with the water",
+        "6-7 (20g) Cloves Garlic",
+        "½ tsp Dried Sage",
+        "½ tsp Himalayan or Sea Salt",
+        "1 Tbsp Dulse Flakes",
+        "½ Cup Olive Oil"
+      ]
+    },
+    {
+      "heading": "Vegan Caesar Salad",
+      "items": [
+        "Romaine Lettuce",
+        "Kale",
+        "Nutritional Yeast",
+        "Almond Croutons",
+        "Dressing"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Dressing",
+      "steps": [
+        "Soak the sunflower seeds for 4 to 6 hours and then drain and rinse.",
+        "Blend hemp hearts, soaked sunflower seeds and water until creamy.",
+        "Add all remaining ingredients except the olive oil and blend well.",
+        "Once well blended add the olive oil gradually and continue blending until smooth."
+      ]
+    },
+    {
+      "heading": "Vegan Caesar Salad",
+      "steps": [
+        "Chop up the Kale and lettuce, drizzle with dressing, and top with nutritional yeast and croutons."
+      ]
+    }
+  ]
+}

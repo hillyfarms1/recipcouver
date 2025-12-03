@@ -1,0 +1,27 @@
+{
+  "id": "kombucha-julep",
+  "restaurant": "Ethical Soda",
+  "heroImage": "kombucha-julep.jpg",
+  "title": "Kombucha Cocktails",
+  "book": "The North Shore Foodie",
+  "notes": "Simple Syrup is simply 2 parts white sugar to 1 part water heated until all the sugar is dissolved and then left to cool. Make a batch and keep it on hand.",
+  "ingredientSections": [
+    {
+      "heading": "Kombucha Julep",
+      "items": [
+        "45ml Bourbon",
+        "15ml Simple Syrup",
+        "6 Mint leaves",
+        "60ml Ethical Soda Original Kombucha"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Kombucha Julep",
+      "steps": [
+        "Smooth, refreshing and delicious. Muddle the mint with the simple syrup in the bottom of an old-fashioned glass until the mint is broken up and you can smell it strongly. Fill the glass with ice, add the bourbon and top with the kombucha."
+      ]
+    }
+  ]
+}

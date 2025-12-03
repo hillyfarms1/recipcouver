@@ -1,0 +1,87 @@
+{
+  "id": "aji-amarillo-causa",
+  "restaurant": "Chicha",
+  "heroImage": "aji-amarillo-causa.jpg",
+  "title": "Aji Amarillo Causa",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Aji Amarillo Causa",
+      "items": [
+        "500g Russet Potatoes",
+        "2 Tbsp Aji Amarillo Paste",
+        "Squeeze of 1 Lime",
+        "1 Tbsp Olive Oil",
+        "Salt to taste",
+        "1 Avocado",
+        "4 Sprigs Fresh Mint"
+      ]
+    },
+    {
+      "heading": "Crab Salad",
+      "items": [
+        "250g Dungeness Crab",
+        "1 Tbsp Aji Amarillo Paste",
+        "2 Tbsp Mayonnaise",
+        "1 Jalapeño, de-seeded, diced finely",
+        "¼ Red Onion, diced finely",
+        "½ Cup Cilantro, diced finely",
+        "½ Red Pepper, roasted, skin and seeds removed",
+        "½ Mango, diced finely",
+        "½ Cup Fresh Cooked Corn on the Cob, cut off the cob",
+        "Touch of Honey",
+        "1 tsp Cumin",
+        "Salt and pepper to taste"
+      ]
+    },
+    {
+      "heading": "Cherry Tomato & Corn Salsa",
+      "items": [
+        "150g Cherry Tomatoes, quartered",
+        "1 Ear of Corn, cut off the cob and diced",
+        "¼ Cup Red Onions, diced finely",
+        "½ Cup Cilantro, diced finely",
+        "½ Red Pepper, roasted, skin and seeds removed",
+        "1 Jalapeño, de-seeded, diced finely",
+        "Juice of 1 Lime",
+        "2 tsp Honey",
+        "1 Tbsp Olive Oil",
+        "1 tsp Cumin",
+        "Salt to taste"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Aji Amarillo Causa",
+      "steps": [
+        "Peel the potatoes, put in a pot and fill with cold water. Bring to the boil and cook until soft.",
+        "Drain the potatoes very well. Make sure all water is gone. If still wet put on a tray in the oven for a few minutes to dry out.",
+        "Rice the potatoes, or mash until very smooth.",
+        "Add lime juice, aji amarillo paste and then oil. Taste and adjust seasoning and then allow to cool.",
+        "Refrigerate until cold."
+      ]
+    },
+    {
+      "heading": "Crab Salad",
+      "steps": [
+        "Add all ingredients and taste, adjust seasoning and chill."
+      ]
+    },
+    {
+      "heading": "Cherry Tomato & Corn Salsa",
+      "steps": [
+        "Add all ingredients and taste, adjust seasoning and chill."
+      ]
+    },
+    {
+      "heading": "Assembly",
+      "steps": [
+        "With a 8cm ring mould layer first the potato mixture then the crab mix until the mould is half full.",
+        "Add a piece of avocado and then fill the mould with more potato.",
+        "Remove the mould and add the cherry tomato salsa on top and garnish with fresh mint."
+      ]
+    }
+  ]
+}

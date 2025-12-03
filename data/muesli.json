@@ -1,0 +1,40 @@
+{
+  "id": "muesli",
+  "restaurant": "Nelson the Seagull",
+  "heroImage": "muesli.jpg",
+  "title": "Muesli",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Muesli",
+      "items": [
+        "1 Cup honey",
+        "½ Cup olive oil",
+        "6 Cups rolled oats",
+        "2 Cups almonds, skinless and raw",
+        "2 Cups walnuts, raw",
+        "1 Cup sunflower seeds, raw",
+        "1 Cup pumpkin seeds, raw",
+        "1 Cup golden raisins",
+        "1 Cup shredded unsweetened coconut"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Muesli",
+      "steps": [
+        "Preheat the oven to 200°C (400°F). Heat up the honey and olive oil in a saucepan until it is thin and runny. Roughly chop the walnuts and almonds.",
+        "Place the oats and almonds on two separate baking trays and place in the oven for 3 minutes. After 3 minutes, turn the oven off, only the residual heat is required for the rest of the roasting process.",
+        "Remove both trays from the oven. Add the walnuts to the almond tray. Form the oats into a pyramid shape and pour roughly ¼ of the honey and oil mixture on the top. Mix until most of the oats are evenly coated. Return both trays to the oven for 5 minutes.",
+        "Remove both trays from the oven again. Add raisins and coconut to the nut tray and mix ½ of the remaining honey and oil through the oats. Put both trays back into the oven for another 5 minutes.",
+        "Remove both trays from the oven and mix everything together, including the seeds and the remaining honey and oil.",
+        "Spread the muesli evenly over both trays and return to the oven for 5 minutes.",
+        "Stir the muesli around and then roast for a final 5 minutes or until golden brown.",
+        "Allow to cool completely, keep at room temperature in an airtight container.",
+        "Serve 1 Cup of muesli with fresh berries and enjoy with milk or yogurt."
+      ]
+    }
+  ]
+}

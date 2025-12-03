@@ -1,0 +1,61 @@
+{
+  "id": "earl-grey-pisco-sour",
+  "restaurant": "Chicha",
+  "heroImage": "earl-grey-pisco-sour.jpg",
+  "title": "Earl Grey Pisco Sour",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Earl Grey Pisco Sour",
+      "items": [
+        "30ml Fresh Lemon Juice (juice of 1 large lemon)",
+        "60ml Earl Grey Infused Pisco",
+        "20ml Vanilla Syrup",
+        "1 Egg White (of a small egg)",
+        "3 Drops Angostura Bitters"
+      ]
+    },
+    {
+      "heading": "Earl Grey Infused Pisco",
+      "items": [
+        "1 750ml Bottle Pisco",
+        "8 Earl Grey Tea Bags"
+      ]
+    },
+    {
+      "heading": "Vanilla Simple Syrup",
+      "items": [
+        "2 Cups Sugar",
+        "2 Cups Water",
+        "1 Vanilla Pod"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Earl Grey Pisco Sour",
+      "steps": [
+        "In a cocktail shaker combine fresh lemon juice, Pisco, vanilla syrup, egg whites.",
+        "Shake with no ice (dry shake).",
+        "Fill shaker with ice and shake again vigorously for a minute or until foamy.",
+        "Strain into a snifter glass or champagne flute and add three drops of Angostura Bitters as garnish."
+      ]
+    },
+    {
+      "heading": "Vanilla Simple Syrup",
+      "steps": [
+        "Combine equal parts water and sugar and bring to gentle boil. Reduce heat and gently simmer for 30 min.",
+        "Remove from heat, add the vanilla bean pod and allow to cool.",
+        "Bottle with the vanilla pod."
+      ]
+    },
+    {
+      "heading": "Earl Grey Infused Pisco",
+      "steps": [
+        "In large mixing bowl infuse the tea in the Pisco for two hours.",
+        "Remove tea bags and transfer infused Pisco back into original bottle."
+      ]
+    }
+  ]
+}

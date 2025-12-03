@@ -1,0 +1,52 @@
+{
+  "id": "ipa-battered-fish",
+  "restaurant": "Fishworks Restaurant",
+  "heroImage": "ipa-battered-fish.jpg",
+  "title": "Black Kettle Brewing IPA Battered Fish",
+  "book": "The North Shore Foodie",
+  "notes": "Recipe developed by Shallaw Kadir, chef and owner of Fishworks Restaurant.",
+  "ingredientSections": [
+    {
+      "heading": "Battered Fish",
+      "items": [
+        "175g (1½ Cups) Plain flour",
+        "1 tsp Dried turmeric",
+        "150ml Black Kettle IPA",
+        "100ml Sparkling water",
+        "Roughly 1 Litre Sunflower oil, for frying",
+        "4, 200g portions of sustainable cod or halibut fillets",
+        "2 tsp Salt",
+        "2 tsp Pepper",
+        "2 tsp Dill"
+      ]
+    },
+    {
+      "heading": "Chips",
+      "items": [
+        "4 Large Kennebec potatoes",
+        "Sunflower oil"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Chips",
+      "steps": [
+        "Wash the potatoes then cut them into sticks. Place in a large bowl and cover with cold water and allow them to soak for 30 minutes.",
+        "Drain off the water, spread out the potato sticks on a paper towel and thoroughly blot them dry.",
+        "Heat a few inches of high smoke point cooking oil (not olive oil) in a heavy pot to 150°C (300°F). In batches based on how big your saucepan is, carefully cook the potatoes until soft, roughly 4-5 minutes. They should not be brown at this point. You just want to start the cooking process. Remove and drain on new, dry paper towels.",
+        "Increase the heat until the oil reaches 200°C (400°F). Fry the potatoes, in batches if necessary, until the chips are golden and crisp. Remove them from the oil and drain on paper towels. Sprinkle with sea salt."
+      ]
+    },
+    {
+      "heading": "Black Kettle IPA Battered Fish",
+      "steps": [
+        "Place most of the flour in a large bowl, but set aside about ¼ cup. Gradually pour the Black Kettle IPA and sparkling water into the bowl, stirring with a wooden spoon until you have a smooth, lump-free batter. Add the dill, salt and pepper and adjust to taste. Adjust with either a bit more flour or liquid to come to a nice batter not too runny or thick.",
+        "Heat the high smoke point cooking oil in a deep saucepan until a drop of batter sizzles and crisps up straight away, roughly 200°C (400°F). You can use the same oil that was used with the fries, just scoop out any burnt bits and top up the oil if necessary.",
+        "Combine the set-aside flour with the turmeric. Pat the fish dry with kitchen paper, then toss it in the reserved turmeric flour mix. Shake off any excess flour and then dip into the batter and thoroughly cover the fish.",
+        "Carefully and slowly lower each fillet into the hot oil and fry for 6-8 minutes, depending on the thickness of the fish, until golden and crisp. Using a large slotted spoon, lift out the fish, drain on kitchen paper and sprinkle with salt.",
+        "Never leave cooking oil on the heat unattended, monitor its temperature and have a fire blanket nearby."
+      ]
+    }
+  ]
+}

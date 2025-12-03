@@ -1,0 +1,77 @@
+{
+  "id": "smoked-meat-grilled-cheese-sandwich",
+  "restaurant": "Jackalope's Neighbourhood Dive",
+  "heroImage": "smoked-meat-grilled-cheese-sandwich.jpg",
+  "title": "Smoked Meat Grilled Cheese Sandwich",
+  "book": "The East Van Foodie",
+  "notes": "This is Jackalope's take on Pastrami and the Pastrami on Rye. The restaurant would normally cook a whole brisket which weighs over 5½kgs. However, for this 2kg recipe ask the butcher for the fattier side of the brisket instead of the leaner side.",
+  "ingredientSections": [
+    {
+      "heading": "Brisket Brine",
+      "items": [
+        "2-2½kg Brisket",
+        "4L Water",
+        "350g Salt",
+        "235g Sugar",
+        "115g Brown Sugar",
+        "10 Cloves Garlic, halved",
+        "20g Pickling Spice",
+        "½ Cup Colonel Mustard Hot Sauce",
+        "40g Cure Salt (Pink Salt)",
+        "15g Rosemary",
+        "15g Thyme",
+        "10g Allspice"
+      ]
+    },
+    {
+      "heading": "Dry Rub",
+      "items": [
+        "25g Coriander Seeds",
+        "25g Black Peppercorns",
+        "5g Granulated Garlic",
+        "5g Granulated Onion",
+        "5g Red Chillies"
+      ]
+    },
+    {
+      "heading": "Grilled Cheese",
+      "items": [
+        "Marble Rye Bread, sliced",
+        "1 Tbsp Grainy Dijon",
+        "1 Tbsp Yellow Mustard",
+        "1 tsp Colonel Mustard Hot Sauce",
+        "Aged Cheddar"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Brining",
+      "steps": [
+        "Combine all the brine ingredients in a pot large enough to hold four litres and bring to simmer stirring until the sugar and salt are dissolved. If you are going to use liquid smoke add it now (see below). Remove the brine from the heat and allow to completely cool.",
+        "Trim most of the fat from the brisket but leave some for flavour.",
+        "If you have a brining syringe inject some of the brine into the meat from many angles. This step is recommended but not vital.",
+        "Place the brisket into the brine and make sure it is fully submerged. Use a plate or food safe weighted object to keep it down if necessary. Refrigerate for three days."
+      ]
+    },
+    {
+      "heading": "Smoking",
+      "steps": [
+        "Remove the brisket from the brine and rinse it thoroughly with cold water. Discard the brine.",
+        "Coarsely grind the pepper and coriander in a pepper mill or mortar and pestle. Add the garlic, onion, and red chillies, and mix the rub together.",
+        "Coat the brisket heavily in the rub, until it can hold no more.",
+        "Preheat a smoker to 110°C (225°F) and smoke the brisket until it has an internal temperature of 65°C (155°F).",
+        "An alternative to a smoker would be to add 1 Tbsp of Liquid Smoke to the brine and roast it in the oven wrapped in foil.",
+        "Allow to cool to room temperature and then place in fridge.",
+        "To serve slice the brisket thinly, heat a frypan with a splash of oil and steam the meat with a lid on until hot but don't over-cook. Season with a little black pepper."
+      ]
+    },
+    {
+      "heading": "Grilled Cheese",
+      "steps": [
+        "Mix the mustards and hot sauce together.",
+        "Build the sandwich as normal using hot meat and toast as desired."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "grilled-ricotta-stuffed-squash-blossoms-and-pickled-ramps",
+  "restaurant": "Burdock & Co.",
+  "heroImage": "grilled-ricotta-stuffed-squash-blossoms-and-pickled-ramps.jpg",
+  "title": "Grilled Ricotta Stuffed Squash Blossoms & Pickled Ramps",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Pickled Ramps",
+      "items": [
+        "200g Ramp Bulbs",
+        "2 Cups White Wine Vinegar",
+        "½ Cup Water",
+        "¼ Cup Brown Sugar",
+        "1 tsp Salt",
+        "1 tsp Pepper"
+      ]
+    },
+    {
+      "heading": "Squash Blossoms",
+      "items": [
+        "6 Large Squash Blossoms",
+        "½ Cup Ricotta",
+        "½ tsp Lemon Zest",
+        "½ tsp Thyme Leaves",
+        "Salt"
+      ]
+    },
+    {
+      "heading": "Vegetables",
+      "items": [
+        "2 Tbsp Fava Beans, fresh",
+        "2 Tbsp Peas, fresh",
+        "2 Tbsp Chanterelle Mushrooms",
+        "1 Tbsp Butter",
+        "Salt"
+      ]
+    },
+    {
+      "heading": "Garnish",
+      "items": [
+        "6 small Basil Leaves"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Pickled Ramps",
+      "steps": [
+        "Clean the ramps thoroughly and place in a mason jar.",
+        "Bring the remaining ingredients to a boil and then pour over the ramps.",
+        "Allow to cool and then place in the fridge at least overnight before serving."
+      ]
+    },
+    {
+      "heading": "Squash Blossoms",
+      "steps": [
+        "Mix the ricotta, zest, and thyme together in a bowl. Season with salt to taste.",
+        "Transfer the mix into a piping bag.",
+        "Evenly pipe the mix into each of the blossoms."
+      ]
+    },
+    {
+      "heading": "Vegetables",
+      "steps": [
+        "Sauté all the vegetables in the butter and season with salt."
+      ]
+    },
+    {
+      "heading": "To Plate",
+      "steps": [
+        "Arrange the sautéed vegetables on the serving plates.",
+        "Place the basil leaves and a few slices of pickled ramp on top and around the vegetables.",
+        "Grill the blossoms over a very high heat until they are just starting to brown.",
+        "Place on top of the vegetables and serve immediately."
+      ]
+    }
+  ]
+}

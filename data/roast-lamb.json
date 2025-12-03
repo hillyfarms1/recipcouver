@@ -1,0 +1,54 @@
+{
+  "id": "roast-lamb",
+  "restaurant": "Kypriaki Mediterranean Grill",
+  "heroImage": "roast-lamb.jpg",
+  "title": "Roast Lamb",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Roast Lamb",
+      "items": [
+        "4 pcs. Lamb shoulder approx. 500-700g in total",
+        "½ Head garlic",
+        "3 Tbsp Dried oregano",
+        "2 Tbsp Salt",
+        "2 Tbsp Black pepper",
+        "3 Bay leaves",
+        "½ White onion",
+        "¼ Cup Lemon juice",
+        "½ Cup Regular yellow mustard",
+        "1L Lamb stock"
+      ]
+    },
+    {
+      "heading": "Greek Salad",
+      "items": [
+        "2 Tomatoes",
+        "1 Cucumber",
+        "½ Red onion",
+        "150g Feta cheese",
+        "150g Pitted Kalamata olives",
+        "2 or 3 tsp Dried oregano",
+        "Olive oil",
+        "Cracked green peppercorns"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Roast Lamb",
+      "steps": [
+        "Preheat the oven to 190°C (375°F). Cut the lamb into 4 equal pieces and place into a deep baking pan or dish. Break apart and peel the garlic and place the whole cloves into the pan. Chop the onion and add to the lamb with the oregano, salt, pepper and bay leaves. Add the mustard and lemon juice.",
+        "Pour stock over all the ingredients until it covers the lamb. Depending on the size of your baking pan, you may need to top up with more stock or water. Cover with tin foil or a lid ensuring a tight seal.",
+        "Roast at 190°C (375°F) for 4 hours. After 3 hours check the liquid level; you may wish to top it up. The lamb will be ready when the bones are easy to remove."
+      ]
+    },
+    {
+      "heading": "Greek Salad",
+      "steps": [
+        "Cut the tomatoes into wedges, slice the cucumber and red onion. Cube the feta and toss all ingredients together in a big bowl. Dress with olive oil and cracked green peppercorns."
+      ]
+    }
+  ]
+}

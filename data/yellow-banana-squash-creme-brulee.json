@@ -1,0 +1,49 @@
+{
+  "id": "yellow-banana-squash-creme-brulee",
+  "restaurant": "Indigo Age Cafe",
+  "heroImage": "indigoAge3.jpg",
+  "title": "Yellow Banana Squash Crème Brûlée",
+  "book": "The Plant-based Foodie",
+  "notes": "Coconut Butter. Coconut Butter is different from coconut oil. It is simply dried coconut flesh that has been broken down in a food processor or blender until it is buttery in texture. It is easy enough to make at home with a bit of patience and a lot of scraping down to sides of a processor but can also be store bought. See note about Coconut Nectar on page 114. Psyllium Husk. Psyllium husk is a natural dietary fibre that is great for mild digestion problems (in higher doses than this recipe uses). It also acts as a binding agent to help set dishes, especially desserts, that aren’t cooked. Gluten-free, diabetic friendly, nut free.",
+  "ingredientSections": [
+    {
+      "heading": "Crème Brûlée",
+      "items": [
+        "360g baked banana squash or butternut squash",
+        "170g coconut nectar",
+        "90g coconut butter or coconut oil",
+        "13g lemon juice",
+        "7g psyllium husk",
+        "1 vanilla pod",
+        "¼ tsp sea salt",
+        "360g water"
+      ]
+    },
+    {
+      "heading": "Garnish",
+      "items": [
+        "½ Cup brown sugar for glaze (optional)",
+        "Mint sprigs",
+        "Physalis (Cape Gooseberry)"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Crème Brûlée",
+      "steps": [
+        "Cut the squash in half lengthwise and scoop out the seeds. Bake at 190°C (375°F), cut-side-down on baking tray for 30 minutes or until soft. When cooked, remove the squash skin and cube the flesh.",
+        "Remove the vanilla seeds from the pod and discard the pod. Combine 360g of the baked squash along with all the remaining ingredients, except the optional brown sugar, in a high speed blender and blend until completely smooth.",
+        "Spoon the blended mixture into oven-safe ramekins or small dishes and smooth out the tops neatly."
+      ]
+    },
+    {
+      "heading": "Garnish",
+      "steps": [
+        "Before serving, if desired, sprinkle about 1 tsp of brown sugar evenly over each dish and use a blow torch to brown and melt the sugar.",
+        "If you don’t have a blow torch, simply place the dishes on the top rack of the oven closest to the broiler. With the oven set to a high broil watch very carefully and rotate as needed so each dish browns evenly.",
+        "Top with a sprig of mint and a physalis or your choice of garnish."
+      ]
+    }
+  ]
+}

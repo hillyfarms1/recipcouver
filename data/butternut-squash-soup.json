@@ -1,0 +1,45 @@
+{
+  "id": "butternut-squash-soup",
+  "restaurant": "Café By Tao",
+  "heroImage": "butternut-squash-soup.jpg",
+  "title": "Butternut Squash and Cilantro Soup",
+  "book": "The North Shore Foodie",
+  "notes": "One thing you must know, all our recipes are executed in grams. We strongly recommend for you to get a food scale, a little one will do perfectly. Using grams as measurements is your ticket to success but we have included cups in case you don't have the right scale. Vegan raw cuisine dishes will deliciously surprise you when using fresh organic ingredients. Organic produce is packed with sweetness harmoniously blended with the right bitterness leaving a perfect aftertaste. All produce must be fresh and crisp with a delicate aroma. This soup is refreshing, the colour makes my body smile and the creaminess is silky on your palate. Did you know green bell peppers are unripe peppers? This explains why they are less expansive then the coloured ones. I've never seen organic green peppers. All coloured peppers are green to start and ripen to be orange, yellow or red and I have also seen a variety that are purple and brown. In this recipe you must use red, believe me, otherwise the colour of the soup is absolutely not appealing.",
+  "ingredientSections": [
+    {
+      "heading": "Soup",
+      "items": [
+        "170g (1⅛ Cup) Butternut squash, peeled and diced",
+        "40g (¼ Cup) Celery, diced",
+        "20g (⅛ Cup) Onion, diced",
+        "40g (¼ Cup) Red bell pepper, diced",
+        "40g (¼ Cup) Avocado",
+        "30g (⅛ Cup) Tamari",
+        "280g (1 Cup) Water"
+      ]
+    },
+    {
+      "heading": "Garnish",
+      "items": [
+        "16g (⅜ Cup) Fresh cilantro, minced",
+        "10 Croutons",
+        "2 Pea shoots"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Soup",
+      "steps": [
+        "Following the gram method; set a mixing bowl on your scale and measure out all the vegetables. Once measured place the vegetables on a cutting board and dice. Put the blender container on the scale, set to zero and then measure the tamari and water. Add all the diced vegetables to the tamari and water. Blend until creamy, up to 1 minute. More blending will alter the fresh taste. Add minced cilantro, mix in by hand. Pour into 2 bowls and garnish."
+      ]
+    },
+    {
+      "heading": "To Serve",
+      "steps": [
+        "Serve the soup cold. Garnish with croutons of your choice and 1-2 pea shoots just before serving.",
+        "At the café we prepare a soup kit, which is simply one serving kept in a sealed container. The kit has all the ingredients except the water. We blend per order. The soup is delicious when freshly blended. The kit will keep up to 3 days in the fridge at 4°C. Doing the same at home makes things easy and quick!"
+      ]
+    }
+  ]
+}

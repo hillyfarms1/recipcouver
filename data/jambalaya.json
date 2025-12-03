@@ -1,0 +1,72 @@
+{
+  "id": "jambalaya",
+  "restaurant": "Havana",
+  "heroImage": "jambalaya.jpg",
+  "title": "Jambalaya",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Spanish Rice",
+      "items": [
+        "1 ½ Cups Parboiled White Rice",
+        "1 Small Red Onion, diced",
+        "½ Red Bell Pepper, diced",
+        "½ Green Bell Pepper, diced",
+        "4 Cloves Garlic, minced",
+        "10g Ancho Powder",
+        "90ml Tomato Paste",
+        "400ml Canned Crushed Tomatoes",
+        "600ml Vegetable stock",
+        "Canola Oil"
+      ]
+    },
+    {
+      "heading": "Jambalaya",
+      "items": [
+        "400g Chicken, sliced",
+        "200g Andouille Sausage, sliced into rounds",
+        "200g Prawns, shelled",
+        "½ Red Bell Pepper, sliced",
+        "½ Green Bell Pepper, sliced",
+        "1 Small Red Onion, sliced",
+        "1 Small Tomato, diced",
+        "4 Cloves Garlic, minced",
+        "20g Cajun Spice",
+        "½ Cup White Wine",
+        "½ Cup Coconut Milk",
+        "Vegetable Oil, for frying",
+        "Sour Cream, to garnish",
+        "Seasonal micro greens or shoots, to garnish"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Spanish Rice",
+      "steps": [
+        "Pre-heat the oven to 190°C (375°F).",
+        "In a heavy bottom oven-proof pot, heat the oil over a medium heat.",
+        "Sauté onions and peppers until they begin to sweat. Add the garlic, ensure the heat is not too high so it doesn't burn. Continue to cook until the vegetables are translucent.",
+        "Add the ancho powder and stir well to ensure a thorough coating.",
+        "Pour in the vegetable stock, crushed tomatoes, and tomato paste and bring to the boil.",
+        "Season with salt and pepper to taste.",
+        "Add the rice to the simmering pot and stir.",
+        "Once it comes to the boil again, cover and put in the oven for an hour.",
+        "It is ready to serve once it has come out of the oven."
+      ]
+    },
+    {
+      "heading": "Jambalaya",
+      "steps": [
+        "Using a large heavy bottomed frying pan brown the chicken in a splash of oil. Do not stir too often to allow the chicken to become nice and golden brown.",
+        "Add the Andouille Sausage to the pan and as the meat begins to caramelize stir gently.",
+        "Add the peppers, onions, & tomato and allow to sweat before adding the garlic.",
+        "Stir thoroughly and then add the prawns and Cajun spice. Continue stirring vigorously to ensure all ingredients are evenly coated.",
+        "Deglaze the pan with the white wine, and when it has reduced by half add the vegetable stock and coconut milk.",
+        "Let simmer until chicken is cooked through and the sauce has thickened slightly. Season with salt and pepper to taste.",
+        "Serve over Spanish rice. Garnish with a dollop of sour cream and fresh micro greens or your favourite shoots."
+      ]
+    }
+  ]
+}

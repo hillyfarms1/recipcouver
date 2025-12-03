@@ -1,0 +1,62 @@
+{
+  "id": "strawberry-truffles",
+  "restaurant": "Temper Pastry",
+  "heroImage": "strawberry-truffles.jpg",
+  "title": "Strawberry, Basil & Black Pepper Truffles",
+  "book": "The North Shore Foodie",
+  "notes": "The beauty of making truffles yourself is that you can play around with different combinations and quantities of flavours. You will always need the Filling Base ingredients but the Filling Flavour ingredients can be as adventurous as you are. Keep in mind that the quantities and liquidity will need to be roughly similar to the above recipe and that some ingredient flavours will be very strong in the cream and others less so. Be adventurous but not too adventurous. Some flavours to consider… almost any liqueur, spirit or schnapps, almost any pureed fruit, cherry seed, nutmeg, cinnamon, almost any spice, cloves, any type of chili, mint, almost any herb, coconut, ginger, coffee, wine or port, beer or stout!, raisins, prunes, dried cranberries, almost any type of tea, maple syrup, any type of citrus, hibiscus, lavender, rose water, carrot juice, sea salt, smoke flavouring (or any smoked ingredient), poppy seeds, sesame seeds, chia seeds, balsamic vinegar or even bacon!",
+  "ingredientSections": [
+    {
+      "heading": "Truffles Shells",
+      "items": [
+        "50 Chocolate truffle shells (available at any good chocolatier or specialty store)"
+      ]
+    },
+    {
+      "heading": "Filling Base",
+      "items": [
+        "60ml Cream",
+        "140g Milk chocolate (roughly 50% cocoa)",
+        "30ml Honey",
+        "40g Butter",
+        "30ml Vodka"
+      ]
+    },
+    {
+      "heading": "Filling Flavours",
+      "items": [
+        "100ml Strawberry puree",
+        "About 30 Peppercorns",
+        "2 Basil leaves",
+        "1 Vanilla bean (or 1 tsp extract)"
+      ]
+    },
+    {
+      "heading": "Coating",
+      "items": [
+        "100gm Milk chocolate",
+        "Roughly 100g of any dry ingredients (Powdered sugar and a touch ground black pepper are a good start, but dried coconut, a touch of salt, cocoa powder and even sprinkles work)"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Filling",
+      "steps": [
+        "Finely chop the basil, break the peppercorns without crushing them too much and add both to a saucepan with the cream, honey, strawberry puree and vanilla. Bring to a gentle boil for 3-5 minutes stirring constantly with a silicone spatula to stop boiling over. Remove from heat.",
+        "Melt the chocolate. Strain the cream mixture through a fine sieve and pour over the melted chocolate. Mix well with a spatula; the liquid will separate and then come back together forming a ganache.",
+        "When the ganache has cooled to 40°C (100°F) soften the butter in the microwave and then mix through thoroughly with the vodka. Transfer the mixture to a piping bag and pipe into the shells. Refrigerate the filled shells for at least one hour."
+      ]
+    },
+    {
+      "heading": "Coating",
+      "steps": [
+        "The next step is to temper the remaining chocolate to coat the truffles. Set up a double boiler or metal bowl on top of a saucepan with barely simmering water. Make sure the water does not come close to touching the bottom of the metal bowl.",
+        "Set aside one quarter of the remaining chocolate. Melt the three quarter portion of the chocolate in the bowl stirring with a silicone spatula and bring its temperature up to 45°C (115°F). Remove from the heat and thoroughly dry the bottom of the bowl; if even one drop of water lands in the melted chocolate at this stage the whole batch will be ruined!",
+        "Add the unmelted set-aside portion of the chocolate to the melted chocolate and stir until smooth. This will gently cool the mixture. Keep stirring until the temperature has dropped to 30°C (85°F). If it cools too quickly, gently re-warm over the hot water again.",
+        "Take the cooled filled truffle shells from the fridge. Place a small amount of the tempered chocolate in a piping bag and pipe a drop into any of the truffle hole indentations if necessary.",
+        "Mix the dry coating mix together well and spread out on a plate or tray. Spoon a small dollop of tempered chocolate into the palm of your hand, roll a truffle between your palms and then in the dry mix. One by one coat all the truffles and place on a wire rack until the coating chocolate has set."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "veggie-wraps-with-hummus-and-quinoa-salad",
+  "restaurant": "The Green Moustache Organic Café",
+  "heroImage": "greenMust.jpg",
+  "title": "Veggie Wraps With Hummus And Quinoa Salad",
+  "book": "The Plant-based Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "House Nutritional Yeast Dressing (Makes 500ml)",
+      "items": [
+        "¾ Cup water",
+        "¼ Cup tamari",
+        "⅓ Cup apple cider vinegar",
+        "150g potatoes",
+        "3 cloves garlic",
+        "100g nutritional yeast"
+      ]
+    },
+    {
+      "heading": "Hummus",
+      "items": [
+        "1 can (540ml) chickpeas or 360g rehydrated well-cooked chickpeas",
+        "⅓ Cup tahini",
+        "1-2 cloves of garlic",
+        "1 tsp ground cumin",
+        "Lemon juice to taste"
+      ]
+    },
+    {
+      "heading": "Quinoa",
+      "items": [
+        "1 Cup dry quinoa",
+        "2 Cups water"
+      ]
+    },
+    {
+      "heading": "Quinoa Dressing",
+      "items": [
+        "2 Tbsp water",
+        "¼ Cup maple syrup",
+        "1 tsp mustard",
+        "⅓ Cup balsamic vinegar"
+      ]
+    },
+    {
+      "heading": "Quinoa Mix",
+      "items": [
+        "2 large kale leaves, chopped",
+        "1 Tbsp pumpkin seeds",
+        "1 Tbsp sunflower seeds",
+        "1 Tbsp raisins"
+      ]
+    },
+    {
+      "heading": "Wraps",
+      "items": [
+        "10 collard leaves",
+        "1 carrot",
+        "1 beet",
+        "1 Cup sprouts",
+        "Quinoa salad (see above)",
+        "Hummus (see above)",
+        "Nutritional yeast dressing (see above)"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Hummus",
+      "steps": [
+        "Add all the ingredients to a food processor or blender and mix until smooth.",
+        "Adjust the consistency with water or some of the reserved chickpea liquid and adjust the seasoning to taste."
+      ]
+    },
+    {
+      "heading": "Quinoa",
+      "steps": [
+        "Rinse quinoa and cook in rice cooker or covered in a saucepan.",
+        "Whisk all the dressing ingredients together vigorously.",
+        "Remove stems from the kale and chop the leaves into bite-size pieces.",
+        "Place the seeds, raisins and kale together in a large bowl. When the quinoa is cool, add it to the bowl with the dressing. Mix everything together well. You could also stir the kale through the cooling quinoa to soften it a bit if desired."
+      ]
+    },
+    {
+      "heading": "Collard Wraps",
+      "steps": [
+        "Shred or grate the carrots and beets separately. Lay the collard leaf underside facing up on a chopping board. Cut off the stem and bottom 4cm (2in) of leaf leaving a long straight edge. With a knife or carrot peeler shave down any remaining thick part of the stem.",
+        "Spread a line of hummus about 2cm (1in) thick along one edge of the leaf. The hummus will help hold the wrap together. Spoon some quinoa salad on top of the hummus but leave roughly 2cm (1in) of space from one end.",
+        "Arrange some shredded carrot, beet and sprouts in line next to the hummus.",
+        "Start with the edge of the leaf with most of the ingredients on it closest to you. Fold this edge over the top of the ingredients and roll away from yourself. When nearly fully rolled, fold one side in, closing the end, and then continue rolling.",
+        "Repeat the process until you have enough wraps and cut with a sharp knife as desired before serving. Serve with the House Nutritional Yeast Dressing."
+      ]
+    },
+    {
+      "heading": "House Nutritional Yeast Dressing",
+      "steps": [
+        "Peel and dice the potato then boil in water until completely soft. Allow to cool.",
+        "Measure all ingredients into the blender and blend until smooth.",
+        "Taste and adjust flavours as desired, adjust the consistency with water if necessary."
+      ]
+    }
+  ]
+}

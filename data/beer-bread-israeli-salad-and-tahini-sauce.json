@@ -1,0 +1,77 @@
+{
+  "id": "beer-bread-israeli-salad-and-tahini-sauce",
+  "restaurant": "Chickpea Restaurant",
+  "heroImage": "chickpea.jpg",
+  "title": "Beer Bread, Israeli Salad And Tahini Sauce",
+  "book": "The Plant-based Foodie",
+  "notes": "Try these side dishes with the Shakshuka recipe on the following page.",
+  "ingredientSections": [
+    {
+      "heading": "Beer Bread",
+      "items": [
+        "3 Cups bread flour",
+        "1½ Cups beer (Hefeweizen is a good choice)",
+        "3 tsp baking soda",
+        "¼ Cup sugar",
+        "¼ Cup sesame seeds",
+        "1 Tbsp salt",
+        "1 tsp coconut oil"
+      ]
+    },
+    {
+      "heading": "Israeli Salad",
+      "items": [
+        "½ cucumber",
+        "2 tomatoes",
+        "1 small carrot",
+        "¼ red onion",
+        "4 small radishes",
+        "2 Cups shredded white cabbage",
+        "Handful parsley",
+        "Handful mint",
+        "2 fresh lemons",
+        "3 Tbsp olive oil",
+        "Salt and pepper to taste"
+      ]
+    },
+    {
+      "heading": "Tahini Sauce",
+      "items": [
+        "½ Cup tahini paste",
+        "½ Cup water",
+        "Juice from 1 lemon",
+        "4 cloves garlic",
+        "¼ tsp sumac"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Beer Bread",
+      "steps": [
+        "Preheat the oven to 190°C (375°F).",
+        "Mix all the ingredients, except the coconut oil, together in a large bowl forming a wet dough.",
+        "Grease a bread pan with the coconut oil.",
+        "Place the dough into the pan and sprinkle generously with sesame seeds.",
+        "Bake for 45-60 minutes or until the crust is nicely browned and cracked."
+      ]
+    },
+    {
+      "heading": "Israeli Salad",
+      "steps": [
+        "Slice all the vegetables and herbs finely and mix together in a bowl.",
+        "Squeeze the juice from the lemons over the vegetables.",
+        "Add the olive oil, salt and pepper and mix together well.",
+        "Taste and adjust the seasoning and acidity if necessary."
+      ]
+    },
+    {
+      "heading": "Tahini Sauce",
+      "steps": [
+        "Mince the garlic and make sure the tahini paste is well stirred so the oil isn’t separated.",
+        "Add all ingredients to a blender and blend until smooth.",
+        "Adjust the consistency with water if necessary."
+      ]
+    }
+  ]
+}

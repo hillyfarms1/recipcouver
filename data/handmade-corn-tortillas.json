@@ -1,0 +1,42 @@
+{
+  "id": "handmade-corn-tortillas",
+  "restaurant": "Bandidas Taqueria",
+  "heroImage": "handmade-corn-tortillas.jpg",
+  "title": "Handmade Corn Tortillas",
+  "book": "The East Van Foodie",
+  "notes": "If a tortilla doesn't puff up, try pushing down on it again with a spatula, sometimes this kick-starts the puff. If it still doesn't work it may be a sign that the dough is too dry or that the cooking temperature is too cool. Making tortillas is quite simple, but it is also an art. Give yourself time to play with it and get the feel for it. As you get better you can get two or more cooking at the same time and make a whole stack in no time.",
+  "ingredientSections": [
+    {
+      "heading": "Handmade Corn Tortillas",
+      "items": [
+        "3 Cups Masa Harina (this is a corn flour that is different from cornmeal)",
+        "2 Cups Water, lukewarm",
+        "½ tsp Salt"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Masa Dough",
+      "steps": [
+        "Add the salt to the lukewarm water in a medium mixing bowl.",
+        "Add the masa harina to the water, mixing it with your hands forming a dough. The finished product should be as wet and pliable as the dough can be without sticking to your hands so that it can be rolled into clean balls.",
+        "Add more water or more masa harina as needed to reach this consistency. Cover with plastic or a slightly damp cloth, and set aside."
+      ]
+    },
+    {
+      "heading": "Forming and Cooking the Tortillas",
+      "steps": [
+        "Bring one thick bottomed fry pan to a medium heat and a second to a medium low heat. If the pans are not well seasoned use a tiny amount of oil.",
+        "Roll the dough into balls about the size of a ping pong ball.",
+        "Put a ball of dough between the two sheets of plastic on a solid work surface. Use a cut up sandwich bag or similar, plastic wrap will be too thin.",
+        "Using a heavy pot or pan push down firmly on the dough flattening the ball as much as possible.",
+        "Peel the tortilla away from the plastic. If the dough is wet enough, this should be a little tricky. Dough that is very easy to handle when pressing is too dry. Dough that is impossible to handle is too wet. Adjust the dough by adding a touch more water or masa harina as necessary.",
+        "After pressing, place the tortilla straight onto the hotter of the two pans. When it is just cooked enough on the first side (roughly 15-20 seconds), flip it onto its other side and into the cooler pan.",
+        "Cook on the second side in the cooler pan for roughly another 30 seconds or until the surface of the tortilla is turning white.",
+        "Flip it again in the same pan and press down on it with a spatula. The perfect tortilla should puff up like a little pillow after this flip. The puffing up is steam cooking the tortilla from the inside, this produces a tortilla that is soft but not doughy.",
+        "When cooked wrap in a clean damp dish cloth to keep fresh."
+      ]
+    }
+  ]
+}

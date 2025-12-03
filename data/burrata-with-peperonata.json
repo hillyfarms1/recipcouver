@@ -1,0 +1,54 @@
+{
+  "id": "burrata-with-peperonata",
+  "restaurant": "Nicli Antica Pizzeria",
+  "heroImage": "burrata-with-peperonata.jpg",
+  "title": "Burrata with Peperonata",
+  "book": "The Gastown Foodie",
+  "notes": "If you haven't tried Burrata you should immediately call your local Italian deli, ask when their next delivery arrives and order it if you can. Its simplicity and fresh perfection is the epitome of Italian cuisine. Burrata means \"buttered\" in Italian and is mozzarella cheese specially prepared with cream. It can be served in many ways, but is best with salads, fruit or simple flavours.",
+  "ingredientSections": [
+    {
+      "heading": "Peperonata",
+      "items": [
+        "8 large red bell peppers",
+        "1 small red onion",
+        "3 cloves garlic",
+        "½ Cup white wine vinegar",
+        "¼ Cup cane sugar",
+        "Pinch sea salt",
+        "Extra virgin olive oil"
+      ]
+    },
+    {
+      "heading": "Burrata Plate",
+      "items": [
+        "½ burrata ball",
+        "Aged balsamic or balsamic reduction",
+        "Fresh arugula",
+        "Peperonata*",
+        "Flat bread or baguette",
+        "Extra virgin olive oil",
+        "Sea salt"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Peperonata",
+      "steps": [
+        "Remove the tops of the peppers and remove the seeds. Broil or sear over an open flame until the skin is charred evenly and blistered. Place in a large bowl and cover with plastic wrap for 15 minutes so the steam softens the skin. Peel off the skin and reserve the flesh.",
+        "Julienne the red onion, finely slice the garlic and fry both with a splash of olive oil until soft.",
+        "Add the vinegar, sugar and salt, and reduce to a sticky glaze.",
+        "Finely slice the peeled peppers and add to the cooking onions along with any juice that might have released from the peppers.",
+        "Cook over a medium to low heat for about 25 minutes or until any liquid has evaporated and peppers are very soft."
+      ]
+    },
+    {
+      "heading": "Burrata Plate",
+      "steps": [
+        "Remove the burrata from the fridge 20 minutes before serving so it is approaching room temperature.",
+        "Drizzle the balsamic on the serving dish. Place the burrata, drizzle it with some olive oil, sprinkle with sea salt, and garnish with the peperonata and arugula.",
+        "Serve with flatbread, using the dough recipe over page, or fresh baguette."
+      ]
+    }
+  ]
+}

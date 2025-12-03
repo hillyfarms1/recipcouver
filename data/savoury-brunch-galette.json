@@ -1,0 +1,106 @@
+{
+  "id": "savoury-brunch-galette",
+  "restaurant": "Cook Culture",
+  "heroImage": "savoury-brunch-galette.jpg",
+  "title": "Savoury Brunch Galette",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Galette (Buckwheat Crepe) Batter",
+      "items": [
+        "2¾ Cups (330g) buckwheat flour",
+        "2½ tsp salt",
+        "1 egg",
+        "750ml water"
+      ]
+    },
+    {
+      "heading": "Red Pepper-Beet Hummus",
+      "items": [
+        "2 large red peppers",
+        "1 medium-large beet",
+        "10-12 walnut halves",
+        "1 Tbsp tahini",
+        "Juice of 1 large lemon",
+        "1 small clove garlic, minced",
+        "¾ tsp cumin",
+        "1 tsp balsamic vinegar",
+        "3 Tbsp olive oil",
+        "Pinch of salt"
+      ]
+    },
+    {
+      "heading": "Pickled Red Onion",
+      "items": [
+        "1 small red onion",
+        "½ Cup rice vinegar",
+        "½ Cup sugar"
+      ]
+    },
+    {
+      "heading": "Omelettes",
+      "items": [
+        "6 eggs",
+        "½ tsp salt",
+        "¼ Cup of water",
+        "1 pinch ground black pepper"
+      ]
+    },
+    {
+      "heading": "Toppings",
+      "items": [
+        "Gruyere cheese",
+        "Mixed salad greens"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Galette (Buckwheat Crepe) Batter",
+      "steps": [
+        "Combine the buckwheat flour, salt and egg. Slowly add the water while whisking. Cover and refrigerate for 30 minutes."
+      ]
+    },
+    {
+      "heading": "Red Pepper-Beet Hummus",
+      "steps": [
+        "Place an oven rack approximately 20cm (8in) below the broiler.",
+        "Rub the red peppers with olive oil and place in a tray on the top oven rack. Broil the peppers until blistered and blackened on all sides, turning with tongs. Transfer to a bowl, cover with plastic and allow to cool.",
+        "Adjust the oven temperature to 200°C (400°F). Peel the beets, chop them into a 1cm dice, place in a small casserole dish and toss in 1 Tbsp of the olive oil, the balsamic vinegar and salt. Cover and roast for roughly 30 minutes or until they can be easily pierced with a fork.",
+        "Peel and de-seed the red peppers over a fine mesh sieve sitting in a bowl so you catch any juice that is released.",
+        "Place the pepper flesh in a food processor along with the remaining hummus ingredients and process until smooth. If the resulting hummus is too thick, add some of the red pepper juice to thin."
+      ]
+    },
+    {
+      "heading": "Pickled Red Onion",
+      "steps": [
+        "Very finely slice the red onion (using a mandoline is best) and place in a heat-safe bowl.",
+        "Bring the vinegar and sugar to a boil, reduce to a simmer for 30 seconds and stir to ensure sugar is dissolved.",
+        "Pour the hot vinegar mixture over the red onion and allow to \"quick-pickle\" for at least 10 minutes."
+      ]
+    },
+    {
+      "heading": "Omelettes",
+      "steps": [
+        "Whisk all ingredients until well combined. Smear some oil in a large non-stick frying pan and place on medium heat.",
+        "Using a ¼ Cup measure or ladle, pour the egg into the frying pan. Immediately, pick up the pan and swirl the egg around. The goal is to have a circular omelette of uniform paper-thin thickness. Cook for 30 seconds or until tiny bubbles are visible on the surface. Flip the omelette and cook for another 30 seconds. Fold in half, transfer to a plate and repeat the process to create 6 omelettes."
+      ]
+    },
+    {
+      "heading": "Cooking the Galettes",
+      "steps": [
+        "Check the consistency of the batter, which should have a similar texture to cream. Adjust if necessary.",
+        "Follow the same cooking method as used with the omelettes."
+      ]
+    },
+    {
+      "heading": "Plating",
+      "steps": [
+        "Add two folded (half-circle shaped) galettes to a pan and fry over a low heat.",
+        "Sprinkle with a large four finger pinch of grated Gruyere. Layer a half-circle shaped omelette on top of each and then a generous tablespoon of the red pepper-beet hummus. Evenly spread a small handful of mixed salad greens and top with some pickled red onion.",
+        "Using a heat-proof spatula and your hand, fold in thirds over on itself to enclose the filling and make a triangle shape. Repeat with the remaining galettes and omelettes."
+      ]
+    }
+  ]
+}

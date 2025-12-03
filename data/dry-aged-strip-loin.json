@@ -1,0 +1,118 @@
+{
+  "id": "dry-aged-strip-loin",
+  "restaurant": "Bauhaus",
+  "heroImage": "dry-aged-strip-loin.jpg",
+  "title": "Dry-aged Strip Loin with Onion Three Ways, Caramelized Garlic & Confit Potato",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Pickled Chipolini",
+      "items": [
+        "50g chipolini onions",
+        "100ml red beet juice",
+        "100ml sushi vinegar",
+        "50g sugar"
+      ]
+    },
+    {
+      "heading": "White Onion Purée",
+      "items": [
+        "4 white onions",
+        "100g butter",
+        "50ml white wine",
+        "5g salt",
+        "1 sprig rosemary",
+        "1 sprig thyme",
+        "1 bay leaf"
+      ]
+    },
+    {
+      "heading": "Charred Chipolini Onions",
+      "items": [
+        "12 chipolini onions",
+        "20ml olive oil",
+        "Salt"
+      ]
+    },
+    {
+      "heading": "Caramelized Garlic Purée",
+      "items": [
+        "350g garlic cloves, peeled",
+        "20ml olive oil",
+        "40g brown sugar",
+        "100ml water",
+        "100ml sherry vinegar",
+        "3g salt",
+        "50g butter"
+      ]
+    },
+    {
+      "heading": "Confit Beef Fat Potato",
+      "items": [
+        "2 big kennebec potatoes",
+        "500ml beef fat",
+        "Salt & pepper"
+      ]
+    },
+    {
+      "heading": "Dry-Aged Strip Loin",
+      "items": [
+        "4 dry-aged beef strip loin steaks",
+        "Salt & pepper",
+        "Veal or beef jus"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Pickled Chipolini (1 day in advance)",
+      "steps": [
+        "Peel and slice the onions into 5mm rings. Bring the juice and vinegar to a boil and dissolve the sugar in the mixture.",
+        "Place onions in a glass jar and fill with the warm vinegared juice. Allow to rest for 1 day."
+      ]
+    },
+    {
+      "heading": "White Onion Purée",
+      "steps": [
+        "Slice the onions into rings and sweat in a large pot using 30g of the butter. Keep stirring and keep the temperature low enough that the onions don't colour.",
+        "Add the white wine, salt and herbs. Cook on a low temperature with a lid on for about 15 minutes or until they are very soft.",
+        "Finely strain and reserve the liquid, remove the herbs and then blend the onions while adding the remaining 70g of cold butter slowly.",
+        "If the resulting purée is too thick, add some of the strained juices."
+      ]
+    },
+    {
+      "heading": "Charred Chipolini Onions",
+      "steps": [
+        "Blanch the chipolini for about 90 seconds in boiling water. Immediately cool in ice water to stop the cooking.",
+        "Slice in half or into thick disks and sear in a hot pan with the oil until they have a nearly burnt colour. Season with salt."
+      ]
+    },
+    {
+      "heading": "Caramelized Garlic Purée",
+      "steps": [
+        "Roast the garlic in a hot pan with olive oil until brown. Add the sugar and allow to caramelize slightly. Add the water, vinegar and salt, and simmer until the garlic is soft.",
+        "Strain, reserving the liquid, and then blend garlic. Add the butter and then slowly add some of the strained liquid until purée is smooth."
+      ]
+    },
+    {
+      "heading": "Confit Beef Fat Potato",
+      "steps": [
+        "Peel the potatoes and slice into 1cm (½in) disks.",
+        "Bring the beef fat to 85°C (185°F) in a large pot. Confit the potato for roughly 30 minutes or until soft.",
+        "Remove the potato from the fat, drain and season to taste.",
+        "If you have a smoker you can also smoke the potatoes for 10 minutes with hickory wood."
+      ]
+    },
+    {
+      "heading": "Dry-Aged Strip Loin",
+      "steps": [
+        "Preheat the oven to 90°C (195°F).",
+        "Bring a pan to a very high heat. Salt the steaks all over and sear them on all sides.",
+        "Finish the cooking in the oven until the middle is 52°C (125°F) for medium rare.",
+        "Let steaks rest for several minutes.",
+        "Top with hot veal or beef jus."
+      ]
+    }
+  ]
+}

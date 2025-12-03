@@ -1,0 +1,36 @@
+{
+  "id": "indigo-blue-butterfly-pea-lemonade-with-lavender",
+  "restaurant": "The Indigo Age Cafe",
+  "heroImage": "indigoAge5.jpg",
+  "title": "Indigo Blue Butterfly Pea Lemonade With Lavender",
+  "book": "The Plant-based Foodie",
+  "notes": "Gluten-free, diabetic friendly, nut friendly. Butterfly Pea. Butterfly Pea Flower (Clitoria ternatea) hails from Southeast Asia, but is now grown all over the world. Its flowers petals are dried and when steeped in water impart a deep indigo blue colour. It’s regularly used as a food colouring in Malaysia, especially in desserts, and is popular in Thailand as a syrupy sweet drink and consumed more widely as a tea with dried lemongrass, mint, ginger, etc, in a similar way that chamomile tea is used. Ayurvedic medicine credits Butterfly Pea as having anti-stress, calming and other benefits. It’s also said to promote female sexual function, but it seems this is based solely on the physical shape of the flower, which is also the root of the Latin name. Adding an acid, like lemon juice or carbonated water, changes the liquid’s colour just like a drinkable litmus test. These chameleonic properties are also being used as a fun bit of theatre in cocktails.",
+  "ingredientSections": [
+    {
+      "heading": "Indigo Blue Butterfly Pea Lemonade With Lavender",
+      "items": [
+        "1 Cup raw blue agave or coconut nectar",
+        "¼ Cup organic culinary lavender or ¼ Cup crushed fresh lavender blossoms or 1 drop of food grade lavender essential oil",
+        "½ Cup dried butterfly pea flowers (from you favourite tea shop)",
+        "1 Cup fresh-squeezed lemon juice (8-10 lemons)",
+        "5 Cups water",
+        "Ice cubes to serve",
+        "Lavender sprigs for garnish"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Indigo Blue Butterfly Pea Lemonade With Lavender",
+      "steps": [
+        "Bring 3 cups of water to a boil in a medium saucepan. Reduce the heat to a simmer, add the agave or coconut nectar and stir.",
+        "Remove from the heat, add the lavender and butterfly pea flowers and let steep at least 20 minutes or up to several hours, to taste.",
+        "Strain the mixture and discard flowers. Pour the infused syrup into a glass pitcher and set aside to cool.",
+        "Measure and combine the lemon juice and remaining 2 cups of water.",
+        "To serve, fill glasses with ice. Pour the cooled infused syrup into a glass filling about half way.",
+        "Gently pour the lemon mixture on top and watch the magic happen! Where the lemon meets the syrup, the colour will change from blue to pink.",
+        "Serve with a swizzle stick so it can be stirred to combine the two mixtures before drinking. Garnish with lavender flowers."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "bbq-jackfruit-steamed-buns",
+  "restaurant": "The Arbor",
+  "heroImage": "thearbor.jpg",
+  "title": "BBQ Jackfruit Steamed Buns",
+  "book": "The Plant-based Foodie",
+  "notes": "This is the very recipe that won The Arbor \"Best In Show\" for Vancouver Magazine's \"Bao Taste Test\". To be clear, it didn't win \"Best Vegan Bao\", it won best overall bao up against meat-loaded versions. This recipe is how The Arbor makes the dish at the restaurant, but you can save time by purchasing store-bought buns.",
+  "ingredientSections": [
+    {
+      "heading": "Bao Buns",
+      "items": [
+        "200ml water, room temperature",
+        "5g active dry yeast",
+        "350g bread flour",
+        "45g granulated sugar",
+        "20g milk powder, vegan",
+        "5g kosher salt",
+        "2g baking powder",
+        "2g baking soda",
+        "40g coconut oil, melted"
+      ]
+    },
+    {
+      "heading": "BBQ Jackfruit",
+      "items": [
+        "2 565ml (20oz) cans young jackfruit in water",
+        "200ml water",
+        "125ml tamari",
+        "80g brown sugar",
+        "125ml tomato paste",
+        "60ml rice vinegar",
+        "60ml hot sauce, your favourite",
+        "8ml ginger",
+        "5ml sesame oil",
+        "15ml grapeseed oil",
+        "1 onion, finely sliced",
+        "2 garlic cloves"
+      ]
+    },
+    {
+      "heading": "Cilantro Sauce",
+      "items": [
+        "1 bunch cilantro",
+        "1 bunch Italian parsley, picked leaves",
+        "2 shallots, finely sliced",
+        "2 garlic cloves, finely sliced",
+        "10g ginger, peeled and grated",
+        "5g cumin seeds",
+        "7g chili flakes",
+        "2g salt",
+        "7ml grapeseed oil"
+      ]
+    },
+    {
+      "heading": "Pickled Cucumber",
+      "items": [
+        "½ long English cucumber, washed and finely sliced",
+        "15g sugar",
+        "5g kosher salt"
+      ]
+    },
+    {
+      "heading": "Assembly",
+      "items": [
+        "5 shiitake mushrooms",
+        "½ large carrot",
+        "4 cilantro sprigs",
+        "4 limes"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "BBQ Jackfruit",
+      "steps": [
+        "Sautée the finely sliced onion and garlic in large saucepan with a splash of oil over a medium heat for 3 minutes and then add the jackfruit.",
+        "When the jackfruit has began to brown a little, add the BBQ sauce and bring to a simmer. Continue cooking until the liquid has reduced and thickened and the jackfruit is tender. This should take around 45 minutes. You can use it immediately or cool down and store in the fridge for 3-4 days."
+      ]
+    },
+    {
+      "heading": "Cilantro Sauce",
+      "steps": [
+        "Blanch the herbs then shock them in ice water. Squeeze out the excess water and give the herbs a rough chop.",
+        "Over a medium heat, in a fry pan with the grapeseed oil, sautée the shallots, garlic, cumin seeds, chili flakes and ginger until the shallots are soft.",
+        "Combine the chopped herbs with the shallot mix in a blender and purée until smooth. Season with salt. Extra sauce can be frozen in an ice cube tray to use at a later time. Refrigerated the sauce will keep for 3 days but the colour will start to diminish after 1 day."
+      ]
+    },
+    {
+      "heading": "Pickled Cucumber",
+      "steps": [
+        "Finely slice the cucumber, place in a bowl and mix with the sugar and salt. Allow to sit for 8-10 minutes. Refrigerate until ready to assemble the Bao Buns. They will keep for 2-3 days."
+      ]
+    },
+    {
+      "heading": "Assembly",
+      "steps": [
+        "Clean the shiitake, slice to ½cm (¼in) thicknesses and sautée in a pan until just cooked. Peel and julienne the carrot, pick the leaves from the cilantro and cut the limes into wedges.",
+        "Place 2 slices each of the pickled cucumber and sautéed shiitake into a warmed steam bun.",
+        "Spoon some of the warmed jackfruit into the steam bun then top with the cilantro sauce, carrot and picked cilantro. Serve with the lime wedges."
+      ]
+    }
+  ]
+}

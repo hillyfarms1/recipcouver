@@ -1,0 +1,31 @@
+{
+  "id": "old-fashioned",
+  "restaurant": "Shebeen Whiskey House",
+  "heroImage": "old-fashioned.jpg",
+  "title": "Old Fashioned",
+  "book": "The Gastown Foodie",
+  "notes": "The origin of the word cocktail is widely debated, but one theory goes like this. It was common practice in the 1700s and 1800s to dock the tails from horses that were not thoroughbreds. These horses were known as \"cocked tails,\" and later \"cocktails\". In time, the term morphed and expanded its meaning to include people or things that were of lower breeding than they acted or pretended to be. This became associated with mixed drinks in the early 1800s. The concept was apt to additional flavourings being added to inferior spirits, spirits of 'lower breeding', to elevate them above their usual station. Initially this only applied to the combination of ingredients that we now call the Old Fashioned. Sugar, bitters, spirit and citrus twist. As the 1800s progressed cocktail came to mean any drink combining two or more ingredients, the way we still use the word today. In the late 1800s a bartender at a gentleman's club in Louisville, Kentucky, is said to have coined the term Old Fashioned to refer to the combination of original ingredients from almost 100 years earlier. Therefore, according to this theory, the Old Fashioned was the first cocktail as we now know the term.",
+  "ingredientSections": [
+    {
+      "heading": "Old Fashioned",
+      "items": [
+        "60ml Ardbeg 10-year-old Scotch Whisky",
+        "10ml simple syrup",
+        "2 dashes Angostura bitters",
+        "1 dash orange bitters",
+        "Orange twist for garnish"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Old Fashioned",
+      "steps": [
+        "Measure all ingredients into a cocktail shaker.",
+        "Fill the shaker with ice and shake vigorously.",
+        "Strain into a rocks glass with fresh ice.",
+        "Garnish with an orange twist."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "miso-barley-bowl",
+  "restaurant": "The Birds & The Beets",
+  "heroImage": "miso-barley-bowl.jpg",
+  "title": "Miso Barley Bowl",
+  "book": "The Gastown Foodie",
+  "notes": "The Birds & the Beets Miso Barley Bowl is composed of barley, greens, roasted and pickled seasonal vegetables, miso dressing, a marinated ramen egg, all topped with toasted and spiced seeds. Below are the steps to make the key components, but depending on the season you might want to create your own style by playing around with seasonal ingredients and portions.",
+  "ingredientSections": [
+    {
+      "heading": "Salad & Seeds",
+      "items": [
+        "Your choice of seasonal leafy greens, fresh vegetables finely sliced and toasted spiced seeds"
+      ]
+    },
+    {
+      "heading": "Miso Dressing",
+      "items": [
+        "2 Tbsp aka miso paste",
+        "1/3 Cup apple cider vinegar",
+        "½ apple",
+        "2 shallots",
+        "2 pinches cayenne pepper",
+        "1 tsp paprika"
+      ]
+    },
+    {
+      "heading": "Quick Pickled Carrots",
+      "items": [
+        "3 large carrots",
+        "1 Cup apple cider vinegar",
+        "¼ Cup sugar",
+        "2 Tbsp kosher salt",
+        "1 Tbsp black peppercorns",
+        "1 Tbsp mustard seeds"
+      ]
+    },
+    {
+      "heading": "Roasted Vegetables",
+      "items": [
+        "Your choice of seasonal vegetables",
+        "Olive oil",
+        "Salt & pepper"
+      ]
+    },
+    {
+      "heading": "Ramen Eggs",
+      "items": [
+        "4 large eggs",
+        "2 Cups soy sauce",
+        "45g brown sugar",
+        "½ Cup white vinegar",
+        "1 large sealable plastic bag"
+      ]
+    },
+    {
+      "heading": "Barley Bowl (per serving)",
+      "items": [
+        "½ Cup hulled barley",
+        "1½ Cups water"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Miso Dressing",
+      "steps": [
+        "Brunoise (very finely dice) the apple and shallot.",
+        "Add all ingredients to a bowl and mix together well."
+      ]
+    },
+    {
+      "heading": "Quick Pickled Carrots",
+      "steps": [
+        "Peel and julienne the carrots and place in a glass jar with a lid.",
+        "Combine the remaining ingredients and half a cup of water in a small saucepan and bring to a boil.",
+        "Remove from the heat and pour the hot liquid over the carrots.",
+        "Allow to cool to room temperature, place the lid on the jar and refrigerate for a minimum of 2 hours before serving. Refrigerating overnight is even better. Store in the fridge for up to 3 weeks."
+      ]
+    },
+    {
+      "heading": "Roasted Vegetables",
+      "steps": [
+        "Chop the vegetables into good bite-sized pieces.",
+        "Spread out in a roasting dish or pan, drizzle with olive oil and season with salt and pepper.",
+        "Roast at 230°C (450°F) for around 30 minutes or until they start to brown. Stir them around again and continue roasting for another 20 minutes or until they have some good colour."
+      ]
+    },
+    {
+      "heading": "Ramen Eggs",
+      "steps": [
+        "In a saucepan bring enough water to a boil to cover the eggs. Carefully place the fridge temperature eggs in the boiling water and start a timer. When the water returns to a boil, reduce the heat to a slow simmer.",
+        "For a set but soft yolk, remove the eggs at 8 minutes and place them directly into an ice bath.",
+        "When cool to touch gently remove the shells.",
+        "Place a sealable plastic bag in a plastic container. To the bag add the soy sauce, sugar, vinegar and peeled eggs. Gently seal the bag while removing as much air from it as possible. Place the plastic container in the fridge over night."
+      ]
+    },
+    {
+      "heading": "Barley Bowl",
+      "steps": [
+        "Rinse the barley really well. At a ratio of 3 parts water to 1 part barley, bring to a boil and allow to simmer, covered, for between 1 and 1½ hours or until firm but soft. Drain well.",
+        "Start filling the serving bowls with a handful of greens. Dress the greens with a drizzle of Miso Dressing. Add the barley and then the pickled, roasted and fresh vegetables on top. Cut the Ramen Eggs in half and place both halves on top. Sprinkle some toasted spiced seeds and drizzle with some more Miso Dressing."
+      ]
+    }
+  ]
+}

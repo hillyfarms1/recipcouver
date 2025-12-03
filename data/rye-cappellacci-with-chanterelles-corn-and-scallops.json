@@ -1,0 +1,59 @@
+{
+  "id": "rye-cappellacci-with-chanterelles-corn-and-scallops",
+  "restaurant": "Ask For Luigi",
+  "heroImage": "rye-cappellacci-with-chanterelles-corn-and-scallops.jpg",
+  "title": "Rye Cappellacci With Chanterelles, Corn And Scallops",
+  "book": "The East Van Foodie",
+  "notes": "Cappellacci dei briganti is a hand formed pasta shape that refers to the conical brimmed hats of Italian brigands of the late 1800s. This is a recipe made with rye flour added to the dough, working with the earthy flavours of a light summer dish. Leftover camp-fire roasted corn was originally used in this recipe, adding a great smoky flavour. An ideal substitute for fresh scallops is good quality smoked oysters.",
+  "ingredientSections": [
+    {
+      "heading": "Rye Dough",
+      "items": [
+        "350g Semolina Flour (Semolina flour is milled from durum wheat - there is no substitute for semolina, it gives the pasta the al dente texture)",
+        "115g Rye Flour",
+        "165g Whole Eggs",
+        "100g Egg Yolks",
+        "12g Salt",
+        "Additional Semolina for dusting"
+      ]
+    },
+    {
+      "heading": "Pasta Sauce",
+      "items": [
+        "300g Corn, roasted, cut from about two whole cobs",
+        "200g Fresh Scallops, with roe attached if available OR 100g Smoked Oysters",
+        "100g Fresh Chanterelle Mushrooms, brushed clean and torn into bite size pieces",
+        "40g Shallots, sliced",
+        "90g Butter",
+        "20g Chives or Wild Nodding Onions if available",
+        "80ml White Wine",
+        "Parmiggiano Reggiano",
+        "Black Pepper, freshly cracked",
+        "Creme Fraiche, optional"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Cappellacci",
+      "steps": [
+        "Place the semolina and rye flour in the bowl of a heavy duty stand mixer with the salt, whole eggs and egg yolks and using the dough hook attachment, mix on low speed for five minutes.",
+        "Turn dough out onto clean work surface and knead for an additional five minutes.",
+        "Wrap dough tightly in plastic wrap and let rest for at least one hour or overnight for the gluten to fully relax. As a test, the dough shouldn't spring back too quickly when prodded.",
+        "Roll the rested dough to the second-thinnest setting on a pasta roller. Using a 4 ½cm (1 ¾in) ring cutter, cut discs from the dough and cover to prevent drying out while forming cappellacci.",
+        "See photos. Fold a disc slightly where 10 and 2 would be on a clock-face. Wrap around your index finger to form a cone shape pressing firmly to seal dough. Gently fold the bottom of the cone up to form a 'brim'. Should the dough dry while forming the cappellacci, lightly mist work area with a clean spray bottle filled with water.",
+        "Place finished cappellacci on a tray dusted with semolina, continue with remaining dough, one serving is roughly 90g of pasta. Cappellacci can keep in the fridge covered with a dry tea towel two days, or frozen for later use."
+      ]
+    },
+    {
+      "heading": "Pasta Sauce",
+      "steps": [
+        "If using fresh scallops, pat dry with paper towel and season lightly with salt. Add half the butter to a pan preheated to a medium heat and when it starts to turn light brown, add the scallops and partially cook for a maximum of 30 seconds on each side. Remove scallops from pan but leave the juices.",
+        "Using the same pan, add the mushrooms with a splash of olive oil, being careful not to overcrowd pan. Sauté moving as little as possible, until they start to give off some moisture. Add the shallots and continue to sauté until they are translucent and wilted.",
+        "Bring at least 4 litres of water to a boil, with a generous amount of salt (at least 20g). Drop the pasta into water, cook for around 2 minutes, then strain reserving around 120ml of the pasta water.",
+        "Add the corn, wine and moisture from rested scallops or liquor from smoked oysters to the pasta sauce.",
+        "Add the pasta to the sauce, with 120ml of the pasta water. Add the scallops or oysters at the very end, cook until heated through. Finish with the remaining butter, chives and check seasoning. For extra richness three tablespoons crème fraîche can be whisked into sauce. Serve with grated parmiggiano reggiano and freshly cracked black pepper."
+      ]
+    }
+  ]
+}

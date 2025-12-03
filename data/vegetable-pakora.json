@@ -1,0 +1,40 @@
+{
+  "id": "vegetable-pakora",
+  "restaurant": "Palki Restaurant",
+  "heroImage": "vegetable-pakora.jpg",
+  "title": "Vegetable Pakora",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Vegetable Pakora",
+      "items": [
+        "1 Small Cauliflower head",
+        "1 Potato",
+        "1 Onion",
+        "A good handful of Spinach",
+        "1 Cup Chickpea flour",
+        "2 Tbsp Corn flour",
+        "1 tsp Salt",
+        "1 tsp Pepper",
+        "1 tsp Turmeric",
+        "1 tsp Coriander seeds",
+        "1 tsp Cumin seeds",
+        "1 tsp Carom seeds",
+        "½ Cup Water",
+        "Mint and tamarind chutney",
+        "Vegetable oil for deep frying"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Vegetable Pakora",
+      "steps": [
+        "Finely chop all the vegetables and place in a large bowl. Add all the spices and flours and mix everything together well. Add the water in stages and continue mixing together thoroughly so it comes together as a batter. Adjust the amount of water used if necessary. Let the batter rest for around 30 minutes.",
+        "Once rested create bite-sized balls out of the vegetable batter. Then deep fry the balls in hot vegetable oil (or other high smoke point oil) until they are brown colour.",
+        "Drain the balls on paper towel and serve hot with mint and tamarind chutney."
+      ]
+    }
+  ]
+}

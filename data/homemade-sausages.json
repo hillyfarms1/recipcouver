@@ -1,0 +1,58 @@
+{
+  "id": "homemade-sausages",
+  "restaurant": "Windsor Meats",
+  "heroImage": "homemade-sausages.jpg",
+  "title": "Homemade Sausages",
+  "book": "The North Shore Foodie",
+  "notes": "Sausage making is an extremely simple, versatile and rewarding endeavor that can be mastered with a bit of practice. Nothing is more impressive than creating a dish with homemade sausage, or giving it as a gift! You can also increase the batch amount and make it a fun event for your family and friends. Feel free to play around with the spices and flavors in your sausages, although two basic recipes are given below the options are unlimited.",
+  "ingredientSections": [
+    {
+      "heading": "Windsor's Homemade Sausage",
+      "items": [
+        "4½kg Cubed pork shoulder",
+        "1kg Cubed pork back fat",
+        "250ml Ice cold water",
+        "3-4m Natural pork casings, soaked"
+      ]
+    },
+    {
+      "heading": "Savory Sausage Spices",
+      "items": [
+        "50g Salt",
+        "30g Fresh rosemary, roughly chopped",
+        "30g Fresh sage, roughly chopped",
+        "50g Fresh ground black pepper",
+        "30g Ground coriander",
+        "20g Onion powder",
+        "15g Granulated garlic"
+      ]
+    },
+    {
+      "heading": "Italian Sausage Spices",
+      "items": [
+        "250g Coarse ground fennel seed",
+        "50g Salt",
+        "60g Fresh chopped oregano",
+        "60g Fresh chopped basil",
+        "60g Granulated garlic",
+        "50g Fresh ground black pepper",
+        "60g Cayenne pepper (if you want spice)",
+        "20g Chili flakes (if you want spice)"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Homemade Sausage",
+      "steps": [
+        "Place Pork Shoulder and fat in freezer for 20 minutes before grinding. If you do not have a grinder or grinder attachment at home getting it pre-ground on a coarse setting at a butcher shop is perfectly fine.",
+        "Having the meat cool is key in sausage making. Once meat is cool, grind together with fat once through at a coarse setting. Place in a large bowl or tub.",
+        "Add the spices from one of the two mixes listed or create your own blend of flavors. Mix with your hand until spices are incorporated throughout.",
+        "Put meat in the bowl of a standing mixer. Use either the paddle or dough hook attachment. Depending on how large your bowl is this might take two batches. Add the water to the meat and mix on a medium setting for about 4 minutes. The sausage should start binding and pulling away from the sides like dough when it is done. It should have a sticky consistency.",
+        "Once the mixing is finished you can either form it into patties and store in the fridge (fresh for up to 5 days) or freezer. At this stage the sausage meat can be used in the Porchetta recipe on the following page.",
+        "Casing can be done if you have the proper mixer/caser attachment on your stand mixer or if you have a sausage casing device at home. If not, ask your local butcher if they wouldn't mind doing it for you most have no issue with it for a nominal fee.",
+        "Ensure that the casings are well soaked. Slide the casings onto the casing tube. Case at a slow pace making sure the sausages are full but not too tight, avoiding air bubbles as well ( if you have some that is okay, you can prick them after you link.). If you are a beginner, case the sausage in increments of a meter until you get the hang of the speed. Once your sausage is cased link them by pinching and twisting."
+      ]
+    }
+  ]
+}

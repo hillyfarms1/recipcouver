@@ -1,0 +1,34 @@
+{
+  "id": "french-toast-breakfast-dogs",
+  "restaurant": "End of the Line",
+  "heroImage": "french-toast-breakfast-dogs.jpg",
+  "title": "French Toast Breakfast-dogs",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Breakfast Dogs",
+      "items": [
+        "3 Eggs",
+        "½ Cup Milk",
+        "4 Hotdog buns",
+        "2 Tbsp Tahitian Vanilla Curd Cream (available at The End of the Line)",
+        "1 Cup Cream",
+        "1 Cup Mixed berries",
+        "Maple syrup",
+        "16 Mini breakfast sausages (or any savoury but not spicy sausages)"
+      ]
+    },
+  ],
+  "methodSections": [
+    {
+      "heading": "Breakfast Dogs",
+      "steps": [
+        "In a bowl large enough to easily hold the hotdog buns, mix the eggs and milk together well. Dip the pre-cut buns in the egg mix covering them thoroughly. Pan fry the buns until golden on both the top and bottom.",
+        "Bake or pan fry the sausages.",
+        "Whip the cream to medium peaks, add the vanilla curd and whip some more until it is fairly firm.",
+        "Place the sausages on the buns with the fruit, then drop a few good dollops of cream on top and finally drizzle with maple syrup."
+      ]
+    },
+  ]
+}

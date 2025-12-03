@@ -1,0 +1,39 @@
+{
+  "id": "summer-sorrel-soup",
+  "restaurant": "Glorious Organics",
+  "heroImage": "gloriousOrganics.jpg",
+  "title": "Summer Sorrel Soup",
+  "book": "The Plant-based Foodie",
+  "notes": "Eat your greens. There’s a reason why everyone as a child was told to “eat your greens!” Leafy greens are a great source of nutrition. All are high in vitamins A, C, E and K, and some, like broccoli, bok choy and mustard leaves are also high in B group vitamins. Additionally, they contain an abundance of antioxidants, fibre and minerals including iron, potassium and calcium. Numerous formal studies have shown a direct link to fewer occurrences of cancer in people eating greens daily. Sorrel Soup has its roots in central Europe where the various cultures all have a version of “green soup”. While sorrel is a great place to start and has a sour flavour, which when well balanced is delicious, virtually any hardy green leaf can be used. For this reason, this is one of the recipes that Glorious Organics recommends for making the most of seasonal greens. Buy in bulk, make a large batch of soup and then freeze for a simple healthy dish that’s ready to go when you are.",
+  "ingredientSections": [
+    {
+      "heading": "Summer Sorrel Soup",
+      "items": [
+        "1 large onion",
+        "4 cloves garlic",
+        "2 Tbsp olive oil",
+        "1 bunch sorrel",
+        "1 bunch parsley",
+        "1 bunch cilantro",
+        "1 bunch chard, spinach, kale or any other leafy green",
+        "2 Cups vegetable stock",
+        "1 tsp nutmeg",
+        "1 tsp smoked paprika",
+        "1 Cup coconut milk",
+        "Salt and pepper to taste"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Summer Sorrel Soup",
+      "steps": [
+        "Dice the onion and garlic finely and cook in the olive oil in a large pot until transparent.",
+        "Add the stock, pepper and spices and bring to a boil. Set aside and allow to cool.",
+        "Remove the stems and stalks from all of the greens and roughly chop the leaves. Add the leaves and cooked stock mixture to a blender, working in batches if necessary, and blend until completely smooth.",
+        "Transfer back to the pot, stir in the coconut milk, season to taste and warm to a slow simmer.",
+        "Serve hot or cold."
+      ]
+    }
+  ]
+}

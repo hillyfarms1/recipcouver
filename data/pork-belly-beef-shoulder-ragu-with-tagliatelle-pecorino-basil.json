@@ -1,0 +1,73 @@
+{
+  "id": "pork-belly-beef-shoulder-ragu-with-tagliatelle-pecorino-basil",
+  "restaurant": "Campagnolo",
+  "heroImage": "pork-belly-beef-shoulder-ragu-with-tagliatelle-pecorino-basil.jpg",
+  "title": "Pork Belly & Beef Shoulder Ragu With Tagliatelle, Pecorino & Basil",
+  "book": "The East Van Foodie",
+  "notes": "Freezes well. Fresh homemade pasta freezes really well. Allow it to dry out a little, twirl it into single serving portions, arrange on a tray so the portions are not touching each other and freeze over night. This prevents the portions from sticking to each other. Once frozen place in a container or bag and freeze until needed.",
+  "ingredientSections": [
+    {
+      "heading": "Tagliatelle",
+      "items": [
+        "250g Semolina Flour",
+        "250g All Purpose Flour",
+        "13 Egg Yolks",
+        "1 Whole Egg"
+      ]
+    },
+    {
+      "heading": "Ragu",
+      "items": [
+        "1 Cup Olive Oil",
+        "1.3kg Pork Belly",
+        "900g Beef Shoulder",
+        "1 Onion, peeled and diced",
+        "1 Carrot, peeled and sliced",
+        "½ Head Celery, sliced",
+        "8 Cloves Garlic, minced",
+        "2 Cups White Wine",
+        "3 Tbsp Tomato Paste",
+        "500ml Canned Whole Tomatoes, crushed",
+        "1 Bay Leaf",
+        "4 Cups Milk"
+      ]
+    },
+    {
+      "heading": "To Serve",
+      "items": [
+        "1 Tbsp Pecorino Romano per serving, grated",
+        "2 Basil Leaves per serving",
+        "1 Tbsp Butter per serving"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Tagliatelle",
+      "steps": [
+        "On a table top combine the dry ingredients into a mound and make a well in the centre. Add the eggs to the well and using a fork slowly incorporate the flours into the eggs until a dough is formed.",
+        "Knead the dough for at least 10 minutes. Let rest, covered with cling film. Break the dough into manageable batches and roll through a pasta roller until it gets to its thinnest setting. Then cut into 20mm (¾in) wide noodles."
+      ]
+    },
+    {
+      "heading": "Ragu",
+      "steps": [
+        "Pre-heat oven to 160°C (325°F). Season both pieces of meat very well with salt and freshly ground pepper.",
+        "Over medium to high heat in a very large heavy bottomed pot that is big enough to hold all the Ragu ingredients, add olive oil as needed and in batches brown off all sides of both pieces of the meat very well. When browned remove from pot and set aside.",
+        "In the same pot, cook the onions, carrot, celery, garlic and bay leaf until they become tender. Season with salt and pepper, add the tomato paste and cook for another 5 minutes. Add the white wine, stir well and allow to boil down until the volume of the liquid has reduced by 75%.",
+        "Return the both pieces of meat and all their juices to the pot along with the canned tomatoes and milk. The liquid should just cover the meat, if necessary add water to bring it up to the required volume.",
+        "Bring to a simmer and cover the top with parchment paper first and then tightly with foil. Place in the oven and cook for about 5 or 6 hours or until very tender and the meats internal temperature reaches 90°C (200F). Remove from oven, uncover and allow to cool.",
+        "Remove the meat from the liquid and vegetables and when cool wrap in plastic wrap and refrigerate for at least 6 hours or overnight. Skim as much fat as possible from the cooking liquid and then blend with the cooked vegetables into a sauce. Adjust the seasoning as needed and refrigerate.",
+        "Once the meat has become firm, remove from the fridge, pull apart into bite sized pieces and add the cooled sauce. This Ragu can be kept covered in the refrigerator for up three days and frozen for up to one month."
+      ]
+    },
+    {
+      "heading": "To Serve",
+      "steps": [
+        "Bring a large pot of heavily salted water to a boil, drop in the fresh pasta, roughly 100g per serving, and cook to al dente.",
+        "In a large fry pan, slowly heat up the Ragu, roughly ¾ cup per serving, with a little pasta water if necessary. Add the cooked pasta, toss to coat well and cook in the sauce for at least a minute.",
+        "Add the basil leaves and butter just before plating and toss together well. Serve in warm bowls and top with grated pecorino."
+      ]
+    }
+  ]
+}

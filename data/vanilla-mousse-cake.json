@@ -1,0 +1,106 @@
+{
+  "id": "vanilla-mousse-cake",
+  "restaurant": "Temper Pastry",
+  "heroImage": "vanilla-mousse-cake.jpg",
+  "title": "Vanilla, Marscapone & Mousse Cake",
+  "book": "The North Shore Foodie",
+  "notes": "Tempering Eggs: Eggs are tempered when a hot liquid is gently poured into them, heating them without cooking them. When properly tempered, eggs have thickening properties that will help bring the resulting recipe to the appropriate consistency. To temper eggs, you need a large bowl and a whisk. Give the eggs a brief whisk in the bowl. Whisking continuously, trickle the hot mixture into the egg very slowly. When fully combined strain the mixture, removing any bits of egg that might have been cooked.",
+  "ingredientSections": [
+    {
+      "heading": "Pâte Sablée",
+      "items": [
+        "160g Butter",
+        "80g Sugar",
+        "1 Egg yolk",
+        "10g Cream",
+        "200g All-purpose flour"
+      ]
+    },
+    {
+      "heading": "Ladyfinger Sponge",
+      "items": [
+        "2 Eggs",
+        "30g Sugar",
+        "15g Cornstarch",
+        "15g All-purpose flour"
+      ]
+    },
+    {
+      "heading": "Dulcey Cream",
+      "items": [
+        "100g Cream, 36%",
+        "100g Whole milk",
+        "2 Egg yolks",
+        "20g Sugar",
+        "2g Gelatin sheet",
+        "130g Valrohna Dulcey Chocolate (or any quality 30-40% cocoa chocolate)"
+      ]
+    },
+    {
+      "heading": "Vanilla Mascarpone Mousse",
+      "items": [
+        "320g Cream, 36% (divided into 150g and 170g portions)",
+        "150g Whole milk",
+        "3 Egg yolks",
+        "30g Sugar",
+        "6g Gelatine",
+        "2 Vanilla beans",
+        "100g Mascarpone cheese",
+        "2g Vanilla paste"
+      ]
+    },
+    {
+      "heading": "Glaze and Decoration",
+      "items": [
+        "200g White chocolate",
+        "75g Neutral or Miroir Glaze (available from most specialty shops)",
+        "115g Cream, 36%",
+        "2g Gelatine"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Pâte Sablée",
+      "steps": [
+        "Cream the butter and sugar in a mixing bowl, slowly adding the yolk and cream. Add flour, bringing the dough together gently. Wrap and set in the fridge for 1 hr. Heat oven to 160°C (325°F). Flour a workspace and roll the chilled dough to 2mm. Cut out a disk shape slightly smaller than the ring mold. Re-wrap excess dough and place back in the fridge. Place the shaped dough on a tray lined with baking paper, bake until golden brown (about 15 minutes). Remove from oven and set aside until ready for assembly."
+      ]
+    },
+    {
+      "heading": "Short Bread Crumble Garnish",
+      "steps": [
+        "Take the leftover dough from the Pâte Sablée and roll it to 1 to 2cm thick. Sprinkle with granulated sugar and bake at 160°C (325°F) for about 15 minutes or until slightly brown."
+      ]
+    },
+    {
+      "heading": "Ladyfinger Sponge",
+      "steps": [
+        "Mix and sift the flour and cornstarch, set aside. Separate the egg yolks and whites. Whip the egg whites and sugar together to a medium peak. Slowly mix the egg yolks into the egg white mixture until fully incorporated. Preheat the oven to 200°C (400°F). Gently fold the dry ingredients into the egg mixture, making sure there are no lumps. Line a tray with baking paper, spread the batter evenly onto the tray approx. 1 to 2cm thick. Bake the sponge for approx. 5 minutes until light golden colour, take out and allow the sponge to cool completely. Cut the sponge to the same size as the sable dough, set aside until assembly."
+      ]
+    },
+    {
+      "heading": "Dulcey Cream",
+      "steps": [
+        "Bloom gelatin in ice-cold water, then strain out the water and set aside. In a pot combine cream and milk. In a separate bowl, combine and whisk together the yolks and sugar. Heat cream and milk to scalding. Temper into the egg and sugar mixture. Place back onto the heat. Cook mixture continuously stirring till the mixture reaches 82°C. Take off the heat, stir-though the bloomed gelatin and mix until it has melted. Have the chocolate ready in a separate bowl. Strain mixture over the chocolate and emulsify to a smooth constancy. Pour mixture into the mold 2 to 3cm (1in) thick and freeze. Once fully frozen, remove the mold and place back into the freezer until ready for assembly."
+      ]
+    },
+    {
+      "heading": "Vanilla Mascarpone Mousse",
+      "steps": [
+        "Bloom gelatin in cold water. Whisk the 170g of cream to medium peaks. Boil the split open vanilla beans, vanilla paste, 150g of the cream and the milk in a pot. In a separate bowl, combine the egg yolks and sugar and whisk together. Temper the egg mixture together with the cream mixture. Heat to 82°C continuously stirring to avoid over cooking. Take off heat and cool to 40°C and stir-through the bloomed gelatin. Strain the resulting anglaise mixture and cool to 32°C. Whisk the remaining 170g of cream to medium peaks. Cream the mascarpone cheese in a stand mixer with a paddle. Change the paddle to a whisk and slowly add the anglaise mixture to the cheese, mixing on slow speed. Fold the whipped cream into the anglaise mixture creating the mousse."
+      ]
+    },
+    {
+      "heading": "Assembly",
+      "steps": [
+        "Place baking paper on a tray and the mold on the paper. Lay the sablée in the mold and then place the sponge on top of the sable. Half fill the mold with the mousse. Place the frozen dulcey cream on top of the mousse. Fill the mold with the remaining mousse and place in the freezer. Once fully frozen remove the mold and decorate."
+      ]
+    },
+    {
+      "heading": "Decorate",
+      "steps": [
+        "Boil the cream, pour over the white chocolate and stir until smooth. Heat the glaze to 85°C (185°F) and mix in the bloomed gelatine. Slowly strain over the cream mix stirring well creating an emulsion. Store in the fridge overnight and warm to roughly 35°C when ready to use. Place the cake on a wire rack which is over a tray and steadily pour the glaze all over the cake. Place in the fridge to set. Decorate with your choice of fruit, the crumbled shortbread and/or your choice of chocolate."
+      ]
+    }
+  ]
+}

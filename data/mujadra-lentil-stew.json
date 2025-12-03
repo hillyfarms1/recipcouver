@@ -1,0 +1,38 @@
+{
+  "id": "mujadra-lentil-stew",
+  "restaurant": "Jamjar",
+  "heroImage": "mujadra-lentil-stew.jpg",
+  "title": "Mujadra (Lentil Stew)",
+  "book": "The East Van Foodie",
+  "notes": "Mujadra, also spelled Mujaddara or Megadarra, is an ancient middle eastern dish with variations specific to many different cultures in the region. The base recipe being lentils, rice and onions, it can also be eaten with meat, especially chicken, as a side to salads and is even eaten cold. In culture, Mujadra is a version of the 'pottage' in the motif 'selling your birthright for a mess of pottage'. This is based on the Bible's Genesis 25:29–34, where Esau sells his birthright to Jacob, a warning story about giving away something valuable in the long term for something seemingly valuable in the short term.",
+  "ingredientSections": [
+    {
+      "heading": "Mujadra (Lentil Stew)",
+      "items": [
+        "400g Green Lentils",
+        "2 Yellow Onions",
+        "1 tsp Chilli Flakes",
+        "½ tsp Cinnamon, ground",
+        "2 tsp Salt",
+        "1 ½ tsp Cumin, ground",
+        "1 tsp Black Pepper",
+        "1 Cup Short Grain Rice",
+        "2 ½ L Water",
+        "Olive Oil"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Mujadra (Lentil Stew)",
+      "steps": [
+        "Dice one of the onions and in a large saucepan with a splash of olive oil sweat until tender.",
+        "Add the lentils and rice and stir together until well coated.",
+        "Add the spices and warm to bring out their flavours.",
+        "Add the water, bring to a boil, then reduce heat and simmer until the rice is cooked and a stew consistency is reached.",
+        "While the lentils and rice are cooking, slice the other onion and in a fry pan, lightly coated in oil, fry on a medium heat until brown and crispy.",
+        "Serve the lentils and rice in bowls and top with the fried onion."
+      ]
+    }
+  ]
+}

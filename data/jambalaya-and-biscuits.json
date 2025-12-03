@@ -1,0 +1,71 @@
+{
+  "id": "jambalaya-and-biscuits",
+  "restaurant": "The Revel Room",
+  "heroImage": "jambalaya-and-biscuits.jpg",
+  "title": "Jambalaya & Biscuits",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Whole Wheat Biscuits",
+      "items": [
+        "¾ Cup whole wheat flour",
+        "¾ Cup all-purpose flour",
+        "¾ Cup buttermilk",
+        "3 Tbsp butter",
+        "2 tsp sugar",
+        "3 tsp baking powder",
+        "½ tsp salt"
+      ]
+    },
+    {
+      "heading": "Jambalaya",
+      "items": [
+        "20 large shrimp",
+        "200g smoked ham or pork hock",
+        "200g chicken",
+        "1-2 andouille or chorizo sausages",
+        "Canola oil",
+        "1 white onion",
+        "2 sticks celery",
+        "1 green pepper",
+        "Cajun spice",
+        "2 bay leaf",
+        "½ tsp powdered allspice",
+        "3-4 sprigs thyme",
+        "2 Tbsp hot sauce",
+        "2 Tbsp Worcestershire sauce",
+        "1 large can (800ml) plum tomatoes",
+        "1 L chicken stock",
+        "2 Cups uncooked rice"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Whole Wheat Biscuits",
+      "steps": [
+        "Preheat the oven to 220°C (425°F).",
+        "Measure and mix the flours, sugar, baking powder and salt in a large bowl.",
+        "Cut in butter with a pastry blender or a couple of forks until the mixture is crumbly.",
+        "Add the buttermilk gradually while forming the mixture into a dough with a spoon.",
+        "Turn the dough out onto a lightly floured surface and knead gently just until the dough comes together. Do not over work.",
+        "With a rolling pin roll the dough to around 3cm thick. Portion into 4 biscuits with a cookie cutter or knife and place on a baking tray.",
+        "Bake in the oven for around 20 minutes or until golden."
+      ]
+    },
+    {
+      "heading": "Jambalaya",
+      "steps": [
+        "Slice or dice the sausage and fry in a large pot or pan with a splash of oil over a medium high heat until the fat is rendered. Remove from the pot and set aside.",
+        "Dice the chicken and remove the heads and shells from the shrimp and coat generously in cajun spice.",
+        "Cook the chicken and then the shrimp separately in the same pot with the sausage fat until completely cooked and nicely browned. Remove from the pot and set aside.",
+        "Finely dice the onion, celery and pepper. Add another splash of oil to the same pot and sweat the diced vegetables until they are soft. Add herbs and spices and some more cajun spice to taste, stir well and cook for 5 minutes.",
+        "Dice the smoked ham, add it to the vegetables and continue cooking for 2-3 minutes.",
+        "Add the rice, stir well and allow to heat up for a minute or two before adding the tomatoes and chicken stock.",
+        "Bring to a boil and then reduce to a simmer for around 25 minutes or until the rice is cooked and most of the liquid has been absorbed. Be sure to leave a bit of liquid to soak up with the biscuits.",
+        "Add the cooked chicken, sausage and shrimp, along with the Worcestershire and hot sauce. Taste and adjust the seasoning, and add more hot sauce if desired."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "churro-balls",
+  "restaurant": "Meet In Yaletown",
+  "heroImage": "meet2.jpg",
+  "title": "Churro Balls",
+  "book": "The Plant-based Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Rice Pudding",
+      "items": [
+        "3 Cups cooked brown rice",
+        "6 Cups coconut milk",
+        "⅓ Cup organic sugar",
+        "1 tsp vanilla extract",
+        "½ Tbsp cardamom powder",
+        "½ tsp cinnamon",
+        "1 tsp salt"
+      ]
+    },
+    {
+      "heading": "Churro Assembly",
+      "items": [
+        "½ box corn flakes",
+        "4 Cups water",
+        "¼ Cup egg replacer (like Bob’s Red Mill Egg Replacer available at Vegan Supply page 190 or flaxmeal page 206)",
+        "Oil for deep frying"
+      ]
+    },
+    {
+      "heading": "Deep Frying & Coating",
+      "items": [
+        "Canola, sunflower, extra light olive, grapeseed or similar high smoke point oil",
+        "½ Cup organic sugar",
+        "2 Tbsp ground cinnamon"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Rice Pudding",
+      "steps": [
+        "Add the coconut milk, rice and cardamom to a large pot and bring to boil. Stir regularly to avoid scorching.",
+        "Reduce the heat, add the sugar and vanilla extract and simmer until it thickens into a pudding consistency.",
+        "Stir through the cinnamon and a pinch of salt. Taste and adjust seasoning if necessary.",
+        "Allow to completely cool for several hours or overnight."
+      ]
+    },
+    {
+      "heading": "Deep Frying & Coating",
+      "steps": [
+        "Combine the sugar and cinnamon together in bowl and set aside",
+        "Half fill a medium-sized saucepan with a high smoke point oil and heat over medium-high heat until temperature reaches 190°C (375°F) on cooking thermometer.",
+        "Carefully lower the pudding balls, one at a time, into the oil frying only up to 6 balls at at time so the oil’s temperature doesn’t drop too much.",
+        "When they are golden brown and start to float, remove them with a slotted spoon and drain on a cooling rack and/or paper towel.",
+        "Toss the balls in the cinnamon sugar and serve with a scoop of your favourite vegan ice cream, or coconut whip cream."
+      ]
+    },
+    {
+      "heading": "Churro Assembly",
+      "steps": [
+        "Use a small ice cream scoop to portion the rice pudding mixture onto a baking sheet. Set aside. In batches using a food processor, grind the corn flakes into a coarse meal. Place in large mixing bowl. Set aside. In a blender, blend 4 cups of water with the egg replacer. Set aside.",
+        "Set up a dredging station in the following order: pudding balls, egg replacer, corn flake powder.",
+        "Place 10 balls at a time into the egg replacer ensuring they are well coated. Roll each ball in the corn flake powder, ensuring they are consistently coated. Then place the coated balls on a parchment-lined baking tray.",
+        "Repeat until all the pudding balls are coated."
+      ]
+    }
+  ]
+}

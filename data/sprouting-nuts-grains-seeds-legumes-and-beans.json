@@ -1,0 +1,49 @@
+{
+  "id": "sprouting-nuts-grains-seeds-legumes-and-beans",
+  "restaurant": "Café By Tao",
+  "heroImage": "cafeTao3.jpg",
+  "title": "Sprouting Nuts, Grains, Seeds, Legumes And Beans",
+  "book": "The Plant-based Foodie",
+  "notes": "Sprouting grains has two main benefits. Firstly, the sprouted grains tiny plant embryo (the germ) uses some of the seeds starchy food supply (the endosperm) to grow. This means the ratio of nutrients to starch is higher and less starch can mean easier digestion. Secondly, the sprouting process also breaks down phytate and other anti-nutrients. Anti-nutrients are naturally occuring compounds within the seed that can perform a number of roles for the plant, from protecting it from predators to stopping the seed from germinating before it is ready. Unfortunately, they also inhibit the ability of our bodies’ digestive enzymes to absorb nutrients and minerals. As just one example, phytate can lock up up to 80 per cent of zinc. Phytate is water soluble, so it can also be reduced by simply soaking the seeds before using them and several recipes in this book suggest just that. However, for those following a raw diet, sprouting is vital because it can make some seeds that are inedible unless cooked, edible. While there is little hard science on the pros and cons of a completely raw diet, there is abundant anecdotal evidence of its benefits, so adding raw dishes to your diet can only be a good thing and sprouting is a fun way to do that.",
+  "ingredientSections": [
+    {
+      "heading": "Sprouting Grains And Seeds",
+      "items": [
+        "Seeds",
+        "Filtered water",
+        "Sprouting jar or mason jar",
+        "Sprouting jar lid or cheesecloth",
+        "Parchment paper (for drying)"
+      ]
+    },
+    {
+      "heading": "Sprouting And Cooking Chickpeas",
+      "items": [
+        "Dried chickpeas",
+        "Filtered water",
+        "Sprouting jar or mason jar",
+        "Cheesecloth"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Sprouting Grains And Seeds",
+      "steps": [
+        "Place the seeds in a sieve and rinse very well then transfer to a bowl and cover with filtered water. Soak overnight then rinse very well again. Strain well and place in a sprouting jar or mason jar with a sprouting jar lid or top a mason jar with cheesecloth.",
+        "Rinse under fresh water 2-3 times a day, ensuring that the seeds are fully drained each time. Don’t allow the seeds to sit in standing water when sprouting. The seeds should always smell fresh and pleasant.",
+        "Allow to sprout at room temperature away from the sun, this should take between 1 and 2 days. Rinse at least a couple of times a day, draining well each time and placing back in the covered jar. At this point you could also make rejuvelac, see page 104.",
+        "When the sprouts are roughly half a centimetre (¼ in) long, they are ready to eat raw or cooked. To store for later use, spread out the sprouted seeds out on a dehydrator tray, cover with parchment paper and dry for around 20 hours at the lowest setting. Otherwise, store in the freezer."
+      ]
+    },
+    {
+      "heading": "Sprouting And Cooking Chickpeas",
+      "steps": [
+        "Rinse dried chickpeas and then soak in filtered water for 12 hours.",
+        "Rinse again, drain well and allow to sprout at room temperature in a dark place in a sprouting jar or mason jar covered in cheesecloth. Rinse under fresh water 2 or 3 times a day, ensuring that the chickpeas are drained each time. Don’t allow to sit in standing water when sprouting. They should always smell fresh and pleasant.",
+        "After around 24 hours, the sprouts should be half a centimetre long (¼in).",
+        "If following a raw food diet immerse the sprouted chickpeas in water and place in a dehydrator at 45°C (115°F) for 12 hours. Otherwise, cook in boiling water until soft but firm to the bite."
+      ]
+    }
+  ]
+}

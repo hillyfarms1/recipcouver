@@ -1,0 +1,52 @@
+{
+  "id": "escalivada",
+  "restaurant": "Cabrito Tapas/Bebidas",
+  "heroImage": "escalivada.jpg",
+  "title": "Escalivada",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Sherry Vinaigrette",
+      "items": [
+        "40ml Sherry Vinegar",
+        "150ml Extra Virgin Olive Oil",
+        "Salt to taste"
+      ]
+    },
+    {
+      "heading": "Escalivada",
+      "items": [
+        "1 Eggplant",
+        "1 Red Pepper",
+        "1 Yellow Pepper",
+        "1 Green Pepper",
+        "50-100g Manchego 12 months old",
+        "Sherry Vinaigrette (see below)",
+        "Extra Virgin Olive Oil",
+        "4 Basil Leaves",
+        "Sea Salt",
+        "Fresh Ground Pepper"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Sherry Vinaigrette",
+      "steps": [
+        "Place the oil and vinegar in a bottle, shake, taste and adjust seasoning."
+      ]
+    },
+    {
+      "heading": "Escalivada",
+      "steps": [
+        "Pierce the eggplant with a knife in a few places, place on an oven tray with the peppers and coat with a touch of olive oil.",
+        "Roast for approximately 1 hour at 200°C (400 F), turning the peppers after around 30 minutes.",
+        "When cool enough to touch peel the skin from the eggplant and skin and deseed the peppers. Cut the eggplant lengthwise into 2cm (¾in) strips and the peppers in two.",
+        "Plate them arranged like a flag on a tray with parchment paper, drizzle with a touch of olive oil and re-heat in the oven,",
+        "Transfer to a serving plate and season with sherry vinaigrette, sea salt, fresh ground pepper.",
+        "Shave the Manchego evenly over the top, scatter some torn basil and drizzle with some olive oil."
+      ]
+    }
+  ]
+}

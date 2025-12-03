@@ -1,0 +1,40 @@
+{
+  "id": "hazelnut-rice-noodles",
+  "restaurant": "Harvest Community Foods",
+  "heroImage": "hazelnut-rice-noodles.jpg",
+  "title": "Hazelnut Rice Noodles",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Hazelnut Rice Noodles",
+      "items": [
+        "¾ Cup Almonds",
+        "¾ Cup Hazelnuts",
+        "3 Tbsp Soy Sauce",
+        "2 Tbsp Sesame Oil",
+        "2 Tbsp Black Vinegar",
+        "1 tsp Ginger, finely grated",
+        "1 tsp Chilli",
+        "¼ Cup Oil",
+        "2-4 Tbsp Water",
+        "A handful of Kale, chopped",
+        "200g Dry Rice Noodles",
+        "2 bunches Watercress",
+        "Nuts and Chilli Flakes"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Hazelnut Rice Noodles",
+      "steps": [
+        "Toast the nuts in a frypan over a medium heat",
+        "Grind the nuts into a crumble and then soak over-night in just enough water to moisten them.",
+        "Add the nuts, soy sauce, vinegar, ginger, chilli to a food processor and slowly add the oil while processing.",
+        "Thin the mixture with a touch of water to taste.",
+        "Soak the rice noodle in hot water until soft, heat sauce with the kale and pour over noodles. Garnish with cress, toasted nuts and chilli."
+      ]
+    }
+  ]
+}

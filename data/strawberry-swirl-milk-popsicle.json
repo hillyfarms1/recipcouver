@@ -1,0 +1,65 @@
+{
+  "id": "strawberry-swirl-milk-popsicle",
+  "restaurant": "Soft Peaks Ice Cream",
+  "heroImage": "strawberry-swirl-milk-popsicle.jpg",
+  "title": "Strawberry Swirl Milk Popsicle",
+  "book": "The Gastown Foodie",
+  "notes": "This is not the same recipe Soft Peaks uses for Milk Ice Cream but one that is suitable for the domestic kitchen. If you do not have an ice cream maker, using good-quality store-bought milk or vanilla ice cream to make popsicles is just as fun!",
+  "ingredientSections": [
+    {
+      "heading": "Strawberry Purée",
+      "items": [
+        "250g strawberries",
+        "250g white sugar",
+        "½ Cup water"
+      ]
+    },
+    {
+      "heading": "Milk Ice Cream",
+      "items": [
+        "1 L milk",
+        "100g caster sugar",
+        "20g glucose",
+        "100ml condensed milk",
+        "½ tsp gelatin"
+      ]
+    },
+    {
+      "heading": "Strawberry Swirl Milk Popsicle",
+      "items": [
+        "Popsicle molds and sticks",
+        "Strawberry purée",
+        "Soft Peaks Organic Milk Ice Cream or another good quality milk or vanilla Ice Cream"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Strawberry Purée",
+      "steps": [
+        "Remove the tops of strawberries and then cut them into equal size pieces.",
+        "Place them in a saucepan with the sugar, give a quick stir and let sit for 10-15 minutes.",
+        "Add the water to the saucepan and set to a medium-high heat. Don't stir until a red liquid comes to the surface, then stir until all the sugar has dissolved.",
+        "Reduce the heat and let simmer, stirring occasionally, until the strawberries are mushy and the sauce is thick. Allow to cool and then refrigerate."
+      ]
+    },
+    {
+      "heading": "Milk Ice Cream",
+      "steps": [
+        "Add 900ml of the milk and the caster sugar to a large saucepan over a medium-low heat and stirring regularly reduce this to around 600ml.",
+        "Remove from the heat and pour in the condensed milk and glucose and stir until combined.",
+        "Sprinkle the gelatin over the mixture and allow to sit for a few minutes. Place back on the heat for around 5 minutes, stirring a few times.",
+        "Remove from the heat, add the remaining 100ml of milk and churn in an ice cream maker following its directions. Freeze until ready to serve."
+      ]
+    },
+    {
+      "heading": "Strawberry Swirl Milk Popsicle",
+      "steps": [
+        "The quantity of ice cream and purée you will need depends on the size and quantity of your popsicle molds. Allow for approximately 1 part purée to 3 parts ice cream.",
+        "Add the purée and ice cream to a large bowl and, with a spatula, fold the two together. You can choose between a tie-dye, swirly look or can fold a bit more thoroughly for a more uniform pink result.",
+        "Pour and scrape the ice cream into the molds, insert the mold lid-stick or wooden sticks and then freeze for 3-5 hours or overnight.",
+        "When frozen, run the popsicle molds under warm water if they are not easily removed."
+      ]
+    }
+  ]
+}

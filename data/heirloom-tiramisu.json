@@ -1,0 +1,80 @@
+{
+  "id": "heirloom-tiramisu",
+  "restaurant": "Heirloom",
+  "heroImage": "heirloom4.jpg",
+  "title": "Tiramisu",
+  "book": "The Plant-based Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Sponge Cake Layer",
+      "items": [
+        "400ml almond milk",
+        "135ml olive oil",
+        "2 tsp vanilla extract",
+        "3 Tbsp lemon juice",
+        "420g all-purpose flour",
+        "180g sugar",
+        "1½ tsp baking powder",
+        "1 tsp baking soda"
+      ]
+    },
+    {
+      "heading": "Avocado Ganache",
+      "items": [
+        "3 avocados",
+        "125ml maple syrup",
+        "125g cocoa powder",
+        "pinch salt"
+      ]
+    },
+    {
+      "heading": "Almond Mascarpone",
+      "items": [
+        "500g almonds",
+        "15g agar",
+        "2 vanilla beans, scraped",
+        "125ml maple syrup",
+        "65ml almond milk",
+        "35ml coconut cream"
+      ]
+    },
+    {
+      "heading": "Assembly",
+      "items": [
+        "Dark chocolate"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Sponge Cake Layer",
+      "steps": [
+        "Mix wet ingredients together in one bowl and sift the dry ingredients together into another bowl.",
+        "Mix the wet ingredients into the dry and spread on a parchment-lined baking dish or oven tray with sides.",
+        "Bake at 230°C (450°F) for 20-25 minutes. Allow to cool at room temperature."
+      ]
+    },
+    {
+      "heading": "Avocado Ganache",
+      "steps": [
+        "Blend all ingredients in food processor until smooth."
+      ]
+    },
+    {
+      "heading": "Almond Mascarpone",
+      "steps": [
+        "Soak the almonds overnight. Drain and then blend with 2½ L of fresh water until smooth.",
+        "Bring 250ml of water to a boil in a saucepan, whisk in the agar and allow to boil for a few minutes. Add this to the puréed almonds. Stir and then chill until set.",
+        "Once set, add to a food processor along with the vanilla scrapings, maple syrup, coconut cream and process until smooth."
+      ]
+    },
+    {
+      "heading": "Assembly",
+      "steps": [
+        "Serve the tiramisu in glasses. Cut cake into glass-shaped rounds, and soak in a coffee liqueur like Tia Maria or Kahlúa, both are vegan according to their websites.",
+        "Alternate layers in the glass as follows, cake, ganache, mascarpone, repeat. Grate dark chocolate over the top and serve."
+      ]
+    }
+  ]
+}

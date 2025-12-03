@@ -1,0 +1,56 @@
+{
+  "id": "wild-rice-salad",
+  "restaurant": "Café By Tao",
+  "heroImage": "wild-rice-salad.jpg",
+  "title": "Wild Rice Salad",
+  "book": "The North Shore Foodie",
+  "notes": "When my recipes require blending, the blended ingredients need a smooth finished texture. To achieve this texture make sure the ingredients are covering the blender or food processor's knifes. If not, the ingredients will simply stay underneath the knife and not get blended. If you are having this problem you could use a smaller blender or double the quantities in the recipe to cover the knife. If your blender or food processor isn't powerful enough to chop the ingredients, you could break the nuts into pieces before blending by placing them in a plastic bag and smashing them with a rolling pin. This wild rice salad is one of the most delicious ways to eat your kale. Did you know, not too long ago, kale was considered food for pigs? Imagine that! Kale has lots to offer; low fat, no cholesterol, health benefiting anti-oxidant properties, very rich in vitamin A, C, K and also a rich source of minerals like copper, calcium, sodium, potassium, iron, manganese and phosphorus. Do I need to say more? Besides being a powerhouse of nutrition, this salad is very satisfying. Add avocado slices, sprouted sunflower seeds, kelp noodles and walnuts to make it a complete meal. It is much more than a salad!",
+  "ingredientSections": [
+    {
+      "heading": "Wild Rice",
+      "items": [
+        "110g, ¾ Cup Wild rice"
+      ]
+    },
+    {
+      "heading": "Salad",
+      "items": [
+        "120g (¾ Cup) Red bell pepper",
+        "140g (1 Cup) Carrot",
+        "40g, (¼ Cup) Red beets, grated",
+        "70g, (½ Cup) Lacinato kale"
+      ]
+    },
+    {
+      "heading": "Ginger Dressing",
+      "items": [
+        "15g (1 Tbsp) Fresh ginger, minced",
+        "12g (1¼ Tbsp) Fresh garlic, minced",
+        "22g (3 Tbsp) Medjool dates, chopped",
+        "75g (⅓ Cup) Lemon juice",
+        "115g (½ Cup) Extra virgin olive oil",
+        "4g (1 tsp) Himalayan salt"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Wild Rice",
+      "steps": [
+        "Bring 1 litre (4¼ cups) of water to a boil. Add the wild rice and simmer on a low heat for 45 minutes. Drain the water and rinse the cooked wild rice with cold water. Let cool. Cooked wild rice will keep for 4 days in the fridge."
+      ]
+    },
+    {
+      "heading": "Salad",
+      "steps": [
+        "Cut the pepper into thin strips. Peel the carrot, cut into two half lengths and julienne. Grate the beet. Place all vegetables into a large mixing bowl and toss until evenly mixed. Chiffonade the kale by taking 2–3 leaves, rolling them together and cutting the roll into thin strips. The salad will keep for 3 days in the fridge."
+      ]
+    },
+    {
+      "heading": "Ginger Dressing",
+      "steps": [
+        "Place all the ingredients in a blender, except the olive oil and blend until smooth. Add olive oil and blend an additional 20 seconds. Olive oil will emulsify if blended for too long and would also alter the taste and texture rather unpleasantly. Dressing will keep for 2 weeks in the fridge."
+      ]
+    }
+  ]
+}

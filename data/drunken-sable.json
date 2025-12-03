@@ -1,0 +1,83 @@
+{
+  "id": "drunken-sable",
+  "restaurant": "The Portly Chef",
+  "heroImage": "drunken-sable.jpg",
+  "title": "Drunken Sable",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Fish",
+      "items": [
+        "500g Sablefish fillet cut into 4 portions (sablefish is also known as black cod or coalfish)"
+      ]
+    },
+    {
+      "heading": "Marinade",
+      "items": [
+        "60g Ginger",
+        "60g Lemongrass",
+        "½ Cup Mirin (Japanese rice wine)",
+        "½ Cup Brown sugar",
+        "60ml Fish sauce",
+        "1 Tbsp Miso paste",
+        "60ml Sake"
+      ]
+    },
+    {
+      "heading": "Shrimp Wontons",
+      "items": [
+        "8-12 Wonton wraps",
+        "1 Egg",
+        "6 Prawns or shrimp",
+        "Butter"
+      ]
+    },
+    {
+      "heading": "Ponzu Aioli",
+      "items": [
+        "½ Cup Soya sauce",
+        "60ml Lime juice",
+        "60ml Lemon juice",
+        "1 Tbsp Fish sauce",
+        "1 Cup Mayonnaise"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Marinade",
+      "steps": [
+        "Sauté the coarsely chopped ginger and lemongrass for 5-10 minutes.",
+        "Deglaze the pan with the Sake and combine the rest of the ingredients. Simmer until the sugar has dissolved.",
+        "Taste to ensure there is a nice balance of salt from the soy sauce and the sweetness from the sugar. Adjust if necessary.",
+        "Allow to cool. Add the fillets to the marinade and refrigerate for 6-8 hours."
+      ]
+    },
+    {
+      "heading": "Cooking the Fish",
+      "steps": [
+        "When you are ready to cook the fish, preheat the oven to 230°C (450°F). Sear the sable in a hot oiled fry pan, flesh side down for 15-25 seconds, or until the flesh is slightly crisp but not burnt.",
+        "Transfer to an oven-safe dish and bake at 230°C (450°F) for 3-5 minutes.",
+        "Garnish with pickled ginger or fish roe (optional)."
+      ]
+    },
+    {
+      "heading": "Shrimp Wontons",
+      "steps": [
+        "Chop the prawns finely and season with salt and pepper. Sauté the prawns with a small amount of butter and let cool.",
+        "Beat the egg and separate the wonton wraps individually. Lightly moisten the circumference with the egg.",
+        "Place even amounts of shrimp in the middle of each wonton and pinch closed.",
+        "Rotate the wonton with pinches until the shrimp is sealed. Ensure there is little air left in the wonton. Refrigerate until ready to use.",
+        "Steam the wontons in a bamboo steamer for 5 minutes. Start to steam the wontons when the fish goes in the oven."
+      ]
+    },
+    {
+      "heading": "Ponzu Aioli",
+      "steps": [
+        "Combine the soya sauce, fish sauce, lime and lemon juice, adjusting the quantities if necessary to balance the saltiness and acidity.",
+        "Blend in the mayonnaise to the point of stability (meaning it won't run on a plate). Refrigerate until ready to use. Use around a tablespoon per serving either drizzle over the fish or use it to help decorate the plate."
+      ]
+    }
+  ]
+}

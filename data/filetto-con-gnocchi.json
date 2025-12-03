@@ -1,0 +1,88 @@
+{
+  "id": "filetto-con-gnocchi",
+  "restaurant": "Mangia E Bevi",
+  "heroImage": "filetto-con-gnocchi.jpg",
+  "title": "Filetto Con Gnocchi Di Ricotta",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Beef and Spinach",
+      "items": [
+        "4 200-250g (8oz) Beef tenderloins",
+        "2 Garlic cloves, sliced very thin",
+        "1 Tbsp Fresh rosemary, chopped",
+        "Salt and pepper",
+        "2 Tbsp Olive oil",
+        "4 Slices of Taleggio cheese",
+        "500g Fresh spinach",
+        "1 Eggplant"
+      ]
+    },
+    {
+      "heading": "Sauce",
+      "items": [
+        "1 Small Onion",
+        "2 Tbsp Butter",
+        "175ml Marsala wine",
+        "120ml Veal demi glaze",
+        "Salt and pepper"
+      ]
+    },
+    {
+      "heading": "Ricotta Cheese",
+      "items": [
+        "1L Whole milk",
+        "125ml Whipping cream",
+        "250ml Buttermilk",
+        "¼ tsp Salt"
+      ]
+    },
+    {
+      "heading": "Ricotta Gnocchi",
+      "items": [
+        "250g Ricotta cheese",
+        "50g Parmesan cheese",
+        "1 Egg yolk",
+        "90g Flour",
+        "½ tsp Salt"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Beef Tenderloin with Spinach, Ricotta Gnocchi and Caramelized Onion Marsala Sauce",
+      "steps": [
+        "Season the beef with salt, pepper, garlic, rosemary and olive oil, and then grill or pan sear until medium rare. Add a slice of the cheese to the top of each steak just before they are done.",
+        "Cook the spinach in fry-pan with olive oil, salt and pepper. Cut the eggplant into 2-3cm disks, brush with some oil and grill until soft."
+      ]
+    },
+    {
+      "heading": "Sauce",
+      "steps": [
+        "Finely slice the onion and then cook it with the butter on low heat until soft and sticky; this will take around 10 minutes. Add marsala and demi glaze and season with salt and pepper to taste."
+      ]
+    },
+    {
+      "heading": "Ricotta Cheese",
+      "steps": [
+        "Line a large sieve with a layer of cheese cloth and place over a large bowl.",
+        "In a saucepan, slowly bring the milk, cream, buttermilk and salt to a gentle simmer over a medium to low heat. Stir occasionally to prevent scorching until little bubbles form on the surface, this will take around 10 minutes.",
+        "Let the mixture bubble gently, without stirring, until temperature reaches 80°C (175°F) on an instant-read thermometer; this will take around another 5 minutes and curds will begin to form. Remove from the heat and let sit, without stirring, for 10 minutes.",
+        "Gently pour the mixture, including any bits on the bottom, into the lined sieve. Let drain until all the liquid runs off but the cheese is still moist, about 1 hour. Discard the liquid. Chill the ricotta, covered, until ready to use for up to 2 days."
+      ]
+    },
+    {
+      "heading": "Ricotta Gnocchi",
+      "steps": [
+        "Mix together all the ingredients into a dough. Roll the dough into a log around 2cm thick. Cut the log into 2-3cm lengths. Store the gnocchi on a floured sheet pan in the fridge."
+      ]
+    },
+    {
+      "heading": "Serving Up",
+      "steps": [
+        "Boil the gnocchi in salted water until they all float, then drain. Place the a piece of eggplant in the middle of each plate, add the spinach and on top place the steak. Top with sauce and gnocchi."
+      ]
+    }
+  ]
+}

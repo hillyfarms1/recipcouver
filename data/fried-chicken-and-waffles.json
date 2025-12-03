@@ -1,0 +1,66 @@
+{
+  "id": "fried-chicken-and-waffles",
+  "restaurant": "Save On Meats",
+  "heroImage": "fried-chicken-and-waffles.jpg",
+  "title": "Fried Chicken & Waffles",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Fried Chicken",
+      "items": [
+        "1kg boneless chicken thighs",
+        "2 Cups buttermilk",
+        "½ Cup hot sauce"
+      ]
+    },
+    {
+      "heading": "Dredge",
+      "items": [
+        "3 Cups all-purpose flour",
+        "2 Cups corn starch",
+        "1½ Tbsp cayenne",
+        "1 Tbsp paprika",
+        "1½ Tbsp garlic powder",
+        "1½ Tbsp kosher salt"
+      ]
+    },
+    {
+      "heading": "Waffles",
+      "items": [
+        "2 Cups all-purpose flour",
+        "1½ Tbsp baking powder",
+        "½ tsp salt",
+        "¼ Cup sugar",
+        "1 egg",
+        "½ Cup vegetable oil",
+        "1 Cup buttermilk",
+        "1 Cup 2% milk"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Fried Chicken",
+      "steps": [
+        "Mix the buttermilk and hot sauce together and marinate the chicken in it in the fridge for at least 2 hours or overnight.",
+        "Mix all the dredge ingredients together in a large bowl.",
+        "One piece at a time, remove the chicken from the marinade, let it drip drain briefly, roll it around in the dredge ensuring it is completely coated, and then place on a wire rack for around 10 minutes to let the dredge adhere.",
+        "Heat up the frying oil or lard in a large pot to 180°C (350°F).",
+        "Fry the chicken in batches, ensuring not to crowd the pot, until the internal temperature reaches 75°C (165°F). Remove the chicken with a slotted spoon and keep warm in an oven set to its lowest temperature while the next batch cooks.",
+        "Closely monitor the temperature of the oil as it will decrease each time a new batch of chicken is added.",
+        "Serve the chicken on top of the waffles with maple syrup and powdered sugar."
+      ]
+    },
+    {
+      "heading": "Waffles",
+      "steps": [
+        "Separate the egg yolks and whites and then whip the whites to stiff peaks.",
+        "Combine yolks with the rest of the wet waffle ingredients. Mix together the dry waffle ingredients.",
+        "Combine dry ingredients into wet ingredients into a batter.",
+        "Carefully fold the whipped egg whites into the batter.",
+        "Cook waffle mixture in a heated and oiled waffle iron."
+      ]
+    }
+  ]
+}

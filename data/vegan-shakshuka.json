@@ -1,0 +1,52 @@
+{
+  "id": "vegan-shakshuka",
+  "restaurant": "Chickpea Restaurant",
+  "heroImage": "chickpea.jpg",
+  "title": "Vegan Shakshuka",
+  "book": "The Plant-based Foodie",
+  "notes": "Shakshuka. This dish makes a spectacular meal when served with the Beer Bread, Israeli Salad and Tahini Sauce detailed on the previous page and is nicely representative of an Isreali shared meal with family and friends. Shakshuka is a staple Arab and Israeli cuisine, right up there with hummus. Since it is traditionally served with eggs, it probably shares a linked history with Spanish, Portugese and Italian baked egg dishes where the only real difference is the use of historically local spices. In fact this version, being served with vegan sausage, is a link back to the Spanish version that is served with chorizo sausage. The Chickpea team’s technique of using the tomatoes and then the sauce as a “cap” on the cooking vegetables really enhances the flavours.",
+  "ingredientSections": [
+    {
+      "heading": "Vegetable Base",
+      "items": [
+        "4 vegan sausages",
+        "5 tomatoes",
+        "10 cloves garlic",
+        "3 small yellow onions",
+        "1 Tbsp sugar",
+        "1 large carrot",
+        "½ red pepper",
+        "1 jalapeño",
+        "2 Tbsp canola oil",
+        "Pinch paprika"
+      ]
+    },
+    {
+      "heading": "Sauce",
+      "items": [
+        "1 Cup hot water",
+        "275g organic tomato paste",
+        "1 Tbsp paprika",
+        "1 Tbsp smoked paprika",
+        "1 Tbsp cumin",
+        "½ tsp salt",
+        "¼ tsp black pepper"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Vegan Shakshuka",
+      "steps": [
+        "Cube the tomatoes, finely slice the garlic, onion, pepper and jalapeño and grate the carrot.",
+        "Heat canola oil in a large frying pan over a medium heat. When hot, sautée the garlic, then add the onion and cook until soft.",
+        "Add the sugar and paprika and stir everything together well. Add the carrot, jalapeño and red pepper, stir again and let everything cook for a few minutes.",
+        "When all the vegetables are soft, layer the tomatoes on top but don’t stir through. Sprinkle generously with salt, then cover the pan with a lid and reduce the temperature. Allow to cook for 25 minutes without stirring.",
+        "While the vegetables are cooking, mix together all of the sauce ingredients in a bowl and start cooking the sausages in a separate pan.",
+        "After the vegetables have been cooking for 25 minutes, pour the sauce over the top of the cooking vegetables, but, again, don’t stir it through. Cover with a lid again and cook for another 10 minutes.",
+        "Finally, stir all the vegetables together and remove from the heat.",
+        "Serve with a sausage sitting on top of each portion or chop them into bite-sized pieces and stir through the vegetables."
+      ]
+    }
+  ]
+}

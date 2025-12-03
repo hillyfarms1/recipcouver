@@ -1,0 +1,61 @@
+{
+  "id": "goat-curry",
+  "restaurant": "Calabash Bistro",
+  "heroImage": "goat-curry.jpg",
+  "title": "Goat Curry",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Goat Curry",
+      "items": [
+        "1.3kg cubed goat, bone-in",
+        "1 large yellow onion",
+        "2 Tbsp garlic",
+        "2 Tbsp ginger",
+        "1 Tbsp black pepper",
+        "1 Tbsp coriander",
+        "¾ Cup colombo or madras curry powder",
+        "½ bunch fresh thyme",
+        "3 bay leaves",
+        "Juice of 1 lime",
+        "800ml stock or broth",
+        "Salt to taste"
+      ]
+    },
+    {
+      "heading": "Rice & Beans",
+      "items": [
+        "2 Cups white rice",
+        "1 Cup kidney beans",
+        "3 Cups chicken stock",
+        "1 Cup coconut milk",
+        "2-3 cloves garlic",
+        "½ yellow onion",
+        "1 Tbsp cajun spice",
+        "1 sprig thyme"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Goat Curry",
+      "steps": [
+        "Squeeze the lime juice all over the goat and let sit for at least 10 minutes. Then season the goat with half of the black pepper and coriander.",
+        "Finely dice the onion, garlic and ginger. Using kitchen twine, tie the thyme and bay leaves into a small bouquet garni so it's easy to remove when cooked.",
+        "In a large pot over a medium high heat, sweat the onions and then add the ginger and garlic and cook until fragrant.",
+        "Add the curry powder, coriander and bouquet garni, mix together and toast for 1 minute.",
+        "Add the goat meat and mix well, reduce heat to medium low and cook for 5 minutes until the meat is evenly brown and juices form in the pot. Be careful not to burn the curry powder.",
+        "Add the stock and simmer with the lid on for 1½-2 hours or until meat is tender stirring occasionally. Remove and discard the bouquet garni.",
+        "Serve with rice and beans and a leafy salad."
+      ]
+    },
+    {
+      "heading": "Rice & Beans",
+      "steps": [
+        "Finely dice the onion and then sweat in a large saucepan over a medium heat. Add the garlic and cajun spice and cook for 1 minute.",
+        "Add all the remaining ingredients, cover, bring to a boil and then reduce to a simmer. Cook, stirring occasionally until the liquid is absorbed and the rice is soft and fluffy."
+      ]
+    }
+  ]
+}

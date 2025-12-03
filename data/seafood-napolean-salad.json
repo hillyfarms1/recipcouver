@@ -1,0 +1,92 @@
+{
+  "id": "seafood-napolean-salad",
+  "restaurant": "Café Ça Va",
+  "heroImage": "seafood-napolean-salad.jpg",
+  "title": "Seafood Napolean Salad",
+  "book": "The North Shore Foodie",
+  "notes": "If you don't have the right type of ring mold you could also use an appropriately shaped small bowl or plastic container. Build the salad in reverse order and then invert onto a plate.",
+  "ingredientSections": [
+    {
+      "heading": "Seafood Napolean Salad",
+      "items": [
+        "1 Bunch Curly endive or Frisée lettuce",
+        "700g Mussels, roughly 32 mussels",
+        "16 Prawns",
+        "350g Octopus",
+        "100g Smoked salmon",
+        "2 Large Red peppers",
+        "Olive oil",
+        "½ Cup of Vegetable or chicken stock",
+        "½ Cup White wine"
+      ]
+    },
+    {
+      "heading": "Dressing",
+      "items": [
+        "½ tsp Lemon zest",
+        "Juice of 1 Freshly squeezed lemon",
+        "1 tsp Sugar",
+        "¼ tsp Sea salt",
+        "4 to 5 Tbsp Extra virgin olive oil",
+        "Freshly ground black pepper to taste"
+      ]
+    },
+    {
+      "heading": "Octopus Stockpot Vegetables",
+      "items": [
+        "½ an onion",
+        "1 carrot",
+        "¼ leek",
+        "2 celery stalks",
+        "2 bay leaves",
+        "small bunch of parsley",
+        "1 Tbsp thyme",
+        "peppercorns"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Preparing the Octopus",
+      "steps": [
+        "Ask your fishmonger for 350g of large octopus tentacles. Roughly chop the stockpot vegetables. You can use any combination of these vegetables that you have handy or change to your liking.",
+        "In a large saucepan, bring enough water to boil to accommodate all the vegetables and octopus. Add the vegetables first and allow to cook for a few minutes and then add the octopus tentacles whole.",
+        "Cook until tender. Depending on the size of the tentacles, this could take 25-50 minutes. Poke the meat with a fork every 10 minutes and compare how it is coming along. It is done when it is easy to stick a fork into the meat. Remove from the water and allow to cool."
+      ]
+    },
+    {
+      "heading": "Preparing the Mussels",
+      "steps": [
+        "Clean and de-bread the mussels and check that they are healthy. A good rule is they should be only closed before cooking and only open after cooking. Discard any with cracked shells too.",
+        "In a large pot that has a good lid, bring the stock and wine to a boil. Place all the mussels into the pot and close the lid. Cook on a medium to high heat for 5 minutes giving the pot a bit of a shake every couple of minutes. Don't take the lid off or allow the steam to escape.",
+        "After 5 minutes, check to see if almost all of the mussels are open; if so they are done, if not put the lid back on and cook for a further 2 minutes. If there are any still not open after this time discard them. Remove from the heat, allow to cool and then remove the meat from the shells."
+      ]
+    },
+    {
+      "heading": "Preparing the Prawns",
+      "steps": [
+        "Remove the heads and tails and de-vein the prawns. Sauté in a medium hot fry-pan with olive oil until cooked. Remove from heat and allow to cool before slicing lengthwise."
+      ]
+    },
+    {
+      "heading": "Preparing the Peppers",
+      "steps": [
+        "Preheat the oven to 260°C (500°F). Slice the peppers into quarters and remove the seeds and light-coloured flesh. Lightly coat in olive oil and place on a tray, skin side up, in the oven. Monitoring closely, cook until the skin is blistered and soft.",
+        "Remove from the oven, place straight into a plastic container with a lid on and allow to cool. When cool peel the skin off."
+      ]
+    },
+    {
+      "heading": "Preparing the Dressing",
+      "steps": [
+        "Mix all ingredients well, ensuring the sugar and salt dissolve. Adjust seasoning to taste and adjust the amount of oil to the desired consistency."
+      ]
+    },
+    {
+      "heading": "Plating Up",
+      "steps": [
+        "Finely slice the octopus and pepper. In a small mixing bowl, place a one serving portion of each of the ingredients. Toss through a good drizzle of dressing.",
+        "Place a ring mold in the middle of a plate and one layer at a time build the salad up. Alternate the lettuce with your choice of seafood protein and finish with the pepper. Remove the mold. Garnish with the colourful ends of the octopus, dill and a light drizzle of dressing."
+      ]
+    }
+  ]
+}

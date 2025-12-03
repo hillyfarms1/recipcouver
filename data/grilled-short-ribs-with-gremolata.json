@@ -1,0 +1,29 @@
+{
+  "id": "grilled-short-ribs-with-gremolata",
+  "restaurant": "Braise and Butcher",
+  "heroImage": "grilled-short-ribs-with-gremolata.jpg",
+  "title": "Grilled Short Ribs with Gremolata",
+  "book": "The Gastown Foodie",
+  "notes": "The cuts of beef that are most celebrated as grilling steaks — the filet mignon, porterhouse, t-bone, sirloin, etc — must have a good PR team. They're great, don't get me wrong, but if you are a true beef lover, desire a rich beefy flavour, understand why marbling is so important, and accept that every cut needs to be treated slightly differently, it's often the lesser known cuts that win both in price and satiation. Short Ribs probably don't count as a lesser known cut, but they are considered to be a tough cut. Therefore, in North America at least, they are almost universally braised. Braising is searing on all sides and then cooking for a long time in a liquid. This breaks down the connective tissue and makes it really tender. However, it also adds other flavours from the stocks, sauces and braising vegetables. As complementary as these can be, the delicious beefy goodness, so sought after by other more tender cuts is masked, if not lost. The answer… grilled short rib. Here is how to get a delicious, juicy, tender and super flavourful steak at a fraction of the price of the top end cuts. Find a good butcher and ask them for English cut or boneless short ribs. The best come from the top of the ribs near the ribeye; here the strip of steak is thicker but should still have lots of intramuscular fat, or marbling. Before cooking, liberally season the meat with salt and pepper. Grilling short rib is actually easier than a leaner cut because the fat insulates the meat and buys you more time. The heat should be medium and indirect so reduce the flame and don't position the meat directly above it. Aim for an internal temperature of around 52°C (125°F). Any rarer than this and the fat won't have melted and will be waxen; any more well-done and it will leak out, leaving the steak chewy and dry. Resting is a vital and often overlooked step. Simply remove the steak from the heat, let it sit on a chopping board for 5-10 minutes covered loosely with foil. This allows the juices to distribute themselves evenly around the meat so less is lost when you cut it. Cut the steak against the grain. If you think of the steak like a loaf of bread, simply slice it like you would slice bread. This will leave you medallions and any connective tissue still intact will be short and you won't notice it in your mouth. Such a tasty cut doesn't need big flavoured sauces or mustards. This gremolata recipe is all you need.",
+  "ingredientSections": [
+    {
+      "heading": "Gremolata",
+      "items": [
+        "Zest of 1 lemon",
+        "¼ Cup parsley",
+        "3 cloves garlic",
+        "Splash of good extra virgin olive oil"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Gremolata",
+      "steps": [
+        "Zest the lemon and finely chop the parsley and garlic.",
+        "Mix everything together in a bowl.",
+        "Drizzle over the steak and serve."
+      ]
+    }
+  ]
+}

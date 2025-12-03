@@ -1,0 +1,76 @@
+{
+  "id": "lemon-blueberry-cake",
+  "restaurant": "Café By Tao",
+  "heroImage": "lemon-blueberry-cake.jpg",
+  "title": "Lemon Blueberry Please Cake",
+  "book": "The North Shore Foodie",
+  "notes": "One thing for sure with vegan raw cuisine … everyone loves the raw desserts! This cake is our best seller at the café. The lemon juice must be freshly squeezed; store bought pasteurized lemon juice tastes metallic. The coulis could also be made with raspberries, which will also create a beautiful contrast with the filling. You could also slice fruit and fan them on top of the cake or each slice and pour the coulis on the plate. Date syrup is simply a replacement for agave syrup, similar texture and sweetness. We love using whole food rather than an extract, as it seems the body knows what to do with it. Cake will keep 1 week in the fridge or 6 months in the freezer.",
+  "ingredientSections": [
+    {
+      "heading": "Date Syrup",
+      "items": [
+        "125ml (½ Cup) Water",
+        "125g (1⅓ Cup) Medjool dates, pitted"
+      ]
+    },
+    {
+      "heading": "Crust",
+      "items": [
+        "60g (½ Cup) Pecans, soaked and dehydrated",
+        "30g (3 Tbsp) Currants",
+        "10g (1 Tbsp) Medjool dates, pitted",
+        "½ tsp Cinnamon"
+      ]
+    },
+    {
+      "heading": "Filling",
+      "items": [
+        "45g (⅓ Cup) Medjool dates, pitted and chopped",
+        "45g (⅓ Cup) Date syrup",
+        "50g (3 Tbsp) Lemon juice",
+        "45g (⅔ Cup) Young coconut meat, pureed",
+        "140g (¾ Cup) Macadamia nuts soaked for 2 hours, rinsed",
+        "45g (3 Tbsp) Coconut oil, liquefied in a dehydrator or in a bowl of hot water"
+      ]
+    },
+    {
+      "heading": "Blueberry Coulis",
+      "items": [
+        "125g (¾ Cup) Fresh blueberries; if using frozen blueberries thaw them first",
+        "60g (⅓ Cup) Medjool dates, pitted and chopped"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Date Syrup",
+      "steps": [
+        "Place ingredients into the blender and blend until smooth. Keeps 2 weeks in the fridge, 3 months in the freezer."
+      ]
+    },
+    {
+      "heading": "Crust",
+      "steps": [
+        "Place all ingredients into a small food processor and process until the mixture forms a ball when squeezed in your hand. Press the dough into an even layer on the bottom of a 6in springform pan."
+      ]
+    },
+    {
+      "heading": "Filling",
+      "steps": [
+        "Place all the ingredients into a blender adding the nuts last and blend until smooth. Pour the filling on top of the crust, then use the tip of a chopstick in a swirling motion to spread the filling evenly on the crust. Do not fill to the top of the springform; leave space for the coulis."
+      ]
+    },
+    {
+      "heading": "Blueberry Coulis",
+      "steps": [
+        "Pour all ingredients into a small blender and blend until smooth. Pour the coulis on top of the filling and spread using the same technique with the chopstick. Freeze for 6 hours to set."
+      ]
+    },
+    {
+      "heading": "To Serve",
+      "steps": [
+        "Remove from freezer and slice into desired number of pieces after being on the counter for 10 minutes. The cake is easiest to cut while still frozen. Store in fridge for one hour before serving. Transfer any leftover Blueberry Coulis into a squeeze bottle and use to decorate the dessert plates."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "frijoles-charros",
+  "restaurant": "Tacomio",
+  "heroImage": "frijoles-charros.jpg",
+  "title": "Frijoles Charros",
+  "book": "The Gastown Foodie",
+  "notes": "Beans are full of fibre, protein, antioxidants and more. They're also cheap, versatile and a great alternative to meat from a health and environmental viewpoint. So why are they so often overlooked as the basis of a meal? It's probably safe to say bloating and gas has something to do with it. These digestive issues are caused by indigestible carbohydrates that, fortunately, are water soluble. Therefore, soaking and rinsing beans really well in cold water before cooking will help reduce these after effects significantly.",
+  "ingredientSections": [
+    {
+      "heading": "Pinto Beans",
+      "items": [
+        "3 Cups dried pinto beans",
+        "2 L water"
+      ]
+    },
+    {
+      "heading": "Frijoles Charros",
+      "items": [
+        "1 medium yellow onion",
+        "1 large tomato",
+        "2 pasilla peppers",
+        "2 cloves garlic",
+        "¼ Cup olive oil",
+        "Chorizo or bacon (optional)",
+        "Soaked and washed beans",
+        "1½ L water",
+        "2 Tbsp salt",
+        "1 Tbsp dried oregano",
+        "1 tsp ground coriander",
+        "1 dried chipotle pepper",
+        "½ bunch cilantro",
+        "Warm tortillas"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Pinto Beans",
+      "steps": [
+        "Soak the beans in the water overnight in the fridge.",
+        "When fully rehydrated, wash well under cold water until the water runs clear."
+      ]
+    },
+    {
+      "heading": "Frijoles Charros",
+      "steps": [
+        "Finely dice the onion, tomato and pasilla peppers, and smash the garlic. Sauté in the oil in a large saucepan until translucent. If you are adding chorizo or bacon, slice finely and cook with the vegetables, but use less olive oil because the meat will have its own fat.",
+        "Add the soaked and washed beans and water bring to a boil and then reduce the temperature to simmer.",
+        "Add the salt, oregano, coriander and chipotle pepper.",
+        "Cook for 40 minutes stirring occasionally.",
+        "When cooked add the roughly chopped cilantro and serve with warm tortillas."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "veal-ricotta-ravioli",
+  "restaurant": "Carmelo's Ristorante Italiano",
+  "heroImage": "veal-ricotta-ravioli.jpg",
+  "title": "Veal & Ricotta Ravioli",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Pasta Dough",
+      "items": [
+        "500g All-purpose flour",
+        "5 Large eggs"
+      ]
+    },
+    {
+      "heading": "Roast Veal",
+      "items": [
+        "450g Boneless veal shoulder",
+        "½ Cup Dijon",
+        "¼ Cup Grainy mustard",
+        "2 tsp Chopped garlic",
+        "Pinch salt and pepper"
+      ]
+    },
+    {
+      "heading": "Ravioli Filling",
+      "items": [
+        "Roast veal",
+        "3 Eggs",
+        "1 Cup Grated parmigiana cheese",
+        "2 Cups Ricotta cheese"
+      ]
+    },
+    {
+      "heading": "Mushroom & Brown Butter Sauce",
+      "items": [
+        "½ Cup Butter",
+        "½ Cup Chicken stock",
+        "2 Tbsp Fresh sage",
+        "2 Large Portabellini mushrooms"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Pasta",
+      "steps": [
+        "To a stand mixer mixing bowl add eggs and 350g of flour. Using a dough hook, mix until dough begins to form. Remove the dough from the mixer.",
+        "Dust a clean flat surface with some of the remaining flour and knead the dough gradually, slowing adding all of the remaining flour until it is incorporated. This may take up to 20 minutes. Wrap the dough in plastic wrap and refrigerate for at least 30 minutes.",
+        "Once the dough has been refrigerated, remove the plastic wrap and cut the dough into 4 even pieces. Set a pasta roller to a setting of #1. Take the first pieces of dough and run in through the roller. Keep rolling the pasta and gradually increase the setting of the pasta roller until you reach a setting of #7.",
+        "Reset the pasta roller to a setting of #1 and repeat this process for the remaining 3 pieces of dough. You should end up with 4 even sheets approximately 50cm long and 12-15cm wide."
+      ]
+    },
+    {
+      "heading": "Roast Veal",
+      "steps": [
+        "Preheat the oven to 190°C (375°F). In a small bowl, mix the Dijon and grainy mustards. Season the veal with salt and pepper, place in a roasting tray and spread the mustard mix over the veal.",
+        "Cook for 45 minutes or until the internal temperature reaches 125°C (260°F). Once cooked, remove the pan from the oven and allow the veal to rest for 30 minutes."
+      ]
+    },
+    {
+      "heading": "Ravioli Filling",
+      "steps": [
+        "Cut veal into 2cm cubes and place in a food processor with the eggs, ricotta and parmigiana cheese. Puree until smooth, adding salt and pepper to taste.",
+        "Dust a clean dry surface with a small amount of flour and lay out one of the sheets of pasta. Using a ravioli cutter, cut the sheet into 4cm sections.",
+        "Paint each section lightly with water making sure to get all of the edges. Place a small tablespoon of ravioli mix near the centre.",
+        "Fold the pasta over the filling and press in the edges firmly to make the water 'glue' them together forming a pouch. Try to remove all air from the pouch while doing this. Cut off any excess pasta to form roughly square raviolis.",
+        "Repeat with the remaining 3 sheets of pasta."
+      ]
+    },
+    {
+      "heading": "Mushroom & Brown Butter Sauce",
+      "steps": [
+        "Cut the mushrooms into pieces roughly the same size as the raviolis and after sautéing turn them out onto a plate.",
+        "In the same fry-pan at a medium to high heat add the butter and cook it until it starts to brown. Be careful as the difference between brown and burnt butter is minimal. Add the chicken stock, sage and sautéed mushrooms and as soon as the liquid is hot remove from the heat."
+      ]
+    },
+    {
+      "heading": "Finishing",
+      "steps": [
+        "Add the ravioli to lightly salted boiling water and cook for 4 minutes, drain well and plate. Pour the mushroom sauce over the ravioli, sprinkle with parmigiana cheese and serve."
+      ]
+    }
+  ]
+}

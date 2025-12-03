@@ -1,0 +1,77 @@
+{
+  "id": "halibut-with-sunchoke-and-endive",
+  "restaurant": "Fets Whisky Kitchen",
+  "heroImage": "halibut-with-sunchoke-and-endive.jpg",
+  "title": "Halibut with Sunchoke and Endive",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Mash and Purées",
+      "items": [
+        "1 Cup English Garden Peas, frozen",
+        "1 White Onion",
+        "4 Cloves Garlic",
+        "250g Sunchoke, peeled, cubed",
+        "500g Potatoes (Kennebec or similar), peeled",
+        "100ml Cream",
+        "50g Butter",
+        "6 Mint leaves",
+        "Pinch Nutmeg, freshly ground"
+      ]
+    },
+    {
+      "heading": "Endives",
+      "items": [
+        "2 Whole Belgian Endive (Chicory)",
+        "1 Cup Fish Stock"
+      ]
+    },
+    {
+      "heading": "Halibut",
+      "items": [
+        "4x 150g Halibut Fillet Portions",
+        "100ml Extra Virgin Olive Oil",
+        "1 Clove Garlic",
+        "1 Tbsp Fresh Parsley, chopped",
+        "1 Lemon, juice and zest",
+        "Salt and Pepper to taste",
+        "Canola Oil"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Mash and Purées",
+      "steps": [
+        "Roast the sunchoke at 180°C (350°F) for 30 minutes or until soft. Let cool slightly.",
+        "Peel and dice the potato and boil until tender.",
+        "Blanch the peas for 2-3 minutes, in boiling salted water, until soft but still bright green.",
+        "Finely dice the onion and garlic cloves and sweat on a low heat in a pot with a lid on for 4-5 minutes until it starts to turn translucent with no colouring. Remove from heat and separate into two equal parts.",
+        "Melt the butter and cream together and set aside.",
+        "Purée the peas with one half of the cooked onion garlic mix and the fresh mint until smooth. Adjust the seasoning to taste.",
+        "Purée the cooked sun-choke with the other half of the onion garlic mix and season to taste.",
+        "Mash the boiled potato and slowly add the butter/cream mix until the desired creaminess is reached. Add the nutmeg and season to taste.",
+        "Set aside the purées and mash until ready to plate."
+      ]
+    },
+    {
+      "heading": "Endives",
+      "steps": [
+        "Cut the both endives in half long ways.",
+        "Heat a pan up to a high temperature but not too hot.",
+        "Sear the flat part of the endives until golden brown,",
+        "Add the fish stock to the pan and braise in the oven until tender."
+      ]
+    },
+    {
+      "heading": "Halibut",
+      "steps": [
+        "Season the halibut and rub in some canola oil. Sear in a hot pan until golden brown on top and bottom and finish cooking in the oven.",
+        "Mix the olive oil, parsley, remaining diced garlic and lemon juice and zest together to paint onto the fish as soon as it is cooked.",
+        "Place one large tablespoon of each of the purées and the mash near the centre of each plate and swoosh outwards with the edge of the spoon.",
+        "Remove the endive from the stock, pat dry and place in the centre of the plate. Stack the halibut on top. Drizzle some more of the olive, lemon and herb mix."
+      ]
+    }
+  ]
+}

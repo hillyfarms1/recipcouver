@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Foodie Books</title>
+
+    <link rel="stylesheet" href="../css/styles.css" type="text/css"> 
+    <link rel="stylesheet" href="../css/styles-header.css" type="text/css">    
+    <link rel="stylesheet" href="../css/styles-index.css" type="text/css">
+    <link rel="stylesheet" href="../css/normalize.css" type="text/css">    
+
+    <script src="../scripts/script-main.js" defer="defer"></script>
+    <script src="../scripts/script-list.js" defer="defer"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<div class="heading">
+  <img src="../images/plate-svgrepo-com.svg" alt="Plate and heart graphic">
+  <h1>Recipes From Some Of Vancouver's Favourite Restaurants.</h1>
+  <h3>Originally published in the Foodie Book series.</h3>
+</div>
+
+<header class="indexHeader">
+    <img src="../images/foodiebooksG.svg" alt="Foodie Books Logo">
+    <nav>
+        <div class="navText">
+            <a href="../html/about.html">About</a>
+            <a href="../html/index.html">Recipes</a>
+            <a href="../html/blog.html">Blog</a>
+        </div>
+        <div>
+            <button id="navButton" class="navButton">
+              <img src="../images/fast-food-burger-svgrepo-com.svg">
+            </button>
+        </div>
+        <div id="dropMenu" class="dropMenu">
+            <a href="../html/about.html">About</a>
+            <a href="../html/index.html">Recipes</a>
+            <a href="../html/blog.html">Blog</a>
+        </div>
+    </nav>
+  </header>
+
+<main id="indexContainer">
+<form><!--REMOVE THESE IN LINE onchange-->
+    <label for="byRecipe">Sort By Recipe</label>
+    <input type="radio" name="view" value="recipe" id="byRecipe" checked onchange="displayList()">
+
+    <label for="byRest">Sort By Restaurant</label>
+    <input type="radio" name="view" value="restaurant" id="byRest" onchange="displayList()">
+
+    <br>  
+
+    <label for="byDiet">Sort By Diet</label>   
+    <select name="diet" id="byDiet" onchange="displayList()">
+        <option value="all" selected>All</option>
+        <option value="omnivore">Carnivore</option>
+        <option value="pescatarian">Pescatarian</option>
+        <option value="vegetarian">Vegetarian</option>
+        <option value="vegan">Vegan</option>
+    </select>
+    <br> 
+
+    <label for="byBook">Sort By Book</label>   
+    <select name="book" id="byBook" onchange="displayList()">
+        <option value="all" selected>All</option>
+        <option value="The North Shore Foodie">The North Shore Foodie</option>
+        <option value="The East Van Foodie">The East Van Foodie</option>
+        <option value="The Gastown Foodie">The Gastown Foodie</option>
+        <option value="The Plant-based Foodie">The Plant-based Foodie</option>
+    </select>
+
+    <label for="byDiff">Sort By Difficulty</label>   
+    <select name="difficulty" id="byDiff" onchange="displayList()">
+        <option value="all" selected>All</option>
+        <option value="easier">Easier</option>
+        <option value="intermediate">Intermediate</option>
+        <option value="harder">Harder</option>
+    </select>
+
+    <label for="byMeal">Sort By Meal</label>   
+    <select name="meal" id="byMeal" onchange="displayList()">
+        <option value="all" selected>All</option>
+        <option value="starter">Starter</option>
+        <option value="main">Main</option>
+        <option value="drink">Drink</option>
+        <option value="dessert">Dessert</option>
+        <option value="breakfast">Breakfast</option>
+    </select>
+</form>
+
+<div id="listDiv"></div>
+</main>
+
+
+   
+   
+   
+</body>
+</html>

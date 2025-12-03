@@ -1,0 +1,116 @@
+{
+  "id": "vegan-lasagna",
+  "restaurant": "The Naam",
+  "heroImage": "naan.jpg",
+  "title": "Vegan Lasagna",
+  "book": "The Plant-based Foodie",
+  "notes": "The Naam’s Miso Gravy. The above Miso Marinade is a quick home version of The Naam’s famous miso gravy, the real thing can be purchased in a bottle in supermarkets along with a whole range of Naam sauces and dressings. While the Naam team, rightly, hold their decades-old recipe very close to the chest, this recipe would be a good starting point for you to develop your own style of vegan gravy. You could experiment with nutritional yeast, ginger, herbs and spices and combinations of oils like coconut or sesame. This recipe makes enough for the lasagna but can easily be multiplied and then used on almost anything including as a bowl dressing, over roasted vegetables and on potato wedges.",
+  "ingredientSections": [
+    {
+      "heading": "Miso Marinade",
+      "items": [
+        "½ Cup aka miso paste (red miso)",
+        "2 Tbsp olive oil",
+        "2 Tbsp apple cider vinegar",
+        "1 clove garlic",
+        "1 Tbsp honey, or cane sugar"
+      ]
+    },
+    {
+      "heading": "Marinara Sauce",
+      "items": [
+        "1 can (796 ml.) crushed tomatoes",
+        "½ yellow onion",
+        "3 cloves garlic",
+        "1 Tbsp basil",
+        "1 Tbsp oregano",
+        "½ Tbsp paprika",
+        "½ Tbsp black pepper",
+        "¼ tsp rosemary powder",
+        "1 small pinch of powdered sage",
+        "Salt and pepper",
+        "Olive oil"
+      ]
+    },
+    {
+      "heading": "Vegetables",
+      "items": [
+        "1 large bunch spinach",
+        "1 medium onion",
+        "½ bulb garlic",
+        "½ zucchini",
+        "A small head broccoli",
+        "½ carrot",
+        "1 Cup crimini mushrooms",
+        "½ Tbsp cracked black pepper",
+        "½ Tbsp oregano",
+        "1 tsp dried basil",
+        "1 tsp cumin",
+        "Pinch cinnamon",
+        "Olive oil"
+      ]
+    },
+    {
+      "heading": "Cashew Bechamel",
+      "items": [
+        "1 Cup cashews",
+        "⅓ Cup nutritional yeast",
+        "1 Tbsp lemon juice",
+        "½ tsp garlic powder",
+        "½ tsp onion powder"
+      ]
+    },
+    {
+      "heading": "Lasagna",
+      "items": [
+        "1 or 2 packets (340g) brown rice lasagna sheets",
+        "500g medium tofu",
+        "1 Cup T.V.P. (optional, see note)",
+        "½ onion"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Miso Marinade",
+      "steps": [
+        "Thin the aka miso with a couple of tablespoons of water and crush the garlic. Add all ingredients to a food processor or blender and blend until smooth."
+      ]
+    },
+    {
+      "heading": "Marinara Sauce",
+      "steps": [
+        "Finely chop the garlic and onion and sautée in a good splash of olive oil over a low medium heat until translucent.",
+        "Add the herbs, spices and cook for roughly another 5 minutes stirring regularly. Add the crushed tomatoes. Cook on low, stirring frequently to avoid burning for 20 minutes.",
+        "Season to taste, but don’t overdo the salt; that’s part of the job of the miso marinade.",
+        "Blend into a sauce."
+      ]
+    },
+    {
+      "heading": "Vegetables",
+      "steps": [
+        "Remove the stalks from the spinach, wash well and drain. Spread out on an oven sheet or tray and wilt in the oven for around 5 minutes.",
+        "Chop all of the remaining vegetables into small bite-sized chunks and chop the garlic finely. In a large saucepan over a medium heat, soften the onions and garlic in a splash of oil then add the herbs and spices and cook for a few minutes. Add the carrot and cook for a few minutes and then add the remaining vegetables. Stirring occasionally, continue cooking until everything is soft and starting to brown.",
+        "Squeeze the excess liquid from the wilted spinach and then add to the cooked vegetables."
+      ]
+    },
+    {
+      "heading": "Cashew Bechamel",
+      "steps": [
+        "Spread the cashews out on an oven tray and roast in the oven at 180°C (350°F) for 5-10 minutes or until they just start to brown.",
+        "Add the roasted cashews to a food processor with the remaining ingredients and a cup of water. Start the processor.",
+        "Initially the mixture will be very runny, but as the processor breaks the cashews down they will soak up more and more water. When it starts to look dry, add small splashes of water until the mixture is creamy and has the consistency of a thick pancake batter. Season lightly with salt and pepper to taste."
+      ]
+    },
+    {
+      "heading": "Lasagna",
+      "steps": [
+        "Preheat the oven to 180°C (350°F). Slice half an onion finely and chop the tofu into small bite-sized chunks. Spread both out in a 10” x 14” casserole dish and mix with 1 cup of the miso gravy. Roast in the oven for around 30 minutes or until the tofu is slightly browned. If using T.V.P., rehydrate it with equal parts vegetable stock and stir through the cooked tofu.",
+        "Cook the lasagne sheets as directed but undercook them slightly as the final cooking will happen in the oven. Using salted water in an oversized pot and only cooking a few sheets at a time will prevent them from sticking to each other.",
+        "Remove the cooked tofu from the casserole dish and set aside. In the same casserole dish spread a thin layer of marinara sauce, then arrange a single layer of lasagna sheets.",
+        "Next spread out the tofu evenly and then another layer of lasagna sheets, again topped with marinara sauce. Now arrange the cooked vegetables evenly and, again, top with lasagna sheets and marinara sauce.",
+        "Finally, spread the cashew bechamel carefully, trying not to mix it into the top layer of marinara sauce. Place the casserole dish in the oven for 30 minutes."
+      ]
+    }
+  ]
+}

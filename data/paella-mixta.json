@@ -1,0 +1,49 @@
+{
+  "id": "paella-mixta",
+  "restaurant": "Bodega On Main",
+  "heroImage": "paella-mixta.jpg",
+  "title": "Paella Mixta",
+  "book": "The East Van Foodie",
+  "notes": "The 'Mixta' or 'mixed' refers to the mixing of seafood with meat from land animals. Traditionally Paella could be solely land based or solely seafood based. A land based version could include green and white beans and artichokes with chicken, rabbit or even snails. A seafood based version would usually drop the beans and include any type of seafood. The word Paella is Valencian and means 'pan'. Generally Paella is considered a Spanish national dish but in Spain it's usually thought of as a regional specialty of Valencia.",
+  "ingredientSections": [
+    {
+      "heading": "Paella Mixta",
+      "items": [
+        "1 Large Chicken Breast, cubed",
+        "300g Chorizo Sausage, casings removed and crumbled",
+        "2½ Cups Rice",
+        "6 Cups Lobster Stock",
+        "18 Small Hard Shell Clams",
+        "18 Fresh Mussels",
+        "18 Medium Prawns",
+        "½ Medium Onion, chopped",
+        "2 Cloves Garlic, finely chopped",
+        "1 Green Bell Pepper, chopped",
+        "2 Tomatoes, chopped",
+        "1 Cup Green Peas",
+        "2 Red Pimientos, from a can or jar",
+        "2 Lemons",
+        "1 tsp Mild Paprika",
+        "Pinch Saffron Threads",
+        "¼ Cup Olive Oil",
+        "Salt and Pepper to taste"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Paella Mixta",
+      "steps": [
+        "Heat up the stock in a saucepan and preheat the oven to 220°C (425°F).",
+        "Season chicken and brown it with some oil in a paellera or large oven proof fry pan, remove from pan and set aside.",
+        "In the same pan add a touch more oil, the onion, garlic, green pepper, and tomatoes, season and keep stirring until mixture is cooked then add the chorizo toward the end.",
+        "Add hot lobster stock to the pan, stir in the rice, paprika and saffron and bring to a boil.",
+        "Arrange the chicken, prawns, clams, and mussels on the rice partially submerging them in the boiling liquid.",
+        "Lower heat and cook until stock is almost gone. Check to see if the rice is cooked and add a touch more stock or water if it is under-done.",
+        "Add green peas and strips of red pimientos.",
+        "Finish cooking in a hot oven at 220°C (425°F).",
+        "Decorate with lemon wedges and serve in the pan."
+      ]
+    }
+  ]
+}

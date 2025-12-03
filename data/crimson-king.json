@@ -1,0 +1,58 @@
+{
+  "id": "crimson-king",
+  "restaurant": "The Acorn",
+  "heroImage": "crimson-king.jpg",
+  "title": "Crimson King",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Crimson King",
+      "items": [
+        "45ml Bourbon",
+        "15ml La Frenz Tawny Port",
+        "1 tsp Syrah",
+        "1 tsp Simple Syrup",
+        "1 dash Sour Cherry and Cacao Bitters",
+        "1 dash Juniper Bough Tincture"
+      ]
+    },
+    {
+      "heading": "Juniper Bough Tincture",
+      "items": [
+        "½ a cup of juniper branches",
+        "150ml over-proof spirit",
+        "150ml of Water"
+      ]
+    },
+    {
+      "heading": "Simple Syrup",
+      "items": [
+        "1 part sugar",
+        "1 part water"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Crimson King",
+      "steps": [
+        "Add all ingredients to mixing glass.",
+        "Add ice and stir until desired dilution is reached. Strain into double old fashioned glass with an oversized ice cube.",
+        "Express a lemon peel over the drink and use as garnish."
+      ]
+    },
+    {
+      "heading": "Juniper Bough Tincture",
+      "steps": [
+        "Lightly muddle ½ a cup of juniper branches. Add 150ml over-proof spirit and let sit for 4 days. Strain through a coffee filter and add 150ml of Water."
+      ]
+    },
+    {
+      "heading": "Simple Syrup",
+      "steps": [
+        "Place 1 part sugar and 1 part water in a saucepan and bring to boil. Reduce heat and stir until all the sugar crystals are dissolved. Allow to cool."
+      ]
+    }
+  ]
+}

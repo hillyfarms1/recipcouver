@@ -1,0 +1,55 @@
+{
+  "id": "butter-chicken",
+  "restaurant": "Palki Restaurant",
+  "heroImage": "butter-chicken.jpg",
+  "title": "Butter Chicken",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Butter Chicken Marinade",
+      "items": [
+        "500g Chicken breasts",
+        "10g Ginger garlic paste (or one clove of minced garlic and a similar sized knob of ginger minced)",
+        "2 Tbsp Lemon juice",
+        "100g Natural yogurt",
+        "½ tsp Chili powder",
+        "2 tsp Paprika"
+      ]
+    },
+    {
+      "heading": "Butter Chicken Sauce",
+      "items": [
+        "100g Butter",
+        "10g Ginger garlic paste (or one clove of minced garlic and a similar sized knob of ginger minced)",
+        "200g Tomato paste",
+        "100g Crushed tomato",
+        "100g Cream",
+        "50g Sugar",
+        "10g Salt",
+        "1 tsp Cardamom powder",
+        "1 tsp Black pepper powder",
+        "1 Tbsp Turmeric powder",
+        "10g Kasoori Methi (Dried Fenugreek)"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Butter Chicken Marinade",
+      "steps": [
+        "Dice the chicken into bite-sized cubes. Thoroughly cover the chicken with the ginger garlic paste, lemon juice, chili powder, yogurt and paprika powder (for colour, you can also use tandoori coloring from specialty stores) and allow to marinate for at least a few hours or ideally over night.",
+        "Unless you are lucky enough to have a Tandoori or Clay Oven at home replicating how one cooks will require some improvising. Start with a very hot oven 235°C (450°F). Place a wire rack (a metal cake rack for example) on a roasting tray. Place each chicken piece on the rack so they are not touching and air can circulate around them.",
+        "Roast for 20 to 30 minutes depending on the size of the chicken pieces and your oven, check regularly but keep the oven door closed. The chicken should brown and then slightly char; keep checking to avoid over doing it. Once ready, allow to rest."
+      ]
+    },
+    {
+      "heading": "Butter Chicken Sauce",
+      "steps": [
+        "Melt the butter over a medium to high heat and add ginger garlic paste. Constantly stirring allow the butter to brown slightly.",
+        "Add the tomato paste and crushed tomatoes, stir through and allow to cook down for a couple of minutes. Add the cream and cook for a few more minutes.",
+        "Reduce the heat, add and mix through the sugar, all the spices and the Kasoori Methi, and simmer for 20 minutes. Add the cooked chicken near the end. You can add cream or milk if you think your sauce is getting too thick."
+      ]
+    }
+  ]
+}

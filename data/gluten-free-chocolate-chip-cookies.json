@@ -1,0 +1,41 @@
+{
+  "id": "gluten-free-chocolate-chip-cookies",
+  "restaurant": "Two Daughters Bakeshop",
+  "heroImage": "gluten-free-chocolate-chip-cookies.jpg",
+  "title": "Vegan Gluten-Free Oatmeal Chia Chocolate Chip",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Vegan Gluten-Free Oatmeal Chia Chocolate Chip",
+      "items": [
+        "1¼ Cup of your favourite All-purpose flour blend (see flour blending basics below)",
+        "½ Cup Earth Balance butter spread",
+        "¾ Cup Organic coconut sugar or Organic cane sugar",
+        "1 Flax Egg (1 Tbsp Organic gluten-free ground flax whisked with 3 Tbsp of lukewarm water)",
+        "½ tsp Xanthan gum",
+        "½ tsp Baking soda",
+        "½ tsp Baking powder",
+        "1 tsp Vanilla",
+        "1 tsp Salt",
+        "1 Cup Organic chocolate chips",
+        "½ Cup Wheat-free, gluten-free oats",
+        "¼ Cup Organic chia seeds",
+        "½ Cup Shredded coconut"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Vegan Gluten-Free Oatmeal Chia Chocolate Chip Cookies",
+      "steps": [
+        "Preheat oven the 180°C (350°F) and line two large baking trays with parchment paper.",
+        "In the bowl of a stand mixer, using the paddle attachment, cream the butter and sugar together at a medium speed until light and fluffy. Add the flax egg and vanilla mix a little longer.",
+        "In a separate bowl, combine the flour, xanthan gum, baking powder, baking soda and salt. Add to the wet ingredients and mix until just blended",
+        "Mix through the chocolate chips, oats, chia seeds and coconut.",
+        "Using a tablespoon, scoop the cookie dough onto the prepared cookie sheets and bake for 10-12 minutes.",
+        "Remove from oven and allow to cool completely on the oven tray and then remove and place on a wire rack."
+      ]
+    }
+  ]
+}

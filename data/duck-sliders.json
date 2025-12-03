@@ -1,0 +1,39 @@
+{
+  "id": "duck-sliders",
+  "restaurant": "End of the Line",
+  "heroImage": "duck-sliders.jpg",
+  "title": "Connies Funk'en Duck Sliders",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Duck Sliders",
+      "items": [
+        "A good sized Duck Breast",
+        "500ml Orange Juice",
+        "3 tsp Ground ginger",
+        "6 White butter topped buns (or slider buns)",
+        "Canned or home poached sliced pears",
+        "2 or 3 fine slices Prosciutto",
+        "A small handful Arugula",
+        "Stonewall Kitchen Hot Pepper Spread (or similar hot pepper jelly)",
+        "Caramelized onion and maple confit",
+        "German Cambozola Cheese or Blue Costello or similar soft slightly blue cheese",
+        "Mayonnaise",
+        "Grape seed oil, lemon-salt and pepper"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Duck Sliders",
+      "steps": [
+        "Marinate the duck breast in the orange juice and ground ginger overnight or for at least 8 hours.",
+        "Score fatty side of the duck breast being careful not to cut through to the meat. Season well with salt and pepper. Place in an oven preheated to 230°C (450°F) for roughly 30 minutes depending on the breast size. It should still be pink in the middle. Let rest for at least 15 minutes.",
+        "Crisp prosciutto in the oven. Toss the arugula with the grape seed oil, lemon-salt and pepper.",
+        "Place a teaspoon each of the mayonnaise, pepper jelly and caramelized onions on each bun and a nice slice of pear.",
+        "Slice the duck thinly and place on the pear. Top the duck with a slice of the cheese. Break up the prosciutto and layer a few pieces on the cheese before topping with a small ball of arugula."
+      ]
+    }
+  ]
+}

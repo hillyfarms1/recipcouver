@@ -1,0 +1,59 @@
+{
+  "id": "charcuterie-board",
+  "restaurant": "Puccini's Deli",
+  "heroImage": "charcuterie-board.jpg",
+  "title": "Charcuterie Board",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Meats",
+      "items": [
+        "150g Italian D.O.P Spec Prosciutto",
+        "150g Two Rivers Coppa, aged in-house at Puccini's",
+        "150g D-Original Fuet Salami, a local artisan salami maker",
+        "150g Two Rivers Beef Bresoala, Two Rivers is another great North Shore business",
+        "150g Two Rivers Spicequale, Puccini's own recipe and aged in house"
+      ]
+    },
+    {
+      "heading": "Cheese",
+      "items": [
+        "150g Parmigiano Reggiano Vacche Rosse, the oldest reggiano in B.C. only 8 wheels get imported each year and Puccini's gets two wheels a year",
+        "150g Louie D'Or, a rich, strong, Quebec cheese",
+        "150g wedge D'affinois Brie, a creamy double cream French brie",
+        "100g Robiola Goat Cheese, a fresh Italian goat cheese, imported by Puccini's every 2 weeks from Italy",
+        "150g Montesardo Sheep Cheese, a sharp hard cheese imported from Italy",
+        "125g Italian Organic Gorgonzola, D.O.P Italian cheese, by a world renowned Gorgonzola Maker"
+      ]
+    },
+    {
+      "heading": "Antipasto",
+      "items": [
+        "150g Mixed Mediterranean Olives, a mixture of 7 different types of olives with a bit of spice",
+        "125g Gherkins from France (marinated in vinegar, great for meats and cheese)",
+        "12 pieces Spicy Asparagus, ideal for dry salami and sharp cheeses",
+        "6 pieces Grilled Eggplant wrapped around Provolone and Sundried Tomatoes",
+        "Crackers and Breadsticks",
+        "Fine Cheese Co. Olive Oil and Sea Salt Crackers",
+        "Italian Crostini Rosemary Crackers",
+        "Italian Olive Oil Breadsticks"
+      ]
+    },
+    {
+      "heading": "Jelly",
+      "items": [
+        "Red Pepper Jelly, locally made",
+        "Port Wine Jelly, locally made"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Charcuterie Board",
+      "steps": [
+        "Arrange all meats, cheeses, antipasto items, crackers, breadsticks and jellies on a large board or platter for serving."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "pear-walnut-salad",
+  "restaurant": "Finch & Barley",
+  "heroImage": "pear-walnut-salad.jpg",
+  "title": "Pear & Walnut Salad",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Pear Walnut Salad",
+      "items": [
+        "120g Arugula",
+        "120g Baby spinach",
+        "½ Cup Crumbled blue cheese",
+        "¾ Cup Chopped walnuts",
+        "2-3 Medium pears"
+      ]
+    },
+    {
+      "heading": "Lemon Dijon Dressing",
+      "items": [
+        "¼ Cup Dijon",
+        "3 Tbsp Honey",
+        "1 Tbsp Lemon juice",
+        "½ tsp Chopped garlic",
+        "½ Cup White wine vinegar",
+        "¾ Cup Canola oil",
+        "Salt and pepper to taste"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Pear Walnut Salad",
+      "steps": [
+        "Toss arugula and spinach with desired amount of vinaigrette.",
+        "Place in a serving bowl and top with crumbled blue cheese, chopped walnuts and sliced pear."
+      ]
+    },
+    {
+      "heading": "Lemon Dijon Dressing",
+      "steps": [
+        "Combine the Dijon, honey, white wine vinegar, lemon juice and garlic in food processor.",
+        "Blend and slowly add the canola oil in a thin stream until emulsified. Store in the fridge until ready to serve."
+      ]
+    }
+  ]
+}

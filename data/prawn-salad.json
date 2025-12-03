@@ -1,0 +1,51 @@
+{
+  "id": "prawn-salad",
+  "restaurant": "Carmelo's Ristorante Italiano",
+  "heroImage": "prawn-salad.jpg",
+  "title": "Prawn Salad",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Radicchio Slaw",
+      "items": [
+        "1 Small head Radicchio lettuce",
+        "2 Medium Carrots",
+        "¼ Cup Olive oil",
+        "1 Lemon, juiced",
+        "Pinch salt and pepper"
+      ]
+    },
+    {
+      "heading": "Prawns",
+      "items": [
+        "24 Prawns medium to large",
+        "⅓ Cup Chopped parsley",
+        "6 Garlic cloves, finely chopped",
+        "2 tsp Dried chili",
+        "2 Lemons, juiced",
+        "⅓ Cup Unsalted butter",
+        "¼ Cup Canola oil",
+        "1 Cup White wine",
+        "2 Tomatoes, diced"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Radicchio Slaw",
+      "steps": [
+        "Julienne the carrots and finely chop the lettuce.",
+        "Combine the carrots and lettuce in a bowl with olive oil and lemon. Add salt and pepper to taste."
+      ]
+    },
+    {
+      "heading": "Prawns",
+      "steps": [
+        "In a fry-pan, heat canola oil until hot. Add prawns and sauté on both sides for 30 seconds each.",
+        "Add the garlic, chillies, wine, diced tomatoes and lemon, keeping the pan on the heat until the liquid has reduced by around half, creating a sauce. Add the butter and once melted, finish the sauce with the chopped parsley and remove the pan from the heat.",
+        "In a bowl, combine the carrot and lettuce salad with the prawns and sauce. Plate the salad with 6 prawns per serving as a main dish."
+      ]
+    }
+  ]
+}

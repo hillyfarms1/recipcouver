@@ -1,0 +1,77 @@
+#indexContainer{
+    margin: 20px;
+}
+
+h3, h4{
+    color: white;
+    margin: 10px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+.gridContainer{
+    display: grid;
+    grid-template-columns: 100%;
+    gap: 7px;
+}
+
+.recipeCover{
+    position: relative;
+    height: 200px;
+}
+
+.recipeCoverHead{
+    position: absolute;
+    bottom: 0;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    background-color: #5bc0eba7;
+    width: 100%;
+}
+.recipeCoverImg{
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 7px;
+}
+
+
+
+@media (min-width: 449px) { /*MOBILE FIRST!!!*/
+
+}
+
+@media (min-width: 660px) and (max-width: 1000px) { /*MOBILE FIRST!!!*/
+.gridContainer{
+    grid-template-columns: 49.5% 49.5%;
+}
+}
+
+@media (min-width: 1001px) and (max-width: 1400px) { /*MOBILE FIRST!!!*/
+.gridContainer{
+    grid-template-columns: 32.5% 32.5% 32.5%;
+}
+}
+
+@media (min-width: 1401px) { /*MOBILE FIRST!!!*/
+.gridContainer{
+    grid-template-columns: 24.6% 24.6% 24.6% 24.6%;
+}
+}
+@media (min-width: 1801px) { /*MOBILE FIRST!!!*/
+.gridContainer{
+    grid-template-columns: 19.7% 19.7% 19.7% 19.7% 19.7%;
+}
+}
+
+@media (min-width: 2101px) { /*MOBILE FIRST!!!*/
+.gridContainer{
+    max-width: 2050px;
+
+}
+}
+
+

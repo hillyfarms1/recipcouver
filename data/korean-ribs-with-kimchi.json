@@ -1,0 +1,67 @@
+{
+  "id": "korean-ribs-with-kimchi",
+  "restaurant": "Biercraft",
+  "heroImage": "korean-ribs-with-kimchi.jpg",
+  "title": "Korean Ribs With Kimchi",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Kimchi",
+      "items": [
+        "1 head Napa Cabbage",
+        "Brine, 2-3 litres water, ⅓-½ cup Kosher Salt",
+        "100g Green Onion, sliced longways",
+        "1 Medium Carrot, shredded",
+        "½ Bulb Garlic (30g), minced",
+        "⅛ Cup Ginger (30g), minced",
+        "2 Tbsp Sambal Oelek",
+        "¼ Cup Sriracha",
+        "2 Tbsp Fish Sauce",
+        "½ Tbsp Honey"
+      ]
+    },
+    {
+      "heading": "Ribs",
+      "items": [
+        "2kg Beef Short Ribs"
+      ]
+    },
+    {
+      "heading": "Rib Marinade",
+      "items": [
+        "80g Brown Sugar",
+        "350ml Soy Sauce",
+        "80ml Sesame Oil",
+        "160ml Vegetable Oil",
+        "80ml Rice Vinegar",
+        "3 Tbsp Sambal Oelek",
+        "½ Bulb Garlic (30g), minced",
+        "⅛ Cup Ginger (30g), minced",
+        "100g Green Onion, chopped"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Kimchi",
+      "steps": [
+        "In a large pot, heat the water and dissolve the salt to create the brine. Allow to cool.",
+        "Trim the cabbage and cut into quarters. Cut out the core and cut each quarter into 3-4cm chunks. Place in a large bowl or bucket and add enough brine to submerge the cabbage.",
+        "Cover with plastic wrap and let sit at room temperature for 12 to 24 hours.",
+        "Combine the remaining ingredients in a bowl and allow the mixture to sit for at least 15 minutes at room temperature.",
+        "Thoroughly drain the cabbage. Combine with the flavouring mixture ensuring all the cabbage is well coated.",
+        "Pack into a clean two litre jar that can be well sealed. Make sure to include all of the liquid from the mixture. Allow to ferment at room temperature in a dark place for at least 24 hours or longer, until there is noticeable bubbling. Remove the lid to allow gasses to escape once or twice during this time.",
+        "After the desired level of fermentation is reached, place the jar in the fridge. Fermentation will continue at lower temperatures but much more slowly. It will keep for at least a month but will get more and more potent."
+      ]
+    },
+    {
+      "heading": "Ribs",
+      "steps": [
+        "Bring together all of the marinade ingredients, blend into a puree, and set aside.",
+        "Layout the cut short ribs and liberally coat in the marinade. Cover with plastic wrap and allow to marinate in the fridge for 12 hours.",
+        "Fire up the grill to a high heat. When it reaches roughly 230°C (450°F), grill the marinated short ribs for about five minutes on each side. When cooked remove from heat and slice into smaller portions between the bones."
+      ]
+    }
+  ]
+}

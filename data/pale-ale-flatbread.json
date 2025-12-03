@@ -1,0 +1,96 @@
+{
+  "id": "pale-ale-flatbread",
+  "restaurant": "Bridge Brewing Company",
+  "heroImage": "pale-ale-flatbread.jpg",
+  "title": "Pale Ale Pizzas (Part I)",
+  "book": "The North Shore Foodie",
+  "notes": "Recipes created by Krissy Seymour. krissy@fraichecreations.com. The more pasteurized the milk, the more the proteins have been damaged, resulting in weaker curds. Avoid ultra pasteurized (or UHT). Note that some brands of organic milk have been ultra pasteurized, check the label.",
+  "ingredientSections": [
+    {
+      "heading": "Pale Ale Flatbread",
+      "items": [
+        "3 Cups All-purpose white flour",
+        "1 Cup Whole wheat flour",
+        "1 Tbsp Baking powder",
+        "1 tsp Sugar",
+        "2 tsp Salt",
+        "12oz Bridge North Shore Pale Ale",
+        "2 Tbsp Extra virgin olive oil plus extra for grilling"
+      ]
+    },
+    {
+      "heading": "BC Heirloom Tomato & Birdseye Chilli Sauce",
+      "items": [
+        "800g Heirloom tomatoes mixed colours",
+        "8 Birdseye chillies",
+        "80g Basil",
+        "1 Tbsp Kosher salt",
+        "140g Sundried tomatoes",
+        "6 Large Garlic cloves",
+        "½ Cup Extra virgin olive oil",
+        "Fresh cracked black pepper to taste"
+      ]
+    },
+    {
+      "heading": "Fresh Farmers Cheese",
+      "items": [
+        "4L Whole milk (as unpasteurized as you can find)",
+        "1 Cup Buttermilk",
+        "Juice of 6 lemons",
+        "4 Tbsp White vinegar",
+        "Salt and freshly cracked black pepper",
+        "1 Tbsp Lemon rind (optional but recommended)"
+      ]
+    },
+    {
+      "heading": "Quick Pickled Red Onions",
+      "items": [
+        "2 Large Red onions, very thinly sliced",
+        "½ Litre White wine or rice wine vinegar",
+        "1 Garlic clove sliced in half",
+        "1 Whole Birdseye chilli",
+        "1 tsp Yellow mustard seeds",
+        "1 tsp Juniper berries",
+        "1 tsp Mixed peppercorns",
+        "½ Cup White sugar",
+        "2 tsp Kosher salt"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "North Shore Pale Ale Flatbread",
+      "steps": [
+        "Mix all the dry ingredients together in a large mixing bowl. Add the beer and olive oil. Mix with a spoon until all the dough comes together.",
+        "Knead for 5 minutes until dough is in a soft ball. Portion out the dough into 8 equal size balls. On a floured surface, using a rolling pin, roll out into approximately 25cm (10in) flatbreads.",
+        "Preheat a grill pan on a medium to high heat. One by one, brush the flatbread with olive oil and grill for a minute each side. You can use them straight away or cool and store in an airtight bag in fridge for one day or freezer for up to 3 months. Defrost for 15 minutes before use."
+      ]
+    },
+    {
+      "heading": "BC Heirloom Tomato & Birdseye Chili Sauce",
+      "steps": [
+        "Roughly chop the tomatoes and put all of the ingredients in a food processor until blended and smooth. Easy!",
+        "Makes just over 1 liter and will keep in a sealed container in the fridge for 3 days or in the freezer for 3 months. Make a large batch while heirloom tomatoes are in season. Can be used as an amazing fresh pasta sauce too!"
+      ]
+    },
+    {
+      "heading": "Fresh Farmers Cheese",
+      "steps": [
+        "Mix the lemon juice with the white vinegar.",
+        "In a stainless steel pot heat the milk and buttermilk on high until scorching and just below boiling, stirring constantly to avoid burning.",
+        "Turn heat off and little by little add the lemon juice mix while stirring with a wooden spoon until the whey has separated from the curds (you may not need all of the lemon juice mix). Leave the pot undisturbed for 10 minutes.",
+        "Line a colander or sieve with a cheesecloth and pour in the contents of the pot. Let drain for 20 to 30 minutes over a large pot. (Save the whey!)",
+        "Put the cheese into a mixing bowl and add salt and fresh pepper to taste and lemon rind if using. Store in refrigerator, covered until ready to use. Best eaten fresh but will keep for up to two days stored in an airtight container.",
+        "Whey is full of protein and loads of vitamins and minerals, don't chuck it out! Add it to smoothies, use it instead of water in bread recipes or in pancakes instead of milk. Use it to soak beans and grains or use in stocks for a healthy soup base. If you grow tomatoes, put it in the soil!"
+      ]
+    },
+    {
+      "heading": "Quick Pickled Red Onions",
+      "steps": [
+        "Put the sliced onions in a large, clean mason jar. Gather the rest of the ingredients and bring to a boil in a pot. Simmer for 2 minutes to enhance the flavour and dissolve the sugar.",
+        "Using a small sieve, strain liquid into mason jar covering the onions. Squash the onions down so they are immersed in the liquid. Put a clean lid on the jar and store in the refrigerator.",
+        "They will be ready to eat once the liquid has cooled (approximately 4 hours) but are at their best after a night or two in the fridge."
+      ]
+    }
+  ]
+}

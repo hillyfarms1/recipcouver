@@ -1,0 +1,55 @@
+{
+  "id": "golden-pineapple-nice-cream",
+  "restaurant": "Buddha-Full",
+  "heroImage": "buddhafull3.jpg",
+  "title": "Golden Pineapple Nice Cream",
+  "book": "The Plant-based Foodie",
+  "notes": "Blue Majik Powder. Blue Majik™ is a proprietary extract of spirulina and both have been somewhat of a phenomenon in the last couple of years. You might know spirulina by its more common name of 'pond scum' or 'blue green algae' and their flavour is as attractive as those names. However, Blue Majik contains protein, B vitamins including B12, phytonutrients, vitamin E, zinc, copper, manganese, iron, selenium and omega fatty acids. More notably, it also contains phycocyanin, a potent antioxidant. As with all such ingredients do your own research and seek professional advice, especially if pregnant, breastfeeding or on any other medication.",
+  "ingredientSections": [
+    {
+      "heading": "Nice Cream",
+      "items": [
+        "500g frozen pineapple chunks (a whole pineapple is usually around 2kg)",
+        "1 Cup frozen mango chunks",
+        "6 frozen bananas, chopped",
+        "2 tsp ground turmeric",
+        "½ tsp ground cinnamon",
+        "½ tsp kosher salt",
+        "¼ tsp ground cardamom",
+        "¼ tsp freshly ground black pepper",
+        "1 vanilla bean, seeds scraped or extract",
+        "1 Tbsp lime juice",
+        "Maple syrup to taste (optional)"
+      ]
+    },
+    {
+      "heading": "Coconut Whip Cream",
+      "items": [
+        "1 can (400ml) full-fat coconut milk",
+        "3 tsp agave or maple syrup",
+        "2 scoops Blue Majik powder (optional)"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Nice Cream",
+      "steps": [
+        "Cut the top off the pineapple and remove the flesh while keeping the skin intact to use as a bowl. Discard the core and cube the juicy flesh.",
+        "Freeze the pineapple cubes and the hollowed-out pineapple bowl.",
+        "Place all the ingredients except the maple syrup and pineapple bowl, in a food processor or blender and process until smooth and creamy.",
+        "Taste and adjust the sweetness with the maple syrup to your liking. Adding the maple syrup while processing will also help the chunks come together.",
+        "Scoop the blended Nice Cream into the pineapple bowl and for the best texture serve immediately, or store in the freezer.",
+        "Top with the coconut cream before serving."
+      ]
+    },
+    {
+      "heading": "Coconut Whip Cream",
+      "steps": [
+        "Flip the can of coconut milk upside down and refrigerate for at least 8 hours or overnight along with a glass or ceramic mixing bowl.",
+        "Remove the can from the fridge, gently turn it right side up and open the can. The cream will have settled to what is now the top so it can be easily scooped out into the chilled mixing bowl. Use the leftover coconut water for another recipe.",
+        "Whisk the cream for 5-8 minutes or use an electric mixer on a medium speed until creamy, adding the syrup and Blue Magic if desired. If the cream begins to thin, refrigerate it again and it will thicken again. Keep refrigerated until ready to serve."
+      ]
+    }
+  ]
+}

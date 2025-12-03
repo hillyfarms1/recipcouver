@@ -1,0 +1,85 @@
+{
+  "id": "roasted-carrot-and-almond-ricotta-gnocchi",
+  "restaurant": "Blue Heron Cheese",
+  "heroImage": "blueHeron1.jpg",
+  "title": "Roasted Carrot and Almond Ricotta Gnocchi",
+  "book": "The Plant-based Foodie",
+  "notes": "The type of potato is important for making gnocchi. Different types of potatoes contain different amounts of starch and sugars and some are waxy. Yukon golds tend to be well balanced and when roasted produce the fluffy texture required for gnocchi. This recipe can be made gluten free by using a combination of white rice flour and potato starch in place of all-purpose flour.",
+  "ingredientSections": [
+    {
+      "heading": "Roasted Carrot Gnocchi",
+      "items": [
+        "4 medium/large carrots, roughly 450g",
+        "1-2 Yukon gold potatoes*, roughly 225g",
+        "1 Cup Blue Heron almond ricotta",
+        "Pinch ground nutmeg",
+        "Pinch ground cinnamon",
+        "½ tsp ground black pepper",
+        "Pinch salt",
+        "¼ Cup unbleached all-purpose flour**, plus more for rolling the gnocchi",
+        "2 tsp psyllium powder",
+        "4 cloves garlic",
+        "Grapeseed oil"
+      ]
+    },
+    {
+      "heading": "Vegan Beurre Blanc",
+      "items": [
+        "½ Cup dry white wine",
+        "½ Cup white wine vinegar (or white balsamic vinegar for more sweetness)",
+        "3 garlic scapes or 1 shallot",
+        "½ Cup cold vegan butter, or Blue Heron cultured butter",
+        "2 tsp fresh dill",
+        "2 tsp fresh thyme",
+        "2 tsp fresh tarragon",
+        "½ tsp salt (or to taste)",
+        "½ tsp white pepper"
+      ]
+    },
+    {
+      "heading": "Asparagus, Peas & Serving",
+      "items": [
+        "½ bunch asparagus",
+        "Young fresh pea pods",
+        "Toasted walnut crumb",
+        "Arugula"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Roasted Carrot Gnocchi",
+      "steps": [
+        "Preheat oven to 190°C (375°F).",
+        "Wash the carrots but do not peel. Place on baking tray or shallow baking pan, along with the garlic, skin on. Drizzle a little grapeseed oil and salt over the carrots, then roast until golden brown, about 30-40 minutes. The skin should be golden to slightly dark brown, and the carrots should be soft.",
+        "Wash the potatoes and prick the skin with a fork. Bake whole until the skin is crispy and potatoes are soft when pushed on. Drain the almond ricotta in a fine mesh sieve while preparing rest of ingredients.",
+        "Pre-meausure all the remaining ingredients and set aside.",
+        "Remove carrots when ready, allow to cool slightly. With a knife, slice in half lengthwise, scrape the flesh away from the skin and place in a food processor bowl. Peel the garlic cloves and add to the processor bowl.",
+        "Remove potatoes, cut in half, scrape the flesh out and add to the processor bowl. Add the nutmeg, salt, cinnamon, and black pepper. Pulse until well combined. Do not run continuously, to avoid the mixture becoming gummy.",
+        "If mixture is a little damp, place in doubled-up, clean, cheesecloth and gently press out excess moisture.",
+        "Transfer the ingredients to a mixing bowl, make a well, sift the flour into the well, add the psyllium powder and gently fold in and work the mixture until it combines. Add more flour if necessary.",
+        "Transfer the dough to a floured surface and work into long ropes. Slightly flatten the ropes and use a sharp knife to cut approximately 2-3cm (1in) pieces. Use a fork to score the top of the pieces and slightly flatten.",
+        "In a good pot, bring water to boil, add a pinch of salt. Add the gnocchi pieces to the water and cook until they float. Remove with slotted spoon and allow to dry on parchment."
+      ]
+    },
+    {
+      "heading": "Vegan Beurre Blanc",
+      "steps": [
+        "Heat a heavy saucepan on medium high heat. Finely dice the scapes or shallots.",
+        "Add the white wine, vinegar, and scapes or shallots to the pan and let come to a boil. Reduce the liquid down to roughly 2 Tbsp. Remove from the heat, and allow to cool for about 1 minute. Cooking the shallots this way ensures the sauce stays white.",
+        "While the pan is off the heat, add the cubes of cold vegan butter and whisk into the wine/shallot mixture until the butter is melted. Chop the herbs and add along with the salt and pepper, and whisk again.",
+        "Reduce the heat to low, to keep the sauce warm before serving."
+      ]
+    },
+    {
+      "heading": "Asparagus, Peas & Serving",
+      "steps": [
+        "Wash the vegetables and pat dry. Remove the woody part of the asparagus and slice thinly on the diagonal. Devein the pea pods and slice on the diagonal.",
+        "In a heavy frying pan, heat the grapeseed oil, add the asparagus and pea slices and sautée quickly until they brighten in colour.",
+        "Add the cooled and rested gnocchi and allow to brown gently on each side, toss the pan.",
+        "Add the beurre blanc and toss quickly to coat the gnocchi.",
+        "Remove from heat and plate. Garnish with fresh cracked pepper, more vegan cheese if desired, and fresh arugula and toasted walnut crumb."
+      ]
+    }
+  ]
+}

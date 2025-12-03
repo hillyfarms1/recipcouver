@@ -1,0 +1,63 @@
+{
+  "id": "the-rocket-reveller",
+  "restaurant": "The Revel Room",
+  "heroImage": "the-rocket-reveller.jpg",
+  "title": "The Rocket Reveller",
+  "book": "The Gastown Foodie",
+  "notes": "It's rather vogue in cocktail circles nowadays to order drinks that your Grandpa used to like. Simple classics that are easy to assemble and perfectly balanced. The Sour family of cocktails falls into this category, but these are the kind of drinks that Grandma used to like, too. We're not talking dainty, blue-rinse, afternoon matinee, Grandma. We're talking Depression era, tough as boots, knows how to smoke a cigar and pluck a chicken, Grandma! Technically, a sour is made up of a base spirit, citrus juice and a sweetener. The earliest version of the sour involved rum and limes, and evolved out of necessity on long sea voyages in the 1700s (rum or other distilled liquor was added to water casks to prevent algae growth, citrus added to the resulting brew to make it more palatable). American sailors substituted in the more readily available whiskey and added sugar to balance the flavour. Cocktail aficionados argue about what came next — egg white is often added to Whiskey Sours, as are aromatic bitters, though the origins of these additions are speculative. The most well-known variant is the Boston Whiskey Sour, which likely was popularized via the Old Mr. Boston Distillery in Massachusetts, which began producing bourbon in the 1930s after Prohibition ended. There is speculation that the proliferation of bootleg and moonshine liquors during Prohibition led to many classic cocktails being experimented with by adding various flavouring agents to improve the flavour of the base spirit. Revel Room features both Boston and New York Whiskey Sours on our daily 'Sour Hour' menu, and in the evening we serve Bar Manager Carolyn Yu's fun twist on the classic Whiskey Sour, the Rocket Reveller, in honour or our house band the Rocket Revellers. Splitting the base rye whiskey with locally distilled Sons of Vancouver amaretto, Carolyn adds cinnamon syrup to bring out the nuttiness of the amaretto and a dash of saffron tincture to add a herbaceous and fresh nose to the cocktail.",
+  "ingredientSections": [
+    {
+      "heading": "Cinnamon Syrup",
+      "items": [
+        "½ Cup sugar",
+        "½ Cup water",
+        "1 stick cinnamon"
+      ]
+    },
+    {
+      "heading": "Saffron Tincture",
+      "items": [
+        "100ml vodka",
+        "1 tsp saffron threads, or ½g or 6 threads"
+      ]
+    },
+    {
+      "heading": "The Rocket Reveller",
+      "items": [
+        "45ml rye",
+        "22ml amaretto",
+        "15ml Cinnamon Syrup",
+        "5ml Saffron Tincture",
+        "30ml lemon juice"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Cinnamon Syrup",
+      "steps": [
+        "Heat up the water and sugar in a small saucepan and stir until all the sugar has dissolved to create a simple syrup.",
+        "Allow to cool a bit then add the cinnamon stick.",
+        "Transfer to a container with a lid and allow to infuse for around a week in the fridge. Give a quick shake or stir each day. Remove and discard the cinnamon stick."
+      ]
+    },
+    {
+      "heading": "Saffron Tincture",
+      "steps": [
+        "Technically cocktail tinctures are best made with neutral grain spirits, but since this can be hard to find, a good quality vodka is just as good for these purposes.",
+        "Infuse the saffron in the vodka in an airtight container at room temperature for at least a few days, stirring or shaking each day.",
+        "Test the flavour and if it's not strong enough steep for another few days.",
+        "When it's the right strength, strain through a fine sieve."
+      ]
+    },
+    {
+      "heading": "The Rocket Reveller",
+      "steps": [
+        "Measure all ingredients into a cocktail shaker.",
+        "Fill the shaker with ice and shake vigorously.",
+        "Strain into a rocks glass with fresh ice.",
+        "Garnish with a wheel of lemon and a cinnamon stick."
+      ]
+    }
+  ]
+}

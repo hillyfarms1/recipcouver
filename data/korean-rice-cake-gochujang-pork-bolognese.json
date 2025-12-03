@@ -1,0 +1,65 @@
+{
+  "id": "korean-rice-cake-gochujang-pork-bolognese",
+  "restaurant": "Pidgin",
+  "heroImage": "korean-rice-cake-gochujang-pork-bolognese.jpg",
+  "title": "Korean Rice Cake Gochujang Pork Bolognese",
+  "book": "The Gastown Foodie",
+  "notes": "This is one of PiDGin's simplest dishes and a great example of two distinct cultures coming together to create something new … two Italian preparations turned on their head with Korean interpretations. The first is a play on gnocchi, the light and beautiful Italian potato-based pasta. Instead of gnocchi here are Korean rice cakes, a more dense, chewy rice-based preparation. The other is a play on a classic Italian Bolognese, where we use gochujung, a fermented Korean chili paste to create some heat.",
+  "ingredientSections": [
+    {
+      "heading": "Korean Bolognese Sauce",
+      "items": [
+        "1 Tbsp tomato paste",
+        "4 Tbsp Korean chili paste (gochujang)",
+        "1 pinch whole coriander seeds",
+        "½ white onion, finely diced",
+        "½ carrot, finely diced",
+        "1 celery stalk, finely diced",
+        "3 cloves garlic, finely diced",
+        "480g ground pork",
+        "2 Cups sake or white wine",
+        "1 L beef stock",
+        "1 small bay leaf",
+        "Canola oil"
+      ]
+    },
+    {
+      "heading": "Rice Cake Gochujang Bolognese",
+      "items": [
+        "880g cylindrical Korean rice cakes (from a Korean supermarket, find an unflavoured version. They are known as \"Dok\" in Korean or the Chinese version is called \"Nian Gao\".)",
+        "Water"
+      ]
+    },
+    {
+      "heading": "To Serve",
+      "items": [
+        "600ml Korean Bolognese Sauce*",
+        "60g butter",
+        "50g hazelnuts",
+        "1 Tbsp chives or micro greens"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Korean Bolognese Sauce",
+      "steps": [
+        "Heat up a large saucepan to high heat with a splash of canola oil. Add the ground pork and brown evenly, stirring occasionally.",
+        "When the meat is browned, strain through a sieve and reserve the fat. Set the meat aside, add the fat back into the saucepan and reduce the temperature to a medium heat.",
+        "Add the finely diced vegetables and garlic, and sweat until the onions are translucent.",
+        "Deglaze the pot with a little sake or white wine. Add the tomato paste and let cook for a few moments.",
+        "Add the meat back to the saucepan with the gochujang, remaining sake or white wine and a small bay leaf and stir.",
+        "Add about half the stock and cook until the flavours develop. This will take roughly 2 hours and the vegetables will almost dissolve if chopped finely enough. Add more stock if it starts to dry out."
+      ]
+    },
+    {
+      "heading": "Rice Cake Gochujang Bolognese",
+      "steps": [
+        "Cut the rice cakes into gnocchi-sized portions, 2cm (1in) is about right.",
+        "Place them in a large pot and then add just enough water to cover them. Bring to a boil for 2 minutes.",
+        "Add the bolognese and butter then simmer until the Bolognese has reduced and thickened and rice cakes are cooked to a medium chewy yet firm texture.",
+        "Garnish with hazelnuts and chives."
+      ]
+    }
+  ]
+}

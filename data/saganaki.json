@@ -1,0 +1,33 @@
+{
+  "id": "saganaki",
+  "restaurant": "Kypriaki Mediterranean Grill",
+  "heroImage": "saganaki.jpg",
+  "title": "Saganaki",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Saganaki",
+      "items": [
+        "4 pcs. of Kefalograviera cheese roughly 80g each",
+        "1 Egg",
+        "120ml Milk",
+        "1 Cup Flour",
+        "120ml Canola/Vegetable oil"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Saganaki",
+      "steps": [
+        "Cut the cheese to ½ to 1cm widths. Crack the egg into a bowl and add the milk, whisk both together to create an egg wash. In a separate tray or plate, sift the flour and spread it out evenly so it has a flat surface. The flat surface will reduce the chance of the cheese breaking.",
+        "One by one place each piece of cheese in the egg wash, cover completely and then remove and let excess wash drip off. Place the dipped cheese into the flour and cover both sides.",
+        "Heat up a small fry-pan with the oil on medium heat; do not use high heat. Use enough oil so that it will come roughly half way up the side of the cheese. Test the oil temperature by dropping a tiny amount of flour into the oil, if it starts to cook, it's ready.",
+        "Remove any excess flour from cheese and place into pan. Always place the cheese in the oil facing away from you so that no oil splashes back as it could cause severe burns.",
+        "To get a consistent colour, rotate the cheese ¼ turn every 25-35 seconds. Check the underside of the cheese for doneness, it should be golden in colour. Turn the cheese over and repeat the process.",
+        "Remove from pan and place in a saganaki or special dish with lots of freshly squeezed lemon. Enjoy!"
+      ]
+    }
+  ]
+}

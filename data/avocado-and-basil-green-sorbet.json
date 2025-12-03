@@ -1,0 +1,32 @@
+{
+  "id": "avocado-and-basil-green-sorbet",
+  "restaurant": "Indigo Age Cafe",
+  "heroImage": "indigoAge4.jpg",
+  "title": "Avocado And Basil Green Sorbet",
+  "book": "The Plant-based Foodie",
+  "notes": "Avocados. It’s probably safe to say that avocados have become one of the most popular fruits, yes fruits, in the past several years. However, this popularity was a long time coming. While a staple in Central and Southern America for centuries, it took some convincing for North American consumers to try it. After all, they aren’t sweet, they have a tough skin, they taste best when they’re starting to look bad, they don’t really cook well and they’re at their prime ripeness seemingly for only a few hours. Prior to 1915, they also had two names, one that English speakers couldn’t pronounce, “aguacate”, and another that’s just plain unappetizing, “alligator pear”. In 1915, what was to become the California Avocado Association borrowed the Spanish word for the fruit, “avogado”, and tweaked it. Nevermind that “avogado” also means “lawyer” which if more widely known at the time may well have become yet another liability. Additionally, given that the Spanish name comes from the native Nahuatl word for the fruit, “ahuacate”, and this alludes to the male sex organ we could speculate that the Spanish name was an elaborate lawyer joke. In any case, the name stuck, but North America’s love of avocado didn’t become clear until the 1980s when a savvy marketing firm connected guacamole consumption to the Superbowl.",
+  "ingredientSections": [
+    {
+      "heading": "Avocado And Basil Green Sorbet",
+      "items": [
+        "150g raw blue agave nectar",
+        "1 avocado",
+        "1½ lemons",
+        "20g fresh basil",
+        "1 Tbsp aquafaba (chickpea water)",
+        "700g ice cubes",
+        "50g water, coconut milk or almond milk"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Avocado And Basil Green Sorbet",
+      "steps": [
+        "Blend the agave, avocado, lemon juice and flesh, basil and half of the ice in a blender starting on the lowest speed and gradually increasing it.",
+        "Add the water or nut milk, aquafaba and remaining ice and continue blending until the ice is completely crushed and a smooth consistency is achieved. Add more water or nut milk to adjust the consistency if necessary.",
+        "Serve immediately or place in the freezer until ready to serve."
+      ]
+    }
+  ]
+}

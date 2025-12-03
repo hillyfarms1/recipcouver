@@ -1,0 +1,28 @@
+{
+  "id": "lavender-lemon-drop",
+  "restaurant": "Café Ça Va",
+  "heroImage": "lavender-lemon-drop.jpg",
+  "title": "Lavender Lemon Drop",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Lavender Lemon Drop",
+      "items": [
+        "60ml Vodka",
+        "1 tsp ground Lavender",
+        "30ml Lemon Juice",
+        "20ml Lavender Lemon Balm Syrup (available from most organic or health stores)"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Lavender Lemon Drop",
+      "steps": [
+        "The Lemon Drop is a simple and classic variation of the Martini. Extremely popular as a dessert cocktail, its citrusy dryness will cut through the sweetest offerings. The addition of Lavender Lemon Balm Syrup to create the Lavender Lemon Drop adds another level of flavour and enjoyment as an after dinner cocktail. Both Lavender and Lemon Balm (a member of the mint family with a strong citrus aroma) are said to be stress relieving and calming... what more could you want from a Martini?",
+        "Rim a Martini glass with sugar and ground lavender. Shake all ingredients vigorously with ice in a cocktail shaker for at least 30 seconds and then strain into the martini glass."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "eggs-royale",
+  "restaurant": "The Snug Cafe",
+  "heroImage": "eggs-royale.jpg",
+  "title": "Eggs Royale & Roast Vegetable Hash",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Eggs Royale",
+      "items": [
+        "200g Smoked salmon",
+        "8 Eggs",
+        "3 Tbsp Unsalted butter",
+        "¼ Cup Heavy cream",
+        "½ Cup Cream cheese (soft)",
+        "8 Asparagus spears",
+        "½ Cup Fresh chopped dill",
+        "½ tsp each Salt and pepper",
+        "¼ Cup Green onions",
+        "Good quality dark rye bread",
+        "Olive oil"
+      ]
+    },
+    {
+      "heading": "Roasted Root Vegetable Hash",
+      "items": [
+        "2 Beets",
+        "3 Yams",
+        "4 Yukon Gold potatoes",
+        "1 Yellow onion",
+        "1 Tbsp Fresh rosemary (more sprigs for garnish)",
+        "1 Tbsp Fresh thyme",
+        "Salt and fresh cracked pepper",
+        "Olive oil"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Eggs Royale",
+      "steps": [
+        "Pre-heat oven to 180°C (350°F). Place asparagus spears on roasting tray and drizzle with olive oil, salt and fresh cracked pepper. Roast for 10 minutes or until bright green and just cooked, and set aside.",
+        "In a large mixing bowl, whisk the eggs, cream and salt and pepper. In a large non-stick fry-pan melt, the unsalted butter and add the green onions on a medium to low heat and cook until just fragrant. Add the egg and cream mixture to the pan.",
+        "Using a rubber spatula slowly lift the cooked egg off the base of the pan allowing the still liquid egg to reach the base, essentially

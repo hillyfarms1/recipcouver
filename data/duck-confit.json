@@ -1,0 +1,49 @@
+{
+  "id": "duck-confit",
+  "restaurant": "Sebastian & Co",
+  "heroImage": "duck-confit.jpg",
+  "title": "Duck Confit",
+  "book": "The North Shore Foodie",
+  "notes": "Duck confit can be stored for several weeks if kept in the fridge immersed in duck fat. The duck fat can be strained, cooled and reused.",
+  "ingredientSections": [
+    {
+      "heading": "Duck Confit",
+      "items": [
+        "4 Duck legs",
+        "4 Cloves Garlic",
+        "4 Sprigs Thyme",
+        "2 Sprigs Rosemary, chopped into four sections",
+        "3 Bay leaves",
+        "1 Large Orange, unpeeled and sliced",
+        "3 Tbsp Kosher or coarse salt",
+        "½ Tbsp Black peppercorns",
+        "1 Tbsp Brown sugar",
+        "1L Duck fat"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "The Cure",
+      "steps": [
+        "Place the duck legs in a bowl, sprinkle with salt and sugar on both sides of the legs. Add all other ingredients except for the duck fat. Give the orange slices a squeeze to release the juices, and smash the garlic for extra flavour.",
+        "Toss all ingredients together (including duck legs), mixing well. Tightly wrap with saran wrap and leave to cure in the fridge overnight."
+      ]
+    },
+    {
+      "heading": "Slow Cook",
+      "steps": [
+        "The next day, melt the duck fat in a saucepan or pot on the stove top. While the fat is melting, rinse the duck legs very well with cold water. Pat dry as thoroughly as possible with paper towel or a clean kitchen towel.",
+        "Place the duck legs skin-side up in a Dutch oven, oven-proof dish or slow cooker. Pour in the melted duck fat and make sure legs are fully covered.",
+        "Cook slowly at a very low simmer — just an occasional bubble — until the duck is tender and can be easily pulled from the bone. Duck confit is ready when the drumstick bone gets exposed (after approximately 2-3 hours of slow cooking)."
+      ]
+    },
+    {
+      "heading": "Second Cook",
+      "steps": [
+        "Carefully remove the legs from the fat. Place duck legs in a cast-iron skillet or on a baking sheet and place back in the oven on a broil setting (or at a high bake) until they get golden brown and crispy.",
+        "The duck should be crispy on the outside and tender, moist and falling-off-the-bone on the inside. The whole duck leg can be served as a main course, or it can be used for salads by shredding the meat and frying it in duck fat (cooking until golden and crispy)."
+      ]
+    }
+  ]
+}

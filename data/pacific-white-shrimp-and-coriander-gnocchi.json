@@ -1,0 +1,63 @@
+{
+  "id": "pacific-white-shrimp-and-coriander-gnocchi",
+  "restaurant": "The Cascade Room",
+  "heroImage": "pacific-white-shrimp-and-coriander-gnocchi.jpg",
+  "title": "Pacific White Shrimp & Coriander Gnocchi",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Gnocchi",
+      "items": [
+        "1kg Yukon Gold Potatoes",
+        "300g Flour",
+        "40g Powdered Parmesan Cheese",
+        "2 Tbsp Coriander Seed, toasted",
+        "1 Egg Yolk",
+        "Big Pinch of Salt"
+      ]
+    },
+    {
+      "heading": "Sauce",
+      "items": [
+        "20 Shrimp, peeled",
+        "1 Lemon, juiced and zested",
+        "100ml White Wine",
+        "3 Tbsp Butter",
+        "300ml Whipping Cream",
+        "6 Asparagus Spears, cut into 6 pieces each",
+        "½ Fennel Bulb, cored and thinly sliced",
+        "2 Shallots, sliced",
+        "3 Cloves Garlic, peeled, chopped finely",
+        "Canola Oil"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Gnocchi",
+      "steps": [
+        "Clean and then bake the potatoes, whole and skin on, at 230°C (450°F) until done. A knife should pass into the potato without resistance.",
+        "Cut in half lengthwise whilst hot to remove steam.",
+        "Mix all dry ingredients in a bowl.",
+        "With a potato ricer (or fine grater), rice the potatoes into the dry ingredients and mix with finger tips to coat the potato in flour.",
+        "Add the egg yolk and gently kneed the mixture. Don't over kneed, the potatoes may become gluey.",
+        "Cut dough into quarters and roll out into sausages with your hands and cut into 2-3cm (1in) pieces.",
+        "Blanch the gnocchi in boiling water. As they begin to float scoop them out with a slotted spoon. Allow to cool on an oiled parchment lined tray."
+      ]
+    },
+    {
+      "heading": "Sauce",
+      "steps": [
+        "In a large frying pan heat a shallow frying portion of canola oil until just below smoking point.",
+        "Add the gnocchi and fry until golden brown on one side.",
+        "Flip the pan to turn the gnocchi and add the shallots, garlic, fennel, and asparagus, and fry until the vegetables start to soften.",
+        "Add the shrimp and cook until pink.",
+        "Deglaze with the wine and reduce by half.",
+        "Add the cream and butter and season with salt.",
+        "Reduce until cream lightly coats the gnocchi and shrimp.",
+        "Add lemon juice and zest and toss."
+      ]
+    }
+  ]
+}

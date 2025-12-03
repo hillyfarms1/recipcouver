@@ -1,0 +1,29 @@
+{
+  "id": "cafe-ca-va-caesar",
+  "restaurant": "Café Ça Va",
+  "heroImage": "cafe-ca-va-caesar.jpg",
+  "title": "Café Ça Va Caesar",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Caesar",
+      "items": [
+        "30ml Vodka",
+        "Clamato Juice",
+        "7 drops of Celery Bitters (available from good liquor stores or makable at home)",
+        "Tobasco, to taste",
+        "Worcestershire, to taste"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Caesar",
+      "steps": [
+        "The Caesar, arguably Canada's national cocktail, was invented in Calgary, Alberta, in 1969 by Walter Chell to celebrate the opening of his Italian restaurant. He based it on the flavours of Spaghetti alle Vongole, spaghetti with tomato sauce and clams. The clams added a richness that held up to the spice and other ingredients. Café Ça Va's version uses Celery Bitters, a long forgotten cocktail ingredient that adds a deep moreish savoury boost.",
+        "Salt the rim of a highball glass, fill with ice and build. Garnish with lime wedge, green bean and pickle slice."
+      ]
+    }
+  ]
+}

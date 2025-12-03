@@ -1,0 +1,72 @@
+{
+  "id": "carrot-lox-with-cashew-dill-cream-cheese",
+  "restaurant": "Roots And Fruits",
+  "heroImage": "rootsfruits.jpg",
+  "title": "Carrot Lox With Cashew Dill Cream Cheese",
+  "book": "The Plant-based Foodie",
+  "notes": "Tamari . Both tamari and soy sauce are the product of fermented soybeans and both are used in similar ways, however, wheat is used in soy sauce which is why tamari is often suggested as a gluten-free alternative. That said, it is a good idea to double check this if following a gluten-free diet because occasionally wheat can be found in tamari too. While soy sauce is used throughout Asia, tamari has specific Japanese origins and is actually a by-product of the production of miso. Its flavour is also more rounded and subtle, lacking the bite that soy sauce can have, meaning tamari is also nice as a dipping sauce.",
+  "ingredientSections": [
+    {
+      "heading": "Carrot Lox",
+      "items": [
+        "3 large carrots",
+        "¼ Cup tamari",
+        "3 Tbsp rice vinegar",
+        "2 Tbsp water",
+        "1 tsp wasabi",
+        "¼ tsp smoked liquid"
+      ]
+    },
+    {
+      "heading": "Cashew Dill Cream Cheese",
+      "items": [
+        "1 Cup cashews",
+        "5g dill",
+        "1 clove garlic",
+        "1 Tbsp lemon juice",
+        "1 Tbsp olive oil",
+        "1 pinch cumin",
+        "½ tsp salt"
+      ]
+    },
+    {
+      "heading": "Carrot Lox On Toast",
+      "items": [
+        "Sourdough bread or bagel",
+        "Carrot Lox (above)",
+        "Cashew Dill Cream Cheese (above)",
+        "Red onion",
+        "Capers",
+        "Microgreens",
+        "Shredded nori",
+        "Pepper"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Carrot Lox",
+      "steps": [
+        "Peel the skin from the carrots and then steam until soft.",
+        "Whisk the marinade ingredients together in a large bowl.",
+        "Slice the steamed carrots very finely using either a carrot peeler or mandolin.",
+        "Marinate the sliced carrot in the liquid for at least 2 hours, drain then serve."
+      ]
+    },
+    {
+      "heading": "Cashew Dill Cream Cheese",
+      "steps": [
+        "Soak the cashews in water overnight.",
+        "Add all ingredients, except the dill, into a blender and blend thoroughly until smooth. Adjust the consistency with water if necessary.",
+        "Chop the dill and then fold into the cashew cheese with a fork."
+      ]
+    },
+    {
+      "heading": "Carrot Lox On Toast",
+      "steps": [
+        "Toast the bread or bagel and then smear liberally with Cashew Dill Cream Cheese.",
+        "Arrange the Carrot Lox neatly on the cheese and then top with some finely sliced red onion, capers, microgreens and nori."
+      ]
+    }
+  ]
+}

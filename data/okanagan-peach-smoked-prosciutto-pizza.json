@@ -1,0 +1,36 @@
+{
+"id": "okanagan-peach-smoked-prosciutto-pizza",
+  "restaurant": "Bridge Brewing Company",
+  "heroImage": "okanagan-peach-smoked-prosciutto-pizza.jpg",
+  "title": "Pale Ale Pizzas, Okanagan Peach",
+  "book": "The North Shore Foodie",
+  "notes": "Recipes created by Krissy Seymour. krissy@fraichecreations.com",
+  "ingredientSections": [
+    {
+      "heading": "Okanagan Peach & Smoked Prosciutto Pizza",
+      "items": [
+        "1 Flatbread",
+        "4 Slices smoked proscuitto ripped in half",
+        "1 Large Ripe peach sliced thin",
+        "4 Tbsp Sweet chilli sauce",
+        "A handful sliced red onion",
+        "A handful watercress",
+        "8 tsp Crème fraîche",
+        "Heirloom tomato and birdseye chilli sauce",
+        "Fresh farmers cheese",
+        "Fresh cracked black pepper"
+      ]
+    }
+    ]
+"methodSections": [
+    {
+      "heading": "Okanagan Peach & Smoked Prosciutto Pizza with Crème Fraîche & Watercress",
+      "steps": [
+        "Beer Pairing: Bridge Brewing Wunderbar Kolsh.",
+        "Preheat oven to 220°C (425°F). Generously cover the flatbread with tomato sauce.",
+        "Mix the peach slices with the sweet chili sauce and scatter over the flatbread with the prosciutto and sliced red onion. Place dollops of the farmers cheese evenly over the flatbread.",
+        "Place straight on oven rack and bake for 10 minutes or until crisp at edges. Leave to cool for 5 minutes on a wire cooling rack. Top with crème fraîche, watercress and black pepper."
+      ]
+    }
+    ]
+    }

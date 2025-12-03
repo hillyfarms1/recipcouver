@@ -1,0 +1,29 @@
+{
+  "id": "french-blonde-cocktail",
+  "restaurant": "Café Ça Va",
+  "heroImage": "french-blonde-cocktail.jpg",
+  "title": "French Blonde Cocktail",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "French Blonde",
+      "items": [
+        "20ml St. Germain Elderflower Liqueur",
+        "20ml Lillet",
+        "15ml Tanqueray Gin",
+        "60ml Pink Grapefruit Juice",
+        "5 drops Lemon bitters"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "French Blonde",
+      "steps": [
+        "Lillet is a tonic wine made from Bordeaux wines, macerated orange peel liqueur from Spain, Morocco and Haiti and quinine liqueur from Peru. The mid-2000s launch of St. Germain Elderflower reminded cocktail artists that liqueurs shouldn't just fill space on the back bar. The aromatic elderflower complements the herbaceous gin perfectly and the grapefruit rounds out the citrus of the Lillet resulting in a perfectly balanced aperitif.",
+        "Shake all ingredients vigorously with ice in a cocktail shaker for at least 30 seconds and then strain into a martini glass and serve with a lemon twist garnish."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "purple-sweet-potato-soup-with-crispy-lotus-root-chips",
+  "restaurant": "Indigo Age Cafe",
+  "heroImage": "indigoAge.jpg",
+  "title": "Purple Sweet Potato Soup With Crispy Lotus Root Chips",
+  "book": "The Plant-based Foodie",
+  "notes": "Gluten-free, diabetic friendly",
+  "ingredientSections": [
+    {
+      "heading": "Lotus Root Chips",
+      "items": [
+        "2 large lotus roots",
+        "2 Tbsp avocado oil",
+        "½ Tbsp sesame oil (optional)",
+        "1 tsp ground black pepper",
+        "½ - ¾ Tbsp salt"
+      ]
+    },
+    {
+      "heading": "Purple Potato Soup",
+      "items": [
+        "60g purple potatoes",
+        "440g purple sweet potatoes",
+        "50g (¼ small) onion",
+        "30g (½ stalk) celery",
+        "15g parsley",
+        "10g avocado oil",
+        "4 (8g) cloves garlic",
+        "1-2 tsp (5g) salt, or to taste",
+        "½ tsp (2g) black pepper, or to taste",
+        "600ml water"
+      ]
+    },
+    {
+      "heading": "Garnish",
+      "items": [
+        "2-3 green onions",
+        "5g black seeds or sesame seeds",
+        "5g dark green raw pumpkin oil",
+        "15 lotus root chips (see above) or purple sweet potatoes chips",
+        "*Optional spices: ¼ tsp ground nutmeg and ¼ tsp ground cloves"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Lotus Root Chips",
+      "steps": [
+        "Chop off the ends of the lotus roots and peel them just like a potato.",
+        "Using a mandolin or sharp knife, slice the roots into thin slices. The thinner they are the crisper they’ll be.",
+        "Place in a big bowl and coat with the olive oil, salt, pepper and a bit of sesame oil.",
+        "Spread the lotus root slices in a single layer on a dehydrator tray and dehydrate at 45°C (115°F) for 10 hours or until crispy.",
+        "If you don’t have a dehydrator, you can also bake them in the oven at 160°C (325°F) spread out in a single layer after liberally brushing them with avocado oil."
+      ]
+    },
+    {
+      "heading": "Purple Potato Soup",
+      "steps": [
+        "Bake potatoes and sweet potatoes wrapped in foil at 180°C (350°F) for 50 minutes. When cooked remove the skin and dice roughly.",
+        "Dice the onions and slice the garlic finely.",
+        "In a large pot, heat the avocado oil, add the garlic and sautée for 1-2 minutes.",
+        "Add the onion, salt and the pepper and cook for about 5 minutes, stirring regularly, until onions are tender.",
+        "Add the water, potatoes and all remaining soup ingredients and bring to a boil. Reduce heat and simmer for 5 minutes.",
+        "Transfer the mixture to a blender and blend until smooth. Adjust the seasoning by adding salt and pepper to taste.",
+        "Top with green onion, black or sesame seeds, dark green raw pumpkin oil and lotus root chips. Optionally, sprinkle with ground nutmeg or ground cloves."
+      ]
+    }
+  ]
+}

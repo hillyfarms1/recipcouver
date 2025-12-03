@@ -1,0 +1,122 @@
+{
+  "id": "coastal-macro-bowl",
+  "restaurant": "Kokomo",
+  "heroImage": "kokomo.jpg",
+  "title": "Coastal Macro Bowl",
+  "book": "The Plant-based Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Turmeric Dressing",
+      "items": [
+        "½ Cup toasted cashews",
+        "¾ Cup water",
+        "1 Tbsp coconut flakes",
+        "½ Tbsp sambal oelek",
+        "1 clove garlic",
+        "1 Tbsp ginger",
+        "¼ tsp turmeric powder",
+        "1 Tbsp tamari",
+        "2 Tbsp lime juice",
+        "½ Tbsp coconut sugar",
+        "2 tsp Himalayan pink salt",
+        "2 Tbsp sunflower oil"
+      ]
+    },
+    {
+      "heading": "Marinated Tempeh",
+      "items": [
+        "200g tempeh",
+        "1 Tbsp coconut oil",
+        "1 Tbsp tamari",
+        "⅛ tsp Himalayan pink salt",
+        "¼ tsp sambal oelek",
+        "½ tsp onion powder",
+        "1 tsp coconut sugar"
+      ]
+    },
+    {
+      "heading": "Roasted Squash",
+      "items": [
+        "1 squash",
+        "1 Tbsp oil"
+      ]
+    },
+    {
+      "heading": "Pickled Cabbage",
+      "items": [
+        "2 Tbsp ginger",
+        "¼ red cabbage",
+        "¾ Cup apple cider vinegar",
+        "2 Tbsp water",
+        "2 Tbsp sugar",
+        "1 tsp salt"
+      ]
+    },
+    {
+      "heading": "Edamame Hummus",
+      "items": [
+        "450g shelled edamame",
+        "60g lime juice",
+        "½ tsp salt",
+        "1 tsp each of sesame & sunflower oil",
+        "1 tsp tamari",
+        "1 tsp sambal oelek"
+      ]
+    },
+    {
+      "heading": "Bowl Assembly",
+      "items": [
+        "Cooked brown rice",
+        "Chopped romaine, kale and cucumber",
+        "Black sesame seeds"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Turmeric Dressing",
+      "steps": [
+        "Soak the cashews in water for 1 hour and then drain.",
+        "Place all ingredients in a blender and mix at a high speed until smooth."
+      ]
+    },
+    {
+      "heading": "Roasted Squash",
+      "steps": [
+        "Peel and cube the squash into 1cm (½in) pieces.",
+        "Toss the cubes in oil, salt and pepper, spread out evenly on an oven dish and roast at 200°C (400°F) for 25 minutes, or until tender and lightly caramelized."
+      ]
+    },
+    {
+      "heading": "Edamame Hummus",
+      "steps": [
+        "Pulse all ingredients in a food processor until edamame beans are broken down and all ingredients are well mixed."
+      ]
+    },
+    {
+      "heading": "Bowl Assembly",
+      "steps": [
+        "Assemble each serving in a large bowl starting with the rice on one half and greens on the other. Discard the tempeh marinade.",
+        "Arrange the cabbage, squash, sliced cucumbers and marinated tempeh on top of the rice.",
+        "Top with the dressing, sprinkle with black sesame seeds and finish with a generous dollop of edamame hummus."
+      ]
+    },
+    {
+      "heading": "Pickled Cabbage",
+      "steps": [
+        "Purée the ginger and water in a high-powered blender. Slice or shred the cabbage finely and place in a large bowl.",
+        "Heat all the ingredients, except the cabbage, until the sugar and salt dissolve.",
+        "Pour the liquid over cabbage. Keep all of the cabbage submerged with a small plate or similar and allow to cool for 1-2 hours. Drain the liquid from the cabbage before serving."
+      ]
+    },
+    {
+      "heading": "Marinated Tempeh",
+      "steps": [
+        "Cut tempeh into 1cm (½in) cubes and simmer in water for 15-20 minutes, or until it becomes tender.",
+        "While the tempeh is cooking, add all the other ingredients to a bowl and stir.",
+        "When cooked, drain the tempeh and transfer to the mixing bowl while still hot and gently mix with the marinade. Can be served hot or cold."
+      ]
+    }
+  ]
+}

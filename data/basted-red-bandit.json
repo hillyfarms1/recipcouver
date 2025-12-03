@@ -1,0 +1,103 @@
+{
+  "id": "basted-red-bandit",
+  "restaurant": "Tuc Craft Kitchen",
+  "heroImage": "basted-red-bandit.jpg",
+  "title": "Basted Red Bandit with Gnocchi Romaine & Chilled Cabbage",
+  "book": "The Gastown Foodie",
+  "notes": "Basted Red Bandit is a Tuc Craft Kitchen favourite. Consider swapping out the cabbage for the Irish Colcannon with Kale over the page for an even heartier dish.",
+  "ingredientSections": [
+    {
+      "heading": "Confit Garlic",
+      "items": [
+        "1 head garlic",
+        "Good quality extra virgin olive oil"
+      ]
+    },
+    {
+      "heading": "Gnocchi Romaine",
+      "items": [
+        "3 Cups milk",
+        "200g semolina flour",
+        "2 large eggs yolks",
+        "60g butter",
+        "60g Parmesan Reggiano cheese",
+        "30g Italian parsley, chopped finely"
+      ]
+    },
+    {
+      "heading": "Ranch Dressing",
+      "items": [
+        "180ml sour cream",
+        "90ml buttermilk",
+        "30ml honey",
+        "30ml rice vinegar",
+        "1 clove Confit Garlic*",
+        "10g green onions, minced",
+        "½ tsp Tabasco sauce"
+      ]
+    },
+    {
+      "heading": "Accompaniments",
+      "items": [
+        "1 small savoy cabbage",
+        "1 red radish"
+      ]
+    },
+    {
+      "heading": "Red Bandit (per serving)",
+      "items": [
+        "1 fresh Red Bandit fillet skin on and scaled (Pacific rockfish or snapper)",
+        "1 Tbsp butter",
+        "15ml fresh squeezed lemon juice",
+        "1 sprig fresh thyme",
+        "Salt & pepper",
+        "Olive oil",
+        "1 wedge Gnocchi Romaine*",
+        "1 wedge savoy cabbage, chilled",
+        "Ranch Dressing*",
+        "Radish slices"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Confit Garlic",
+      "steps": [
+        "Break down the garlic and remove the skins. Place in a small saucepan and add enough olive oil to cover. Place over the lowest heat setting possible and cook for an hour. If the garlic browns it means the oil was too hot. Store in the fridge submerged in the oil."
+      ]
+    },
+    {
+      "heading": "Gnocchi Romaine",
+      "steps": [
+        "Bring the milk to a simmer in a large saucepan. Slowly add the semolina while whisking continuously. Cook while continuing to whisk regularly for approximately 15 minutes.",
+        "Add the egg yolks, butter, Parmesan and parsley and mix well.",
+        "Spread the mixture out on a lined baking tray to a thickness of around 3-4cm (1½in) and place in the fridge."
+      ]
+    },
+    {
+      "heading": "Ranch Dressing",
+      "steps": [
+        "Combine all ingredients in a bowl and mix thoroughly with a whisk. Do not use an electric mixer.",
+        "Transfer to plastic container and chill in the fridge."
+      ]
+    },
+    {
+      "heading": "Accompaniments",
+      "steps": [
+        "Cut the cabbage into single serving wedges. Make a double boiler, season with salt and pepper and steam the wedges for 5 minutes on a medium high heat. Cool immediately in the fridge.",
+        "Slice the radish into fine disks, place in a container, cover in cold water and store in the fridge."
+      ]
+    },
+    {
+      "heading": "Red Bandit & Serving",
+      "steps": [
+        "Cut the Gnocchi Romaine into equal triangles. Add olive oil to a non-stick pan on medium high heat.",
+        "Fry the gnocchi until you can see it begin to crisp up on the sides. Flip over and cook the other side. Set aside keeping warm.",
+        "Score the skin of each fillet so they don't curl up while being cooked but try not to cut too far into the flesh. Season the flesh side of each fillet with salt and pepper.",
+        "Bring a medium-sized pan to a medium high heat and add enough olive oil to coat the pan well. Once the oil begins to smoke, add fish skin side down. After 2-3 minutes, flip the fillet and sear for another minute. Add the butter and thyme and baste the fish with the juices for 30 seconds. Remove from the heat and finish with the lemon juice.",
+        "Place the Gnocchi Romaine and chilled cabbage wedge on a plate. Drizzle the cabbage with olive oil and ranch dressing and season with salt and pepper. Add a few radish slices for colour and contrast.",
+        "Top the cabbage and gnocchi with the Red Bandit and spoon the pan sauce on and around the fish."
+      ]
+    }
+  ]
+}

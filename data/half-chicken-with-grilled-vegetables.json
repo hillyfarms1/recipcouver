@@ -1,0 +1,62 @@
+{
+  "id": "half-chicken-with-grilled-vegetables",
+  "restaurant": "Nuba",
+  "heroImage": "half-chicken-with-grilled-vegetables.jpg",
+  "title": "Half Chicken with Grilled Vegetables and Patata Harra",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Chicken Marinade",
+      "items": [
+        "2 small whole chickens, halved, or 1 large chicken, quartered",
+        "1 red pepper",
+        "15g garlic",
+        "20ml lemon juice",
+        "30g pressed yogurt (labneh or Greek yogurt)",
+        "¼ tsp marjoram",
+        "40ml olive oil",
+        "½ tsp sea salt",
+        "¼ tsp black pepper"
+      ]
+    },
+    {
+      "heading": "Grilled Vegetables and Patata Harra",
+      "items": [
+        "12-15 yellow fingerling potatoes",
+        "2 zucchinis (or other roasting vegetables)",
+        "100g cherry tomatoes",
+        "¼ tsp cinnamon",
+        "½ tsp paprika",
+        "½ tsp cumin",
+        "4 cloves of garlic, minced",
+        "½ Cup cilantro, finely chopped",
+        "½ Cup parsley, finely chopped",
+        "½ lemon, juice and zest",
+        "¼ tsp dried chili flakes",
+        "2 Tbsp extra virgin olive oil"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Chicken Marinade (the day before)",
+      "steps": [
+        "De-seed, roughly chop and then blend the red peppers in a blender.",
+        "Slowly simmer in a pan for around 15 minutes, stirring occasionally to avoid sticking, or until most of the liquid has evaporated.",
+        "Allow to cool then return to the blender along with the remaining chicken marinade ingredients and blend until smooth.",
+        "Marinade the chicken in the mixture overnight."
+      ]
+    },
+    {
+      "heading": "Half Chicken with Grilled Vegetables and Patata Harra",
+      "steps": [
+        "Cut the fingerling potatoes in half lengthwise, toss with olive oil and bake at 190°C (400°F) for 30-40 minutes or until soft.",
+        "While the potatoes are in the oven, cut the zucchinis into 1cm (½in) circles and grill or pan fry with the cherry tomatoes in a splash of olive oil.",
+        "Mix the cinnamon, paprika, cumin, parsley, cilantro, garlic, lemon juice and zest, chilis and olive oil in a bowl.",
+        "Grill the chicken on a BBQ or in a heavy frying pan on high heat for 5 minutes on each side then finish in the oven at 190°C (400°F) for around 45 minutes or until its internal temperature reaches 85°C (185°F).",
+        "When the potatoes are cooked and still hot, toss them with the cooked zucchini and tomatoes in the cinnamon parsley mix and adjust the seasoning if necessary."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "corn",
+  "restaurant": "The Acorn",
+  "heroImage": "corn.jpg",
+  "title": "Corn",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Hominy Corn Grits",
+      "items": [
+        "200g Cornmeal",
+        "100g Hominy Grits",
+        "1 Onion, diced finely",
+        "5 Garlic Cloves, minced",
+        "2 Ears of Corn, shucked and cut from cob",
+        "2 Padron Peppers, diced finely",
+        "20g Nutritional Yeast",
+        "2L Vegetable Stock",
+        "Salt & Pepper to taste"
+      ]
+    },
+    {
+      "heading": "Corn and Mushroom Consommé",
+      "items": [
+        "2 Ears of Corn, shucked",
+        "1 Onion, halved",
+        "200g Button Mushrooms",
+        "3 Cups Water"
+      ]
+    },
+    {
+      "heading": "Charred and Smoked Corn Sauce",
+      "items": [
+        "2 Ears of Corn",
+        "1 Walla Walla (or sweet) Onion",
+        "2 Garlic Cloves, sliced",
+        "1 Cup Corn and Mushroom Stock (see above)",
+        "Salt & Pepper to taste",
+        "Applewood Chips",
+        "Olive Oil"
+      ]
+    },
+    {
+      "heading": "Charred Vegetables",
+      "items": [
+        "2 Ears of corn, shucked",
+        "450g Chanterelle Mushrooms, dirt removed",
+        "1 Walla Walla (or sweet) Onion, peeled, cut in half vertically",
+        "12 Padron Peppers",
+        "Maple Syrup",
+        "Grape Seed Oil"
+      ]
+    },
+    {
+      "heading": "Garnish",
+      "items": [
+        "16 Sprigs of Watercress"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Hominy Corn Grits",
+      "steps": [
+        "In a large pot, on a medium heat, sweat onion, garlic, padron peppers & corn until soft and translucent.",
+        "Add stock, salt, pepper, and nutritional yeast. Stir and bring to a simmer.",
+        "Whisk in the cornmeal and hominy grits.",
+        "Cover and cook on low, stirring often, for about an hour until the grits are creamy.",
+        "Season to taste, then pour into a casserole dish sprayed with a non-stick oil. Spread out to a 2cm (1in) thickness. Cool and set aside."
+      ]
+    },
+    {
+      "heading": "Corn and Mushroom Consommé",
+      "steps": [
+        "Sauté the mushrooms in a large stock pot.",
+        "Char corn and onions over an open flame, keeping the skin on the onions.",
+        "Remove corn from the cob and set the kernels aside.",
+        "Char the de-kerneled cobs over the open flame.",
+        "Add the cobs and onions to the stock pot, along with any burnt bits from the charring, and cover with water. Slowly simmer for 45 minutes.",
+        "Strain through a fine sieve, season to your liking with salt, pepper and a touch of maple syrup, then cool and set aside."
+      ]
+    },
+    {
+      "heading": "Charred and Smoked Corn Sauce",
+      "steps": [
+        "Char the corn on the cob and blister the onion over an open flame.",
+        "Remove corn from the cob and dice the onion.",
+        "Smoke the onion and corn with the applewood chips. See over page for details.",
+        "Once smoked, sauté the corn, onion and garlic in the olive oil, cover with some of the consommé and season to taste.",
+        "Simmer for 30 minutes, then puree in a blender until smooth. Cool and set aside."
+      ]
+    },
+    {
+      "heading": "Charred Vegetables",
+      "steps": [
+        "Char corn over an open flame, remove from the heat and once cool cut the kernels from the cob trying to keep as many row sections of the kernels intact as possible. Set aside.",
+        "Clean the chanterelle mushrooms and sauté with grapeseed oil over a medium-high heat until cooked through, season with salt and pepper. Set aside.",
+        "Heat a frying pan over med-high with enough canola oil to just cover the bottom. Once the oil is hot, place the onion cut side down and cook until a deep caramelization appears. Remove from heat to cool. Once cool, separate the layers of the onion. Set aside.",
+        "Preheat oven to 220°C (425°F). Cut or break up the corn grits into roughly 5cm (2in) pieces. Place on a well oiled baking sheet and into the oven to heat up and brown slightly. Approx. 10-12 minutes.",
+        "Meanwhile, in two separate saucepans, reheat the Corn and Mushroom Consommé and Smoked Corn Sauce until hot.",
+        "After 6 minutes of heating the grits, place mushrooms, charred corn and onion layers on another baking tray and place in the oven.",
+        "While this is all happening, heat a frying pan to medium-high, with enough oil to cover the bottom and fry the padron peppers until they begin to blister. Remove from pan onto paper towel and season liberally with coarse sea salt."
+      ]
+    },
+    {
+      "heading": "Assembly",
+      "steps": [
+        "Place a few sprigs of the watercress in the centre of the plate.",
+        "On top of the cress place the corn grits pieces (4-5 per plate) then 2-3 onion leaves, depending on the size, cup side up.",
+        "Spoon the sautéed mushrooms and charred corn over the grits,",
+        "Ladle the Smoked Corn Sauce onto the plate, then carefully, pour the Corn and Mushroom Consommé into the onion leaves. Garnish with a bit of watercress."
+      ]
+    }
+  ]
+}

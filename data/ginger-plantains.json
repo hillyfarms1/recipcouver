@@ -1,0 +1,54 @@
+{
+  "id": "ginger-plantains",
+  "restaurant": "Calabash Bistro",
+  "heroImage": "ginger-plantains.jpg",
+  "title": "Ginger Plantains",
+  "book": "The Gastown Foodie",
+  "notes": "Plantains are the starchy less sweet cousins of bananas. When unripe and green, the fruit is hard and almost woody, and the peel too stiff to remove by hand. As plantains ripen, some of the starches turn into sugars, the fruit and peel softens and when cooked they become a great savory base for a dish with a more neutral flavour than bananas.",
+  "ingredientSections": [
+    {
+      "heading": "Ginger Sauce",
+      "items": [
+        "1 small red pepper",
+        "1 small yellow pepper",
+        "½ red onion",
+        "1 Tbsp ginger",
+        "1 Tbsp garlic",
+        "½ tsp powdered ginger",
+        "½ tsp black pepper",
+        "½ tsp coriander",
+        "2 Tbsp honey",
+        "2 Cups vegetable stock",
+        "¼ Cup goat cheese"
+      ]
+    },
+    {
+      "heading": "Plantains",
+      "items": [
+        "2 very ripe plantains",
+        "2 Tbsp butter",
+        "Canola oil",
+        "Fresh cilantro"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Ginger Sauce",
+      "steps": [
+        "Dice the peppers and onion and finely chop the ginger and garlic.",
+        "Sweat the peppers, onions, garlic and ginger in a saucepan with a splash of oil.",
+        "Add the coriander, powdered ginger and honey, stir well and cook for 1 minute.",
+        "Add the stock, bring to a boil, reduce the temperature to a simmer and reduce by half."
+      ]
+    },
+    {
+      "heading": "Plantains",
+      "steps": [
+        "Peel the plantains and slice diagonally into 1cm pieces.",
+        "Heat 2 Tbsp of the oil and the butter in a large frying pan and shallow fry the plantains over a medium high heat until golden brown.",
+        "Arrange the cooked plantains on serving plate and crumble the goat cheese over top. Pour the ginger honey sauce over everything, garnish with fresh cilantro and serve."
+      ]
+    }
+  ]
+}

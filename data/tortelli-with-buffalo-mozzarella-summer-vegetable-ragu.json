@@ -1,0 +1,74 @@
+{
+  "id": "tortelli-with-buffalo-mozzarella-summer-vegetable-ragu",
+  "restaurant": "Ask For Luigi",
+  "heroImage": "tortelli-with-buffalo-mozzarella-summer-vegetable-ragu.jpg",
+  "title": "Tortelli With Buffalo Mozzarella & Summer Vegetable Ragu",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Dough",
+      "items": [
+        "550g Organic 00 Flour",
+        "200g Whole Eggs",
+        "140g Egg Yolks",
+        "Semolina, for dusting"
+      ]
+    },
+    {
+      "heading": "Tortelli",
+      "items": [
+        "225g Buffalo Milk Ricotta",
+        "250g Buffalo Mozzarella, drained of whey",
+        "1 Egg, small",
+        "100g Grana Padano Cheese, grated",
+        "¼ tsp Salt",
+        "Ground Nutmeg, 6 swipes on microplane grater",
+        "Zest of half a Lemon, grated finely"
+      ]
+    },
+    {
+      "heading": "Pasta Sauce",
+      "items": [
+        "½ Cup Fresh Peas, shucked or Fava Beans",
+        "1 Cup Baby Zucchini or Patty Pan Squash",
+        "1 Cup Romanesco or Cauliflower Florets",
+        "½ Cup Small Cherry Tomatoes, halved",
+        "¼ Cup Loosely Packed Herbs, including basil, zucchini flowers, Italian parsley",
+        "2 Large Cloves Garlic, smashed",
+        "2 Salted Anchovy Fillets, in oil",
+        "Pinch or more Dried Chilli Flakes",
+        "2 tbsp Butter",
+        "Olive Oil"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Dough",
+      "steps": [
+        "Use the same method for the dough as in the ravioli recipe, page 28."
+      ]
+    },
+    {
+      "heading": "Tortelli",
+      "steps": [
+        "With clean hands, squeeze the ricotta and mozzarella through your fingers until the two cheeses are a homogeneous mixture - a good task for young kitchen assistants. Add all the ingredients and mix thoroughly. If the mixture seems wet, a little extra (50g) grana padano will help absorb excess moisture. Filling can be made up to a day in advance.",
+        "In batches, divide and roll the dough through a pasta roller to its thinnest setting. Using an 8cm (3in) ring cutter, cut discs of dough, maximizing as many discs out of each sheet. Off cut dough cannot really be used as it tends to be too dry to seal itself.",
+        "Place half tablespoons of filling in the centre of each disc, working with a few at a time. Fold the dough over to match the edges up in a semi-circle. Press around the filling to eliminate any air pockets.",
+        "Holding the tortelli in your hands, with the straight side away from you, make a small indentation in the filling with your index finger, and fold the corners together to meet, press and seal. Continue with remaining dough and filling, placing finished tortelli on a tray well dusted with semolina. Gauge around eight pieces of tortelli per serving."
+      ]
+    },
+    {
+      "heading": "Pasta Sauce",
+      "steps": [
+        "Blanch all the vegetables, except the tomatoes, separately, in seasoned water, and then immediately refresh in ice water. Set aside.",
+        "In a large fry pan, add a generous splash of olive oil and the anchovies. Place the pan on a medium heat. As the oil heats up the anchovies will dissolve. After the anchovies have started to break down and the oil is sizzling lightly, add the crushed garlic, chilli flakes, and cherry tomatoes.",
+        "Bring a large pot of seasoned water to a boil for cooking the tortelli.",
+        "Continue sautéing the cherry tomatoes until they start to release their juices. Add the blanched vegetables and season lightly with fine sea salt. Sauté vegetables until warmed through and remove the pan from the heat.",
+        "Boil the tortelli until they float, and then continue boiling for 45 seconds after they float. Return the pan with the vegetables to the heat, and transfer the cooked tortelli to the fry pan with slotted spoon. Also add roughly 100ml of the pasta cooking water.",
+        "Add butter and torn herbs to the pasta sauce and reduce until creamy and sauce coats the vegetables and pasta. Adjust seasoning with salt and pepper. Serve on a warm platter with additional parmesan if desired."
+      ]
+    }
+  ]
+}

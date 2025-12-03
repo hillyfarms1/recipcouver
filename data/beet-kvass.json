@@ -1,0 +1,28 @@
+{
+  "id": "beet-kvass",
+  "restaurant": "Ethical Kitchen",
+  "heroImage": "beet-kvass.jpg",
+  "title": "Beet Kvass",
+  "book": "The North Shore Foodie",
+  "notes": "Lacto-fermentation is an age-old process involving the brining of vegetables and other ingredients. As is true of most ancient processes, there is more than just one reason for the use of this technique. First of all, lacto-fermentation is very useful to extend the shelf life of a food. A raw carrot, for example, may keep for a week in the fridge; it will, however, keep for many months once it is fermented. There are nutritional benefits to fermentation as well. The process uses microorganisms to begin breaking down the vegetable, the result is higher bioavailability of nutrients and easier digestion. The live microorganisms also assist your body in breaking down other foods that require enzymes. Increased enzymes and probiotics in your diet encourage healthy gut flora, which in turn support positive mental states and proper metabolism of other nutrients. The addition of live probiotics can also help in managing yeast overgrowths such as Candida by introducing a wider variety of competitive flora. A recent study showed that a tablespoon of lacto-fermented sauerkraut was multiple times more bio-active than the most high-end, expensive probiotic supplements. And a tablespoon of sauerkraut or an ounce of beet kvass will cost just pennies a day. The increase in bioavailability brought about by fermentation is perhaps the most incredible process that holds great keys to health and economy, making it the most essential piece of understanding how to best nourish your body in a way that is both affordable and sustainable. Once fermented, nutrients become about 9 times more available than in the raw vegetable. Therefore a serving of 2 Tbsps of live sauerkraut (or an ounce of homemade kvass) will have the nutritional value of nearly a pound of raw vegetables.",
+  "ingredientSections": [
+    {
+      "heading": "Beet Kvass",
+      "items": [
+        "1 Medium-sized Red beet",
+        "1 Tbsp Himalayan salt",
+        "A Couple of Bay leaves"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Beet Kvass",
+      "steps": [
+        "Wash the beet and peel if necessary, cut into 1cm square cubes and put these into a 1 litre mason jar with the salt and bay leaves, fill with water, stir and leave lightly covered to ferment on your countertop for about a week. A paper coffee filter and a rubber band is a good way of covering the top while allowing it to breath.",
+        "Once the mixture tastes slightly vinegary and has a rich magenta colour, it is ready to strain and transfer to the fridge.",
+        "As a tonic, take about 30ml (1oz) in some water on an empty stomach every morning. It will keep many months in the fridge."
+      ]
+    }
+  ]
+}

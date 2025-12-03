@@ -1,0 +1,53 @@
+{
+  "id": "lemon-panna-cotta",
+  "restaurant": "Nicli Antica Pizzeria",
+  "heroImage": "lemon-panna-cotta.jpg",
+  "title": "Lemon Panna Cotta",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Rhubarb Compote",
+      "items": [
+        "500g rhubarb, or any in season fruit",
+        "White sugar",
+        "Lemon or orange juice"
+      ]
+    },
+    {
+      "heading": "Lemon Panna Cotta",
+      "items": [
+        "2 Cups heavy cream",
+        "1 Cup whole milk",
+        "75g cane sugar",
+        "2 lemons",
+        "3½ sheets gelatine"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Rhubarb Compote",
+      "steps": [
+        "Chop the fruit into bite-sized pieces and place in a saucepan with a splash of water.",
+        "Place a lid on the saucepan and stew over a medium low heat.",
+        "When warm add 1 Tbsp of sugar and stir.",
+        "Continue stewing until the fruit is completely soft and broken down, stirring occasionally. Test and adjust sweetness with more sugar if necessary. Adjust water level too if necessary. Balance with a small splash of lemon or orange juice.",
+        "Place in the fridge before serving chilled."
+      ]
+    },
+    {
+      "heading": "Lemon Panna Cotta",
+      "steps": [
+        "Use a vegetable peeler to remove the zest from the lemons. Bloom the gelatine sheets in ice cold water.",
+        "Measure the milk, sugar, zest and ¼ of the cream into a saucepan.",
+        "Place over a gentle heat and bring to a low simmer.",
+        "Remove from the heat, add the gelatine, cover with a lid, and let steep for 20 minutes to extract the flavour from the zest.",
+        "Strain the warm liquid into remaining cream and remove the zest. Whisk together well.",
+        "Pour into 6 chilled bowls, vintage juice glasses or ramekins. Chilling them first will make the panna cotta set faster.",
+        "Place in fridge until set.",
+        "To serve, garnish with fruit compote, shortbread cookies and mint."
+      ]
+    }
+  ]
+}

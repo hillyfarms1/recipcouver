@@ -1,0 +1,56 @@
+{
+  "id": "formentera",
+  "restaurant": "Cabrito Tapas/Bebidas",
+  "heroImage": "formentera.jpg",
+  "title": "Formentera",
+  "book": "The East Van Foodie",
+  "notes": "Formentera is an Island near Ibiza. Rosemary grows wild all over the island and with the intense heat, the air is always rich and fragrant. Olive orchards dot the landscape too, so this cocktail is a perfect homage to a beautiful corner of the world.",
+  "ingredientSections": [
+    {
+      "heading": "Formentera",
+      "items": [
+        "60ml Olive Oil Infused Gin",
+        "15ml Dry Vermouth",
+        "15ml Rosemary Syrup",
+        "1 dash Walnut Bitters"
+      ]
+    },
+    {
+      "heading": "Olive Oil Infused Gin",
+      "items": [
+        "3 parts Gin",
+        "1 part Extra Virgin Olive Oil"
+      ]
+    },
+    {
+      "heading": "Rosemary Syrup",
+      "items": [
+        "10g Rosemary, chopped",
+        "250g Sugar",
+        "250g Water"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Formentera",
+      "steps": [
+        "Combine all the ingredients into a mixing glass or shaker, add ice, stir and double strain into a martini glass, garnish with a sprig of burnt rosemary."
+      ]
+    },
+    {
+      "heading": "Olive Oil Infused Gin",
+      "steps": [
+        "Simply shake the gin and olive oil together well in a jar or bottle with a good lid. Place in the freezer, up-side-down, for several hours and the gin and oil will separate with the oil floating on top.",
+        "When the oil has solidified carefully undo the lid over a bowl and the gin will run out leaving the oil behind. The oil can be reused with more gin or when used in other recipes it has a unique flavour. This process is called 'fat washing' and can be done with other oil and spirit combinations too."
+      ]
+    },
+    {
+      "heading": "Rosemary Syrup",
+      "steps": [
+        "Boil water and sugar together until the sugar is dissolved.",
+        "Remove from the heat, stir the Rosemary through and allow to infuse. Let cool and strain."
+      ]
+    }
+  ]
+}

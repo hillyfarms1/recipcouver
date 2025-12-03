@@ -1,0 +1,96 @@
+{
+  "id": "lucuma-parfait",
+  "restaurant": "Café By Tao",
+  "heroImage": "cafeTao4.jpg",
+  "title": "Lucuma Parfait",
+  "book": "The Plant-based Foodie",
+  "notes": "Lucuma. Lucuma powder is the dried and ground form of the fruit from the Pouteria Lucuma tree, which is native to Peru, Ecuador and Chile. It is full of goodness and is a natural sweetener, which makes it a great addition to smoothies or flavouring for ice cream.",
+  "ingredientSections": [
+    {
+      "heading": "Crumble",
+      "items": [
+        "125g (1 heaping Cup) walnuts, optionally soaked and dehydrated",
+        "125g (roughly 2 Cups) shredded coconut",
+        "150g (11-12) medjool dates"
+      ]
+    },
+    {
+      "heading": "Date Syrup",
+      "items": [
+        "125g (roughly 10) medjool dates",
+        "125g (½ Cup) warm water"
+      ]
+    },
+    {
+      "heading": "Banana Cream",
+      "items": [
+        "380g (roughly 3-4) bananas",
+        "40g (3 Tbsp) date syrup (see above)",
+        "100g (¾ Cup) soaked cashews"
+      ]
+    },
+    {
+      "heading": "Raspberry Coulis",
+      "items": [
+        "230g (roughly 2 Cups) raspberries",
+        "100g (around 9) medjool dates"
+      ]
+    },
+    {
+      "heading": "Lucuma Cream",
+      "items": [
+        "90g (roughly ½ Cup) date syrup",
+        "80g (⅓ Cup) water",
+        "120g (roughly 1½ Cups) soaked cashews",
+        "40g lucuma powder",
+        "⅓ tsp ground vanilla bean",
+        "Pinch salt"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Crumble",
+      "steps": [
+        "Place a mixing bowl on a kitchen scale and tare it to zero. Add the walnuts to 125g, the coconut will bring the scale to 250g and the dates will bring the total to 400g.",
+        "Transfer to a food processor and process until the mixture looks like a crumble."
+      ]
+    },
+    {
+      "heading": "Date Syrup",
+      "steps": [
+        "Chop the dates discarding the pits. Soak in warm water for 30 minutes.",
+        "Add the soaked dates and soaking water to a blender and blend until smooth."
+      ]
+    },
+    {
+      "heading": "Banana Cream",
+      "steps": [
+        "Place the blender container on a kitchen scale and tare it to zero. Add the banana until the scale says 380g, adding the date syrup will bring it to 420g and the cashews will bring the total to 520g.",
+        "Blend until creamy, refrigerate until ready to assemble."
+      ]
+    },
+    {
+      "heading": "Raspberry Coulis",
+      "steps": [
+        "Remove the pits from the dates and simply weigh the dates and raspberries into a blender and blend until creamy.",
+        "Refrigerate until ready to assemble."
+      ]
+    },
+    {
+      "heading": "Lucuma Cream",
+      "steps": [
+        "Place the blender container on a kitchen scale and tare it to zero. Add the date syrup until the scale says 90g, add the water to 170g and the cashews to bring the total to 290g.",
+        "Blend until creamy, add the lucuma powder, salt and vanilla powder.",
+        "Refrigerate until ready to assemble."
+      ]
+    },
+    {
+      "heading": "Parfait Assembly",
+      "steps": [
+        "Build the parfaits in bowls or jars at least 250ml in size in the following order. Crumble, Banana Cream, Crumble, Raspberry Coulis and finally Lucuma Cream.",
+        "Store in the fridge for up to 2 weeks (if you have iron will)."
+      ]
+    }
+  ]
+}

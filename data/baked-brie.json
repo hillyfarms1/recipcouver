@@ -1,0 +1,28 @@
+{
+  "id": "baked-brie",
+  "restaurant": "End of the Line",
+  "heroImage": "baked-brie.jpg",
+  "title": "Baked Brie & Caramelized Onion",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Caramelised Onion and Maple Baked Brie",
+      "items": [
+        "1 Wheel of good quality Brie like Natural Pastures Cheese Company Comox Brie",
+        "1 good Tbsp of Caramelized Onion and Maple Confit (available at The End of the Line)",
+        "Crackers or savoury biscuits"
+      ]
+    },
+  ],
+  "methodSections": [
+    {
+      "heading": "Caramelised Onion and Maple Baked Brie",
+      "steps": [
+        "Place the brie in a brie baker (available at The End of the Line) or similar bowl or dish. Smother the confit over the top of the brie.",
+        "Heat in a 180°C (350°F) oven for roughly 10 minutes checking regularly toward the end. It should be melted in the middle but the rind should maintain its structure.",
+        "Serve with your choice of crackers or savoury biscuits."
+      ]
+    },
+  ]
+}

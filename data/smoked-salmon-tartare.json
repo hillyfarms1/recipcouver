@@ -1,0 +1,131 @@
+{
+  "id": "smoked-salmon-tartare",
+  "restaurant": "Pourhouse Restaurant",
+  "heroImage": "smoked-salmon-tartare.jpg",
+  "title": "Smoked Salmon Tartare",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Smoked Salmon",
+      "items": [
+        "1 filet salmon",
+        "2.5L water",
+        "425g salt",
+        "50g maple syrup",
+        "Smoking wood chips"
+      ]
+    },
+    {
+      "heading": "Roasted & Marinated Peppers",
+      "items": [
+        "2 red peppers",
+        "1 Tbsp olive oil",
+        "1 Tbsp sherry vinegar",
+        "Salt & pepper"
+      ]
+    },
+    {
+      "heading": "Confit Tomatoes",
+      "items": [
+        "4 roma tomatoes",
+        "1 Cup olive oil",
+        "2 cloves garlic, smashed",
+        "2 sprigs thyme",
+        "2 bay leaves"
+      ]
+    },
+    {
+      "heading": "Guacamole",
+      "items": [
+        "4 avocados",
+        "2 limes",
+        "Salt & pepper"
+      ]
+    },
+    {
+      "heading": "Salsa Verde",
+      "items": [
+        "2 bunches basil",
+        "1 bunch parsley",
+        "1 bunch mint",
+        "1 clove garlic",
+        "Salt & pepper",
+        "½ Cup olive oil"
+      ]
+    },
+    {
+      "heading": "To Serve",
+      "items": [
+        "Smoked Salmon*",
+        "Marinated Peppers*",
+        "Confit Tomatoes*",
+        "Guacamole*",
+        "Chives",
+        "Olive oil",
+        "Salt & pepper",
+        "Micro greens",
+        "Crostini"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Smoked Salmon (brining & smoking 1-2 days before)",
+      "steps": [
+        "In a large container with a lid, stir together the salt, water and maple syrup into a brine. Place the salmon into the brine skin side down.",
+        "Place the lid on the container and put the container in the fridge and allow to brine for 12 hours. Flip the salmon so it is skin side up and brine for another 12 hours.",
+        "Remove the salmon from the brine and rinse under cold water.",
+        "Follow the instructions for your smoker to cold smoke the salmon for 2 hours using your favourite wood. Placing a tray full of ice in the smoker and replenishing the ice regularly is a good trick to keep the temperature low.",
+        "Place the salmon on a tray and refrigerate uncovered in the fridge for 6 hours so it dries out a bit."
+      ]
+    },
+    {
+      "heading": "Roasted & Marinated Peppers",
+      "steps": [
+        "Split the peppers lengthwise and remove the seeds and core. Place on an oven tray and blacken the skins under the broiler.",
+        "Place the burnt peppers in a container with a lid for at least 10 minutes so the steam loosens the skin. Remove the skin and cut the flesh into a small dice.",
+        "Season with the olive oil, vinegar, salt and pepper."
+      ]
+    },
+    {
+      "heading": "Confit Tomatoes",
+      "steps": [
+        "Cut a small x into the bottom of the tomatoes, blanch for 20 seconds in boiling water then transfer to an ice bath.",
+        "Peel the skin off the tomatoes, the small x cut should make this easy, and place in a small ovenproof dish with the remaining ingredients.",
+        "Cover and place in the oven set to 200°C (400°F) for 1 hour.",
+        "Remove from oven, drain the oil and allow to cool.",
+        "Chop tomatoes into a fine dice and season with salt and pepper to taste."
+      ]
+    },
+    {
+      "heading": "Guacamole",
+      "steps": [
+        "Dice avocados and place in a bowl.",
+        "Zest and juice the limes and stir through the avocado.",
+        "Season with salt and pepper to taste."
+      ]
+    },
+    {
+      "heading": "Salsa Verde",
+      "steps": [
+        "Rinse all the herbs in water and pat dry.",
+        "Add half of the olive oil and all the remaining ingredients to a blender.",
+        "Blitz and slowly add the remaining olive oil until the purée becomes smooth. Do not over blitz; it's best to use the pulse function.",
+        "Season with salt and pepper to taste and cool in the fridge."
+      ]
+    },
+    {
+      "heading": "To Serve",
+      "steps": [
+        "For each portion of tartare being served, you will need around 80g of salmon, 1 Tbsp of the marinated peppers and 1 Tbsp of the confit tomatoes.",
+        "Dice the salmon and mix with the measured quantities of tomatoes and peppers in a bowl.",
+        "Add a sprinkle of chopped chives, a squirt of good olive oil and a little salt and pepper if necessary.",
+        "Layer and smooth out 1½ Tbsp of the guacamole into a ring mold on a serving plate.",
+        "Layer the salmon mixture into ring mold on top of the guacamole and smooth it out evenly.",
+        "Spoon ½ Tbsp of the salsa verde around the tartare on the plate. If it is too dense, stir in a little more olive oil first.",
+        "Top with some micro greens as a garnish and serve with crostini on the side."
+      ]
+    }
+  ]
+}

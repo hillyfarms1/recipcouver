@@ -1,0 +1,46 @@
+{
+  "id": "village-table-house-salad",
+  "restaurant": "The Village Table",
+  "heroImage": "village-table-house-salad.jpg",
+  "title": "House Salad",
+  "book": "The North Shore Foodie",
+  "notes": "The house salad we build for our guests at The Village Table delivers a fresh, wholesome meal by incorporating organic mixed greens, quality cheese, locally sourced tomatoes and maple glazed almonds, tossed with our Honey & Beet Vinaigrette. The dressing is pure, sweet and unique. It is now bottled and available to purchase at your request. At The Village Table, we offer 3 varieties of protein to complement the salad. Our favourite pairing is with the blackened salmon. The sweet dressing complements the VT blackening spice on the salmon, producing a light savoury feast. There are different ways to glaze almonds. At The Village Table, we prefer to use a dry pan with high heat. Make sure you keep working the pan to keep the almonds moving. Once they start to brown, drop in the maple syrup and continue to work the pan until the almonds are well coated. Once they are well coated, spread them put on a baking sheet to cool.",
+  "ingredientSections": [
+    {
+      "heading": "Salad",
+      "items": [
+        "160g Organic spring mix",
+        "60g VT Honey & Beet Vinaigrette",
+        "40g Asiago cheese, grated",
+        "40g Maple glazed almond slices",
+        "12 Cherry tomatoes, halved"
+      ]
+    },
+    {
+      "heading": "Maple Glazed Almond Slices",
+      "items": [
+        "1 Cup Almonds, sliced",
+        "2 Tbsp Canadian maple syrup"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Salad",
+      "steps": [
+        "Wash, clean and dry organic spring mix.",
+        "Place in salad bowl with VT house dressing and toss.",
+        "Plate in a pasta bowl.",
+        "Arrange cherry tomatoes around edge of bowl.",
+        "Evenly spread maple almonds & asiago cheese.",
+        "Serve immediately."
+      ]
+    },
+    {
+      "heading": "Almonds",
+      "steps": [
+        "Toss the almonds in maple syrup first, then toast the coated almonds in an oven until they brown."
+      ]
+    }
+  ]
+}

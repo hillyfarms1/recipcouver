@@ -1,0 +1,54 @@
+{
+  "id": "hand-rolled-single-origin-truffles",
+  "restaurant": "East Van Roasters",
+  "heroImage": "hand-rolled-single-origin-truffles.jpg",
+  "title": "Hand-rolled Single-origin Truffles",
+  "book": "The Gastown Foodie",
+  "notes": "This truffle has been a classic at EVR from day one. It's an elegant and delicate truffle that can be enjoyed anytime, for any occasion. It uses EVR house-made single-origin Madagascar chocolate, but if you prefer another EVR single origin chocolate, feel free to experiment. It's important to note that you should use a digital scale to accurately measure the ingredients for consistency and accuracy.",
+  "ingredientSections": [
+    {
+      "heading": "Ganache",
+      "items": [
+        "165ml cream",
+        "43g honey, EVR uses Hives for Humanity honey",
+        "1.7g salt",
+        "220g EVR madagascar chocolate",
+        "33g unsalted butter"
+      ]
+    },
+    {
+      "heading": "Coating",
+      "items": [
+        "300g Madagascar chocolate (for tempering)",
+        "200g natural cocoa powder"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Ganache",
+      "steps": [
+        "Chop the chocolate into roughly pea-size pieces and place in a bowl.",
+        "Cut the butter into 1cm cubes and set aside.",
+        "In a small pot, bring the honey, salt, and cream to a boil briefly and then remove from the heat and pour half directly onto chocolate.",
+        "Give it a quick stir, let it sit for a minute to allow chocolate to melt then stir well to melt as much of the chocolate as possible. It may appear split, but will smooth out once the remaining cream is added.",
+        "Pour the remaining cream into the chocolate and let it sit for another 30 seconds.",
+        "Place the spatula in the centre of the bowl. With the blade never leaving the bottom, stir the chocolate in small concentric circles. The emulsion will start to form and the ganache around the spatula will be shiny and smooth. Proceed stirring in larger circles to incorporate the rest of the cream. Do not over mix the ganache, or the fat will separate and the emulsion will break making the truffle greasy and impossible to work with.",
+        "When fully incorporated, add the butter then blend with an immersion blender or by hand until all the butter has melted. Ensure no air is introduced into the ganache when blending.",
+        "Cover the bowl and allow the ganache to sit overnight in a cool place at room temperature."
+      ]
+    },
+    {
+      "heading": "Coating",
+      "steps": [
+        "Divide the dough into 7 balls. The 7th ball can be used to make a flatbread for the burrata plate, previous page.",
+        "Use a teaspoon or a melon baller to scoop out an even amount of ganache. Wearing latex gloves, roll it into balls. If you have warmer hands, try running them under cold water for a few seconds before starting. Be sure to dry off your hands fully as water will cause chocolate to seize.",
+        "Place the rolled truffles separately on a parchment lined tray and allow to set in a cool dry area for at least a couple hours.",
+        "Sift some cocoa powder onto a cookie tray.",
+        "Melt some chocolate in a bain-marie until it is roughly body temperature. You could also temper the chocolate at this stage for a crisper crunch.",
+        "Wearing latex gloves, place a spoonful of melted chocolate in one hand. Roll a ganache ball around in the chocolate between the palms of your hands. When coated evenly, roll the truffle in the cocoa powder. Once the cookie tray is full of truffles, transfer them to a serving dish or sealable container.",
+        "Alternatively, you can roll the truffles in different coatings. Dried coconut, sesame seeds, icing sugar, chopped nuts, cocoa nibs are great variations."
+      ]
+    }
+  ]
+}

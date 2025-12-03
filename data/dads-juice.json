@@ -1,0 +1,33 @@
+{
+  "id": "dads-juice",
+  "restaurant": "The Juicery Co.",
+  "heroImage": "dads-juice.jpg",
+  "title": "Dad's Juice",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Dad's Juice",
+      "items": [
+        "2 Medium size red beets",
+        "1 Red apple",
+        "6 Medium-sized carrots",
+        "1 Big handful of green kale",
+        "1 Thumb-sized piece of fresh ginger",
+        "1 Thumb-sized piece of fresh turmeric root"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Dad's Juice",
+      "steps": [
+        "Wash all the ingredients well.",
+        "Chop everything into small pieces for your juicer.",
+        "Juice Juice Juice! We suggest a cold-press juicer, but centrifugal juicers work well too. Feel free to email info@thejuiceryco.ca for juicer suggestions.",
+        "Strain the juice to remove any remaining fibre.",
+        "Enjoy! Remember to keep your juice refrigerated."
+      ]
+    }
+  ]
+}

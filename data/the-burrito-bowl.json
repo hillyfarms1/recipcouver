@@ -1,0 +1,120 @@
+{
+  "id": "the-burrito-bowl",
+  "restaurant": "The Juice Truck",
+  "heroImage": "juiceTruck1.jpg",
+  "title": "The Burrito Bowl",
+  "book": "The Plant-based Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Cashew Dressing",
+      "items": [
+        "1 Cup cashews",
+        "1 Cup fresh cilantro",
+        "1 Cup fresh parsley",
+        "⅓ Cup grape seed oil",
+        "Juice and zest of 1 lime",
+        "2 Tbsp Dijon mustard"
+      ]
+    },
+    {
+      "heading": "Spiced Roasted Corn",
+      "items": [
+        "2 Cups corn kernels",
+        "Pinch cayenne pepper",
+        "1 tsp grapeseed oil",
+        "1 tsp garlic powder"
+      ]
+    },
+    {
+      "heading": "Burrito Salsa",
+      "items": [
+        "1 large tomato",
+        "½ Cup fresh cilantro",
+        "½ Cup fresh parsley",
+        "¼ Cup diced onion",
+        "2 cloves garlic",
+        "1 jalapeño",
+        "Juice and zest of 1 lime",
+        "2 Tbsp coconut sugar",
+        "1 tsp cumin"
+      ]
+    },
+    {
+      "heading": "Spanish Rice",
+      "items": [
+        "2 Cups brown rice",
+        "1 Cup black beans (cooked or canned)",
+        "1L water",
+        "1 Cup diced onion",
+        "2 cloves garlic",
+        "Pinch chipotle powder",
+        "Pinch cayenne pepper",
+        "Pinch coconut sugar",
+        "Pinch oregano",
+        "1 lime zest and juice"
+      ]
+    },
+    {
+      "heading": "Roasted Yams",
+      "items": [
+        "1 Cup yams",
+        "1 Tbsp grapeseed oil"
+      ]
+    },
+    {
+      "heading": "Bowl Assembly",
+      "items": [
+        "Spring or salad mix",
+        "Green or purple cabbage"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Cashew Dressing",
+      "steps": [
+        "Soak the cashews in water for at least an hour and then drain.",
+        "Add all ingredients into a blender and blend until smooth, about a minute. Season with salt and pepper to taste."
+      ]
+    },
+    {
+      "heading": "Burrito Salsa",
+      "steps": [
+        "Dice the tomato and onion, roughly chop the cilantro and parsley, mince the garlic and slice the jalapeño finely.",
+        "Mix all the ingredients together in a bowl. Season to taste."
+      ]
+    },
+    {
+      "heading": "Bowl Assembly",
+      "steps": [
+        "Arrange a layer of salad mix in each serving bowl and top with a layer of cabbage.",
+        "Next add the rice, corn and yams.",
+        "Dress with the salsa and cashew dressing."
+      ]
+    },
+    {
+      "heading": "Spanish Rice",
+      "steps": [
+        "Dice the onion and mince the garlic.",
+        "Add all ingredients to a rice cooker and cook on the brown rice setting. Alternatively, bring to a boil in a saucepan, reduce the heat, cover and cook until the liquid has been absorbed and the rice is tender."
+      ]
+    },
+    {
+      "heading": "Roasted Yams",
+      "steps": [
+        "Preheat the oven to 180°C (350°F) and line a baking tray with parchment paper.",
+        "Dice the yams and toss in the oil then spread evenly on the lined tray.",
+        "Bake for 15 minutes until golden brown. Allow to cool before serving."
+      ]
+    },
+    {
+      "heading": "Spiced Roasted Corn",
+      "steps": [
+        "Preheat the oven to 180°C (350°F) and line a baking tray with parchment paper.",
+        "Mix all of the ingredients together in a mixing bowl and then spread out evenly on the lined tray. Sprinkle with salt and pepper.",
+        "Bake for 15 minutes or until golden brown. Allow to cool before serving."
+      ]
+    }
+  ]
+}

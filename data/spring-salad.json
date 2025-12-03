@@ -1,0 +1,104 @@
+{
+  "id": "spring-salad",
+  "restaurant": "Pidgin",
+  "heroImage": "spring-salad.jpg",
+  "title": "Spring Salad",
+  "book": "The Gastown Foodie",
+  "notes": "The PiDGen kitchen team initially designed this salad to feature mackerel. For a staff meal one day, a team member developed an Asian herb tofu marinade and the result was so good, it quickly took the place of the mackerel on the Spring Salad. A great example of experimentation and fusion, obviously this is what PiDGen is all about. Feel free to try experimenting with this recipe, too.",
+  "ingredientSections": [
+    {
+      "heading": "Wasabi-Yogurt Dressing",
+      "items": [
+        "1 egg",
+        "30g wasabi paste",
+        "10g rice wine vinegar",
+        "300g canola oil",
+        "300g natural yoghurt",
+        "Salt & pepper"
+      ]
+    },
+    {
+      "heading": "Tofu Marinade",
+      "items": [
+        "½ bunch cilantro, stalks and all",
+        "½ bunch mint, picked from stems",
+        "½ bunch Thai basil, picked from stems",
+        "1 shallot",
+        "20g ginger",
+        "½ Cup vegetable oil",
+        "Salt & pepper"
+      ]
+    },
+    {
+      "heading": "Quick Pickled Red Cabbage",
+      "items": [
+        "1 small red cabbage",
+        "1 tsp raw sugar",
+        "1 tsp salt",
+        "½ Cup white wine vinegar"
+      ]
+    },
+    {
+      "heading": "Onsen Eggs",
+      "items": [
+        "4 eggs"
+      ]
+    },
+    {
+      "heading": "Spring Salad",
+      "items": [
+        "800g arugula",
+        "160g peas",
+        "160g cucumber",
+        "160g edamame",
+        "800g marinated tofu*",
+        "240g Quick Pickled Red Cabbage*",
+        "4 Onsen Egg (slow-poached egg)*",
+        "Wasabi-Yogurt to finish*"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Wasabi-Yogurt Dressing",
+      "steps": [
+        "Place all the ingredients in a bowl except the yogurt, salt and pepper and whisk together.",
+        "Very slowly at first, add the canola oil, a drizzle at a time, and continue whisking until the mixture emulsifies. You could also use a food processor.",
+        "Fold the yogurt through the creamy dressing and season with salt and pepper to taste. Can be refrigerated for up to 3 days."
+      ]
+    },
+    {
+      "heading": "Tofu Marinade",
+      "steps": [
+        "Slice the tofu into bite-sized cubes.",
+        "Blend, or chop everything else together and pour over the tofu. Allow to marinate for at least 4 hours."
+      ]
+    },
+    {
+      "heading": "Quick Pickled Red Cabbage",
+      "steps": [
+        "Finely slice the red cabbage or use a mandolin.",
+        "In a bowl, mix together all the ingredients really well.",
+        "Allow to marinate for at least 30 minutes, but longer is better."
+      ]
+    },
+    {
+      "heading": "Onsen Eggs",
+      "steps": [
+        "Fill a large pot with lots of water and place over a medium heat. Set the thermometer up in a way that the probe is in the water but you don't need to hold it.",
+        "Monitor the thermometer and adjust the heat accordingly until the water is hovering around 75°C. Have a jug of cold water handy to cool the water if necessary.",
+        "Add the eggs and start a timer. The eggs will reduce the temperature of the water so, again, adjust the heat as necessary.",
+        "Remove the eggs after 15 minutes and place in an ice bath to stop the cooking. Gently break each egg into a bowl. There may be some looser egg whites separate from the cooked part, if so, remove with a spoon or paper towel."
+      ]
+    },
+    {
+      "heading": "Spring Salad",
+      "steps": [
+        "Add the arugula, edamame, peas and finely sliced cucumber to a bowl and toss. Divide the salad into 4 serving bowls.",
+        "Sprinkle some of the pickled cabbage and arrange some of the tofu on top.",
+        "Drizzle with some of the wasabi yogurt dressing.",
+        "Place an onsen egg in the middle."
+      ]
+    }
+  ]
+}

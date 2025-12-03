@@ -1,0 +1,31 @@
+{
+  "id": "the-blue-rose",
+  "restaurant": "The Black Lodge",
+  "heroImage": "theBlackLodge2.jpg",
+  "title": "The Blue Rose",
+  "book": "The Plant-based Foodie",
+  "notes": "Aquafava. Aquafava or aquafaba is the liquid that chickpeas are cooked and canned in. It uncannily mimics egg whites in a number of ways including emulsifying, foaming, binding, gelatinizing and thickening. These properties are put to use in numerous vegan dishes, especially in baking, desserts and, in this case, cocktails. Interestingly these uses were only discovered in 2014 by french musician Joël Roessel and then popularized by an American software developer, named Goose Wohlt, who applied his software background to 'opensource' testing aquafava's uses and recipes by setting up a Facebook group that is still very active today.",
+  "ingredientSections": [
+    {
+      "heading": "The Blue Rose",
+      "items": [
+        "45ml gin",
+        "22ml Bols Blue",
+        "30ml lemon juice",
+        "15ml simple syrup",
+        "45ml aquafava (chickpea water)",
+        "Soda water"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "The Blue Rose",
+      "steps": [
+        "Measure all ingredients, except the soda, into a cocktail shaker full of ice.",
+        "Shake vigorously for 20 seconds.",
+        "Strain into a Collins glass full of ice, top with soda water and a lemon twist."
+      ]
+    }
+  ]
+}

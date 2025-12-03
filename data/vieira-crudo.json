@@ -1,0 +1,32 @@
+{
+  "id": "vieira-crudo",
+  "restaurant": "Cabrito Tapas/Bebidas",
+  "heroImage": "vieira-crudo.jpg",
+  "title": "Vieira Crudo",
+  "book": "The East Van Foodie",
+  "notes": "This recipe combines the nutty flavour of the Jamon Serrano and the white anchovy to create an umami or savoury flavour. This base flavour is built on with almost all the other flavours and textures represented and well balanced. A dash of Vietnamese fish sauce will really enhance the flavour of the Jamon and anchovy. It's not very traditional but mixing cooking styles is a big part of Vancouver's culinary culture.",
+  "ingredientSections": [
+    {
+      "heading": "Vieira Crudo",
+      "items": [
+        "8 Fresh Scallops",
+        "Juice and Zest of 1 Lime",
+        "50ml Extra Virgin Olive Oil",
+        "8 Fillets White Anchovy or Boquerones",
+        "4 thin slices Jamon Serrano",
+        "A few leaves of Arugula to garnish",
+        "Salt and Pepper"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Vieira Crudo",
+      "steps": [
+        "Place the Jamon on an oven tray between two sheets of baking paper and place another baking tray on top, this will keep it flat. Bake for 10-15 minutes at 180°C (350°F) until it's dry and crispy. Don't over cook.",
+        "Slice each scallop into four slices and place them on an attractive plate. Press and roll the lime to soften it and then finely grate its zest and squeeze its juice over the scallops. Drizzle the olive oil over.",
+        "Cut each fillet of anchovy into four and arrange on top of each slice of scallop. Crumble the Jamon into chips and place on top with some arugula. Season with sea salt and fresh ground white pepper, but remember the Jamon and Anchovies are salty."
+      ]
+    }
+  ]
+}

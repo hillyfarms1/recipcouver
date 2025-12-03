@@ -1,0 +1,94 @@
+{
+  "id": "brussels-sprouts",
+  "restaurant": "The Acorn",
+  "heroImage": "brussels-sprouts.jpg",
+  "title": "Brussels Sprouts",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Sweet Onion Puree",
+      "items": [
+        "2 Onions, thinly sliced",
+        "¼ Cup Olive Oil",
+        "¼ Cup Maple Syrup",
+        "Salt & Pepper to taste",
+        "Applewood Chips"
+      ]
+    },
+    {
+      "heading": "Brussels Sprouts and Leeks",
+      "items": [
+        "900g Brussels Sprouts, washed and halved lengthways",
+        "3 Leeks, white parts only, washed and cut into 1 inch rounds",
+        "½ Cup Canola Oil",
+        "½ Cup Water",
+        "Salt & Pepper to taste"
+      ]
+    },
+    {
+      "heading": "Beet Dyed Apple",
+      "items": [
+        "1 Granny Smith Apple, peeled, diced finely",
+        "¼ Cup Beet Juice"
+      ]
+    },
+    {
+      "heading": "Mustard Seed Oil",
+      "items": [
+        "1 Tbsp Brown Mustard Seeds",
+        "1 Tbsp Yellow Mustard Seeds",
+        "½ Cup Olive Oil"
+      ]
+    },
+    {
+      "heading": "Garnish",
+      "items": [
+        "¼ Cup Chestnuts, chopped",
+        "Fennel Fronds"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Sweet Onion Puree",
+      "steps": [
+        "In a large pan heat the olive oil to a medium heat and add the onions, salt and pepper and cook until deeply caramelized.",
+        "Smoke the onion with the applewood chips. See over page for details.",
+        "Once smoked, blend the onion until smooth. Add the maple syrup and continue to blend until fully incorporated into a puree. Set aside."
+      ]
+    },
+    {
+      "heading": "Brussels Sprouts and Leeks",
+      "steps": [
+        "In a large heavy bottomed pan bring half of the oil to a medium/high heat.",
+        "Place brussels sprouts cut side down into the pan and cook until the edges of the sprouts are dark brown.",
+        "Add ¼ cup of water and cover with a lid, cook for 2-3 more minutes.",
+        "Remove the brussels sprouts and set aside.",
+        "Using the same pan, heat the remaining oil back up to a medium/high heat.",
+        "Add leek rounds and cook both sides until the edges are dark brown. Add ¼ cup of water and cover with a lid. Continue cooking for 2 minutes then remove from pan and set aside."
+      ]
+    },
+    {
+      "heading": "Beet Dyed Apple",
+      "steps": [
+        "Combine both ingredients in an airtight container and shake vigorously until the diced apple is well coated. Store in the fridge until ready to use."
+      ]
+    },
+    {
+      "heading": "Mustard Seed Oil",
+      "steps": [
+        "Warm the olive oil to a low heat and add the mustard seeds. Leave on the heat for 15 minutes then pour into a heat proof container. Let sit overnight in the fridge."
+      ]
+    },
+    {
+      "heading": "Assembly",
+      "steps": [
+        "If you are hosting a dinner party all of the above steps can be done before hand. To reheat the brussels sprouts and leeks heat in the oven at 200°C (400°F) and warm through, about 8-10 minutes.",
+        "With a small offset spatula, scoop 1 tablespoon of the onion puree onto the left side of a small plate and smear it across to the right side.",
+        "Place brussels sprouts and leeks on top of the onion puree, sprinkle with a small spoonful of the beet dyed apple and chopped chestnuts.",
+        "Drizzle ½ tablespoon of the mustard seed oil over top and garnish with some fennel frond."
+      ]
+    }
+  ]
+}

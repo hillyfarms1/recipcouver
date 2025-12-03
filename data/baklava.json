@@ -1,0 +1,59 @@
+{
+  "id": "baklava",
+  "restaurant": "Kypriaki Mediterranean Grill",
+  "heroImage": "baklava.jpg",
+  "title": "Baklava",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Baklava",
+      "items": [
+        "1 Cup Walnuts",
+        "½ Cup Almonds",
+        "¼ Cup White sugar",
+        "2 tsp Cinnamon",
+        "3 Sheets Filo pastry",
+        "¼ Cup Butter"
+      ]
+    },
+    {
+      "heading": "Syrup",
+      "items": [
+        "1 Cup White sugar",
+        "1 Cup Cold water",
+        "1 Cinnamon stick",
+        "½ Lemon"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Baklava",
+      "steps": [
+        "Preheat the oven to 150°C (300°F). Finely chop the walnuts and almonds either by hand or in a food processor. Place the nuts, sugar and cinnamon into a mixing bowl and combine together.",
+        "Melt the butter. Lay 1 piece of filo pastry on a clean, flat surface and lightly brush it with melted butter. Add another piece of filo pastry on top of first piece and again brush with butter. Add the third and final piece and repeat.",
+        "Using roughly ½ a cup of the nut mixture, create a long narrow mound about 2cm in from one edge of the filo pastry. Roll the edge over the mound one complete turn fairly tightly. Brush the roll with a bit of melted butter.",
+        "Add another ½ cup of the nut mix along the edge of the roll and roll over again. Again lightly brush the roll with butter.",
+        "Add a third ½ cup of the nut mix in the same fashion. By this time you should be close to the opposite edge of the filo pastry. Brush this edge thoroughly with butter and roll it over the roll and press firmly to seal.",
+        "Cut the baklava roll in half and then half both pieces again to give 4 equal pieces. Brush a baking tray with butter, add the baklava pieces and place in the oven. Turn the tray ¼ turn every 2-3 minutes so that the baklava is baked evenly on all sides.",
+        "When the pastry is golden brown, remove from oven and let cool."
+      ]
+    },
+    {
+      "heading": "Syrup",
+      "steps": [
+        "Combine the sugar and water in a pot on medium heat, stirring regularly until sugar has dissolved. Do not bring to a boil.",
+        "Place the rind from the lemon in the liquid along with the cinnamon stick and let simmer for 2-3 minutes. Set aside to cool."
+      ]
+    },
+    {
+      "heading": "Plating/Storing",
+      "steps": [
+        "When the baklava and sugar mixture have cooled, place baklava into a shallow container or tray. Pour liquid over the baklava until half way up the pieces.",
+        "Let the liquid soak into each piece and then turn over and repeat.",
+        "Serve the baklava on a plate with a few tablespoons of the sugar syrup drizzled over the top. Finish with a sprinkle of the remaining nut mix."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "french-onion-soup",
+  "restaurant": "Café Ça Va",
+  "heroImage": "french-onion-soup.jpg",
+  "title": "French Onion Soup",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "French Onion Soup",
+      "items": [
+        "1½-2kg Onions, sliced",
+        "2 Tbsp Butter",
+        "2 Tbsp Flour",
+        "2 Cups Chicken stock",
+        "4 Cups Beef stock",
+        "2 Tbsp Sherry",
+        "1 tsp Sherry vinegar",
+        "250g Gruyère cheese slices",
+        "20 Croutons"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "French Onion Soup",
+      "steps": [
+        "In a saucepan on a medium heat, melt the butter then add the sliced onions and cook down until golden brown and caramelised.",
+        "Add the flour and cook for 3-4 minutes stirring constantly to make a roux.",
+        "Add both the sherry and sherry vinegar and both stocks and stir over a medium heat for 15-20 minutes. Season to taste.",
+        "Pour the soup into 4 bowls and place croutons on top. Lay the cheese on top and brûlée with a kitchen blow-torch. If you don't have a blow-torch, place the bowls in the oven set to broil until cheese is melted and browned."
+      ]
+    }
+  ]
+}

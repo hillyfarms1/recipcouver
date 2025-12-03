@@ -1,0 +1,32 @@
+{
+  "id": "gambas-al-ajillo",
+  "restaurant": "Bodega On Main",
+  "heroImage": "gambas-al-ajillo.jpg",
+  "title": "Gambas Al Ajillo",
+  "book": "The East Van Foodie",
+  "notes": "Arguably the most common and popular tapas dish in Spain you can't go wrong eating it with a glass of sherry or flute of cava. The garlic infuses into the oil with the zing of the chilli which makes it great to sop up with bread. This recipe can easily be multiplied to serve as a starter.",
+  "ingredientSections": [
+    {
+      "heading": "Gambas Al Ajillo",
+      "items": [
+        "6-8 Cloves Garlic, minced",
+        "Olive Pomace Oil or Canola Oil",
+        "6 Prawns, Spot Prawns if available",
+        "A good pinch of Chili Flakes",
+        "Pinch of Salt",
+        "2 tsp Fino Sherry (Tio Pepe)"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Gambas Al Ajillo",
+      "steps": [
+        "Heat the oil that is about half a centimetre deep in a small fry pan.",
+        "When sizzling hot add the garlic, chillies, salt and sauté the prawns, flipping when the tail starts to turn pink. They won't need long.",
+        "When cooked finish with a splash dry fino sherry and flambe.",
+        "Garnish with micro greens or finely chopped"
+      ]
+    }
+  ]
+}

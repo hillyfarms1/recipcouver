@@ -1,0 +1,96 @@
+{
+  "id": "ravioli-with-ricotta-borage-peas-smoked-lardo",
+  "restaurant": "Ask For Luigi",
+  "heroImage": "ravioli-with-ricotta-borage-peas-smoked-lardo.jpg",
+  "title": "Ravioli With Ricotta, Borage, Peas & Smoked Lardo",
+  "book": "The East Van Foodie",
+  "notes": "Borage is a herbaceous plant with hairy leaves and blue, star-shaped flowers. It might be difficult to source, but a good substitute is wild stinging nettles or spinach. Lardo is cured pork back-fat, it can easily be substituted with smoked bacon.",
+  "ingredientSections": [
+    {
+      "heading": "Dough",
+      "items": [
+        "550g Organic 00 Flour",
+        "200g Whole Eggs",
+        "140g Egg Yolks",
+        "Semolina, for dusting"
+      ]
+    },
+    {
+      "heading": "Onion Confit",
+      "items": [
+        "1 Large Onion",
+        "1 Bay Leaf",
+        "Olive Oil"
+      ]
+    },
+    {
+      "heading": "Ravioli Filling",
+      "items": [
+        "450g Whole Milk Ricotta (minimum 14% milk fat)",
+        "100g Grana Padano Parmesan Cheese, grated",
+        "1 Egg",
+        "¼ tsp Salt",
+        "Ground Pepper, to taste",
+        "Fresh Nutmeg, six swipes on a microplane grater",
+        "450g Borage (see note below)",
+        "30g Confit Onion, drained (see recipe)",
+        "15g Mint Leaves"
+      ]
+    },
+    {
+      "heading": "Pasta Sauce",
+      "items": [
+        "80g Smoked Lardo or bacon (see note below)",
+        "1 Clove Garlic, finely minced",
+        "100g Fresh Peas, blanched",
+        "1 Pinch Chilli Flakes",
+        "20g Butter, cold",
+        "Pecorino Romano, grated",
+        "Salt"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Dough",
+      "steps": [
+        "Sift the flour into the bowl of a heavy duty stand mixer. Add the whole eggs and egg yolks and mix using dough hook, on low speed for five minutes.",
+        "Turn dough out onto a clean work surface and knead an additional five minutes. Wrap the dough tightly in plastic wrap and let rest for at least one hour or overnight for the gluten to fully relax. As a test, the dough shouldn't spring back too quickly when prodded."
+      ]
+    },
+    {
+      "heading": "Onion Confit",
+      "steps": [
+        "Finely dice the onion, place in small pot with one bay leaf and fill with olive oil to cover the onion. Bring to a boil then reduce the heat to a slow simmer and cook gently until onions are completely translucent."
+      ]
+    },
+    {
+      "heading": "Ravioli",
+      "steps": [
+        "Working in batches, roll pasta dough to the thinnest setting on a pasta roller. Cut sheets to fit a ravioli tray and dust with semolina to prevent sticking.",
+        "Place one sheet on top of a ravioli tray, fill each trough with filling, top with another sheet of dough and press down or roll to seal. Turn out of the ravioli tray and place on a semolina dusted tray in refrigerator until ready to cook. Seven ravioli per person is a light main course size."
+      ]
+    },
+    {
+      "heading": "Borage",
+      "steps": [
+        "Bring a pot of water to boil, plunge leaves in for between 30 to 60 seconds to wilt the greens. Remove immediately to a bowl with ice water to stop the cooking process. Once cooled, squeeze water out of greens and finely chop with the mint."
+      ]
+    },
+    {
+      "heading": "Ravioli Filling",
+      "steps": [
+        "In a food processor blitz ricotta, parmesan, egg, nutmeg and seasoning until smooth. Fold in by hand the chopped borage, mint and confit onion."
+      ]
+    },
+    {
+      "heading": "Pasta Sauce",
+      "steps": [
+        "Bring a large pot of water (4-6 litres) to boil and season well with salt (at least 20g).",
+        "Cut lardo or bacon into ½cm thick strips. Render in a large fry pan over a medium heat and pour off all but roughly four tablespoons of the fat. Add garlic and chillies and sauté lightly. Add fresh peas and about 100ml of water to stop cooking process, remove from heat.",
+        "Gently drop the ravioli into the boiling water one at a time and cook for 45 seconds after they start to float. With a slotted spoon remove ravioli from water directly into the fry pan with the lardo and peas.",
+        "Return fry pan to medium-high heat, swirling to prevent the ravioli from sticking. Add butter to finish the sauce and cook until it thickens and gets creamy. Taste and adjust the seasoning. Top with grated Pecorino Romano."
+      ]
+    }
+  ]
+}

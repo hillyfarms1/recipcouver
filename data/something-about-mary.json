@@ -1,0 +1,53 @@
+{
+  "id": "something-about-mary",
+  "restaurant": "Tuc Craft Kitchen",
+  "heroImage": "something-about-mary.jpg",
+  "title": "Something about Mary",
+  "book": "The Gastown Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Rosemary Syrup",
+      "items": [
+        "2 Tbsp rosemary leaves",
+        "½ Cup sugar",
+        "½ Cup water"
+      ]
+    },
+    {
+      "heading": "Something about Mary",
+      "items": [
+        "7ml Green Chartreuse",
+        "Half a sprig of rosemary",
+        "1 tsp fig jam",
+        "Dash of spruce (or similar) bitters",
+        "15ml lime juice",
+        "15ml rosemary syrup",
+        "45ml Pisco",
+        "15ml apricot liqueur",
+        "Ice"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Rosemary Syrup",
+      "steps": [
+        "Roughly chop the rosemary.",
+        "Heat all the ingredients in a small saucepan while stirring until the sugar is dissolved and the mixture is hot.",
+        "Remove from the heat and allow to cool and steep for roughly 30 minutes.",
+        "Strain thoroughly and store in the fridge for up to a few weeks."
+      ]
+    },
+    {
+      "heading": "Something about Mary",
+      "steps": [
+        "Add the Chartreuse to a stemmed rocks glass and stir it around the glass with the sprig of rosemary until the rosemary is thoroughly coated in the Chartreuse. Leave the coated rosemary in the glass and set aside.",
+        "In a cocktail shaker, muddle the jam, bitters, lime juice and Rosemary Syrup together.",
+        "Add the Pisco and apricot liqueur to the cocktail shaker, fill with ice and shake vigorously.",
+        "Carefully light the rosemary on fire, place it back in the glass and allow the Chartreuse to burn for no longer than 30 seconds.",
+        "Strain the shaker into the glass extinguishing the burning rosemary and serve."
+      ]
+    }
+  ]
+}

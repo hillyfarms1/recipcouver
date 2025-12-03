@@ -1,0 +1,94 @@
+{
+  "id": "banana-french-toast",
+  "restaurant": "Heirloom",
+  "heroImage": "heirloom1.jpg",
+  "title": "Banana French Toast",
+  "book": "The Plant-based Foodie",
+  "notes": "Make the blueberry compote, cashew cream and batter the night before and store in the fridge for a really easy gourmet breakfast or brunch the next day.",
+  "ingredientSections": [
+    {
+      "heading": "Blueberry Compote",
+      "items": [
+        "125g B.C. blueberries",
+        "15ml water",
+        "20ml cane sugar",
+        "Zest of ½ lemon",
+        "Pinch rosemary powder (optional)"
+      ]
+    },
+    {
+      "heading": "Cashew Cream",
+      "items": [
+        "250g cashews",
+        "250ml maple syrup",
+        "125ml water",
+        "1 vanilla pod, scraped",
+        "Pinch salt"
+      ]
+    },
+    {
+      "heading": "Cashew Crumble",
+      "items": [
+        "1 Cup cashews"
+      ]
+    },
+    {
+      "heading": "Batter",
+      "items": [
+        "1 banana, very ripe",
+        "750ml almond milk",
+        "1 Tbsp agave syrup",
+        "1 tsp vanilla extract",
+        "60g ground chia seeds",
+        "2 pinches cinnamon",
+        "1 pinch nutmeg",
+        "15g nutritional yeast"
+      ]
+    },
+    {
+      "heading": "Assembly",
+      "items": [
+        "Really good sourdough bread",
+        "Vegan butter",
+        "Lemon wedges",
+        "Maple syrup"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Blueberry Compote",
+      "steps": [
+        "Combine all the ingredients in a saucepan and cook, stirring regularly, until the blueberries have released their juice and a thick liquor has developed."
+      ]
+    },
+    {
+      "heading": "Cashew Cream",
+      "steps": [
+        "Soak the cashews in water overnight.",
+        "Drain the cashews and add to a blender with all remaining ingredients and blend until smooth."
+      ]
+    },
+    {
+      "heading": "Cashew Crumble",
+      "steps": [
+        "Roast the cashews in the oven at 180°C (350°F) for around 5 minutes or until golden.",
+        "Create a crumble by crushing in a pestle and mortar or pulsing lightly in a food processor."
+      ]
+    },
+    {
+      "heading": "Batter",
+      "steps": [
+        "Place all ingredients into a blender and blend until smooth."
+      ]
+    },
+    {
+      "heading": "Assembly",
+      "steps": [
+        "Place the batter in a large bowl. Slice the sourdough. Heat a large heavy frying pan to a medium high heat.",
+        "Soak a slice of bread in the batter. Melt some vegan butter in the pan. Remove the bread from the batter and scrape any excess off before pan frying for 3-5 minutes per side or until golden brown.",
+        "Repeat the process for each slice and serve topped with the blueberry compote, cashew crumble, drizzled with cashew cream and with maple syrup on the side."
+      ]
+    }
+  ]
+}

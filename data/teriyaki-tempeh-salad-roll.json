@@ -1,0 +1,53 @@
+{
+  "id": "teriyaki-tempeh-salad-roll",
+  "restaurant": "Workshop Vegetarian Cafe",
+  "heroImage": "workshop.jpg",
+  "title": "Teriyaki Tempeh Salad Roll",
+  "book": "The Plant-based Foodie",
+  "notes": "Tempeh is fermented soybeans. The beans are partially cooked and dehulled and then spores of a specific type of fungus are added. This mixture is then wrapped and compacted and left to ferment. The spores grow into the fungus and feed on the soybeans and in the process, amongst other things, reduces the phytic acid in them making their minerals more easy to digest. Tempeh originated in Indonesia and was traditionally wrapped in a hibiscus tree leaf that the fungus spores naturally occur on. There are some great local brands, The Workshop uses Alami Foods, and Tempea is another option.",
+  "ingredientSections": [
+    {
+      "heading": "Teriyaki Sauce",
+      "items": [
+        "¼ Cup gluten-free soy sauce",
+        "⅓ Cup maple syrup",
+        "1 tsp minced ginger",
+        "1 tsp minced garlic (optional)",
+        "1 Tbsp brown rice syrup (or just use more maple syrup)"
+      ]
+    },
+    {
+      "heading": "Tempeh Salad Rolls",
+      "items": [
+        "1 packet rice paper",
+        "1 200g packet tempeh",
+        "Lettuce and/or kale",
+        "Carrot",
+        "Cucumber",
+        "Other seasonal salad vegetables as desired"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Teriyaki Sauce",
+      "steps": [
+        "Place all ingredients into a small pan and heat until bubbling.",
+        "Reduce the temperature and simmer for a few minutes until the sauce thickens a bit and evenly coats the back of a spoon. Allow to cool."
+      ]
+    },
+    {
+      "heading": "Tempeh Salad Rolls",
+      "steps": [
+        "Slice the tempeh into finger-sized batons. Heat a splash of oil in a pan, add the tempeh batons and fry on all sides until nicely coloured. Remove from the heat and allow to cool and drain on paper towel.",
+        "Cut the lettuce or kale into bite-size pieces. Slice the carrot and cucumber into very fine sticks.",
+        "Arrange the seared tempeh, chopped vegetables and teriyaki sauce so they are close at hand, and create some space to roll up the rolls.",
+        "Fill a large bowl with warm water and submerge a sheet of rice paper for 4-5 seconds. Lay the wet rice paper on the work surface, no need to shake off excess water.",
+        "Place a piece of tempeh in the middle. Arrange the vegetables neatly in a row on top of the tempeh. Drizzle a spoonful of teriyaki sauce over the fillings.",
+        "By now the excess water on the rice paper should have been absorbed and it should be very soft.",
+        "Fold the rice paper over, in line with the fillings, covering them. Then fold each side in to create an envelope. Finally, roll the fillings toward the lip of the envelope to create a neat package.",
+        "Repeat the process until you have enough rolls; practice makes perfect!"
+      ]
+    }
+  ]
+}

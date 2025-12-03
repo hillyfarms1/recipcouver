@@ -1,0 +1,30 @@
+{
+  "id": "team-zissou",
+  "restaurant": "Guilt & Co",
+  "heroImage": "team-zissou.jpg",
+  "title": "Team Zissou",
+  "book": "The Gastown Foodie",
+  "notes": "Cachaça 51, also known as Brazilian Rum, is a distilled spirit made from sugarcane. It differs from rum in that it is made from fermented sugarcane juice, whereas rum is made from molasses, which is boiled, and reduced sugarcane juice. Cream of coconut is quite different from coconut cream or milk. It is sweetened and quite thick and primarily used for mixing drinks or in desserts. Coco Lopez or Coco Casa are popular brands.",
+  "ingredientSections": [
+    {
+      "heading": "Team Zissou",
+      "items": [
+        "22ml Momokawa Pearl Nigori Sake",
+        "22ml Cachaça 51",
+        "15ml Giffard Banane de Brésil",
+        "15ml cream of coconut",
+        "Black sesame seeds, toasted and crushed"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Team Zissou",
+      "steps": [
+        "Fill a cocktail shaker with ice, measure and add all ingredients and shake.",
+        "Serve up, or, to translate from bar-speak, strain into a glass with a stem.",
+        "Garnish with toasted and crushed black sesame seeds."
+      ]
+    }
+  ]
+}

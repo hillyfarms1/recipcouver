@@ -1,0 +1,32 @@
+{
+  "id": "truffled-chived-popcorn",
+  "restaurant": "End of the Line",
+  "heroImage": "truffled-chived-popcorn.jpg",
+  "title": "Truffled & Chived Popcorn",
+  "book": "The North Shore Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Truffled & Chived Popcorn",
+      "items": [
+        "½ Cup Popcorn",
+        "⅓ Cup Butter",
+        "⅓ Cup Chives",
+        "1 Tbsp Truffle oil",
+        "Pinch Sugar",
+        "Salt and pepper"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Truffled & Chived Popcorn",
+      "steps": [
+        "Finely chop the chives and mix into the melted the butter. Mix through the truffle oil and sugar.",
+        "Pop the popcorn.",
+        "Drizzle the butter mix over the popped corn and mix through thoroughly.",
+        "Grind black pepper and salt over the top to taste."
+      ]
+    }
+  ]
+}

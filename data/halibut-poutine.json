@@ -1,0 +1,89 @@
+{
+  "id": "halibut-poutine",
+  "restaurant": "Fishworks Restaurant",
+  "heroImage": "halibut-poutine.jpg",
+  "title": "Halibut Poutine",
+  "book": "The North Shore Foodie",
+  "notes": "Never leave cooking oil on the heat unattended, monitor its temperature and have a fire blanket nearby.",
+  "ingredientSections": [
+    {
+      "heading": "Garlic Confit",
+      "items": [
+        "1 or 2 Heads of garlic",
+        "Any type of cooking oil or even lard or rendered duck or chicken fat"
+      ]
+    },
+    {
+      "heading": "Roux",
+      "items": [
+        "4 Tbsp Butter",
+        "1 Cup Flour"
+      ]
+    },
+    {
+      "heading": "Gravy",
+      "items": [
+        "1 Cup Cream",
+        "2 Cups Chicken broth",
+        "4 Tbsp Goat cheese",
+        "Salt and paper to taste",
+        "6 Confit garlic cloves"
+      ]
+    },
+    {
+      "heading": "Fries",
+      "items": [
+        "4 Large Kennebec potatoes",
+        "Sunflower oil"
+      ]
+    },
+    {
+      "heading": "Halibut Poutine",
+      "items": [
+        "4, 200g Halibut pieces",
+        "Sundried tomato",
+        "Balsamic reduction",
+        "Confit garlic cloves"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Garlic Confit",
+      "steps": [
+        "Garlic Confit is simply garlic cloves slow cooked in oil or fat until they are soft and spreadable. The caramelized cloves lose the hash garlic flavour and become sweeter. Make a batch and keep covered in the fridge for up to 2 weeks and add to sauces, salads, roasted vegetables or meat.",
+        "Separate and peel 1 or 2 heads of garlic, place in a small saucepan, cover with oil and cook on a low heat for 30-40 minutes or until very soft."
+      ]
+    },
+    {
+      "heading": "Roux",
+      "steps": [
+        "Melt the butter in a saucepan. Add the flour all at once whisking vigorously.",
+        "When the mixture thins and starts to bubble, reduce heat to low and cut back on the whisking. Cook until you smell a toasty aroma then cook 2 minutes more, stirring occasionally."
+      ]
+    },
+    {
+      "heading": "Gravy",
+      "steps": [
+        "Combine the cream and chicken broth in a saucepan and simmer over medium heat until reduced by about a half. Add the goat cheese, a good pinch of salt and pepper, and the garlic confit.",
+        "Stir through the roux and continue simmering, stirring frequently, until sauce is creamy and thickened to your liking."
+      ]
+    },
+    {
+      "heading": "Fries",
+      "steps": [
+        "Wash the potatoes then cut them into sticks. Place in a large bowl and cover with cold water and allow them to soak for 30 minutes.",
+        "Drain off the water, spread out the pototo sticks on paper towel and thoroughly blot them dry.",
+        "Heat a few inches of high smoke point cooking oil (not olive oil) in a heavy pot to 150°C (300°F). In batches depending on how big your saucepan is, carefully cook the potatoes until soft, roughly 4-5 minutes. They should not be brown at this point. You just want to start the cooking process. Remove and drain on new, dry paper towels.",
+        "Increase the heat until the oil reaches 200°C (400°F). Fry the potatoes, in batches if necessary, until the fries are golden and crisp. Remove them from the oil and drain on paper towels. Sprinkle with sea salt."
+      ]
+    },
+    {
+      "heading": "Halibut Poutine",
+      "steps": [
+        "Season the halibut well with salt and pepper. In a fry-pan with a little oil cook each side for 3-5 minutes or until opaque throughout.",
+        "Plate up the fries and halibut, pour over the gravy, top with a few good dollops of goat cheese and garnish with some sundried tomatoes, confit garlic cloves and balsamic reduction."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "herb-and-pumpkin-seed-crunch",
+  "restaurant": "Eternal Abundance",
+  "heroImage": "herb-and-pumpkin-seed-crunch.jpg",
+  "title": "Herb and Pumpkin Seed Crunch",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Herb and Pumpkin Seed Crunch",
+      "items": [
+        "½ Orange Bell Pepper",
+        "½ Yellow Bell Pepper",
+        "1 or 2 Cloves Garlic",
+        "¼ Bunch Cilantro, including stems",
+        "¼ Bunch Parsley, including stems",
+        "6 Tbsp Lemon Juice",
+        "2 tsp Himalayan or Sea Salt",
+        "½ Cup Sunflower Seeds, soaked overnight",
+        "¾ Cups Pumpkin Seeds, soaked overnight",
+        "6 Cups Pumpkin Seeds, soaked overnight (in addition to the above)"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Herb and Pumpkin Seed Crunch",
+      "steps": [
+        "Soak the ¾ Cup portion of pumpkin seeds with the sunflower seeds in water overnight. Strain, rinse and strain well again.",
+        "Separately, soak the 6 Cup portion of the pumpkin seeds in water overnight.",
+        "Combine all ingredients except the 6 Cup portion of pumpkin seeds and blend in a high speed blender until smooth.",
+        "Stir the 6 cups of soaked pumpkin seeds into the resulting blended mix.",
+        "Spread thinly on parchment paper on a dehydrator tray or baking tray, depending on your method of drying.",
+        "If using a dehydrator, dry for 8 hours at 115°C (240°F), then flip and break into big chunks and dehydrate another 12 hours, or until pumpkin seeds are dry.",
+        "If using an oven, dry at 80°C (170°F) for 3-4 hours, then flip, break into big chunks, and dry for another 4-6 hours, or until pumpkin seeds are dry."
+      ]
+    }
+  ]
+}

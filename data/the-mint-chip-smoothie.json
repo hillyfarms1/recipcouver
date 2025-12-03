@@ -1,0 +1,37 @@
+{
+  "id": "the-mint-chip-smoothie",
+  "restaurant": "The Juice Truck",
+  "heroImage": "juiceTruck.jpg",
+  "title": "The Mint Chip Smoothie",
+  "book": "The Plant-based Foodie",
+  "notes": "Hemp Seeds & Hearts. Hemp seeds have been used in different cultures for millennia and are incredibly nutritious and linked to numerous direct health benefits. Hemp seeds usually have the outer fibrous shell intact while hemp hearts have had this removed. As a result, hemp hearts are usually easier to eat but lack the many benefits of the insoluble fibre and minerals found in the shell. Both hemp seeds and hearts are a great source of high-quality protein and essential fatty acids like omega-6 and omega-3. In fact, gram for gram hemp seeds have as much or more protein than beef or lamb. Cacao. Cacao is one of the few foods that truly lives up to the superfood monicker. Cacao nibs have 40 times the antioxidants of blueberries, double the iron of beef, lamb or spinach, more calcium than milk, off the charts levels of magnesium, and full of mood-elevating antidepressant properties. Basically, cacao nibs are as healthy as chocolate is tasty. However, cacao isn’t cocao. Cacao nibs are simply cacao beans that are dried, fermented, winnowed and partially crushed… that’s it. To be turned into chocolate, cacao is turned into cocoa by roasting and something called the ‘Dutch process’, both done to make the bitter cacao more palatable. Unfortunately, this also dramatically reduces beneficial antioxidants and flavanols. So, in summary, eat chocolate, but also eat cacao. Peppermint Oil. Peppermint oil obviously adds the mint flavour to this recipe, but having some in your medicine cabinet or kitchen makes a lot of sense too. It’s a well-known muscle relaxant both when rubbed directly on sore muscles and ingested to reduce stomach cramps. It’s also well known for its sinus clearing ability especially for relieving colds and coughs but also for allergy relief. Peppermint oil is also a great bug repellant on par with commercial repellent but without the toxic chemicals like DEET.",
+  "ingredientSections": [
+    {
+      "heading": "The Mint Chip Smoothie",
+      "items": [
+        "1 frozen banana",
+        "¼ avocado",
+        "½ Cup spinach",
+        "¼ tsp spirulina",
+        "2 medjool dates",
+        "3 sprigs fresh mint",
+        "5 drops peppermint oil",
+        "4 drops vanilla extract",
+        "1 Tbsp hemp seeds",
+        "1 Tbsp cacao nibs",
+        "Almond milk (or your nut milk of choice)"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "The Mint Chip Smoothie",
+      "steps": [
+        "Add all ingredients, except the cacao nibs and almond milk, to a blender.",
+        "Add enough almond milk to bring the total to around 500ml.",
+        "Blend until smooth and creamy.",
+        "Add the cacao nibs and pulse or blend briefly until the nibs are just broken up."
+      ]
+    }
+  ]
+}

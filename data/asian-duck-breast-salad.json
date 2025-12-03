@@ -1,0 +1,65 @@
+{
+  "id": "asian-duck-breast-salad",
+  "restaurant": "Hugos Restaurant",
+  "heroImage": "asian-duck-breast-salad.jpg",
+  "title": "Asian Style Duck Breast Salad",
+  "book": "The North Shore Foodie",
+  "notes": "This pan-seared Brohm Lake duck breast with a sweet ginger, chili and dried apricot glaze on young papaya and daikon slaw with cilantro was inspired by my experiences cooking Muscovy duck in eastern Canada and my travels in Southeast Asia. I love the flavour of the duck, especially cooked medium rare. I thought it would hold up very well to the flavours of southern Thailand. The citrus with the young mango and the sweetness of the apricot complement it nicely. -Chef Ian",
+  "ingredientSections": [
+    {
+      "heading": "Duck",
+      "items": [
+        "Two large size duck breasts or 3 or 4 small ones. You can find Brohm Lake duck in most fine food stores."
+      ]
+    },
+    {
+      "heading": "Sweet Ginger, Chili and Dried Apricot Glaze",
+      "items": [
+        "2 Cups Dried apricots",
+        "2 Tbsp Ginger",
+        "3 Bird's eye chilies",
+        "1 Tbsp Garlic",
+        "1 Cup Brown sugar",
+        "2 Cups Orange juice",
+        "Juice of 1 lime",
+        "1 Cup Mirin",
+        "½ Cup White wine"
+      ]
+    },
+    {
+      "heading": "Papaya and Daikon Salad",
+      "items": [
+        "1 Small Daikon",
+        "1 Medium size Papaya",
+        "1 Mango",
+        "⅓ Cup Lime juice",
+        "1 Tbsp Fish sauce",
+        "1 tsp Cumin",
+        "1 Cup Fresh cilantro, chopped",
+        "1 Tbsp Brown sugar",
+        "½ Red onion"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Sweet Ginger, Chili and Dried Apricot Glaze",
+      "steps": [
+        "Finely chop all the ingredients and add to a saucepan. Cook for roughly 30 minutes at a light boil to thicken the mixture. When at the right consistency, remove from heat and let cool."
+      ]
+    },
+    {
+      "heading": "Papaya and Daikon Salad",
+      "steps": [
+        "Julienne the daikon, papaya, mango and finely chop the cilantro and red onion and mix all together. In a separate bowl, mix the other ingredients to make a sauce. Pour the sauce over the salad and let it marinate for an hour, then strain the excess liquid off."
+      ]
+    },
+    {
+      "heading": "Pan-Seared Duck",
+      "steps": [
+        "With a sharp knife take off any of the silver film from the back of the duck. Score the skin and fat on two angles to make a diamond pattern, being careful not to cut into the meat. Season the breasts well with salt and pepper.",
+        "Pan fry the duck skin side down at a medium to hot heat for 5 or 6 minutes then flip and cook for a further 3 or 4 minutes. Remove from the heat and let rest for 5 minutes."
+      ]
+    }
+  ]
+}

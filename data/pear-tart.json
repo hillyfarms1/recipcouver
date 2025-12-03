@@ -1,0 +1,93 @@
+{
+  "id": "pear-tart",
+  "restaurant": "Thomas Haas Chocolates & Patisserie",
+  "heroImage": "pear-tart.jpg",
+  "title": "Pear Tart",
+  "book": "The North Shore Foodie",
+  "notes": "Kalamansi is a small citrus fruit similar to lime mixed with tangerine. The puree is sold at Filipino grocers. If you can't find it, use lime juice. If you cannot find black currant puree, use one cup of fresh huckleberries or organic blueberries.",
+  "ingredientSections": [
+    {
+      "heading": "Shortbread",
+      "items": [
+        "⅓ Cup Sugar",
+        "¾ Cup Butter unsalted",
+        "Pinch of salt",
+        "1½ Cups + 2 Tbsp All-purpose flour",
+        "1 Egg, beaten, only half of which may be needed"
+      ]
+    },
+    {
+      "heading": "Cassis (Black Currant) Preserve",
+      "items": [
+        "½ Cup Black currant puree",
+        "½ Cup + 2 Tbsp Sugar"
+      ]
+    },
+    {
+      "heading": "Almond Cream",
+      "items": [
+        "¾ Cup + 1 Tbsp (200g) Butter unsalted",
+        "1½ Cups + 2 Tbsp Icing sugar",
+        "1½ Cups Ground almonds",
+        "2 Tbsp Cornstarch",
+        "2 Large Eggs, beaten",
+        "2-3 Tbsp Slivered almonds for garnish",
+        "Cinnamon for dusting"
+      ]
+    },
+    {
+      "heading": "Kalamansi-Poached Pears",
+      "items": [
+        "2⅔ Cups Sugar",
+        "12 Cups Water",
+        "1 Piece Star anise",
+        "2 Vanilla beans, slit lengthwise",
+        "½ Cup Kalamansi puree",
+        "5 Bartlett pears"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Shortbread",
+      "steps": [
+        "Cream together sugar, butter and salt in a bowl. Add flour without over-mixing the dough. Add only enough egg, mixing gently, to hold the dough together. Gather the dough into a ball and flatten, then wrap in plastic wrap and refrigerate for a minimum of 1 hour."
+      ]
+    },
+    {
+      "heading": "Black Currant Preserve",
+      "steps": [
+        "Combine black currant puree and sugar in a pot on medium high heat. Bring to a boil, stir and remove from the heat. Strain through a fine mesh sieve, discard solids and allow to cool before using."
+      ]
+    },
+    {
+      "heading": "Almond Cream",
+      "steps": [
+        "Have all the ingredients at room temperature. Use a stand mixer with a paddle attachment to cream together butter and sugar. Remove the bowl from the mixer.",
+        "Combine ground almonds and cornstarch in another bowl. Alternately add almond mixture and beaten eggs to the butter mixture, stirring just until combined."
+      ]
+    },
+    {
+      "heading": "Kalamansi-Poached Pears",
+      "steps": [
+        "To make the poaching liquid, pour sugar into a heavy pot on medium heat and do not stir. As the sugar begins to caramelize, shake and swirl the pan gently to prevent the sugar from burning in any one spot. Once the sugar has melted into a rich caramel brown, deglaze the pan slowly and carefully with water, as the mixture will splatter. Stir until the sugar is totally dissolved. Add star anise, vanilla beans and kalamansi puree.",
+        "Peel and core pears, add to the poaching liquid, then simmer until tender. Remove from the heat and place a plate over the pears to keep them submerged in the poaching liquid as they cool."
+      ]
+    },
+    {
+      "heading": "To Assemble",
+      "steps": [
+        "Preheat the oven to 165°C (325°F). On a lightly floured surface, roll out shortbread dough into a circle 11½ inches in diameter and ⅛ inch thick. Use it to line a 9in tart pan (with removable bottom). Cut off excess dough and crimp around the edge.",
+        "Pipe or spread black currant jam on the bottom of the tart. Next, pipe or spread a layer of almond cream to within three quarters of the top. Cut poached pears in half, then slice each half horizontally into thick slices. Keeping the slices together, arrange pears on top of almond cream to cover.",
+        "Sprinkle the top with slivered almonds and a dusting of cinnamon. Bake in the oven for 45-60 minutes, or until the centre of the tart is set.",
+        "Remove from the oven."
+      ]
+    },
+    {
+      "heading": "To Serve",
+      "steps": [
+        "Serve the tart at room temperature. Cut into 8 wedges and place each on a warmed serving plate."
+      ]
+    }
+  ]
+}
