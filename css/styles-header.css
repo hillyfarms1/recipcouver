@@ -4,7 +4,7 @@ header > a > img{
 
 :root{
     --indexColorHighLight: ;
-    --indexColorMain: #5bc0eb;
+    --indexColorMain: #646464;
     --indexColorBkGrd: ;
     --indexColorOppst: ;
 
@@ -33,16 +33,44 @@ header > a > img{
         dark 083d77
         */
 
+.padding{
+    height: 200px;
+    background-color: rebeccapurple;
+}
 .heading{
-    height: 78vh;
-    padding: 40px;
     text-align: center;
     color: white;
     font-size: 1.5rem;
     background-color: var(--indexColorMain);
+    width: 100vw;
+    position: relative;
+    height: 40%;
 }
-.heading > img{
-    width: 40%;
+.headingImages{
+    width: 100vw;
+    max-height: 400px;
+    overflow-y: hidden;
+}
+.headingImages > img{
+    width: 100vw;
+    position: relative;
+}
+.heading > h1{
+    position: absolute;
+    z-index: 10;
+    top: 15vw;
+    left: 50%;
+    transform: translate(-50%);
+    margin: 0;
+}
+.heading > h2{
+    position: absolute;
+    z-index: 10;
+    top: 4vw;
+    left: 50%;
+    transform: translate(-50%);
+    margin: 0;
+    font-size: 1rem;
 }
 .indexHeader{
     padding: 10px 30px;
@@ -51,9 +79,8 @@ header > a > img{
     align-items: center;
     background-color: var(--indexColorMain);
     position: sticky;
-    top: -1px;
+    bottom: 0;
     z-index: 10;
-
 }
 .indexHeader > img{
     max-height: 65px;
