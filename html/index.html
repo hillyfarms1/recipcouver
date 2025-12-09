@@ -31,13 +31,13 @@
 
     <main id="indexContainer">
         <form><!--REMOVE THESE IN LINE onchange-->
-            <fieldset>
-                <div class="toggle">
+            <label>Sort by</label>
+            <fieldset class="toggle">         
                     <input type="radio" name="view" value="recipe" id="byRecipe" checked onchange="displayList()">
-                    <label for="byRecipe">Sort By Recipe</label>
+                    <label for="byRecipe">Recipe</label>
                     <input type="radio" name="view" value="restaurant" id="byRest" onchange="displayList()">
-                    <label for="byRest">Sort By Restaurant</label>
-                </div>
+                    <label for="byRest">Restaurant</label>
+                    <img class="filterBtn" src="../images/funnel-filter-svgrepo-com.svg" alt="Foodie Books Logo">
             </fieldset>
             <br>  
 
@@ -79,12 +79,8 @@
             </select>
         </form>
         
-        
-        <div class="padding"></div>
-        
         <div id="listDiv"></div>
 
-        
         <nav class="indexNav">
             <!--<img src="../images/foodiebooksG.svg" alt="Foodie Books Logo">-->
             <div>

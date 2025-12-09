@@ -42,29 +42,33 @@ form{
     object-fit: cover;
     border-radius: 7px;
 }
-
+.filterBtn{
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+  align-self: center;
+  padding: 10px 0 10px 10px;
+}
 /* RADIO TOGGLE STYLING STARTS - https://www.sliderrevolution.com/resources/styling-radio-buttons/*/
 fieldset {
+  padding: 0;
   margin: 0;
-  padding: 2rem;
   box-sizing: border-box;
   display: block;
   border: none;
-  border: solid 1px #CCC;
   min-width: 0;
-  background-color: #FFF;
+  background-color: #ffffff00;
 }
 body:not(:-moz-handler-blocked) fieldset {
   display: table-cell;
 }
 .toggle {
-  margin: 1rem 1rem;
   box-sizing: border-box;
   font-size: 0;
   display: flex;
   flex-flow: row nowrap;
   justify-content: flex-start;
-  align-items: stretch;
+  cursor: pointer;
 }
 .toggle input {
   width: 0;
@@ -74,7 +78,7 @@ body:not(:-moz-handler-blocked) fieldset {
 }
 .toggle input + label {
   margin: 0;
-  padding: 0.75rem 2rem;
+  padding: 0.75rem 1rem;
   box-sizing: border-box;
   position: relative;
   display: inline-block;
@@ -86,6 +90,8 @@ body:not(:-moz-handler-blocked) fieldset {
   text-align: center;
   box-shadow: 0 0 0 rgba(255, 255, 255, 0);
   transition: border-color 0.15s ease-out, color 0.25s ease-out, background-color 0.15s ease-out, box-shadow 0.15s ease-out;
+  cursor: pointer;
+  flex: 1;
   /* ADD THESE PROPERTIES TO SWITCH FROM AUTO WIDTH TO FULL WIDTH */
   /*flex: 0 0 50%; display: flex; justify-content: center; align-items: center;*/
   /* ----- */
@@ -112,16 +118,9 @@ body:not(:-moz-handler-blocked) fieldset {
   outline: solid 1px #535353;
   outline-offset: 0.1rem;
 }
-@media (max-width: 800px) {
-  .toggle input + label {
-    padding: 0.75rem 0.25rem;
-    flex: 0 0 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-}
+
 /* RADIO TOGGLE STYLING ENDS*/
+
 
 
 @media (min-width: 449px) { /*MOBILE FIRST!!!*/
