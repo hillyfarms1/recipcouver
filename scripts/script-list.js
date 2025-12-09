@@ -49,8 +49,8 @@ async function displayList(){
   let htmlByDietList = "";
   const listDiv = document.getElementById("listDiv");
 
-  htmlByDietList += /*html*/ `<h2>"${dietType}" List Sorted By "${viewType}"</h2>
-                              <div class="gridContainer">`;
+  htmlByDietList += /*html*/ `<h2>List Sorted By ${viewType.toUpperCase()}</h2>
+                              <div class="gridContainer">`
                               sortedRecipes.forEach(function(recipe){
                                   htmlByDietList += /*html*/ `<div class="recipeCover">
                                                                 <a href="../html/recipePage.html?id=${recipe.id}">

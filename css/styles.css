@@ -4,6 +4,9 @@ body{
     font-style: normal;
     color: rgb(69, 69, 69)
 }
+h2{
+    font-size: 0.8rem;
+}
 h3{
     font-size: 1.5rem;
 }
