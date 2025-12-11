@@ -53,8 +53,28 @@
     left: 50%;
     transform: translate(-50%);
     margin: 0;
+    font-family: "Ranchers", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 4rem;
+    text-shadow: 0 1px #808d93,
+       	              -1px 0 #cdd2d5,
+       	              -1px 2px #808d93,
+       	              -2px 1px #cdd2d5,
+       	              -2px 3px #808d93,
+       	              -3px 2px #cdd2d5,
+       	              -3px 4px #808d93,
+       	              -4px 3px #cdd2d5,
+       	              -4px 5px #808d93,
+       	              -5px 4px #cdd2d5,
+       	              -5px 6px #808d93,
+       	              -6px 5px #cdd2d5,
+       	              -6px 7px #808d93,
+       	              -7px 6px #cdd2d5,
+       	              -7px 8px #808d93,
+       	              -8px 7px #cdd2d5;
 }
-.heading > h2{
+.heading > p{
     position: absolute;
     z-index: 10;
     top: 25vw;
@@ -64,7 +84,7 @@
     font-size: 1rem;
 }
 .indexNav{
-    padding: 10px 30px;
+    padding: 0 30px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -72,9 +92,20 @@
     position: sticky;
     bottom: 0;
     z-index: 10;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(100%);
+    transition: opacity 300ms ease-in-out, 
+                transform 300ms ease-in-out,
+                visibility 0s 300ms;
 }
-.indexNav > img{
-    max-height: 45px;
+.indexNav.show{
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(1%);
+    transition: opacity 300ms ease-in-out, 
+                transform 300ms ease-in-out,
+                visibility 0s 0s;
 }
 .recipesHeader{
     padding: 20px;
@@ -96,8 +127,8 @@
 }
 .dropMenu{
     position: absolute;
-    top: 73px;
-    right: 20px;
+    top: -173px;
+    left: 20px;
     display: none;
     flex-direction: column;
     gap: 10px;
@@ -127,7 +158,34 @@
 .dropMenu > a:active{
     color: var(--bookColorOppst);
 }
-
+nav > p{
+    color: white;
+    padding-bottom: 10px;
+    margin: 5px;
+    font-family: "Ranchers", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.5rem;
+    text-shadow: 0 1px #808d93,
+       	              -1px 0 #cdd2d5,
+       	              -1px 2px #808d93,
+       	              -2px 1px #cdd2d5,
+       	              -2px 3px #808d93,
+       	              -3px 2px #cdd2d5,
+       	              -3px 4px #808d93,
+       	              -4px 3px #cdd2d5,
+       	              -4px 5px #808d93,
+       	              -5px 4px #cdd2d5,
+       	              -5px 6px #808d93,
+       	              -6px 5px #cdd2d5,
+       	              -6px 7px #808d93,
+       	              -7px 6px #cdd2d5,
+       	              -7px 8px #808d93,
+       	              -8px 7px #cdd2d5;
+}
+.navButtons{
+    display: flex;
+}
 
 
 @media (min-width: 449px) {  /*MOBILE FIRST!!!*/
@@ -135,7 +193,7 @@
     display: flex;
     gap: 10px
 }
-.navButton, .dropMenu, .dropMenu.show{
+.navButtons, .navButton, .dropMenu, .dropMenu.show{
     display: none;
 }
 .navText > a{

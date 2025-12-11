@@ -66,10 +66,24 @@ async function displayList(){
   listDiv.innerHTML = htmlByDietList;
 }
 
+function toggleFilters() {
+  document.querySelector('.otherFilters').classList.toggle('show');
+}
+
+function showNav(){
+  document.addEventListener('scroll', () => {
+    if(window.scrollY > 400){
+      document.querySelector('.indexNav').classList.add('show');
+    }else{
+      document.querySelector('.indexNav').classList.remove('show');
+    }
+  })
+}
 
 // Initialize on page load
 document.addEventListener('DOMContentLoaded', function(){ 
     displayList();
+    showNav();
 });
 
 
