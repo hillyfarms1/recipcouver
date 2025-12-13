@@ -64,11 +64,11 @@ async function displayList(){
                               });
   htmlByDietList += /*html*/ `</div>`;
   listDiv.innerHTML = htmlByDietList;
-}
+};
 
 function toggleFilters() {
   document.querySelector('.otherFilters').classList.toggle('show');
-}
+};
 
 function showNav(){
   document.addEventListener('scroll', () => {
@@ -78,7 +78,7 @@ function showNav(){
       document.querySelector('.indexNav').classList.remove('show');
     }
   })
-}
+};
 
 // Initialize on page load
 document.addEventListener('DOMContentLoaded', function(){ 

@@ -6,7 +6,7 @@
 
     --bookColorHighLight: ;
     --bookColorMain: ;
-    --bookColorBkGrd: ;
+    --bookColorBkGrd: white;
     --bookColorOppst: ;
 }
 
@@ -107,6 +107,12 @@
                 transform 300ms ease-in-out,
                 visibility 0s 0s;
 }
+.indexNavTop{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 20;
+}
 .recipesHeader{
     padding: 20px;
     display: flex;
@@ -120,15 +126,15 @@
     display: block;
 }
 .navButton > img{
-    max-height: 50px;
+    max-height: 40px;
 }
 .navText{
     display: none;
 }
 .dropMenu{
     position: absolute;
-    top: -173px;
-    left: 20px;
+    bottom: 50px;
+    right: 20px;
     display: none;
     flex-direction: column;
     gap: 10px;
@@ -144,10 +150,31 @@
     color: rgb(69, 69, 69);
     font-weight: 600;
 }
-.dropMenu.show{
+.dropMenuTop{
+    top: 40px;
+    right: 20px;
+    text-align: left;
+    font-size: 1rem;
+    position: absolute;
+    display: none;
+    flex-direction: column;
+    gap: 10px;
+    padding: 15px;
+    border-radius: 8px;
+    border: solid 2px;
+    border-color: var(--bookColorHighLight);
+    outline: solid 1px;
+    outline-color: white;
+    box-shadow: 5px 5px var(--bookColorMain);
+    background-color: var(--bookColorBkGrd);
+    text-decoration: none;
+    color: rgb(69, 69, 69);
+    font-weight: 600;
+}
+.dropMenu.show, .dropMenuTop.show{
     display: flex;
 }
-.dropMenu > a{
+.dropMenu > a, .dropMenuTop > a{
     text-decoration: none;
     font-weight: 600;
     color: rgb(69, 69, 69);
@@ -183,10 +210,6 @@ nav > p{
        	              -7px 8px #808d93,
        	              -8px 7px #cdd2d5;
 }
-.navButtons{
-    display: flex;
-}
-
 
 @media (min-width: 449px) {  /*MOBILE FIRST!!!*/
 .navText{
