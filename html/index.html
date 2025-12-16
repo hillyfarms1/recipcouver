@@ -41,13 +41,15 @@
 
     <main id="indexContainer">
         <form>
-            <label>Sort by</label>
-            <fieldset class="toggle">         
-                <input type="radio" name="view" value="recipe" id="byRecipe" checked onchange="displayList()">
-                <label for="byRecipe">Recipe</label>
-                <input type="radio" name="view" value="restaurant" id="byRest" onchange="displayList()">
-                <label for="byRest">Restaurant</label>
-                <button type="button" onclick=toggleFilters()><svg class="filterBtn" fill="#696969" height="30px" width="30px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve">
+            <div class="filter-container">
+                <p class="sortBy">Sort by</p> 
+                <fieldset class="toggle">        
+                    <input type="radio" name="view" value="recipe" id="byRecipe" checked onchange="displayList()">
+                    <label for="byRecipe">Recipe</label>
+                    <input type="radio" name="view" value="restaurant" id="byRest" onchange="displayList()">
+                    <label for="byRest">Restaurant</label>
+                </fieldset>
+            <button type="button" onclick=toggleFilters()><svg class="filterBtn" fill="#696969" height="30px" width="30px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve">
 	                <g>
 	                	<path d="M469.575,0h-82.051c-5.556,0-10.057,4.502-10.057,10.057c0,5.556,4.502,10.057,10.057,10.057h82.051
 	                		c7.322,0,13.278,5.957,13.278,13.278v16.886c0,7.322-5.957,13.278-13.278,13.278h-40.81H184.18
@@ -78,46 +80,51 @@
 	                		 M283.749,339.74c-4.137,34.041-9.03,87.441-9.498,152.145h-25.764c-0.468-64.705-5.361-118.105-9.499-152.145
 	                		c-2.74-22.543-5.463-39.493-7.308-49.944h59.378C289.212,300.246,286.488,317.197,283.749,339.74z"/>
 	                </g>
-                </svg></button>
-            </fieldset>
+                </svg></button> 
+            </div>
             
             <fieldset class="otherFilters">
                 <div class="otherFiltersLayout">
-                    <label for="byDiet">Diet</label>   
-                    <select name="diet" id="byDiet" onchange="displayList()">
-                        <option value="all" selected>Omnivore</option>
-                        <option value="omnivore">Carnivore</option>
-                        <option value="pescatarian">Pescatarian</option>
-                        <option value="vegetarian">Vegetarian</option>
-                        <option value="vegan">Vegan</option>
-                    </select>
-
-                    <label for="byBook">Book</label>   
-                    <select name="book" id="byBook" onchange="displayList()">
-                        <option value="all" selected>All Books</option>
-                        <option value="The North Shore Foodie">The North Shore Foodie</option>
-                        <option value="The East Van Foodie">The East Van Foodie</option>
-                        <option value="The Gastown Foodie">The Gastown Foodie</option>
-                        <option value="The Plant-based Foodie">The Plant-based Foodie</option>
-                    </select>
-
-                    <label for="byDiff">Difficulty</label>   
-                    <select name="difficulty" id="byDiff" onchange="displayList()">
-                        <option value="all" selected>All Difficulties</option>
-                        <option value="easier">Easier</option>
-                        <option value="intermediate">Intermediate</option>
-                        <option value="harder">Harder</option>
-                    </select>
-
-                    <label for="byMeal">Meal</label>   
-                    <select name="meal" id="byMeal" onchange="displayList()">
-                        <option value="all" selected>All Meals</option>
-                        <option value="starter">Starter</option>
-                        <option value="main">Main</option>
-                        <option value="drink">Drink</option>
-                        <option value="dessert">Dessert</option>
-                        <option value="breakfast">Breakfast</option>
-                    </select>
+                    <div class="filter-container">
+                        <label class="sortBy" for="byDiet">Diet</label>   
+                        <select name="diet" id="byDiet" onchange="displayList()">
+                            <option value="all" selected>Omnivore</option>
+                            <option value="omnivore">Carnivore</option>
+                            <option value="pescatarian">Pescatarian</option>
+                            <option value="vegetarian">Vegetarian</option>
+                            <option value="vegan">Vegan</option>
+                        </select>
+                    </div>
+                    <div class="filter-container">
+                        <label class="sortBy" for="byBook">Book</label>   
+                        <select name="book" id="byBook" onchange="displayList()">
+                            <option value="all" selected>All Books</option>
+                            <option value="The North Shore Foodie">The North Shore Foodie</option>
+                            <option value="The East Van Foodie">The East Van Foodie</option>
+                            <option value="The Gastown Foodie">The Gastown Foodie</option>
+                            <option value="The Plant-based Foodie">The Plant-based Foodie</option>
+                        </select>
+                    </div>
+                    <div class="filter-container">
+                        <label class="sortBy" for="byDiff">Difficulty</label>   
+                        <select name="difficulty" id="byDiff" onchange="displayList()">
+                            <option value="all" selected>All Difficulties</option>
+                            <option value="easier">Easier</option>
+                            <option value="intermediate">Intermediate</option>
+                            <option value="harder">Harder</option>
+                        </select>
+                    </div>
+                    <div class="filter-container">
+                        <label class="sortBy" for="byMeal">Meal</label>   
+                        <select name="meal" id="byMeal" onchange="displayList()">
+                            <option value="all" selected>All Meals</option>
+                            <option value="starter">Starter</option>
+                            <option value="main">Main</option>
+                            <option value="drink">Drink</option>
+                            <option value="dessert">Dessert</option>
+                            <option value="breakfast">Breakfast</option>
+                        </select>
+                    </div>
                 </div>
             </fieldset>
         </form>

@@ -10,7 +10,6 @@
 }
 .heroImg{
     width: 100%;
-    border-radius: 8px;
     border: solid 2px;
     border-color: var(--bookColorHighLight);
     outline: solid 1px;
@@ -25,7 +24,6 @@
     outline-color: white;
     box-shadow: 7px 7px var(--bookColorMain);
     padding: 10px;
-    border-radius: 8px;
     margin-bottom: 35px;
     text-transform: capitalize;
     display: grid;
@@ -53,7 +51,6 @@
     outline-color: white;
     box-shadow: -7px -7px var(--bookColorMain);
     padding: 10px;
-    border-radius: 8px;
     margin-bottom: 35px;
 }
 .ingredLst ul{
@@ -80,7 +77,6 @@
     outline-color: white;
     box-shadow: 7px 7px var(--bookColorMain);
     padding: 10px;
-    border-radius: 8px;
 }
 .mthdLstSectName{
     margin-bottom: 5px;    

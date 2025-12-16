@@ -49,16 +49,28 @@ async function displayList(){
   let htmlByDietList = "";
   const listDiv = document.getElementById("listDiv");
 
-  htmlByDietList += /*html*/ `<h2>List Sorted By ${viewType.toUpperCase()}</h2>
-                              <div class="gridContainer">`
+  htmlByDietList += /*html*/ `<div class="gridContainer">`
                               sortedRecipes.forEach(function(recipe){
+                                  let restColor;
+                                  if(recipe.book === "The East Van Foodie"){
+                                      restColor = "#ca0000ff"
+                                  }else if(recipe.book === "The North Shore Foodie"){
+                                      restColor = "#1F431E"
+                                  }else if(recipe.book === "The Plant-based Foodie"){
+                                      restColor = "#f1d500ff"
+                                  }else if(recipe.book === "The Gastown Foodie"){
+                                      restColor = "#700037"
+                                  }else{
+                                      restColor = "#0044ffff"
+                                  }
+
                                   htmlByDietList += /*html*/ `<div class="recipeCover">
                                                                 <a href="../html/recipePage.html?id=${recipe.id}">
+                                                                <img src="../images/${recipe.image}" loading="lazy" class="recipeCoverImg" style="object-position: ${recipe.imgPos}">
                                                                   <div class="recipeCoverHead">
+                                                                    <h4 style="color: ${restColor}">${recipe.restaurant}</h4>
                                                                     <h3>${recipe.title}</h3>
-                                                                    <h4>${recipe.restaurant}</h4>
                                                                   </div>
-                                                                  <img src="../images/${recipe.image}" loading="lazy" class="recipeCoverImg" style="object-position: ${recipe.imgPos}">
                                                                 </a>
                                                               </div>`;
                               });

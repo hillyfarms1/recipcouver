@@ -1,3 +1,34 @@
+:root{
+    --indexColorHighLight: ;
+    --indexColorMain: #646464;
+    --indexColorBkGrd: ;
+    --indexColorOppst: ;
+
+    --bookColorHighLight: red;
+    --bookColorMain: #888888;
+    --bookColorBkGrd: white;
+    --bookColorOppst: ;
+}
+
+/*nsf   light 67BD45
+        dark 1F431E
+
+  gtf   light FBFAE4
+        dark 700037
+
+  evf   highlight FF0000
+        main CE0000
+        background faebd7
+        opposite FEDF04
+
+
+  pbf   main FEDF04    
+        dark F06623 
+  
+  index main 5bc0eb
+        dark 083d77
+        */
+
 body{
     font-family: "DM Sans", sans-serif;
     font-optical-sizing: auto;
@@ -8,12 +39,15 @@ h2{
     font-size: 0.8rem;
 }
 h3{
-    font-size: 1.5rem;
+    font-size: 1.3rem;
 }
 h4{
     font-size: 1rem;
-    margin: 0;
-    padding: 0;
+}
+h3, h4{
+    color: #696969;
+    margin: 10px;
+    text-align: center;
 }
 p{
     margin: 0;
@@ -26,6 +60,9 @@ button{
 	font: inherit;
 	cursor: pointer;
 	outline: inherit;
+}
+a:link {
+  text-decoration: none;
 }
 
 
