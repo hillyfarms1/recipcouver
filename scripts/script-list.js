@@ -1,11 +1,17 @@
+const filterValues = {
+  diet: 'all',
+  book: 'all',
+  difficulty: 'all',
+  meal: 'all'
+};
 
 async function displayList(){
   const recipes = await getRecipeData();  // Wait here until data arrives
   const viewType = document.querySelector('input[name="view"]:checked').value;
-  const dietType = document.querySelector('select[name="diet"]').value;
-  const bookType = document.querySelector('select[name="book"]').value;
-  const diffType = document.querySelector('select[name="difficulty"]').value;
-  const mealType = document.querySelector('select[name="meal"]').value;
+  const dietType = filterValues.diet;
+  const bookType = filterValues.book;
+  const diffType = filterValues.difficulty;
+  const mealType = filterValues.meal;
 
   let sortedRecipes;
 
@@ -79,8 +85,26 @@ async function displayList(){
 };
 
 function toggleFilters() {
-  document.querySelector('.otherFilters').classList.toggle('show');
-};
+  const filtersElement = document.querySelector('.otherFilters');
+  const isOpening = !filtersElement.classList.contains('show');
+  
+  if (isOpening) {
+    // When opening, add show class first
+    filtersElement.classList.add('show');
+    
+    // Then allow overflow after animation completes (300ms)
+    setTimeout(() => {
+      filtersElement.querySelector('div').style.overflow = 'visible';
+    }, 300);
+  } else {
+    // When closing, hide overflow immediately
+    filtersElement.querySelector('div').style.overflow = 'hidden';
+    
+    // Then remove show class
+    filtersElement.classList.remove('show');
+  }
+}
+
 
 function showNav(){
   document.addEventListener('scroll', () => {
@@ -92,13 +116,103 @@ function showNav(){
   })
 };
 
+function initCustomDropdowns() {
+  const dropdowns = document.querySelectorAll('.custom-dropdown');
+  
+  dropdowns.forEach(dropdown => {
+    const button = dropdown.querySelector('.dropdown-button');
+    const menu = dropdown.querySelector('.dropdown-menu');
+    const options = menu.querySelectorAll('button');
+    const dropdownType = button.dataset.dropdown;
+    
+    // Toggle dropdown on button click
+    button.addEventListener('click', function(e) {
+      e.stopPropagation();
+      
+      // Close all other dropdowns
+      document.querySelectorAll('.custom-dropdown').forEach(dd => {
+        if (dd !== dropdown) {
+          dd.classList.remove('open');
+        }
+      });
+      
+      // Toggle this dropdown
+      dropdown.classList.toggle('open');
+    });
+    
+    // Handle option selection
+    options.forEach(option => {
+      option.addEventListener('click', function(e) {
+        e.stopPropagation();
+        
+        const value = this.dataset.value;
+        const text = this.textContent;
+        
+        // Update button text
+        button.querySelector('.dropdown-text').textContent = text;
+        
+        // Update filter value
+        filterValues[dropdownType] = value;
+        
+        // Update selected state
+        options.forEach(opt => opt.classList.remove('selected'));
+        this.classList.add('selected');
+        
+        // Close dropdown
+        dropdown.classList.remove('open');
+        
+        // Refresh the list
+        displayList();
+      });
+    });
+    
+    // Keyboard navigation
+    button.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        dropdown.classList.toggle('open');
+      }
+      if (e.key === 'Escape') {
+        dropdown.classList.remove('open');
+      }
+    });
+    
+    // Navigate options with arrow keys
+    menu.addEventListener('keydown', function(e) {
+      const focusedOption = document.activeElement;
+      const optionsArray = Array.from(options);
+      const currentIndex = optionsArray.indexOf(focusedOption);
+      
+      if (e.key === 'ArrowDown') {
+        e.preventDefault();
+        const nextIndex = (currentIndex + 1) % optionsArray.length;
+        optionsArray[nextIndex].focus();
+      }
+      if (e.key === 'ArrowUp') {
+        e.preventDefault();
+        const prevIndex = (currentIndex - 1 + optionsArray.length) % optionsArray.length;
+        optionsArray[prevIndex].focus();
+      }
+      if (e.key === 'Escape') {
+        dropdown.classList.remove('open');
+        button.focus();
+      }
+    });
+  });
+  
+  // Close dropdowns when clicking outside
+  document.addEventListener('click', function(e) {
+    if (!e.target.closest('.custom-dropdown')) {
+      document.querySelectorAll('.custom-dropdown').forEach(dropdown => {
+        dropdown.classList.remove('open');
+      });
+    }
+  });
+}
+
 // Initialize on page load
 document.addEventListener('DOMContentLoaded', function(){ 
     displayList();
     showNav();
+    initCustomDropdowns();
 });
-
-
-
-
-
