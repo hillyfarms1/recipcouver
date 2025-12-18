@@ -14,48 +14,59 @@ async function displayList(){
   const mealType = filterValues.meal;
 
   let sortedRecipes;
+  const listDiv = document.getElementById("listDiv");
 
   if(viewType === "restaurant"){
     sortedRecipes = recipes.sort((a, b) => {  // First sort by restaurant
-      const restaurantCompare = a.restaurant.localeCompare(b.restaurant);
-          if(restaurantCompare !== 0) return restaurantCompare;
-          return a.title.localeCompare(b.title); // then sort by title
+        const restaurantCompare = a.restaurant.localeCompare(b.restaurant);
+        if(restaurantCompare !== 0) return restaurantCompare;
+        return a.title.localeCompare(b.title); // then sort by title
     });
   }else{
     sortedRecipes = recipes.sort((a, b) => {  // sort by title
-      const recipeCompare = a.title.localeCompare(b.title);
-          if(recipeCompare !== 0) return recipeCompare;
+        const recipeCompare = a.title.localeCompare(b.title);
+        if(recipeCompare !== 0) return recipeCompare;
     });
   };
 
   if(dietType != "all"){
-    sortedRecipes = sortedRecipes.filter(function(recipe){   //sorts by selected diet
-      return dietType === recipe.diet;
+        sortedRecipes = sortedRecipes.filter(function(recipe){   //sorts by selected diet
+        return dietType === recipe.diet;
     })
   };
 
   if(bookType != "all"){
-    sortedRecipes = sortedRecipes.filter(function(recipe){   //sorts by selected book
-      return bookType === recipe.book;
+        sortedRecipes = sortedRecipes.filter(function(recipe){   //sorts by selected book
+        return bookType === recipe.book;
     })
   };
 
-    if(diffType != "all"){
-    sortedRecipes = sortedRecipes.filter(function(recipe){   //sorts by selected difficulty
-      return diffType === recipe.difficulty;
+  if(diffType != "all"){
+        sortedRecipes = sortedRecipes.filter(function(recipe){   //sorts by selected difficulty
+        return diffType === recipe.difficulty;
     })
   };
 
   if(mealType != "all"){
-    sortedRecipes = sortedRecipes.filter(function(recipe){   //sorts by selected meal
-      return mealType === recipe.mealType;
+        sortedRecipes = sortedRecipes.filter(function(recipe){   //sorts by selected meal
+        return mealType === recipe.mealType;
     })
   };
 
-  let htmlByDietList = "";
-  const listDiv = document.getElementById("listDiv");
+  if(sortedRecipes.length === 0){
+        listDiv.innerHTML = ` <div class="no-results">
+                              <img src="../images/restaurant-kitchen-svgrepo-com.svg">
+                              <p>Sorry, no recipes found with these filters.</p>
+                              </div>`;
+        filterSummary(viewType, dietType, bookType, diffType, mealType);
+        return;
+  }
 
-  htmlByDietList += /*html*/ `<div class="gridContainer">`
+  const recipeCount = sortedRecipes.length
+
+  let htmlList = "";
+
+  htmlList += /*html*/ `<div class="gridContainer">`
                               sortedRecipes.forEach(function(recipe){
                                   let restColor;
                                   if(recipe.book === "The East Van Foodie"){
@@ -70,7 +81,7 @@ async function displayList(){
                                       restColor = "#0044ffff"
                                   }
 
-                                  htmlByDietList += /*html*/ `<div class="recipeCover">
+                                  htmlList += /*html*/ `<div class="recipeCover">
                                                                 <a href="../html/recipePage.html?id=${recipe.id}">
                                                                 <img src="../images/${recipe.image}" loading="lazy" class="recipeCoverImg" style="object-position: ${recipe.imgPos}">
                                                                   <div class="recipeCoverHead">
@@ -78,10 +89,58 @@ async function displayList(){
                                                                     <h3>${recipe.title}</h3>
                                                                   </div>
                                                                 </a>
-                                                              </div>`;
+                                                        </div>`;
                               });
-  htmlByDietList += /*html*/ `</div>`;
-  listDiv.innerHTML = htmlByDietList;
+
+  htmlList += /*html*/ `</div>`;
+  listDiv.innerHTML = htmlList;
+
+  filterSummary(viewType, dietType, bookType, diffType, mealType, recipeCount);
+};
+
+function filterSummary(viewType, dietType, bookType, diffType, mealType, recipeCount){
+  
+  let dietSummary;
+  let bookSummary;
+  let diffSummary;
+  let mealSummary;
+
+  if (recipeCount === undefined){
+    recipeCount = 0;
+  }
+
+  if (dietType === "all"){
+    dietSummary = "omnivore";
+  }else if(dietType === "omnivore"){
+    dietSummary = "carnivore";
+  }else{
+    dietSummary = dietType;
+  }
+
+  if (bookType === "all"){
+    bookSummary = "all books";
+  }else{
+    bookSummary = bookType;
+  }
+
+  if (diffType === "all"){
+    diffSummary = "all difficulties";
+  }else{
+    diffSummary = `${diffType} difficulty`;
+  }
+
+  if (mealType === "all"){
+    mealSummary = `${recipeCount} meals`;
+  }else{
+    mealSummary = `${recipeCount} ${mealType.toLowerCase().replace(/\b\w/g, s => s.toUpperCase())}s`;
+  }
+
+  let htmlSummary = "";  
+  const filterSummary = document.querySelector('#filterSummary');
+
+  htmlSummary += /*html*/ `<p class="htmlSummary"><strong>${mealSummary}</strong> that are <strong>${dietSummary}</strong> and <strong>${diffSummary}</strong> from <strong>${bookSummary}</strong> sorted by <strong>${viewType}</strong>.</p>`
+
+  filterSummary.innerHTML = htmlSummary;
 };
 
 function toggleFilters() {

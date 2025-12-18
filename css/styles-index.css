@@ -55,13 +55,27 @@ main{
   display: flex;
   flex-direction: column;
 }
-
+#filterSummary{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin: 0 20px 0 20px;
+  font-size: 0.8rem;
+}
+.no-results{
+  display: flex;
+  text-align: center;
+  margin: 40px 20px 0 20px;
+  font-size: 1.2rem;
+}
+.no-results > img{
+  width: 40px;
+}
 /* CUSTOM DROPDOWN STYLES */
 .custom-dropdown {
   position: relative;
   width: 88%;
 }
-
 .dropdown-button {
   width: 100%;
   height: 40px;
@@ -79,16 +93,13 @@ main{
   font-family: inherit;
   background-color: #f5f5f5;
 }
-
 .dropdown-button:hover {
   background-color: #ececec;;
 }
-
 .dropdown-button:focus {
   outline: 1px solid #696969;
   outline-offset: 2px;
 }
-
 /* Spoon/Ladle arrow */
 .custom-dropdown::after {
   content: '';
@@ -104,11 +115,9 @@ main{
   pointer-events: none;
   transition: transform 0.3s ease;
 }
-
 .custom-dropdown.open::after {
   transform: translateY(-50%) rotate(-90deg);
 }
-
 /* Dropdown Menu */
 .dropdown-menu {
   position: absolute;
@@ -128,19 +137,16 @@ main{
   z-index: 100;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
-
 .custom-dropdown.open .dropdown-menu {
   max-height: 300px;
   opacity: 1;
   overflow-y: auto;
   z-index: 101;
 }
-
 .dropdown-menu li {
   margin: 0;
   padding: 0;
 }
-
 .dropdown-menu button {
   width: 100%;
   padding: 5px;
@@ -153,22 +159,17 @@ main{
   color: #4e4e4e;
   transition: background-color 0.2s ease;
 }
-
 .dropdown-menu button:hover {
   background-color: #ececec;
 }
-
 .dropdown-menu button:focus {
   background-color: #e8e8e8;
   outline: none;
 }
-
 .dropdown-menu button.selected {
   background-color: #696969;
   color: #fff;
 }
-
-
 
 
 /* RADIO TOGGLE STYLING STARTS - https://www.sliderrevolution.com/resources/styling-radio-buttons/*/
