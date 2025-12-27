@@ -59,15 +59,17 @@ async function displayRecipe() {
         let htmlRecipe = "";
         let recipeContainer = document.getElementById('recipeContainer');
 
-        htmlRecipe += /*html*/ `<h3 class="recipeTitle">${recipe.title}</h3>
-                                <h4 class="restaurantTitle">from ${recipe.restaurant}</h4>
+        htmlRecipe += /*html*/ `<div class="recipeHead">
+                                    <h3 class="recipeTitle">${recipe.title}</h3>
+                                    <h4 class="restaurantTitle">from ${recipe.restaurant}</h4>
+                                </div>
                                 <img class="heroImg" src="../images/${recipe.heroImage}">`;
 
         htmlRecipe += /*html*/ `<div class="recipeDetails">
-                                    <p class="tl">${recipesDetails.servingMetric}: ${recipesDetails.serving}</p>
-                                    <p  class="tr">Course: ${recipesDetails.mealType}</p>
-                                    <p class="bl">Difficulty: ${recipesDetails.difficulty}</p>
-                                    <p class="br">Diet: ${recipesDetails.diet}</p>
+                                    <p class="tl"><strong>${recipesDetails.servingMetric}:</strong> ${recipesDetails.serving}</p>
+                                    <p  class="tr"><strong>Course:</strong> ${recipesDetails.mealType}</p>
+                                    <p class="bl"><strong>Difficulty:</strong> ${recipesDetails.difficulty}</p>
+                                    <p class="br"><strong>Diet:</strong> ${recipesDetails.diet}</p>
                                 </div>`;
 
         htmlRecipe += /*html*/ `<div class="ingredLst">`;
@@ -120,6 +122,9 @@ async function headerColor() {
         document.documentElement.style.setProperty('--bookColorHighLight', '#ffff00');
         document.documentElement.style.setProperty('--bookColorBkGrd', '#ffffc8');
         document.documentElement.style.setProperty('--bookColorOppst', '#FF0000');
+        document.querySelectorAll('.navText > a').forEach(link => {
+            link.style.color="#696969";
+        })
     }      
 }
 

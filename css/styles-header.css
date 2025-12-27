@@ -1,7 +1,6 @@
 .heading{
     text-align: center;
     color: white;
-    font-size: 1.5rem;
     background-color: var(--indexColorMain);
     width: 100vw;
     position: relative;
@@ -10,15 +9,18 @@
     width: 100vw;
     max-height: 400px;
     overflow-y: hidden;
+
 }
 .headingImages > img{
     height: 300px;
     position: relative;
 }
+
+
 .heading > h1{
     position: absolute;
     z-index: 10;
-    top: 30vw;
+    top: 120px;
     left: 50%;
     transform: translate(-50%);
     margin: 0;
@@ -46,7 +48,7 @@
 .heading > p{
     position: absolute;
     z-index: 10;
-    top: 25vw;
+    top: 90px;
     left: 50%;
     transform: translate(-50%);
     margin: 0;
@@ -78,12 +80,12 @@
 }
 .indexNavTop{
     position: absolute;
-    top: 10px;
-    right: 10px;
+    top: 20px;
+    right: 20px;
     z-index: 20;
 }
 .recipesHeader{
-    padding: 20px;
+    padding: 0 30px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -102,57 +104,46 @@
 }
 .dropMenu{
     position: absolute;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 30px;
+    text-decoration: none;
+    background-color: #696969;
+    font-weight: 600;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(1%);
+    transition: opacity 300ms ease-in-out, 
+                transform 300ms ease-in-out,
+                visibility 0s 300ms;
+}
+.dropMenu.show{
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(5%);
+    transition: opacity 300ms ease-in-out, 
+                transform 300ms ease-in-out,
+                visibility 0s 0s;
+}.dropMenuBottom{ 
     bottom: 50px;
     right: 20px;
-    display: none;
-    flex-direction: column;
-    gap: 10px;
-    padding: 15px;
-    border-radius: 8px;
-    border: solid 2px;
-    border-color: var(--bookColorHighLight);
-    outline: solid 1px;
-    outline-color: white;
-    box-shadow: 5px 5px var(--bookColorMain);
-    background-color: var(--bookColorBkGrd);
-    text-decoration: none;
-    color: rgb(69, 69, 69);
-    font-weight: 600;
+    border-radius: 2px;
 }
 .dropMenuTop{
-    top: 40px;
-    right: 20px;
+    top: 30px;
+    right: 10px;
     text-align: left;
     font-size: 1rem;
-    position: absolute;
-    display: none;
-    flex-direction: column;
-    gap: 10px;
-    padding: 15px;
-    border-radius: 8px;
-    border: solid 2px;
-    border-color: var(--bookColorHighLight);
-    outline: solid 1px;
-    outline-color: white;
-    box-shadow: 5px 5px var(--bookColorMain);
-    background-color: var(--bookColorBkGrd);
-    text-decoration: none;
-    color: rgb(69, 69, 69);
-    font-weight: 600;
+    border-radius: 2px;
 }
-.dropMenu.show, .dropMenuTop.show{
-    display: flex;
-}
-.dropMenu > a, .dropMenuTop > a{
+.dropMenu > a{
     text-decoration: none;
     font-weight: 600;
-    color: rgb(69, 69, 69);
+    color: white;
 }
 .dropMenu > a:hover{
-    color: rgb(0, 0, 0);
-}
-.dropMenu > a:active{
-    color: var(--bookColorOppst);
+    background-color: rgba(111, 255, 0, 0.288);
 }
 nav > p{
     color: white;
@@ -161,7 +152,7 @@ nav > p{
     font-family: "Ranchers", sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     text-shadow: 0 1px #808d93,
        	              -1px 0 #cdd2d5,
        	              -1px 2px #808d93,
@@ -199,5 +190,46 @@ nav > p{
 .navText > a:active{
     color: rgb(255, 247, 0);
 }
+.indexNavTop{
+    background-color: rgba(0, 0, 0, 0.318);
+    padding: 15px 7vw 15px 90vw;
+    top: 0;
+    right: 0;
+}
 }
 
+
+@media (min-width: 780px) {  /*MOBILE FIRST!!!*/
+.headingImages > img{
+    height: 600px;
+    position: relative;
+}
+.heading > h1{
+    font-size: 5rem;
+}
+.heading > p{
+    font-size: 1.2rem;
+}  
+}
+
+@media (min-width: 1000px) {  /*MOBILE FIRST!!!*/
+.recipesHeader{
+    padding: 0 20vw;
+}
+}
+
+
+
+@media (min-width: 1560px) {  /*MOBILE FIRST!!!*/
+.headingImages > img{
+    height: 800px;
+    position: relative;
+    object-position: 0 -150px;
+}
+.heading > h1{
+    font-size: 6rem;
+}
+.heading > p{
+    font-size: 1.5rem;
+}    
+}

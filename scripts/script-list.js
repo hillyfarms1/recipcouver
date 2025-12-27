@@ -138,7 +138,7 @@ function filterSummary(viewType, dietType, bookType, diffType, mealType, recipeC
   let htmlSummary = "";  
   const filterSummary = document.querySelector('#filterSummary');
 
-  htmlSummary += /*html*/ `<p class="htmlSummary"><strong>${mealSummary}</strong> that are <strong>${dietSummary}</strong> and <strong>${diffSummary}</strong> from <strong>${bookSummary}</strong> sorted by <strong>${viewType}</strong>.</p>`
+  htmlSummary = /*html*/ `<p class="htmlSummary"><strong>${mealSummary}</strong> that are <strong>${dietSummary}</strong> and <strong>${diffSummary}</strong> from <strong>${bookSummary}</strong> sorted by <strong>${viewType}</strong>.</p>`
 
   filterSummary.innerHTML = htmlSummary;
 };
@@ -163,17 +163,6 @@ function toggleFilters() {
     filtersElement.classList.remove('show');
   }
 }
-
-
-function showNav(){
-  document.addEventListener('scroll', () => {
-    if(window.scrollY > 400){
-      document.querySelector('.indexNav').classList.add('show');
-    }else{
-      document.querySelector('.indexNav').classList.remove('show');
-    }
-  })
-};
 
 function initCustomDropdowns() {
   const dropdowns = document.querySelectorAll('.custom-dropdown');
@@ -269,9 +258,43 @@ function initCustomDropdowns() {
   });
 }
 
+function initResetButton() {
+  const resetBtn = document.querySelector('button:has(.reset)');
+  
+  if (resetBtn) {
+    resetBtn.addEventListener('click', () => {
+      // Reset the global filterValues object
+      filterValues.diet = 'all';
+      filterValues.book = 'all';
+      filterValues.difficulty = 'all';
+      filterValues.meal = 'all';
+      
+      // Reset each dropdown's UI
+      document.querySelectorAll('.custom-dropdown').forEach(dropdown => {
+        const button = dropdown.querySelector('.dropdown-button');
+        const dropdownType = button.dataset.dropdown;
+        const options = dropdown.querySelectorAll('.dropdown-menu button');
+        
+        // Find and select the "all" option
+        options.forEach(opt => {
+          if (opt.dataset.value === 'all') {
+            opt.classList.add('selected');
+            button.querySelector('.dropdown-text').textContent = opt.textContent;
+          } else {
+            opt.classList.remove('selected');
+          }
+        });
+      });
+      // Refresh the display
+      displayList();
+    });
+  }
+}
+
 // Initialize on page load
 document.addEventListener('DOMContentLoaded', function(){ 
     displayList();
     showNav();
     initCustomDropdowns();
+    initResetButton();
 });

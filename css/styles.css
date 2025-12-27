@@ -1,11 +1,11 @@
 :root{
     --indexColorHighLight: ;
-    --indexColorMain: #646464;
+    --indexColorMain: #696969;
     --indexColorBkGrd: ;
     --indexColorOppst: ;
 
     --bookColorHighLight: red;
-    --bookColorMain: #888888;
+    --bookColorMain: #696969;
     --bookColorBkGrd: white;
     --bookColorOppst: ;
 }
@@ -45,9 +45,7 @@ h4{
     font-size: 1rem;
 }
 h3, h4{
-    color: #696969;
-    margin: 10px;
-    text-align: center;
+    color: #696969;    
 }
 p{
     margin: 0;

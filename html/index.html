@@ -23,10 +23,14 @@
   
     <header class="heading">
         <nav class="indexNavTop">
-            <button id="navButtonTop" class="navButton" onclick="dropDownMenuTop()">
+            <button id="navButtonTop" class="navButton" onclick="dropMenuTop()">
               <img src="../images/fast-food-burger-svgrepo-com.svg">
             </button>
-            <div class="dropMenuTop">
+            <div class="dropMenuTop dropMenu">
+                <a href="../html/about.html">About</a>
+                <a href="../html/blog.html">Blog</a>
+            </div>
+            <div class="navText">
                 <a href="../html/about.html">About</a>
                 <a href="../html/blog.html">Blog</a>
             </div>
@@ -49,16 +53,17 @@
                     <input type="radio" name="view" value="restaurant" id="byRest" onchange="displayList()">
                     <label for="byRest">Restaurant</label>
                 </fieldset>
-            <button type="button" onclick=toggleFilters()><svg class="filterBtn" fill="#696969" height="30px" width="30px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve">
-	                <g>
+                <div class="filterBtn">
+                    <button type="button" onclick=toggleFilters()><svg class="filterIcon" fill="#696969" height="30px" width="30px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve">
+	                        <g>
 	                	<path d="M469.575,0h-82.051c-5.556,0-10.057,4.502-10.057,10.057c0,5.556,4.502,10.057,10.057,10.057h82.051
 	                		c7.322,0,13.278,5.957,13.278,13.278v16.886c0,7.322-5.957,13.278-13.278,13.278h-40.81H184.18
 	                		c-5.556,0-10.057,4.502-10.057,10.057c0,5.556,4.502,10.057,10.057,10.057h232.275c-7.721,35.286-22.736,82.027-51.775,123.705
 	                		c-3.175,4.558-2.056,10.826,2.501,14.001c1.753,1.22,3.757,1.808,5.741,1.808c3.178,0,6.307-1.503,8.26-4.309
 	                		c32.088-46.053,47.995-97.569,55.838-135.205h32.555c18.413,0,33.393-14.98,33.393-33.393V33.393
 	                		C502.968,14.98,487.988,0,469.575,0z"/>
-	                </g>
-	                <g>
+	                        </g>
+	                        <g>
 	                	<path d="M340.051,237.419c-12.125,12.535-25.469,23.378-39.699,32.262c0,0-77.947,0-77.964,0
 	                		c-8.192,0-24.985-18.354-30.628-23.574c-40.67-37.624-65.489-88.037-80.106-140.815c-0.118-0.425-0.283-0.827-0.452-1.226
 	                		c-1.763-6.565-3.414-13.36-4.936-20.393h37.685c5.556,0,10.057-4.502,10.057-10.057c0-5.556-4.502-10.057-10.057-10.057H93.971
@@ -79,8 +84,11 @@
 	                		c0.394,0.565,0.78,1.138,1.177,1.699c1.153,1.628,2.328,3.224,3.507,4.814c0.302,0.412,0.595,0.834,0.9,1.24H76.848z
 	                		 M283.749,339.74c-4.137,34.041-9.03,87.441-9.498,152.145h-25.764c-0.468-64.705-5.361-118.105-9.499-152.145
 	                		c-2.74-22.543-5.463-39.493-7.308-49.944h59.378C289.212,300.246,286.488,317.197,283.749,339.74z"/>
-	                </g>
-                </svg></button> 
+	                        </g>
+                        </svg>
+                    </button> 
+                    <span class="filterBtnPopup">Filter Recipes</span>
+                </div>
             </div>
             
             <fieldset class="otherFilters">
@@ -145,6 +153,13 @@
                             </ul>
                         </div>
                     </div>
+                    <div class="filter-container">
+                        <button type="button">
+                            <div class="reset dropdown-button">
+                                <span>Reset filters</span>
+                            </div>
+                        </button>
+                    </div>
                 </div>
             </fieldset>
         </form>
@@ -154,18 +169,18 @@
 
         <nav class="indexNav">
             <p>Recipcouver</p>
-            <div>
+            <div>                
                 <div class="navText">
                     <a href="../html/index.html">Back to top</a>
                     <a href="../html/about.html">About</a>
                     <a href="../html/blog.html">Blog</a>
                 </div>
                 <div>
-                    <button id="navButton" class="navButton" onclick="dropDownMenu()">
+                    <button id="navButton" class="navButton" onclick="dropMenuBottom()">
                     <img src="../images/fast-food-burger-svgrepo-com.svg">
                     </button>
                 </div>
-                <div class="dropMenu">
+                <div class="dropMenuBottom dropMenu">
                     <a href="../html/index.html">Back to top</a>
                     <a href="../html/about.html">About</a>
                     <a href="../html/blog.html">Blog</a>

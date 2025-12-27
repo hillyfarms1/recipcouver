@@ -1,17 +1,45 @@
-function dropDownMenu() {
-  document.querySelector('.dropMenu').classList.toggle('show');
+function dropMenuBottom() {
+  document.querySelector('.dropMenuBottom').classList.toggle('show');
 };
-function dropDownMenuTop() {
+function dropMenuTop() {
   document.querySelector('.dropMenuTop').classList.toggle('show');
 };
 
+function showNav(){
+  document.addEventListener('scroll', () => {
+    if(window.scrollY > 400){
+      document.querySelector('.indexNav').classList.add('show');
+    }else{
+      document.querySelector('.indexNav').classList.remove('show');
+    }
+  })
+};
+
+//closes the drop menus when click is elsewhere
+document.addEventListener('click', e => {
+  if (!e.target.closest('.dropMenu') && !e.target.closest('.navButton')) {
+        const dropMenus = document.querySelectorAll('.dropMenu');
+        dropMenus.forEach(menu => menu.classList.remove('show'));
+  }
+})
+
+//closes the drop menus when screen width changes
 const mediaQuery = window.matchMedia('(min-width: 449px)');
 mediaQuery.addEventListener('change', handleScreenChange);
-function handleScreenChange(e) {
-    const dropMenu = document.getElementById('dropMenu');
-  if (e.matches) {
-    dropMenu.classList.remove('show');
-}};
+function handleScreenChange(e){
+    const dropMenus = document.querySelectorAll('.dropMenu');
+    if (e.matches) {
+        dropMenus.forEach(menu => menu.classList.remove('show'));
+    }
+};
+
+//closes the drop menus on scroll
+document.addEventListener("scroll", handleScrollChange);
+function handleScrollChange(){
+    const dropMenus = document.querySelectorAll('.dropMenu');
+    dropMenus.forEach(menu => menu.classList.remove('show'));
+};
+
 
 function getRecipeData() {
   // Fetch the index file that contains recipe data
@@ -43,25 +71,6 @@ function getRecipeData() {
     });
 }
 
-// Initialize on page load
 document.addEventListener('DOMContentLoaded', function() { 
   handleScreenChange(mediaQuery);
-
 });
-
-// Using onclick in html so don't need this...
-//function dropDownMenu() {
-//  const button = document.getElementById('navButton');
-//  const menu = document.getElementById('dropMenu');
-//
-//    button.addEventListener('click', function(e) {
-//        e.stopPropagation();  //stops the menu immediately closing due to the next listener bc this button is in this document
-//        menu.classList.toggle('show');
-//        });
-//
-//    document.addEventListener('click', function(e) {
-//        if (!menu.contains(e.target) && !button.contains(e.target)) {   //if the click is not on the button or menu then hide
-//            menu.classList.remove('show');
-//        }
-//    });
-//};
