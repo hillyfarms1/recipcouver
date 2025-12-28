@@ -3,8 +3,7 @@ main{
 }
 .aboutContainer{
     margin: 20px;
-    display: flex;
-    flex-direction: column;
+
 }
 .aboutContainer > p{
     padding: 5px;
@@ -15,23 +14,69 @@ main{
 .aboutContainer > h1{
     font-size: 1rem;
 }
+.aboutContainer > div > span{
+    font-size: 0.8rem;
+    margin-bottom: 15px;
+}
+.aboutContainer > div > span > a{
+    color: #696969;
+}
+.book1, .book2{
+    width: 80vw;
+    padding: 15px;
+    box-shadow: 5px 8px 5px #696969;
+    border: solid 1px #696969;
+    border-radius: 2px;
+    margin: 15px 0 15px 0;
+}
+
 @media (min-width: 449px) {
 .aboutContainer{ 
     margin: 10px 40px;
 }
 }
+
+@media (min-width: 600px) {
+.book1{
+    width: 40vw;
+    max-width: 900px; 
+}
+.imgContainer1{    
+    float: left;
+    width: 40vw;
+    margin-right: 60px;
+}
+.book2{
+    width: 80vw;
+    max-width: 900px;  
+}
+.imgContainer2{    
+    width: 80vw;
+    margin-bottom: 15px;
+}
+}
+
 @media (min-width: 800px) {
 .aboutContainer{ 
     margin: 10px 60px;
 }
 }
+
 @media (min-width: 1000px) {  /*MOBILE FIRST!!!*/
-main{
-    display: flex;
-    justify-content: center;
-}
 .aboutContainer{
+    margin: 0 auto;
+    width: 900px;
+}
+.imgContainer1{
     display: flex;
-    max-width: 800px;
+    flex-direction: column;
+    max-width: 400px;
+}
+.book1{
+    max-width: 400px;
+}
+.imgContainer2{
+    display: flex;
+    flex-direction: column;
 }
 }

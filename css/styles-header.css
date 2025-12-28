@@ -94,7 +94,7 @@
 .recipesHeader h1{
     color: white;
     padding-bottom: 10px;
-    margin: 5px;
+    margin: 5px 0;
     font-family: "Ranchers", sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -159,6 +159,14 @@
     text-align: left;
     font-size: 1rem;
     border-radius: 2px;
+}
+.dropMenuRecipes{
+    top: 30px;
+    right: 35px;
+}
+.dropMenuAbout{
+    top: 30px;
+    right: 25px;
 }
 .dropMenu > a{
     text-decoration: none;

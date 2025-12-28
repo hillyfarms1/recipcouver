@@ -102,7 +102,7 @@ async function displayRecipe() {
 } 
 
 
-async function headerColor() {
+async function headerColors() {
 
     const recipe = await getRecipe();
     if (recipe.book == "The East Van Foodie") {
@@ -110,24 +110,28 @@ async function headerColor() {
         document.documentElement.style.setProperty('--bookColorHighLight', '#FF0000');
         document.documentElement.style.setProperty('--bookColorBkGrd', '#faebd7');
         document.documentElement.style.setProperty('--bookColorOppst', '#FEDF04');
+        document.querySelector('.dropMenu').style.backgroundColor = "#CE0000";
     }
     if (recipe.book == "The North Shore Foodie") {
         document.documentElement.style.setProperty('--bookColorMain', '#1F431E');
+        document.querySelector('.dropMenu').style.backgroundColor = "#1F431E";
     }
     if (recipe.book == "The Gastown Foodie") {
         document.documentElement.style.setProperty('--bookColorMain', '#700037');
+        document.querySelector('.dropMenu').style.backgroundColor = "#700037";
     }
     if (recipe.book == "The Plant-based Foodie") {
         document.documentElement.style.setProperty('--bookColorMain', '#FEDF04');
         document.documentElement.style.setProperty('--bookColorHighLight', '#ffff00');
         document.documentElement.style.setProperty('--bookColorBkGrd', '#ffffc8');
         document.documentElement.style.setProperty('--bookColorOppst', '#FF0000');
-        document.querySelectorAll('.navText > a').forEach(link => {
+        document.querySelectorAll('.navText > a, .dropMenu > a').forEach(link => {
             link.style.color="#696969";
         })
+        document.querySelector('.dropMenu').style.backgroundColor = "#FEDF04";
     }      
 }
 
 
 displayRecipe();
-headerColor();
+headerColors();
