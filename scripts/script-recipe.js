@@ -34,7 +34,7 @@ async function getRecipe() {
     }
 
     try {
-        const response = await fetch(`../data/${recipeId}.json`);
+        const response = await fetch(`data/${recipeId}.json`);
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
@@ -63,7 +63,7 @@ async function displayRecipe() {
                                     <h3 class="recipeTitle">${recipe.title}</h3>
                                     <h4 class="restaurantTitle">from ${recipe.restaurant}</h4>
                                 </div>
-                                <img class="heroImg" src="../images/${recipe.heroImage}">`;
+                                <img class="heroImg" src="images/${recipe.heroImage}">`;
 
         htmlRecipe += /*html*/ `<div class="recipeDetails">
                                     <p class="tl"><strong>${recipesDetails.servingMetric}:</strong> ${recipesDetails.serving}</p>

@@ -55,7 +55,7 @@ async function displayList(){
 
   if(sortedRecipes.length === 0){
         listDiv.innerHTML = ` <div class="no-results">
-                              <img src="../images/restaurant-kitchen-svgrepo-com.svg">
+                              <img src="images/restaurant-kitchen-svgrepo-com.svg">
                               <p>Sorry, no recipes found with these filters.</p>
                               </div>`;
         filterSummary(viewType, dietType, bookType, diffType, mealType);
@@ -82,8 +82,8 @@ async function displayList(){
                                   }
 
                                   htmlList += /*html*/ `<div class="recipeCover">
-                                                                <a href="../html/recipePage.html?id=${recipe.id}">
-                                                                <img src="../images/${recipe.image}" loading="lazy" class="recipeCoverImg" style="object-position: ${recipe.imgPos}">
+                                                                <a href="html/recipePage.html?id=${recipe.id}">
+                                                                <img src="images/${recipe.image}" loading="lazy" class="recipeCoverImg" style="object-position: ${recipe.imgPos}">
                                                                   <div class="recipeCoverHead">
                                                                     <h4 style="color: ${restColor}">${recipe.restaurant}</h4>
                                                                     <h3>${recipe.title}</h3>
