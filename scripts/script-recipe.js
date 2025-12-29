@@ -34,7 +34,7 @@ async function getRecipe() {
     }
 
     try {
-        const response = await fetch(`data/${recipeId}.json`);
+        const response = await fetch(`../data/${recipeId}.json`);
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
