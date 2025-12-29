@@ -44,7 +44,7 @@ function handleScrollChange(){
 
 function getRecipeData() {
   // Fetch the index file that contains recipe data
-  return fetch('data/index.json')
+  return fetch('../data/index.json')
     .then(response => response.json())
     .then(indexData => {
       // Transform the index object into an array of recipe objects
