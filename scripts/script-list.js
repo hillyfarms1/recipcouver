@@ -82,7 +82,7 @@ async function displayList(){
                                   }
 
                                   htmlList += /*html*/ `<div class="recipeCover">
-                                                                <a href="html/recipePage.html?id=${recipe.id}">
+                                                                <a href="recipePage.html?id=${recipe.id}">
                                                                 <img src="images/${recipe.image}" loading="lazy" class="recipeCoverImg" style="object-position: ${recipe.imgPos}">
                                                                   <div class="recipeCoverHead">
                                                                     <h4 style="color: ${restColor}">${recipe.restaurant}</h4>
