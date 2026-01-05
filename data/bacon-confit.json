@@ -1,0 +1,66 @@
+{
+  "id": "bacon-confit",
+  "restaurant": "Windsor Meats",
+  "heroImage": "DSC3608.jpg",
+  "title": "Bacon Confit",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Bacon Confit",
+      "items": [
+        "900g Slab Bacon",
+        "Rendered Pork or Duck Fat or Canola Oil"
+      ]
+    },
+    {
+      "heading": "Bacon Appy",
+      "items": [
+        "Pear",
+        "Cambazola Cheese",
+        "Walnuts",
+        "Maple Syrup"
+      ]
+    },
+    {
+      "heading": "Bacon Confit Sliders",
+      "items": [
+        "Slider Buns",
+        "Lettuce",
+        "Tomato",
+        "Greek Yogurt"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Bacon Confit",
+      "steps": [
+        "Preheat oven to 90°C (190°F)",
+        "Place the slab bacon in baking pan that is as close to the same size as the bacon as possible. Add oil to the pan so that the bacon is fully submerged. This step is to ensure you have the right amount of oil.",
+        "Pour the oil out of the baking pan into a saucepan and heat it to 120°C (250°F). Monitoring closely and use an instant read thermometer.",
+        "Carefully pour the hot oil back into the baking pan over the bacon and place in the oven and cook for 6 hours.",
+        "Remove the pan from the oven, carefully remove the bacon from the oil and set on a parchment lined tray. The bacon will be very tender at this point and will want to fall apart.",
+        "When cool, refrigerate until it firms up again. It can be stored in a sealed container in the fridge for up to two weeks."
+      ]
+    },
+    {
+      "heading": "Bacon Appy",
+      "steps": [
+        "Place the cooked and cooled confit bacon slab on a cutting board and cut into 1cm (1/2in) thick 'steaks'.",
+        "Fry in a non-stick frying pan over medium heat for about two minutes per side or until crispy on the outside but soft on the inside.",
+        "Cut into appetizer sized pieces and serve over fresh, thinly sliced pear.",
+        "Top with Cambazola cheese, crushed walnuts and drizzle with maple syrup."
+      ]
+    },
+    {
+      "heading": "Bacon Confit Sliders",
+      "steps": [
+        "Place the cooked and cooled confit bacon slab on a cutting board and cut into 1cm (1/2in) thick 'steaks'.",
+        "Cut each steak into 2 or 3 portions each roughly the size of the slider buns.",
+        "Fry in a non-stick frying pan over medium heat for about two minutes per side or until crispy on the outside but soft on the inside.",
+        "Serve on slider buns with your favourite toppings. We love the BCLT (Bacon Confit Lettuce Tomato) with Greek yogurt."
+      ]
+    }
+  ]
+}

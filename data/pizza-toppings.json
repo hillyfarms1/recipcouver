@@ -1,0 +1,50 @@
+{
+  "id": "pizza-toppings",
+  "restaurant": "Pizzeria Farina",
+  "heroImage": "DSC2656.jpg",
+  "title": "Pizza Toppings",
+  "book": "The East Van Foodie",
+  "notes": "Top your pizzas any way you like. Basil, cherry tomatoes, pistachios, anchovies, oregano, mozzarella, red onion, parmesan, garlic, mushrooms, spicy peppers, and the list goes on. The trick to really good pizza is less quantity and more quality. San Marzano Tomatoes are Plum Tomatoes celebrated by chefs around the world as the best, especially for Italian cooking. They are only grown in the Agro Nocerino Sarnese region, not far from Naples in Italy, on small farm lots usually by aging farmers using traditional practices. The San Marzano name is protected by 'Denominazione di origine controllata' (DOC) rules or 'controlled designation of origin', in a similar way that 'Champagne' not from the Champagne region of France is technically sparkling wine. Unfortunately, there are many fake San Marzano brands, check the label for an ID number, or a D.O.C or D.O.P. logo and genuine San Marzano tomatoes are only sold canned and whole, not crushed or diced.",
+  "ingredientSections": [
+    {
+      "heading": "Tomato Sauce",
+      "items": [
+        "3L San Marzano Tomatoes",
+        "½ tsp Pepper",
+        "3½ tsp Salt",
+        "¼ tsp Chilli Flakes",
+        "1½ tsp Sugar",
+        "4-5 Large Cloves Garlic",
+        "¼ Cup Extra Virgin Olive Oil, good quality"
+      ]
+    },
+    {
+      "heading": "Fennel Sausage",
+      "items": [
+        "450g Ground Pork",
+        "2½ tsp Salt",
+        "1 tsp Fennel Seeds, toasted",
+        "½ tsp Pepper",
+        "1-2 Large Cloves Garlic",
+        "A splash of cold water"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Tomato Sauce",
+      "steps": [
+        "Measure all ingredients and blend together thoroughly ensuring there are no chunks of garlic remaining.",
+        "Keeps in the fridge for up to a week and leftovers are great on pasta."
+      ]
+    },
+    {
+      "heading": "Fennel Sausage",
+      "steps": [
+        "Finely dice the garlic and toast the fennel seeds in a dry pan.",
+        "Mix together all the ingredients with your hands adding a touch of water at a time until you get your desired consistency.",
+        "When placing on a pizza, scatter thumbnail sized pieces to ensure the meat is cooked through in the same time that the dough cooks."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "sang-bia-wiski-bia",
+  "restaurant": "Main Street Brewing Co.",
+  "heroImage": "DSC3641.jpg",
+  "title": "Sang Bia & Wiski Bia",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Sang Bia",
+      "items": [
+        "30ml Passionfruit Puree",
+        "15ml Lime Juice",
+        "15ml Agave Syrup",
+        "2 Dashes Orange Bitters",
+        "30ml Tequila",
+        "Main Street Pilsner"
+      ]
+    },
+    {
+      "heading": "Wiski Bia",
+      "items": [
+        "4-5 Mint Leaves",
+        "30ml Lychee Puree",
+        "15ml Lemon Juice",
+        "15ml Simple Syrup",
+        "45ml Bourbon",
+        "Main Street Naked Fox IPA"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Sang Bia",
+      "steps": [
+        "Fill a pint glass with ice.",
+        "Layer all ingredients in the order listed.",
+        "Top with Main Street Pilsner."
+      ]
+    },
+    {
+      "heading": "Wiski Bia",
+      "steps": [
+        "Build in an ice filled shaker, except for the beer.",
+        "Shake and double strain into ice filled Collins glass.",
+        "Top with Main Street Naked Fox IPA."
+      ]
+    }
+  ]
+}

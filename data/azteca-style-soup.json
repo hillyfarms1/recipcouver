@@ -1,0 +1,88 @@
+{
+  "id": "azteca-style-soup",
+  "restaurant": "Northwest Culinary Academy of Vancouver",
+  "heroImage": "DSC1683.jpg",
+  "title": "Azteca-Style Soup",
+  "book": "The East Van Foodie",
+  "notes": "Mirepoix is a French term for diced vegetables used as a base for stocks, soups, stews and sauces. The vegetables usually are onion, carrot and celery. Most European cultures have their own version of Mirepoix that varies based on cuisine styles and what was traditionally readily available. The Germans have Suppengrün, literally 'soup greens', which would usually be leek, carrot and celeriac. The Italians Soffritto, which means 'lightly cooked', would usually include olive oil, garlic and parsley. Asian mirepoix presents different ingredients that are meant to enhance the flavour of the main event - think ginger, lemongrass, and garlic. Probably the most well-known variant is the 'Holy Trinity' in Cajun cooking which is onion, celery and green bell peppers. The other French term in this recipe, Bouquet Garnis, traditionally is a bundle of herbs tied together and removed before serving, however, it can also be thought of as additional flavours added to complement the base of the soup or stew. Playing around with the Mirepoix and Bouquet Garnis is a great way of adding your style to a dish.",
+  "ingredientSections": [
+    {
+      "heading": "Chicken Stock",
+      "items": [
+        "3 Chicken Drumsticks",
+        "Some Chicken Bones and Feet, rinsed to remove blood",
+        "Salt, 2 good pinches"
+      ]
+    },
+    {
+      "heading": "Stock Mirepoix",
+      "items": [
+        "1/3 Cup Onion, diced finely",
+        "1/3 Cup Celery, diced finely",
+        "1/3 Cup Carrot, diced finely",
+        "2 Cloves Garlic, diced finely"
+      ]
+    },
+    {
+      "heading": "Stock Bouquet Garnis",
+      "items": [
+        "1 Bay Leaf",
+        "Around 5 Parsley Stems",
+        "2 or 3 Thyme sprigs",
+        "8 Peppercorns",
+        "2 Cloves"
+      ]
+    },
+    {
+      "heading": "Soup",
+      "items": [
+        "1 Tbsp Oil",
+        "Chicken Stock, about 3 cups",
+        "Chicken Drumstick, cooked and roughly pulled"
+      ]
+    },
+    {
+      "heading": "Soup Mirepoix",
+      "items": [
+        "¼ Cup each of diced Onion, Carrot, Celery, Bell Pepper, Zucchini, Tomato and Corn Kernels",
+        "1 Small Jalapeno, finely diced",
+        "2 Cloves of Garlic, finely chopped"
+      ]
+    },
+    {
+      "heading": "Soup Bouquet Garnis",
+      "items": [
+        "1/2 tsp each of Cumin, Smoked Paprika"
+      ]
+    },
+    {
+      "heading": "Garnishes",
+      "items": [
+        "Avocado, Tortilla Chips, Grated Monterey Jack Cheese, Lime, Cilantro"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Chicken Stock",
+      "steps": [
+        "Place chicken drumsticks and bones in a pot. Add cold water until it's level is around 4cm above the bones and then add salt.",
+        "Bring to a gentle simmer, do not boil. After several minutes of simmering skim off any foamy scum that forms on the surface.",
+        "Add stock mirepoix and simmer for about 30 minutes, skimming when necessary.",
+        "Add stock, bouquet garnis, and simmer for another 10 minutes. Taste throughout the process to notice how the stock develops.",
+        "Strain, reserve the liquid.",
+        "Remove the meat from the bones and reserve to add to the finished soup."
+      ]
+    },
+    {
+      "heading": "Soup",
+      "steps": [
+        "Sweat the mirepoix in the oil, use a low heat and don't brown; just soften the vegetables.",
+        "Stir in the cumin and paprika, so the spices flavour the oil and penetrate the softened vegetables.",
+        "Add the chicken broth and bring to a simmer. Taste and adjust seasoning throughout the process and skim if necessary.",
+        "Add the cooked chicken meat from the stock, simmer for a few minutes, finish seasoning, and pour into bowls.",
+        "Garnish with tortilla, avocado, cilantro leaves, cheese, and lime."
+      ]
+    }
+  ]
+}

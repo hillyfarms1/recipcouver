@@ -1,0 +1,42 @@
+{
+  "id": "storm-altbier",
+  "restaurant": "Storm Brewing",
+  "heroImage": "DSC9945.jpg",
+  "title": "Storm Altbier",
+  "book": "The East Van Foodie",
+  "notes": "Be sure to adhere to all local, provincial and national regulations and licensing. Use the spent grains for composting, baking and feeding chickens. Malts are cereal grains, like barley, that have been soaked in water so the germination process begins but then dried out before it goes too far and turns into, for example, barley. During germination the barley grains, via enzyme amylase, convert some of their starch into sugar and activate enzymes required for yeast to break down the remaining starch later in the brewing process. Different types of malts impart different colours and flavours to the resulting beer.",
+  "ingredientSections": [
+    {
+      "heading": "Storm Altbier",
+      "items": [
+        "2800L Water",
+        "400kg Pale Malt",
+        "75kg Vienna Malt",
+        "100kg Munich Malt",
+        "5kg Caramunich Malt",
+        "15kg Carastan Malt",
+        "10kg Crystal Malt",
+        "5kg Chocolate Malt",
+        "7.5kg Mt Hood Hops",
+        "German Ale Yeast"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Storm Altbier",
+      "steps": [
+        "Preheat 2800L of water to 70°C.",
+        "Crush all dark malts into a decoction kettle and boil for 90 minutes.",
+        "Crush pale malts into a main mash tun, blend in hot water and the decoction malts to bring the mash mixture to 65°C and let rest for 30 minutes.",
+        "Heat remaining water to 78°C.",
+        "Sparge the mash gently, slowly collecting the wort until a specific gravity of 1.060 is reached.",
+        "Bring the wort to a boil and just as the boil starts add 5kg of the hops.",
+        "Boil for 30 minutes, add the remaining 2.5kg of hops and then boil for a further 30 minutes.",
+        "Cool to room temperature and add the ale yeast.",
+        "Allow to ferment for 2 to 3 weeks.",
+        "Chill and share with 2500 of your closest friends!"
+      ]
+    }
+  ]
+}

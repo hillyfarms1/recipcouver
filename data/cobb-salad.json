@@ -1,0 +1,107 @@
+{
+  "id": "cobb-salad",
+  "restaurant": "Mamie Taylor's",
+  "heroImage": "DSC0766.jpg",
+  "title": "Cobb Salad",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Salad",
+      "items": [
+          "1 head Iceberg Lettuce",
+          "1 head Butter Lettuce",
+          "2 Ripe Tomatoes",
+          "60g Stilton Cheese",
+          "2 Green Onions",
+          "½ Cup Croutons, coarsely chopped",
+          "½ Cup Avocado Ranch Dressing (see below)",
+          "2 Peaches, pickled (see below)",
+          "12 Pieces Confit Pork Belly, about 30g each (see below)",
+          "4 Breaded Soft Poached Eggs (see below)"
+      ]
+    },
+    {
+      "heading": "Avocado Ranch Dressing",
+      "items": [
+          "1 Avocado",
+          "½ Cup Buttermilk",
+          "60ml Apple Cider Vinegar",
+          "1 Clove Garlic",
+          "1 Jalapeno, seeds removed",
+          "1 Tbsp Lemon Juice",
+          "1 tsp Salt"
+      ]
+    },
+    {
+      "heading": "Breaded Soft Poached Eggs",
+      "items": [
+          "6 Eggs, very fresh",
+          "½ Cup Flour",
+          "½ Cup Breadcrumbs",
+          "1 Cup Canola Oil, for frying"
+      ]
+    },
+    {
+      "heading": "Confit Pork Belly",
+      "items": [
+          "450g Smoked Pork Belly or Smoked Slab Bacon",
+          "Vegetable Oil, for frying"
+      ]
+    },
+    {
+      "heading": "Pickled Peaches",
+      "items": [   
+          "2 Peaches, hard and barely ripe",
+          "½ Cup Rice Wine Vinegar",
+          "2 Cloves",
+          "2 Bay Leaves",
+          "1 tsp Salt"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Avocado Ranch Dressing",
+      "steps": [
+          "Place dressing ingredients in a blender and blend until smooth."
+      ]
+    },
+    {
+      "heading": "Breaded Soft Poached Eggs",
+      "steps": [
+          "Bring a saucepan of water to a gentle simmer and add a small splash of vinegar or lemon juice. Create a slow whirlpool in the water by stirring.",
+          "Break an egg into a ramekin or cup and then pour gently, whites first, into the centre of the whirlpool.",
+          "Cook for three minutes or until soft but approaching medium. Remove from water with a slotted spoon and place straight into an ice bath. Repeat with three of the remaining eggs.",
+          "Beat the final two eggs into an egg wash in a bowl. Add the flour and the breadcrumbs to two other bowls.",
+          "Roll each poached egg in the flour, then the egg wash and finally in the breadcrumbs.",
+          "Heat the oil in a small saucepan until hot and fry the breaded eggs for about one minute or until just crispy golden brown."
+      ]
+    },
+    {
+      "heading": "Confit Pork Belly",
+      "steps": [ 
+          "Preheat the oven to 150°C (300°F). Place the pork in a small baking dish and three quarter cover with vegetable oil.",
+          "Place in the oven for about 3 hours. Remove and allow the pork to cool in the oil for at least an hour. Drain the oil and transfer the pork to the fridge.",
+          "When the pork belly has cooled in the fridge for a few hours cut it into roughly one centimetre slices.",
+          "Just before serving the salad sear the pork belly in a hot fry pan until crispy golden brown, about two minutes per side."
+      ]
+    },
+    {
+      "heading": "Pickled Peaches",
+      "steps": [
+          "Remove the stones, cut the peaches into thin wedges and place in a bowl.",
+          "In a small saucepan, bring the vinegar to a simmer with the cloves, bay leaves and salt.",
+          "Pour over the peaches and let sit for at least a few hours."
+      ]
+    },
+    {
+      "heading": "Assembly",
+      "steps": [
+          "Carefully pull the leaves from the lettuce keeping them in large pieces.",
+          "Cut the tomatoes into wedges. In a large mixing bowl dress the lettuce, add the green onions and mix through.",
+          "Arrange the dressed lettuce into four bowls and top each salad with three pieces of seared pork belly, a crisp egg and some peaches, tomatoes, Stilton and croutons. Serve immediately."
+      ]
+    }    
+  ]
+}

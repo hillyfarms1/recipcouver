@@ -1,0 +1,77 @@
+{
+  "id": "cha-ca-hanoi",
+  "restaurant": "The Union",
+  "heroImage": "DSC3385.jpg",
+  "title": "Cha Ca Hanoi",
+  "book": "The East Van Foodie",
+  "notes": "This is a famous dish from a 100 year old restaurant in Hanoi, North Vietnam called Cha Ca La Vong. In fact, it is the only dish they serve. Other restaurants in the area try to tap into their success (and tourist line ups) by adding it to their menus.",
+  "ingredientSections": [
+    {
+      "heading": "Cha Ca Paste",
+      "items": [
+        "2 Tbsp Garlic, minced",
+        "3 Tbsp Ginger, grated",
+        "4 Thai Red Chillies, thinly sliced",
+        "¼ Cup Fish Sauce",
+        "½ Yellow Onion, roughly chopped",
+        "2 Tbsp White Sugar",
+        "1 heaped Tbsp Turmeric Powder",
+        "¾ Cup Canola Oil"
+      ]
+    },
+    {
+      "heading": "Nuoc Cham",
+      "items": [
+        "3 Tbsp Lime Juice",
+        "2 Tbsp Sugar",
+        "½ Cup Water",
+        "2½ Tbsp Fish Sauce",
+        "1 Clove Garlic, minced",
+        "1 or 2 Thai Chillies, thinly sliced"
+      ]
+    },
+    {
+      "heading": "Cha Ca Hanoi",
+      "items": [
+        "700g Oceanwise Pacific Cod, or other firm white fish",
+        "1 bag Thin Rice Vermicelli Noodles",
+        "2¾ Cups Coconut Milk",
+        "1 Serrano Chilli, thinly sliced",
+        "8 heads Baby Bok Choy, sliced lengthwise",
+        "1 Cup Fresh Dill, picked from stem",
+        "1 Cup Fresh Mint, picked from stem",
+        "1 Bunch Cilantro, stems removed",
+        "½ Bunch Green Onions, thinly sliced",
+        "3 Tbsp Lime Juice",
+        "1½ Tbsp Fish Sauce",
+        "Canola Oil"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Cha Ca Paste",
+      "steps": [
+        "Combine everything in a small food processor and blend until smooth."
+      ]
+    },
+    {
+      "heading": "Nuoc Cham",
+      "steps": [
+        "Combine all ingredients making sure sugar is dissolved."
+      ]
+    },
+    {
+      "heading": "Cha Ca Hanoi",
+      "steps": [
+        "Soak the vermicelli noodles in cold water for about an hour. Strain and set aside.",
+        "Cut the cod into 3-4cm (1½in) pieces.",
+        "Heat a large wok or fry pan and add a good splash of oil. Add the cod pieces and sear for about 30 seconds.",
+        "Toss in the Cha Ca Paste and a couple of pinches of salt.",
+        "Add the coconut milk, two good pinches of the fresh dill, the chilli and sliced baby bok choy. Toss thoroughly and then add the strained vermicelli. Mix gently so as not to break up the cod pieces.",
+        "Finish with the lime juice and fish sauce, add more of each if you prefer a greater depth of flavour.",
+        "Using tongs, divide the mixture into four deep bowls. In the centre of each bowl, add a generous amount of the remaining dill, cilantro, mint and green onions. Serve with a small side dish of the Nuoc Cham."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "pizza-dough",
+  "restaurant": "Pizzeria Farina",
+  "heroImage": "DSC2602.jpg",
+  "title": "Pizza Dough",
+  "book": "The East Van Foodie",
+  "notes": "This recipe looks long and complicated but the actual work involved is fairly straight forward and the results are well worth the effort. It's possible to make a perfectly acceptable pizza dough that bakes well in a matter of hours, but to achieve real depth of character and the benefits of fermentation, you'll need to begin making the dough a few days in advance. This will yield a truly exceptional tasting pizza for Sunday dinner.",
+  "ingredientSections": [
+    {
+      "heading": "Friday Evening - 6:00pm",
+      "items": [
+        "336g Bread Flour",
+        "336g Luke Warm Water",
+        "3g Instant Yeast",
+        "5L Container with lid"
+      ]
+    },
+    {
+      "heading": "Saturday Morning - 8:00am",
+      "items": [
+        "700g All Purpose Flour",
+        "389g Cold Water",
+        "12g Olive Oil",
+        "3g Instant Yeast",
+        "20g Salt",
+        "Large Mixing Bowl",
+        "Plastic Wrap"
+      ]
+    },
+    {
+      "heading": "Sunday Evening - 6:00",
+      "items": [
+        "Baking Stone",
+        "Bench Knife",
+        "Wooden Pizza Peel"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Friday Evening - 6:00pm - Total Time 5 Minutes",
+      "steps": [
+        "The first step in mixing a pizza dough is to take a portion of the total flour and water and allow it to ferment for a period of time, this is known as a preferment. Preferments are leavened using either commercial yeast or wild yeasts cultivated from the atmosphere and are classified based on their level of hydration. At Pizzeria Farina, the preferment is a mixture of 1:1 flour to water, designating it as a 'poolish'.",
+        "Measure the water into the 5L container and dissolve the fresh yeast. Next, add the flour and mix until no dry clumps remain. The goal here is to simply combine the ingredients while being careful not to overwork the preferment.",
+        "Cover and set aside at room temperature and allow to ripen overnight."
+      ]
+    },
+    {
+      "heading": "Saturday Morning - 8:00am - Total Time 10 Minutes",
+      "steps": [
+        "By now, the preferment should be active and quite aerated. Begin by measuring the water into the large mixing bowl then add the preferment, olive oil, and yeast which has been dissolved in a bit of water. Using your fingers, gently break up the preferment so that the mixture becomes a clumpy, loosely homogeneous, slurry.",
+        "Add the flour and mix in a stand mixer with a dough hook until no dry clumps remain. At this point, cover the mixing bowl and allow the combined ingredients to rest for a period of 30-60 minutes, this is known as an autolyse. Traditionally, an autolyse is the mixing of water and flour, minus the yeast, olive oil, and preferment, and so this is a slightly modified take on the method. By combining the flour and water and allowing them to rest, the flour is able to achieve full hydration. Enzymes in the flour become activated and will begin breaking down the protein structure present in the flour, turning complex carbohydrates into simple sugars for the yeast to consume. Put simply, incorporating the autolyse method into the mixing method will yield a dough that is easier to handle and shape, with better texture, rise, and flavour.",
+        "Once 30-60 minutes have passed, add the salt and mix in the stand mixer again until it is thoroughly distributed. Place the dough into a wide container and place in the fridge to bulk ferment."
+      ]
+    },
+    {
+      "heading": "Sunday Afternoon - 2:00pm - Total Time 30 Minutes",
+      "steps": [
+        "Now, after 30-34 hours, the dough should be sufficiently developed and ready to be divided and shaped. Remove from the fridge and place onto a generously floured work surface, being careful not to damage the fragile dough. Using a bench knife, portion the dough into loose 300g portions.",
+        "Pre-shaping: Take the left edge of the dough and gently fold it into the centre. Then take the right edge and fold it over the top in a similar fashion. Next, roll the dough forward, tucking the last edge so that it rests underneath the nice clean boule of dough. This is called the seam and it is important that the boules remain seam side down. Continue preshaping the remaining portions, cover with a towel, and allow to rest for 5-10 minutes.",
+        "Shaping: Clean the work surface and lightly flour the tops of each pre-shaped boule. Take one boule and cup it with both hands on the bench. Apply a very moderate downward pressure and begin rotating the boule using a circular motion. As the boule is rotated, it will begin to anchor to the table and its gluten structure will tighten. Ease the pressure back slightly and continue to rotate until it is quite firm.",
+        "If the boule appears flat when released, it means it needs more working. Conversely, if it appears shaggy, it has been overworked. The end result should appear smooth and hold a round spherical shape. Shape the remaining boules, place onto a tray and wrap with plastic. Leave to rise at room temperature until the boules have expanded by 20%, which will take from 20-60 minutes, depending on the temperature of the room. Place the wrapped tray in the fridge."
+      ]
+    },
+    {
+      "heading": "Sunday Evening - 6:00",
+      "steps": [
+        "Place a baking stone into the oven and pre-heat thoroughly to its hottest setting. Remove the dough from the fridge and lightly dust with flour. Dust the top of the pizza peel too. Using a bench knife, gently remove one dough from the tray, taking care to preserve its shape.",
+        "Stretching: Gently poke the middle 80% of the dough which will knock some of the air out of it. Preserve the outer 20%, this will be the pizzas' edge. Lift the dough onto the back of your hands and give one pull, stretching until you feel resistance. Rotate the dough 90 degrees and repeat.",
+        "Place the dough back onto the peel so that flour sticks to the underside and again, lift the dough so that is draped over your dominant hand. Evenly distribute the remaining flour over the peel to prevent sticking. Gently begin pulling the dough over the back of your dominant hand and continue until it is stretched to nearly 12 inches in diameter.",
+        "Garnish the pizza with toppings, see over page, taking care not to splash any sauce onto the pizza peel. Before loading into the oven, give the peel a gentle shake to ensure that the dough has not stuck to the peel.",
+        "Gently ease the pizza onto the baking stone and bake for 6-8 minutes, or until the crust is golden and charred. Cut, serve immediately, and enjoy!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "banga-no-2-and-3",
+  "restaurant": "The Union",
+  "heroImage": "DSC3408.jpg",
+  "title": "Banga No. 2 & 3",
+  "book": "The East Van Foodie",
+  "notes": "Galangal is related to ginger but the two are not interchangeable. Galangal is woodier, its skin is whiter and shinier and it tastes sharp, piney, and has strong citrus notes. Calamansi, or Calamondin, is a citrus hybrid of the mandarin and kumquat and its juice is very sour. Banga means 'jar' in Filipino and The Union Bangas are inspired by the drinks that come in plastic bags and re-purposed jars across Asia. The method of muddling fruit and mixing drinks right in the serving container couldn't be more simple.",
+  "ingredientSections": [
+    {
+      "heading": "Banga #2",
+      "items": [
+        "2 Wedges Tangerine",
+        "2 Wedges Lime",
+        "1 Kaffir Lime Leaf",
+        "1 Piece Galangal, thumbnail sized",
+        "60ml Tequila",
+        "15ml Agave Syrup",
+        "Crushed Ice"
+      ]
+    },
+    {
+      "heading": "Banga #3",
+      "items": [
+        "60ml Bourbon",
+        "1 Orange Peel Swath",
+        "4-5 Mint Leaves",
+        "2 dashes Orange Bitters",
+        "15ml Calamansi Juice, can be substituted with lemon juice",
+        "15ml Mirin, can be substituted with simple syrup, see page 20",
+        "Ginger Beer"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Banga #2",
+      "steps": [
+        "Muddle the tangerine, lime, kaffir leaf, and galangal in a mason jar.",
+        "Half fill the jar with crushed ice and stir the crushed fruit through.",
+        "Add the tequila and agave syrup and stir some more.",
+        "Top with crushed ice and garnish with a Kaffir Lime leaf."
+      ]
+    },
+    {
+      "heading": "Banga #3",
+      "steps": [
+        "Build all ingredients except the Ginger Beer, over ice, in a mason jar.",
+        "Place a lid on the mason jar and shake well.",
+        "Remove the lid and top with the Ginger Beer.",
+        "Garnish with fresh mint."
+      ]
+    }
+  ]
+}

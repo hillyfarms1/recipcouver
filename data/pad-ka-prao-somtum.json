@@ -1,0 +1,70 @@
+{
+  "id": "pad-ka-prao-somtum",
+  "restaurant": "Kin Kao Thai Kitchen",
+  "heroImage": "DSC1167.jpg",
+  "title": "Pad Ka-Prao & Somtum",
+  "book":  "The East Van Foodie",
+  "notes": "Pad Ka-Prao translates, literally, to Holy Basil Stir-fry. Holy Basil is a relative to the more commonly available Sweet, Thai, Lemon or Purple Basils among others. While they can be interchanged Thai cooks will suggest that a Pad Ka-Prao made with Sweet Thai Basil is technically and Pad Bai Horapha. It all tastes great, use Holy Basil if you can find it, if not, use Thai Sweet Basil or even Italian Sweet Basil. Holy Basil has jagged edges, and furry leaves and stems. Serves 4.",
+  "ingredientSections": [
+    {
+      "heading": "Somtum, Thai Green Papaya Salad",
+      "items": [
+        "6 Cloves Garlic",
+        "6-8 Thai Chillies",
+        "⅓ Cup Fish Sauce",
+        "⅓ Cup Palm Sugar or Brown Sugar",
+        "Juice of 6 Limes",
+        "3 Tbsp Roasted Peanuts",
+        "3 Tbsp Dried Shrimp (optional)",
+        "12 Grape or Cherry Tomatoes",
+        "1 Carrot",
+        "3 Handfuls Green Papaya, thinly stripped"
+      ]
+    },
+    {
+      "heading": "Pad Ka-Prao, Thai Stir-fry",
+      "items": [
+        "⅓ Cup Thai Fish Sauce",
+        "½ Cup Thai Black Soy Sauce",
+        "2 Tbsp Sugar",
+        "⅓ Cup Garlic, minced",
+        "1kg Ground Pork or Chicken",
+        "200g Thai Long Beans, finely chopped",
+        "1 Medium Yellow Onion, sliced",
+        "8 or more Fresh Thai Chillies",
+        "4 Cups Thai Holy Basil",
+        "Vegetable oil",
+        "Jasmine Rice",
+        "4 Eggs"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Somtum, Thai Green Papaya Salad",
+      "steps": [
+        "You may need to make the salad in batches depending on the size of your mortar and pestle.",
+        "Wash the green papaya, peel off and discard its skin with a carrot peeler. Continue to shave the papaya with the carrot peeler and then cut the slivers into thin strips. Julienne the carrot.",
+        "Add the peeled garlic and Thai chilli to mortar and pound them a few times until they are crushed.",
+        "Add the palm sugar, fish sauce and lime juice to the mortar.",
+        "Mix and pound the dressing in the mortar and ensure the sugar is fully dissolved.",
+        "Dice the tomatoes and add them to the mortar with the roasted peanuts and dried shrimp if using.",
+        "Pound the mixture together well and then add a green papaya and carrot. Stir and pound some more until the papaya is well coated in the dressing.",
+        "Garnish with peanuts."
+      ]
+    },
+    {
+      "heading": "Pad Ka-Prao, Thai Stir-fry",
+      "steps": [
+        "Combine the fish sauce, soy sauce and sugar in a small bowl.",
+        "Heat up the stir fry pan or wok to a very high heat.",
+        "Add a big splash of oil and the garlic and stir until it turns light golden brown.",
+        "Add the ground pork or chicken and stir fry until the meat is almost cooked through.",
+        "Add the fish sauce mixture, chillies and splash of water.",
+        "Stir fry until the liquid has been absorbed.",
+        "Stir through the basil and remove from heat as soon as the basil has wilted, 15-30 seconds.",
+        "Serve with jasmine rice and fried eggs."
+      ]
+    }
+  ]
+}

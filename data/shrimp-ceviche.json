@@ -1,0 +1,44 @@
+{
+  "id": "shrimp-ceviche",
+  "restaurant": "Sal Y Limón",
+  "heroImage": "DSC0479.jpg",
+  "title": "Shrimp Ceviche",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Shrimp Ceviche",
+      "items": [
+        "450g Medium Shrimp, shell on",
+        "2 Tomatoes, diced",
+        "2 Tbsp Salt",
+        "1-2 Tbsp Olive Oil",
+        "1 Tbsp Yellow Mustard",
+        "¼ Cup Lime Juice (juice from 1-2 limes)",
+        "½ Cup Orange Juice",
+        "½ Cup Red Onion, finely diced",
+        "1 Serrano Chilli, ribs & seeds removed, minced",
+        "1 Cup Cilantro, chopped",
+        "½ Bottle Corona Beer",
+        "1 Avocado, peeled, seed removed, diced",
+        "Corn Chips"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Shrimp Ceviche",
+      "steps": [
+        "In a large saucepan, bring 3 to 4 litres of water to the boil, add the salt.",
+        "Cook the shrimp for between 1 and 2 minutes, depending on size of shrimp. Do not overcook as they will turn rubbery.",
+        "Remove shrimp with a slotted spoon and place into a bowl of ice water to stop the cooking. Reserve the cooking liquid.",
+        "Cut each piece of shrimp in half or into smaller pieces. Place in a glass or ceramic bowl and mix in the lime and orange juice. Season with salt and pepper, cover and refrigerate for a half an hour.",
+        "Stir in the chopped onion, tomatoes and serrano chile. Add the mustard, beer, olive oil and half a cup of the cooking liquid.",
+        "Cover and refrigerate for at least 30 minutes.",
+        "Just before serving top with the cilantro and avocado.",
+        "Serve with corn chips",
+        "If you find the ceviche a little too acidic, drain out some of the juices after the marinating and add a little more cooking liquid and/or avocado."
+      ]
+    }
+  ]
+}

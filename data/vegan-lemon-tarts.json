@@ -1,0 +1,69 @@
+{
+  "id": "vegan-lemon-tarts",
+  "restaurant": "Northwest Culinary Academy of Vancouver",
+  "heroImage": "DSC1761a.jpg",
+  "title": "Vegan Lemon Tarts",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Tart Shell",
+      "items": [
+        "300g Pastry Flour",
+        "160g Coconut Oil",
+        "40g Water",
+        "100g Organic Sugar",
+        "½ tsp Salt",
+        "Zest of 1 Lemon"
+      ]
+    },
+    {
+      "heading": "Lemon Curd",
+      "items": [
+        "170g Soft Organic Tofu",
+        "190g Agave Syrup",
+        "Zest of 1 Lemon",
+        "145ml Lemon Juice",
+        "75ml Coconut Water",
+        "3 Tbsp All Purpose Flour",
+        "1½ tsp Cornstarch"
+      ]
+    },
+    {
+      "heading": "Vegan Meringue",
+      "items": [
+        "1½ Cups Liquid drained from cans of Organic Chickpeas (roughly 2 cans)",
+        "1 Cup Organic Cane Sugar"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Tart Shell",
+      "steps": [
+        "In a stand mixer or whisking by hand, gently bring together the coconut oil, sugar and lemon zest. Add the water and mix until blended.",
+        "Sift the pastry flour and salt into the creamed coconut oil and mix until a dough forms. Turn the dough out onto a clean work surface and shape into a flat ball, wrap in plastic and refrigerate for at least 2 hours.",
+        "Roll the dough into a 4mm (bit less the ¼in) thick, 20cm (8in) circle on a floured counter top. The dough may be too cold to roll to begin with or become too warm to work with and fall apart. Take your time and put back in the fridge to firm up for 5 minutes if necessary.",
+        "Gently place the rolled out dough into a greased 15cm (6in) tart pan. Place the tart shell back into the fridge to chill for 10 minutes and preheat oven to 180°C (350°F).",
+        "Place a piece of parchment paper on top of the tart shell and quarter fill with blind baking beans. Blind bake until a light golden colour is achieved around the edges, roughly 5-10 minutes. Remove the beans and continue to bake until golden brown, another 10 to 15 minutes. Allow to cool."
+      ]
+    },
+    {
+      "heading": "Lemon Curd",
+      "steps": [
+        "Sift the flour and cornstarch into a bowl and set aside. Blend the tofu, agave, lemon juice, lemon zest and coconut water.",
+        "Whisk a quarter of the liquid mixture into the flour and cornstarch. Then whisk the resulting wet starch mixture back into the remaining liquid mixture. This method ensures a thorough mix.",
+        "Transfer the lemon mixture into a medium saucepan and place on a medium heat. Bring to a boil while constantly stirring. The mixture will turn from a cloudy white to a clear yellow. This will take several minutes. The mixture will also go from tasting of tofu and starch to a bright sweet/sour lemon curd with no tofu or starch taste. Use the colour and taste change as a guide for cooking time.",
+        "Pour into the baked tart shell and allow to set for about 2 hours."
+      ]
+    },
+    {
+      "heading": "Vegan Meringue",
+      "steps": [
+        "Reduce the chickpea water in a small pot over a medium heat until it has reduced to roughly half a cup of liquid. Add the sugar to the hot liquid and stir until it is dissolved. Allow the mixture to fully cool.",
+        "Pour into the bowl of a stand mixer and whisk on medium high speed until it becomes white and shiny. The mixture should double in volume and hold a stiff peak. This can take anywhere from 10 to 20 minutes.",
+        "Place the meringue into a piping bag and pipe any desired design. Torch the meringue and serve."
+      ]
+    }
+  ]
+}

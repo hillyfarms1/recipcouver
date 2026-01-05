@@ -1,0 +1,178 @@
+{
+  "id": "seymour-barley",
+  "restaurant": "The Mackenzie Room",
+  "heroImage": "DSC1494.jpg",
+  "title": "Seymour Barley",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Pork Shoulder",
+      "items": [
+        "1 Pork Shoulder, approx 3kg"
+      ]
+    },
+    {
+      "heading": "Pork Shoulder Brine",
+      "items": [
+        "1 Tbsp Fennel Seeds, toasted",
+        "1 Tbsp Whole Peppercorn, toasted",
+        "1 tsp Chilli Flakes",
+        "¼ tsp Szechuan Peppercorn",
+        "2 Tbsp Whole Coriander Seeds",
+        "2 Whole Star Anise",
+        "3 Whole Cardamom",
+        "1 Tbsp Paprika",
+        "5 sprigs Thyme",
+        "3 Bay Leaves",
+        "100g Sea Salt",
+        "50g Brown Sugar",
+        "100g Maple Syrup",
+        "3L Water"
+      ]
+    },
+    {
+      "heading": "Pork Glaze",
+      "items": [
+        "1 Leek",
+        "2 Pablano Peppers",
+        "2 Serrano Chillies",
+        "1 Large Red Onion",
+        "700g Tomatoes",
+        "6 Cloves Garlic, roughly chopped",
+        "1 Tbsp Cumin, toasted",
+        "1 Tbsp Coriander Seeds, toasted",
+        "1 Tbsp Fennel Seeds, toasted",
+        "1 Cinnamon Stick",
+        "3 Star Anise",
+        "4 Bay Leaves",
+        "8 sprigs Thyme, stems removed",
+        "½ Cup Brown Sugar",
+        "¼ Cup Molasses",
+        "¼ Cup Sorghum Syrup",
+        "100ml Red Wine Vinegar",
+        "100ml White Balsamic Vinegar",
+        "100ml White Wine Vinegar",
+        "1½-2L Water"
+      ]
+    },
+    {
+      "heading": "Onion Soubise",
+      "items": [
+        "2 White Onions",
+        "¼ Cup Unsalted Butter",
+        "90ml White Wine",
+        "1 Cup Cream",
+        "2 Bay Leaves",
+        "Salt & White Pepper"
+      ]
+    },
+    {
+      "heading": "Puffed Sorghum",
+      "items": [
+        "1 Cup Sorghum",
+        "35g Buttermilk Powder",
+        "5g Dill Pollen",
+        "5g Smoked Paprika",
+        "2 Cups Canola Oil",
+        "Salt & Pepper"
+      ]
+    },
+    {
+      "heading": "Black Barley Risotto",
+      "items": [
+        "300g Black Barley",
+        "2 Shallots, finely sliced",
+        "2 Bay Leaves",
+        "1½-2 Cups Morel Mushrooms, cleaned, fresh or rehydrated (shiitake or chanterelles are good alternatives)",
+        "2 Cloves Garlic, finely sliced",
+        "60ml White Wine",
+        "2L Chicken Stock",
+        "2 Tbsp Unsalted Butter",
+        "2 Tbsp Chives, chopped",
+        "2 Tbsp Basil, chopped",
+        "2 Tbsp Parsley, chopped",
+        "Zest of 1 Lemon"
+      ]
+    },
+    {
+      "heading": "Pickled Kohlrabi",
+      "items": [
+        "1 Kohlrabi, finely dice",
+        "1 Bay Leaf",
+        "4 sprigs Thyme",
+        "1 Cup White Balsamic Vinegar",
+        "1 Cup Water",
+        "1 tsp Kosher Salt",
+        "1 Tbsp Sugar"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Brining and Roasting the Pork Shoulder",
+      "steps": [
+        "Combine all the ingredients in a large pot, bring to a boil, and stir until the salt has dissolved and ingredients are well incorporated.",
+        "Allow to cool to room temperature. Fully submerge the pork shoulder, using a plate or similar to weigh down if necessary, and let marinate for a minimum of 24 hours.",
+        "Remove the shoulder from the brine and wrap tightly in several layers of aluminium foil. Place on a pan in an oven preheated to 180°C (350°F) and roast for 3½ to 4 hours. The internal temperature should be at least 85°C (190°F) after this time.",
+        "Remove from oven but keep wrapped and allow the shoulder to rest for 20 to 25 minutes.",
+        "When ready to serve, cut into portions, brush with the pork glaze (see below) and roast under the broiler set to high for 7 to 9 minutes."
+      ]
+    },
+    {
+      "heading": "Pork Glaze",
+      "steps": [
+        "Heavily char the leek, tomatoes, onion, and chillies on the grill and then roughly chop.",
+        "Place in a large pot along with all the remaining ingredients.",
+        "Bring to a boil and then lower the temperature and simmer until the volume of the liquid has reduced by roughly two thirds.",
+        "Remove the cinnamon stick and discard. Place the mixture into the blender and puree.",
+        "Pour through a fine strainer.",
+        "Makes about 1 litre of glaze and is great with other cuts of meat. Store in the fridge or freeze."
+      ]
+    },
+    {
+      "heading": "Onion Soubise",
+      "steps": [
+        "Finely slice and then sweat the onions in a saucepan over a medium heat with the butter and bay leaves until translucent.",
+        "Deglaze with the white wine, add the cream and reduce by half.",
+        "Season with salt and white pepper to taste.",
+        "Remove bay leaves and then puree in a blender."
+      ]
+    },
+    {
+      "heading": "Puffed Sorghum",
+      "steps": [
+        "Heat the canola oil in a deep saucepan until it reaches 180°C (355°F).",
+        "Add the sorghum to the oil, after a moment it will pop not unlike popcorn, but with less vigour.",
+        "Remove the popped sorghum with a slotted spoon and place on paper towel.",
+        "Transfer to a bowl and toss with the dry ingredients."
+      ]
+    },
+    {
+      "heading": "Black Barley Risotto",
+      "steps": [
+        "In a medium sized saucepan over a medium heat, sweat the garlic and shallots in a small splash of oil until they become translucent.",
+        "Add the black barley and toast in the pan for 3 to 4 minutes. After a minute or two add the mushrooms.",
+        "Deglaze with the white wine and reduce by half. Add the bay leaves and half of the chicken stock to the barley.",
+        "Bring to a boil and reduce heat to a simmer, add the rest of the stock gradually as it cooks off and is absorbed. This will take 20-25 minutes.",
+        "When tender reduce the liquid until the pan is almost dry then remove from the heat and discard the bay leaves.",
+        "Incorporate the butter a little at a time, add the herbs and lemon zest and adjust the seasoning."
+      ]
+    },
+    {
+      "heading": "Pickled Kohlrabi",
+      "steps": [
+        "Combine all the ingredients except the kohlrabi into a small saucepan and bring to a boil.",
+        "Add the kohlrabi to a mason jar and pour the hot brine over the top.",
+        "Once at room temperature it can be stored in the fridge."
+      ]
+    },
+    {
+      "heading": "Plating & Garnishes",
+      "steps": [
+        "Plate in proportions and in a design that inspires you.",
+        "Garnish with celery curls, radishes, pea tendrils, sunflower shoots and a soft poached egg."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "ham-and-cheese-quiche",
+  "restaurant": "Kessel & March",
+  "heroImage": "DSC0864a.jpg",
+  "title": "Ham & Cheese Quiche",
+  "book": "The East Van Foodie",
+  "notes": "Other Quiche recipes may be quicker than this one but when you taste the creamy richness of the eggs and the gentle crunch of the shell you’ll know the time is worth it. This is a great recipe to experiment with flavours. Try the filling options listed or create your own keeping in mind they will need to be balanced. Serve with your favourite salads.",
+  "ingredientSections": [
+    {
+      "heading": "Short Crust Pastry Shells",
+      "items": [
+          "500g AP Flour",
+          "½ tsp Salt",
+          "250g Butter, grated and cold",
+          "1 Egg Yolk",
+          "250ml Water, ice cold"
+      ]
+    },
+    {
+      "heading": "Royale",
+      "items": [
+          "250ml Whipping Cream",
+          "2 Whole Eggs",
+          "1 Egg Yolk",
+          "Pinch Salt",
+          "Pinch Pepper",
+          "Pinch Nutmeg, grated"
+      ]
+    },
+    {
+      "heading": "Ham & Cheese Quiche",
+      "items": [
+          "Royale Mixture (see above recipe)",
+          "Shell Cases (see above recipe)",
+          "60g Ham",
+          "60g Cheddar Cheese, grated"
+      ]
+    },
+    {
+      "heading": "Confit Pork Belly",
+      "items": [
+          "450g Smoked Pork Belly or Smoked Slab Bacon",
+          "Vegetable Oil, for frying"
+      ]
+    },
+    {
+      "heading": "Other Possible Fillings",
+      "items": [   
+          "60g Smoked Salmon",
+          "60g Cream Cheese"
+      ]
+    },
+    {
+      "heading": "Or",
+      "items": [   
+          "Zest of 1 Lemon",
+          "60g Goats Cheese",
+          "Handful of herbs, chopped"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Short Crust Pastry Shells",
+      "steps": [
+          "Sift the flour & salt into a stand mixer bowl.",
+          "Add the grated butter and mix with the stand mixer’s dough hook on its lowest setting.",
+          "Add the egg yolk and then slowly add the water until dough comes together (you may not need all the water).",
+          "Do not over mix! The dough should look chunky and clumpy. Wrap it in cling film and rest in fridge for at least an hour.",
+          "Roll out the dough to the thickness of 2 stacked loonies. Put on an oven tray and rest the dough in the fridge at least another 25 minutes.",
+          "Cut the dough with a cookie cutter that is 15cm round to fit in an 8cm round mould. Put the cut dough in the fridge to rest again until cold.",
+          "Spray the circular 8cm moulds with non-stick oil. Shape the cut dough into the moulds. Rest the shells in the freezer for a minimum of 2 hours or even better overnight.",
+          "Pre-heat oven to 165°C (325°F). Bake the shell cases blind with any weight system you have (we use foil filled with dried beans). Every 15 minutes check and rotate and eventually take the beans out to cook the inside. Approximate total cooking time should be 45 minutes. The pastry must be dry and just turning golden."
+      ]
+    },
+    {
+      "heading": "Royale",
+      "steps": [
+          "Measure all ingredients in a container.",
+          "Blend well with hand mixer."
+      ]
+    },
+    {
+      "heading": "Ham & Cheese Quiche",
+      "steps": [ 
+          "Pre-heat oven to 95°C (200°F). Use the no fan, baking setting.",
+          "Place 15g of Ham & 15g Cheddar into each of the baked pastry shells.",
+          "Fill each shell to the brim with the royale mixture.",
+          "Bake for approximately 2 hours until the Royale is set."
+      ]
+    }
+  ]
+}

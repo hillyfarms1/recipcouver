@@ -1,0 +1,61 @@
+{
+  "id": "blushing-sicilian",
+  "restaurant": "Odd Society",
+  "heroImage": "DSC1377.jpg",
+  "title": "Blushing Sicilian",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Blushing Sicilian",
+      "items": [
+        "30ml Odd Society Wallflower Gin",
+        "30ml Odd Society Bittersweet Vermouth",
+        "30ml Blood Orange Syrup",
+        "1½ tsp Citric Acid Solution",
+        "Top with Sparkling Wine"
+      ]
+    },
+    {
+      "heading": "Citric Acid Solution",
+      "items": [
+        "1½ tsp Citric Acid (from specialty grocers or cooking stores)",
+        "125ml Water"
+      ]
+    },
+    {
+      "heading": "Blood Orange Syrup",
+      "items": [
+        "Blood Oranges",
+        "Water",
+        "Sugar"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Blushing Sicilian",
+      "steps": [
+        "Add all ingredients except the wine to cocktail shaker, shake and strain, into flute.",
+        "Top with the sparkling wine. Garnish with blood orange peel swath."
+      ]
+    },
+    {
+      "heading": "Citric Acid Solution",
+      "steps": [
+        "Stir and dissolve until clear."
+      ]
+    },
+    {
+      "heading": "Blood Orange Syrup",
+      "steps": [
+        "Juice the Blood Oranges and strain.",
+        "Measure the juice and add half that amount of water.",
+        "Measure the amount of blood orange juice and water when combined.",
+        "Add an equal amount of sugar to the liquid. For example, if you have 150ml of liquid add 150g of sugar.",
+        "On a medium heat bring the liquid to a simmer.",
+        "Once the syrup has started bubbling, but before it boils, make sure the sugar has dissolved, remove from heat and let the mixture cool before bottling."
+      ]
+    }
+  ]
+}

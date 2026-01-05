@@ -1,0 +1,101 @@
+{
+  "id": "shrimp-and-grits",
+  "restaurant": "Mamie Taylor's",
+  "heroImage": "DSC0742.jpg",
+  "title": "Shrimp and Grits",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Shrimps",
+      "items": [
+          "20 large Shrimp, with shells and heads",
+          "½ Cup Fava Beans, blanched and peeled (see below)",
+          "¼ Cup Oven-dried Tomatoes (see below)",
+          "6-8 strips Streaky Bacon, fried to crispy",
+          "½ Cup Reduced Sauce (see below)",
+          "2 sprigs Chervil, picked into garnish sized pieces",
+          "Lemon Juice to taste"
+      ]
+    },
+    {
+      "heading": "Grits",
+      "items": [
+          "1 Cup Dried Hominy Grits, or White Corn Grits if you can’t find Hominy",
+          "1 L Water",
+          "2 tsp Salt",
+          "1 ½ Cups Extra Sharp White",
+          "Cheddar Cheese, grated",
+          "2 Tbsp Butter"
+      ]
+    },
+    {
+      "heading": "Oven dried tomatoes",
+      "items": [
+        "300g Cherry Tomatoes",
+        "1 tsp Olive Oil",
+        "Pinch Salt"
+      ]
+    },
+    {
+      "heading": "Sauce",
+      "items": [
+        "2 L Dark Chicken Stock (made from roasted chicken bones)",
+        "All the heads and shells from the shrimp",
+        "5 tbsp Butter",
+        "2 Cloves Garlic, minced",
+        "1 Shallot, finely minced",
+        "½ tsp Chilli Flakes",
+        "1 tsp Fresh Rosemary, chopped"
+      ]
+    },
+    {
+      "heading": "Fava Beans",
+      "items": [
+        "500g Fava Beans, whole, shell-on"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Grits",
+      "steps": [
+          "In large pot cook the grits in the water for an hour or until soft. You may need to blend the grits with a hand blender depending on the type of grits you have. The grits should be the consistency of thick porridge.",
+          "Add the salt, butter and cheese and set aside, keeping hot."
+      ]
+    },
+    {
+      "heading": "Oven Dried Tomatoes",
+      "steps": [
+          "Preheat oven to 80°C (175°F). Slice tomatoes in half and place cut side up on a baking sheet or tray. Season with salt and drizzle with oil.",
+          "Place in the oven for about 2 hours."
+      ]
+    },
+    {
+      "heading": "Sauce",
+      "steps": [
+          "Remove the heads and shells from the shrimp and set aside the meat, covered, in the fridge.",
+          "Place a large saucepan on a burner on a high heat. Add one tablespoon of butter to the pan. When the butter foams, add the shrimp heads and shells and stir for 5-7 minutes until they have all changed colour and there is a strong aroma of roasted shrimp.",
+          "Add the chicken stock, bring to a boil and reduce down to half a litre.",
+          "Strain the stock using a fine strainer and discard the shells.",
+          "In a medium pot add four tablespoons of butter and heat to a foam. Add the garlic, shallots, chilli flakes and rosemary. Sweat for 1 minute and add the stock. Reduce to around one cup, add three tablespoons of lemon juice and pulse it with a hand blender until it is smooth."
+      ]
+    },
+    {
+      "heading": "Fava Beans",
+      "steps": [
+          "Shuck the beans from their pods and boil in heavily salted water for about 2 minutes. Strain and place straight into ice water.",
+          "Remove the bright green beans from the tough outer skin and set aside."
+      ]
+    },
+    {
+      "heading": "Finish and Serve",
+      "steps": [
+          "In a large fry pan cook the bacon until crispy. Drain on paper towel and break into halves or thirds.",
+          "Wipe out the same fry pan and bring back to a high heat, add the sauce which should have reduced enough to be thick and a little sticky and bring to a simmer.",
+          "Add the peeled shrimp and cook for about a minute on each side, add the tomatoes and fava beans and cook one more minute. Finish with lemon and salt to taste.",
+          "Divide the grits into four bowls and then distribute the shrimp, tomatoes, fava beans and sauce evenly. Garnish with crispy bacon and picked chervil."
+      ]
+    }    
+  ]
+}

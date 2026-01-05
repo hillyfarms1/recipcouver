@@ -1,0 +1,61 @@
+{
+  "id": "rye-so-messy-wings",
+  "restaurant": "Torafuku",
+  "heroImage": "DSC3525.jpg",
+  "title": "Rye So Messy Wings",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Rye So Messy Wings",
+      "items": [
+        "500g Chicken Wings",
+        "All Purpose Flour"
+      ]
+    },
+    {
+      "heading": "Spicy Sauce",
+      "items": [
+        "1/2 White Onion, sliced",
+        "1/2 bunch Green Onion, sliced",
+        "2 Cups Gochujang Paste (Korean hot pepper paste)",
+        "1/4 Cup Rye Whiskey",
+        "1/2 Cup Sugar",
+        "2 Cups Rice Vinegar",
+        "2 Tbsp Black Sesame Paste"
+      ]
+    },
+    {
+      "heading": "Mango Sauce",
+      "items": [
+        "1 Mango, finely diced",
+        "1 Tbsp Japanese 7 Spice",
+        "15ml Rice Vinegar"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Spicy Sauce",
+      "steps": [
+        "Sauté the onions until translucent, then deglaze the pan with the rye whiskey and reduce by a quarter. Add the gochujang, rice vinegar, sugar and sesame paste to the pan and stir slowly until a light simmer.",
+        "Remove from the heat and blend with a hand blender, set aside."
+      ]
+    },
+    {
+      "heading": "Mango Sauce",
+      "steps": [
+        "Blend all ingredients together with a hand blender, set aside."
+      ]
+    },
+    {
+      "heading": "Chicken",
+      "steps": [
+        "Coat the chicken wings in flour and fry in a pan with splash of cooking oil on a medium heat.",
+        "Cook both sides until golden brown, about 3-5 minutes, remove from pan and place in a bowl.",
+        "Pour the spicy sauce over the wings and coated evenly.",
+        "Serve with the mango sauce spooned on top."
+      ]
+    }
+  ]
+}

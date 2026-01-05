@@ -1,0 +1,71 @@
+{
+  "id": "apple-pie",
+  "restaurant": "The Pie Shoppe",
+  "heroImage": "DSC1224.jpg",
+  "title": "Apple Pie",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Pastry",
+      "items": [
+        "3 Cups Unbleached White Flour",
+        "1/2 Cup Butter, cold",
+        "1/2 Cup Shortening",
+        "1/3 Cup Water, cold",
+        "Pinch of Salt"
+      ]
+    },
+    {
+      "heading": "Apple Pie Filling",
+      "items": [
+        "6-8 Apples",
+        "1/2 Cup Sugar",
+        "3 Tbsp Tapioca Flour",
+        "1/2 Ground Cinnamon",
+        "Juice of 1/2 a Lemon"
+      ]
+    },
+    {
+      "heading": "Finishing",
+      "items": [
+        "1 Egg, for egg wash",
+        "Sugar",
+        "Ice-cream or Cheddar"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Dough",
+      "steps": [
+        "In a mixing bowl blend the flour, salt, butter and shortening together with your fingers.",
+        "Gradually add the water and bring the dough together but don't over work it.",
+        "Wrap in plastic wrap and set aside in fridge to relax for a while."
+      ]
+    },
+    {
+      "heading": "Apple Pie Filling",
+      "steps": [
+        "Core and peel the apples, slice very thinly and place in a large bowl.",
+        "Squeeze the lemon juice over the apples and toss so they are coated completely.",
+        "Blend the sugar, cinnamon and tapioca flour in another bowl.",
+        "Add sugar mixture to apples and toss, again, ensuring all the apple slices are coated."
+      ]
+    },
+    {
+      "heading": "Building the Pie",
+      "steps": [
+        "Divide the dough into two halves and roll one of the halves until it is roughly 1/2cm (1/3in) thick and a 30cm (12in) circle.",
+        "Gently place in a 25cm (10in) diameter pie dish that has sides roughly 3cm (1in) high. Gently push into the dish so the pastry is pressed into the corners.",
+        "Pile in the apple. Don't be afraid to really pile it up, pack it down evenly and mound it up in the middle.",
+        "Roll out the other half of the dough to the same thickness and cut it into even strips.",
+        "Create a lattice pie top by laying the strips across the pie in one direction and then weaving through more strips in the other direction. If this proves (or sounds) too tricky just lay on an single sheet as the pie top, it will taste just as good! If you do it this way be sure to cut a few slits in the pie top so steam can escape.",
+        "Fold and crimp the pie base pastry over the pie top pastry to seal it around the edges and trim as necessary.",
+        "Paint the egg wash all over the top of the pie and then sprinkle with sugar.",
+        "Place in the oven pre-heated to 180°C (350°F) and bake for around an hour or until the pie juices bubble.",
+        "Serve with ice-cream or cheddar cheese."
+      ]
+    }
+  ]
+}

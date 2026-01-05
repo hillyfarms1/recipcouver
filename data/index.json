@@ -21,7 +21,7 @@
     "main",
     "easier",
     "omnivore",
-    "0 70%"
+    "0 30%"
   ],
   "braised-boneless-short-rib": [
     "The East Van Foodie",
@@ -33,7 +33,7 @@
     "main",
     "intermediate",
     "omnivore",
-    "0 60%"
+    "0 25%"
   ],
   "brussels-sprouts": [
     "The East Van Foodie",
@@ -45,7 +45,7 @@
     "starter",
     "intermediate",
     "vegetarian",
-    "0 60%"
+    "0 40%"
   ],
   "chicha-morada": [
     "The East Van Foodie",
@@ -69,7 +69,7 @@
     "main",
     "harder",
     "omnivore",
-    "0 80%"
+    "0 60%"
   ],
   "chill-brussels-sprouts": [
     "The Gastown Foodie",
@@ -105,7 +105,7 @@
     "main",
     "harder",
     "vegan",
-    "0 65%"
+    "0 30%"
   ],
   "couscous-salad": [
     "The East Van Foodie",
@@ -129,7 +129,7 @@
     "dessert",
     "easier",
     "vegan",
-    "0 60%"
+    "0 30%"
   ],
   "crimson-king": [
     "The East Van Foodie",
@@ -141,7 +141,7 @@
     "drink",
     "intermediate",
     "vegetarian",
-    "0 50%"
+    "0 30%"
   ],
   "earl-grey-pisco-sour": [
     "The East Van Foodie",
@@ -153,7 +153,7 @@
     "drink",
     "easier",
     "vegetarian",
-    "0 50%"
+    "0 30%"
   ],
   "escalivada": [
     "The East Van Foodie",
@@ -177,7 +177,7 @@
     "drink",
     "easier",
     "vegan",
-    "0 60%"
+    "0 30%"
   ],
   "gambas-al-ajillo": [
     "The East Van Foodie",
@@ -201,7 +201,7 @@
     "starter",
     "easier",
     "vegetarian",
-    "0 80%"
+    "0 30%"
   ],
   "halibut-with-sunchoke-and-endive": [
     "The East Van Foodie",
@@ -213,7 +213,7 @@
     "main",
     "intermediate",
     "pescatarian",
-    "0 70%"
+    "0 25%"
   ],
   "handmade-corn-tortillas": [
     "The East Van Foodie",
@@ -261,7 +261,7 @@
     "main",
     "intermediate",
     "omnivore",
-    "0 70%"
+    "0 30%"
   ],
   "korean-ribs-with-kimchi": [
     "The East Van Foodie",
@@ -298,7 +298,7 @@
     "main",
     "intermediate",
     "omnivore",
-    "0 50%"
+    "0 20%"
   ],
   "mojito": [
     "The East Van Foodie",
@@ -310,7 +310,7 @@
     "drink",
     "intermediate",
     "vegan",
-    "0 70%"
+    "0 30%"
   ],
   "mujadra-lentil-stew": [
     "The East Van Foodie",
@@ -357,7 +357,7 @@
     "starter",
     "intermediate",
     "omnivore",
-    "0 75%"
+    "0 40%"
   ],
   "pork-belly-beef-shoulder-ragu-with-tagliatelle-pecorino-basil": [
     "The East Van Foodie",
@@ -429,7 +429,7 @@
     "drink",
     "intermediate",
     "vegetarian",
-    "0 60%"
+    "0 20%"
   ],
   "scotch-eggs": [
     "The East Van Foodie",
@@ -441,7 +441,7 @@
     "starter",
     "intermediate",
     "omnivore",
-    "0 50%"
+    "0 30%"
   ],
   "sea-bream-crudo-tuberous-begonia-ice-and-purslane": [
     "The East Van Foodie",
@@ -491,6 +491,474 @@
     "omnivore",
     "0 50%"
   ],
+  "shrimp-ceviche": [
+    "The East Van Foodie",
+    "Sal Y Limón",
+    "DSC0479.jpg",
+    "Shrimp Ceviche",
+    "serves",
+    "4",
+    "starter",
+    "intermediate",
+    "pescatarian",
+    "0 50%"
+  ],
+    "shrimp-and-grits": [
+    "The East Van Foodie",
+    "Mamie Taylor's",
+    "DSC0742.jpg",
+    "Shrimp and Grits",
+    "serves",
+    "4",
+    "main",
+    "intermediate",
+    "omnivore",
+    "0 50%"
+  ],
+  "cobb-salad": [
+    "The East Van Foodie",
+    "Mamie Taylor's",
+    "DSC0766.jpg",
+    "Cobb Salad",
+    "serves",
+    "4",
+    "starter",
+    "intermediate",
+    "omnivore",
+    "0 50%"
+  ],
+  "ham-and-cheese-quiche": [
+    "The East Van Foodie",
+    "Kessel & March",
+    "DSC0864a.jpg",
+    "Ham & Cheese Quiche",
+    "serves",
+    "4",
+    "starter",
+    "intermediate",
+    "omnivore",
+    "0 50%"
+  ],
+  "apricot-amaretto-almond-crumble": [
+    "The East Van Foodie",
+    "The Pie Shoppe",
+    "DSC1086.jpg",
+    "Apricot Amaretto Almond Crumble",
+    "makes",
+    "1 10 inch pie",
+    "dessert",
+    "intermediate",
+    "vegetarian",
+    "0 50%"
+  ],
+  "vegan-tinga-tacos": [
+    "The East Van Foodie",
+    "Sal Y Limón",
+    "DSC0483.jpg",
+    "Vegan Tinga Tacos",
+    "serves",
+    "6",
+    "starter",
+    "intermediate",
+    "vegan",
+    "0 50%"
+  ],
+  "pad-ka-prao-somtum": [
+    "The East Van Foodie",
+    "Kin Kao Thai Kitchen",
+    "DSC1167.jpg",
+    "Pad Ka-Prao & Somtum",
+    "serves",
+    "4",
+    "main",
+    "easier",
+    "omnivore",
+    "0 50%"
+  ],
+  "vegan-carbonara": [
+    "The East Van Foodie",
+    "The Wallflower",
+    "DSC1342.jpg",
+    "Vegan Carbonara",
+    "serves",
+    "4",
+    "main",
+    "intermediate",
+    "vegan",
+    "0 50%"
+  ],
+  "apple-pie": [
+    "The East Van Foodie",
+    "The Pie Shoppe",
+    "DSC1224.jpg",
+    "Apple Pie",
+    "makes",
+    "1 10inch pie",
+    "dessert",
+    "harder",
+    "vegetarian",
+    "0 100%"
+  ],
+  "lord-of-the-hops": [
+    "The East Van Foodie",
+    "Odd Society",
+    "DSC1369.jpg",
+    "Lord of the Hops",
+    "makes",
+    "1 cocktail",
+    "drink",
+    "easier",
+    "vegetarian",
+    "0 20%"
+  ],
+  "blushing-sicilian": [
+    "The East Van Foodie",
+    "Odd Society",
+    "DSC1377.jpg",
+    "Blushing Sicilian",
+    "makes",
+    "1 cocktail",
+    "drink",
+    "easier",
+    "vegetarian",
+    "0 50%"
+  ],
+  "seymour-barley": [
+    "The East Van Foodie",
+    "The Mackenzie Room",
+    "DSC1494.jpg",
+    "Seymour Barley",
+    "serves",
+    "6",
+    "main",
+    "harder",
+    "omnivore",
+    "0 50%"
+  ],
+  "hubba-bubba-dessert": [
+    "The East Van Foodie",
+    "The Mackenzie Room",
+    "DSC1480.jpg",
+    "Hubba Bubba Dessert",
+    "serves",
+    "6",
+    "dessert",
+    "harder",
+    "vegetarian",
+    "0 50%"
+  ],
+  "passive-aggressive": [
+    "The East Van Foodie",
+    "The Mackenzie Room",
+    "DSC1500.jpg",
+    "Passive Aggressive",
+    "serves",
+    "6",
+    "main",
+    "harder",
+    "omnivore",
+    "0 50%"
+  ],
+  "the-big-show": [
+    "The East Van Foodie",
+    "The Mackenzie Room",
+    "DSC1536.jpg",
+    "The Big Show",
+    "serves",
+    "6",
+    "main",
+    "harder",
+    "omnivore",
+    "0 50%"
+  ],
+  "azteca-style-soup": [
+    "The East Van Foodie",
+    "Northwest Culinary Academy of Vancouver",
+    "DSC1683.jpg",
+    "Azteca-Style Soup",
+    "serves",
+    "3",
+    "starter",
+    "intermediate",
+    "omnivore",
+    "0 50%"
+  ],
+  "manti": [
+    "The East Van Foodie",
+    "Northwest Culinary Academy of Vancouver",
+    "DSC1749.jpg",
+    "Manti",
+    "serves",
+    "4",
+    "starter",
+    "intermediate",
+    "omnivore",
+    "0 50%"
+  ],
+  "roast-leg-of-lamb": [
+    "The East Van Foodie",
+    "Northwest Culinary Academy of Vancouver",
+    "DSC1758a.jpg",
+    "Roast Leg of Lamb",
+    "serves",
+    "8",
+    "main",
+    "intermediate",
+    "omnivore",
+    "0 30%"
+  ],  
+  "vegan-lemon-tarts": [
+    "The East Van Foodie",
+    "Northwest Culinary Academy of Vancouver",
+    "DSC1761a.jpg",
+    "Vegan Lemon Tarts",
+    "makes",
+    "1 20cm tart",
+    "dessert",
+    "intermediate",
+    "vegan",
+    "0 50%"
+  ],  
+  "east-van-bramble": [
+    "The East Van Foodie",
+    "Juniper",
+    "DSC1875a.jpg",
+    "East Van Bramble",
+    "makes",
+    "1 cocktail",
+    "drink",
+    "easier",
+    "vegetarian",
+    "0 50%"
+  ],  
+  "hazelmere-farm-root-herb-perogies": [
+    "The East Van Foodie",
+    "Pizzeria Farina",
+    "DSC1926a.jpg",
+    "Hazelmere Farm Root & Herb Perogies",
+    "serves",
+    "4",
+    "main",
+    "intermediate",
+    "vegetarian",
+    "0 50%"
+  ],  
+  "pizza-dough": [
+    "The East Van Foodie",
+    "Juniper",
+    "DSC2602.jpg",
+    "Pizza Dough",
+    "makes",
+    "5 10inch bases",
+    "main",
+    "intermediate",
+    "vegetarian",
+    "0 50%"
+  ],  
+  "pizza-toppings": [
+    "The East Van Foodie",
+    "Pizzeria Farina",
+    "DSC2656.jpg",
+    "Pizza Toppings",
+    "makes",
+    "5 pizzas",
+    "main",
+    "intermediate",
+    "omnivore",
+    "0 50%"
+  ], 
+  "cha-ca-hanoi": [
+    "The East Van Foodie",
+    "The Union",
+    "DSC3385.jpg",
+    "Cha Ca Hanoi",
+    "serves",
+    "4",
+    "main",
+    "intermediate",
+    "pescatarian",
+    "0 50%"
+  ],
+  "banga-no-2-and-3": [
+    "The East Van Foodie",
+    "The Union",
+    "DSC3408.jpg",
+    "Banga No. 2 & 3",
+    "makes",
+    "1 cocktail",
+    "drink",
+    "easier",
+    "vegetarian",
+    "0 50%"
+  ],
+  "classic-cheese-fondue": [
+    "The East Van Foodie",
+    "Les Amis du Fromage",
+    "DSC3472.jpg",
+    "Classic Cheese Fondue",
+    "serves",
+    "4",
+    "starter",
+    "easier",
+    "vegetarian",
+    "0 30%"
+  ],
+  "classic-canadian-macaroni-and-cheese": [
+    "The East Van Foodie",
+    "Les Amis du Fromage",
+    "DSC3475.jpg",
+    "Classic Canadian Macaroni & Cheese",
+    "serves",
+    "4",
+    "main",
+    "intermediate",
+    "vegetarian",
+    "0 50%"
+  ],
+  "dr-octopus-vs-mr-tuna": [
+    "The East Van Foodie",
+    "Torafuku",
+    "DSC3506.jpg",
+    "Dr. Octopus vs Mr. Tuna",
+    "serves",
+    "4",
+    "starter",
+    "intermediate",
+    "pescatarian",
+    "0 50%"
+  ],
+  "rye-so-messy-wings": [
+    "The East Van Foodie",
+    "Torafuku",
+    "DSC3525.jpg",
+    "Rye So Messy Wings",
+    "serves",
+    "4",
+    "starter",
+    "intermediate",
+    "omnivore",
+    "0 50%"
+  ],
+  "sang-bia-wiski-bia": [
+    "The East Van Foodie",
+    "Main Street Brewing Co.",
+    "DSC3641.jpg",
+    "Sang Bia & Wiski Bia",
+    "makes",
+    "1 cocktail",
+    "drink",
+    "easier",
+    "vegetarian",
+    "0 50%"
+  ],
+  "biryani-style-butter-chicken-meatballs-and-cucumber-riata": [
+    "The East Van Foodie",
+    "Windsor Meats",
+    "DSC3588.jpg",
+    "Biryani Style Butter Chicken Meatballs & Cucumber Riata",
+    "serves",
+    "4",
+    "main",
+    "harder",
+    "omnivore",
+    "0 50%"
+  ],
+  "bacon-confit": [
+    "The East Van Foodie",
+    "Windsor Meats",
+    "DSC3608.jpg",
+    "Bacon Confit",
+    "serves",
+    "4",
+    "main",
+    "intermediate",
+    "omnivore",
+    "0 30%"
+  ],
+  "pulled-pork-pancakes": [
+    "The East Van Foodie",
+    "The Red Wagon Cafe",
+    "DSC3772.jpg",
+    "Pulled Pork Pancakes",
+    "serves",
+    "4",
+    "breakfast",
+    "intermediate",
+    "omnivore",
+    "0 50%"
+  ],
+  "czech-style-pilsner-mussels": [
+    "The East Van Foodie",
+    "Powell Street Craft Brewery",
+    "DSC3922.jpg",
+    "Czech Style Pilsner Mussels",
+    "serves",
+    "4",
+    "main",
+    "intermediate",
+    "pescatarian",
+    "0 50%"
+  ],
+  "tarte-flambe": [
+    "The East Van Foodie",
+    "Les Faux Bourgeois",
+    "DSC3989.jpg",
+    "Tarte Flambe",
+    "serves",
+    "4",
+    "starter",
+    "easier",
+    "onmivore",
+    "0 50%"
+  ],
+  "mackenzies-strange-corned-beef": [
+    "The East Van Foodie",
+    "Strange Fellows Brewing Company",
+    "DSC4073.jpg",
+    "Mackenzie's Strange Corned Beef",
+    "serves",
+    "4",
+    "main",
+    "harder",
+    "onmivore",
+    "0 50%"
+  ],
+  "brewers-lunch-board-with-spent-grain-oatcakes": [
+    "The East Van Foodie",
+    "Strange Fellows Brewing Company",
+    "DSC4079.jpg",
+    "Brewers Lunch Board with Spent Grain Oatcakes",
+    "serves",
+    "4",
+    "starter",
+    "easier",
+    "onmivore",
+    "0 50%"
+  ],
+  "boudin-noir-with-apple-brown-butter-puree": [
+    "The East Van Foodie",
+    "Les Faux Bourgeois",
+    "DSC4945.jpg",
+    "Boudin Noir with Apple & Brown Butter Purée",
+    "serves",
+    "4",
+    "main",
+    "harder",
+    "onmivore",
+    "0 50%"
+  ],
+  "storm-altbier": [
+    "The East Van Foodie",
+    "Storm Brewing",
+    "DSC9945.jpg",
+    "Storm Altbier",
+    "makes",
+    "2500l",
+    "drink",
+    "harder",
+    "vegetarian",
+    "0 50%"
+  ],
   "tortelli-with-buffalo-mozzarella-summer-vegetable-ragu": [
     "The East Van Foodie",
     "Ask For Luigi",
@@ -501,7 +969,7 @@
     "main",
     "harder",
     "pescatarian",
-    "0 80%"
+    "0 40%"
   ],
   "tortilla-con-aioli": [
     "The East Van Foodie",

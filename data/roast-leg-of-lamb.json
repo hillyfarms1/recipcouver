@@ -1,0 +1,80 @@
+{
+  "id": "roast-leg-of-lamb",
+  "restaurant": "Northwest Culinary Academy of Vancouver",
+  "heroImage": "DSC1758a.jpg",
+  "title": "Roast Leg of Lamb",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Lamb",
+      "items": [
+        "2 to 2½kg Leg of Lamb (bone in)",
+        "3 Tbsp Smoked Paprika",
+        "2 Tbsp Cumin",
+        "2 Tbsp Kosher Salt",
+        "¼ Cup Dried Thyme",
+        "2 bunches Thyme",
+        "2 bunches Rosemary",
+        "½ Cup Rice Bran, Grapeseed or similar high smoke point Oil",
+        "Salt and Pepper"
+      ]
+    },
+    {
+      "heading": "Roast Vegetables",
+      "items": [
+        "1½kg Nugget Potatoes",
+        "1kg Whole Baby Carrots",
+        "Splash of Sherry Vinegar",
+        "Rice Bran, Grapeseed or similar high smoke point Oil",
+        "Salt and Pepper"
+      ]
+    },
+    {
+      "heading": "Gravy",
+      "items": [
+        "Drippings from the Lamb",
+        "2 Tbsp Flour",
+        "⅛ Cup Fresh Mint, chopped",
+        "¼ Cup Red Wine",
+        "2 Cups Stock (beef, chicken or even vegetable)",
+        "¼ Cup Whipping Cream",
+        "Salt and Pepper to taste"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Lamb",
+      "steps": [
+        "Mix the salt, paprika, dried thyme and cumin together, rub all over the leg and then cover and place in the fridge overnight.",
+        "Temper the lamb – let sit at room temperature for at least an hour (this will help the lamb cook more evenly).",
+        "Pre-heat the oven to 135°C (275°F)",
+        "Score the fat on the leg trying not to cut into the meat.",
+        "Remove the stems from the fresh thyme and rosemary, chop the leaves finely and mix into the oil.",
+        "Spread about three quarters of the fresh herb oil all over the leg and place on a roasting tray and into the preheated oven. Reserve the remaining herb oil.",
+        "Roast until internal temperature (near the bone) is 60°C (145°F) for medium rare, 70°C (160°F) for medium and 77°C (170°F) for medium-well."
+      ]
+    },
+    {
+      "heading": "Roast Vegetables",
+      "steps": [
+        "Leaving the potatoes whole and the skin on, coat in oil, salt and pepper and roast until soft; roughly 45 minutes.",
+        "When soft press with the bottom of a pot or large spoon until the skin breaks and they are flattened.",
+        "Coat with the remaining herb oil and roast again until crispy on the outside. This can be done ahead of time and then reheated for service.",
+        "Trim the green tops of carrots leaving roughly an inch and then peel. If the carrots are quite small (young) you can scrub with a wire brush instead of peeling.",
+        "Coat in oil, salt and pepper, splash with sherry vinegar and roast until soft. This can be done ahead of time and then reheated for service too."
+      ]
+    },
+    {
+      "heading": "Gravy",
+      "steps": [
+        "In the same pan that the lamb was roasted add the flour to drippings over a medium-low heat and stir together forming a roux.",
+        "Deglaze with the red wine and stir while it cooks off.",
+        "Add stock and simmer until liquid has thickened.",
+        "Add whipping cream and mint.",
+        "Season as required."
+      ]
+    }
+  ]
+}

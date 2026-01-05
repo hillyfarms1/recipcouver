@@ -1,0 +1,93 @@
+{
+  "id": "biryani-style-butter-chicken-meatballs-and-cucumber-riata",
+  "restaurant": "Windsor Meats",
+  "heroImage": "DSC3588.jpg",
+  "title": "Biryani Style Butter Chicken Meatballs & Cucumber Riata",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Meatballs",
+      "items": [
+        "900g Ground Chicken Thigh with skin (ask your butcher)",
+        "1 Small White Onion, chopped",
+        "4 tsp Ginger, finely chopped",
+        "3 tsp Garlic, minced",
+        "4 tsp Fresh Mint, chopped",
+        "Handful Cilantro, chopped",
+        "¼ tsp Ground Cloves",
+        "1 tsp each of Cardamom, Garam Masala, Cumin, Black Pepper",
+        "2 tsp Kosher Salt",
+        "½ Cup Almonds, finely chopped",
+        "1 Cup Raisins",
+        "¾ Cup Shredded Coconut"
+      ]
+    },
+    {
+      "heading": "Butter Chicken Sauce",
+      "items": [
+        "1 Large White Onion, chopped",
+        "6 Cloves Garlic, minced",
+        "1 Tbsp Fresh Ginger, minced",
+        "4 Tbsp Garam Masala",
+        "1 Tbsp each of Turmeric, Coriander Seed, Cardamom and Black Pepper",
+        "1½ Tbsp Ground Cumin",
+        "½ tsp Ground Cloves",
+        "4 Tbsp Madras Curry Powder",
+        "2 Tbsp Tandoori Paste",
+        "2 tsp Kosher Salt",
+        "1-2 Birds-Eye Chillies, chopped",
+        "100g Ground Cashews",
+        "2 (156ml) tins Tomato Paste",
+        "2 Tbsp Honey",
+        "500ml Heavy Cream",
+        "200g Salted Butter",
+        "2 Large Tomatoes, chopped",
+        "3 Cups Quality Chicken Stock"
+      ]
+    },
+    {
+      "heading": "Cucumber Riata",
+      "items": [
+        "½ Cucumber",
+        "3 Tbsp Fresh Mint, finely chopped",
+        "2 Tbsp Cilantro, finely chopped",
+        "Zest of 1 lime",
+        "1 Cup Thick Greek Yogurt"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Preparing the Meatballs",
+      "steps": [
+        "Preheat oven to 200°C (400°F).",
+        "In a large mixing bowl combine chicken with ground spices, salt and pepper and mix well.",
+        "Add the remaining ingredients and combine until the it holds together.",
+        "Roll the mix into small ping-pong sized balls and place on a large baking tray with a little space between each.",
+        "Pre-cook in the oven for 20 minutes. Cooking will finish in the sauce."
+      ]
+    },
+    {
+      "heading": "Butter Chicken Sauce",
+      "steps": [
+        "Set oven at 160°C (325°F).",
+        "Melt butter over a low heat in a large heavy base Dutch oven or oven proof pot. Add the chopped onions and stir constantly until the onions are translucent. Staying on a low heat, add garlic and ginger and cook for another minute.",
+        "Add spices, salt and pepper and tandoori paste (and chillies, optional) and increase to a medium heat. Stir constantly and cook for 5 minutes, scraping the bottom of the pan to avoid burning. Add one cup of the stock to deglaze the pan.",
+        "Add chopped tomatoes and tomato paste. Mix well and cook for one minute. Add the rest of the stock, mix well and bring to a boil stirring constantly.",
+        "Reduce the temperature to low and add the cashews and cream. Stir to combine and simmer for five minutes. Remove from heat and allow to cool for five minutes.",
+        "Carefully blend the sauce using a hand-held immersion blender until smooth. Taste and adjust seasoning if necessary.",
+        "Place the partially cooked meatballs into the sauce and mix gently so that the meatballs are fully immersed and coated.",
+        "Place the pot in the oven, cover with a tight fitting lid and cook for one and a half hours, checking and stirring gently after one hour.",
+        "Serve with rice and riata and garnish with fresh cilantro."
+      ]
+    },
+    {
+      "heading": "Cucumber Riata",
+      "steps": [
+        "Skin and deseed the cucumber and then chop finely.",
+        "Stir all ingredients together well."
+      ]
+    }
+  ]
+}

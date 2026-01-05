@@ -1,0 +1,71 @@
+{
+  "id": "classic-canadian-macaroni-and-cheese",
+  "restaurant": "Les Amis du Fromage",
+  "heroImage": "DSC3475.jpg",
+  "title": "Classic Canadian Macaroni & Cheese",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Béchamel",
+      "items": [
+        "60g (¼ Cup) Butter",
+        "1 Shallot, sliced",
+        "80g Flour",
+        "1½ tsp Salt",
+        "½ tsp Black Pepper, freshly ground",
+        "5 Cups 2% Milk",
+        "1 Bay Leaf"
+      ]
+    },
+    {
+      "heading": "Filling",
+      "items": [
+        "200g Quebec 3 year-old Cheddar",
+        "200g Little Qualicum Raclette (you may substitute LQ Rathtrevor)",
+        "200g Smit's & Co. Medium Gouda",
+        "500g Dried Macaroni Pasta"
+      ]
+    },
+    {
+      "heading": "Topping",
+      "items": [
+        "200g Cheese Mix, grated (reserved from filling)",
+        "40g Breadcrumbs"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Béchamel",
+      "steps": [
+        "Bring the milk up to heat with the bay leaf and then simmer on a very low heat for 15 minutes.",
+        "In another pan, sweat the butter and shallot over medium-low heat for 3-4 minutes. Do not allow to brown.",
+        "Add the flour, salt and, pepper. Mix well until fully incorporated creating a roux.",
+        "Remove bay leaf from milk and, half a cup at a time, add the milk to the roux. Mix well until incorporated. Do not add the next portion of milk until mixture is smooth.",
+        "Bring to a boil slowly over medium/low heat, stirring constantly. Make sure the roux does not stick to the bottom of the pot.",
+        "Simmer for 5-10 minutes on low heat, stirring occasionally.",
+        "Remove from the heat. Puree with a hand immersion blender. Set aside."
+      ]
+    },
+    {
+      "heading": "Filling",
+      "steps": [
+        "Grate all three cheeses and mix together. Reserve 200g for the topping.",
+        "Cook pasta according to manufacturer's instructions.",
+        "Once cooked, drain pasta in colander. Run cold water over it to stop the cooking.",
+        "In a large bowl, combine pasta and warm béchamel sauce and mix well.",
+        "Fold in the grated cheese mix. Check and adjust the seasoning with salt and pepper.",
+        "Place into casserole dish."
+      ]
+    },
+    {
+      "heading": "Topping",
+      "steps": [
+        "Mix topping ingredients together. Spread topping evenly over the pasta and sauce in the casserole dish.",
+        "Keep in fridge until ready to cook.",
+        "Cook at 180°C (350°F) until hot and the top is golden and bubbly, approximately 45-60 minutes."
+      ]
+    }
+  ]
+}

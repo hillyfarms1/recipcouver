@@ -1,0 +1,60 @@
+{
+  "id": "brewers-lunch-board-with-spent-grain-oatcakes",
+  "restaurant": "Strange Fellows Brewing Company",
+  "heroImage": "DSC4079.jpg",
+  "title": "Brewers Lunch Board with Spent Grain Oatcakes",
+  "book": "The East Van Foodie",
+  "notes": "Brewers Lunch Board: Whistler Mountain Ham from Black Forest Deli (North Vancouver), Sablefish Candy from The Daily Catch (Commercial Drive), 'Blue Capri' from Mt. Lehman Cheese (Mt. Lehman near Aggasiz), Brie from Golden Eras Cheesecrafters (Maple Ridge), 'Plum Coquette' black plum jam with vanilla, brandy & fresh bay leaves from Le Meadow's Pantry (Strathcona), Dark Chocolate Caramelized Almonds from Beta 5 (False Creek Flats), Sunflower Seeds from Ayoub's Nuts & Fruits (East Hastings). 'Brewer's Lunch' boards change monthly at Strange Fellows Brewery and are inspired by each month's 'Strange Day'. This keeps things interesting and seasonal, but the format of locally-made artisanal meats, cheeses and condiments alongside house-made items never changes.",
+  "ingredientSections": [
+    {
+      "heading": "Oatcakes",
+      "items": [
+        "½ Cup Spent Grain",
+        "1½ Cups Rolled Oats",
+        "1 Cup Flour",
+        "1 Cup Barley Flour",
+        "¼ Cup Brown Sugar",
+        "1 tsp Baking Powder",
+        "1 tsp Coarse Kosher Salt",
+        "1 Cup Unsalted Butter, cold",
+        "1 Cup Blackmail Stout"
+      ]
+    },
+    {
+      "heading": "House Pickles",
+      "items": [
+        "Your choice of vegetables, cucumber, carrots, turnips, etc",
+        "Kosher Salt",
+        "Strange Fellows Jongleur Wit Beer",
+        "Apple Cider Vinegar"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Spent Grain",
+      "steps": [
+        "If you show up at the brewery around 11 - 11:30 am on a brew day you may be able to beg some spent grains from the brewer as he shovels them out of the mash. For freshness-sake, get them when they are still warm, then take them home and spread them out on a baking tray.",
+        "Put the tray in the oven at 95°C (200°F) for a few hours or until dry.",
+        "Once dry, grind them in a food processor until quite fine. Don't use day-old or older spent grains as they mould very easily."
+      ]
+    },
+    {
+      "heading": "Oatcakes",
+      "steps": [
+        "In a big bowl, whisk together the spent grain, oats, flours, sugar, baking powder, and salt. Using the coarse holes of a grater, grate the cold butter into the bowl, then pinch or rub it into the flour. Don't over incorporate, the butter should remain in small pieces.",
+        "Heat the beer slightly but do not boil, then add it to the dry ingredients and stir gently until the dough comes together. On a well-floured surface, roll the dough out as thinly as possible.",
+        "Cut round shapes using a biscuit cutter and transfer to parchment-lined baking tray. Bake at 180°C (350°F) for 10-15 minutes, or until golden brown. Cool on racks. Will store in an airtight container for a week or two."
+      ]
+    },
+    {
+      "heading": "House Pickles",
+      "steps": [
+        "Slice the vegetables very finely. Sprinkle generously with kosher salt and place in a plastic strainer with a bowl under to catch any liquid.",
+        "Let sit for a few hours at room temperature or overnight in the fridge.",
+        "Without rinsing the salt off, pack the vegetables into a wide-mouthed glass jar. Fill jar 2/3 with apple cider vinegar and 1/3 with Jongleur Wit Beer.",
+        "If desired add some thinly sliced garlic or crushed coriander seeds too. Make sure the vegetables are completely covered in liquid. Seal, shake well, and refrigerate. Best eaten within a week or two."
+      ]
+    }
+  ]
+}

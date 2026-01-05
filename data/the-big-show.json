@@ -1,0 +1,89 @@
+{
+  "id": "the-big-show",
+  "restaurant": "The Mackenzie Room",
+  "heroImage": "DSC1536.jpg",
+  "title": "The Big Show",
+  "book": "The East Van Foodie",
+  "notes": "Use locally-sourced and in-season vegetables to pair with the roasted goat leg. Keep them simple, whether grilled, roasted or sautéed, pair them with lots of fresh herbs and lemon. Have fun with the salad using fresh vegetables, pickled vegetables, herbs and citrus mixed with the chick peas.",
+  "ingredientSections": [
+    {
+      "heading": "The Big Show",
+      "items": [
+        "1 Goat Leg on the bone, 2-3kg",
+        "Local, in season vegetables"
+      ]
+    },
+    {
+      "heading": "Spice Rub",
+      "items": [
+        "3 Tbsp Coriander Seeds",
+        "3 Tbsp Fennel Seeds",
+        "2 Tbsp Cumin",
+        "3 Tbsp Garlic, chopped",
+        "3 Tbsp Shallots, chopped",
+        "3 Tbsp Thyme, chopped",
+        "Salt and Pepper, to taste"
+      ]
+    },
+    {
+      "heading": "Yogurt Sauce",
+      "items": [
+        "500g Greek Yogurt",
+        "2 Meyer Lemons, zest and juice",
+        "1 tsp Espelette Pepper",
+        "8 Sprigs Fresh Dill, chopped",
+        "4 Tbsp Extra Virgin Olive Oil",
+        "2 Cloves Garlic",
+        "Salt and Pepper, to taste"
+      ]
+    },
+    {
+      "heading": "Spiced Chick Pea Purée",
+      "items": [
+        "4 Cups Dry Chick Peas, soaked in water over night",
+        "½ White Onion, chopped roughly",
+        "1 stalk Celery, chopped roughly",
+        "4 Cloves Garlic",
+        "1/3 of the above Spice Rub",
+        "4 Tbsp Extra Virgin Olive Oil",
+        "2 Lemons, juiced and zested"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Goat Leg & Spice Rub",
+      "steps": [
+        "Toast all dry spices in a frypan on medium heat for 4 to 5 minutes, place in a spice grinder and blitz until finely ground.",
+        "Add the garlic, shallots and thyme to the spices. Reserve one third of the mixture for the chick pea purée (below).",
+        "Season the goat leg with salt, pepper and olive oil and rub the remaining two thirds of the spice mix all over the meat. Allow the meat to temper at room temperature for 1 to 1½ hours before roasting.",
+        "Wrap the spiced goat leg in aluminium foil and place on a tray. Roast in an oven pre-heated to 190°C (375°F) for 90 minutes. The internal temperature for medium rare is around 50°C (120°F).",
+        "Remove the aluminium foil and place back in the oven with the broiler set to high for 10 to 15 minutes to caramelize the spices.",
+        "Remove from oven and allow the leg to rest for 15 to 20 minutes before serving."
+      ]
+    },
+    {
+      "heading": "Yogurt Sauce",
+      "steps": [
+        "Place all the ingredients into a blender and blend until smooth."
+      ]
+    },
+    {
+      "heading": "Chick Pea Purée",
+      "steps": [
+        "Drain and rinse the chick peas.",
+        "Place in a large pot and fill with water until it is well above the height of the chick peas. Add the onion, garlic, and celery, bring to a boil and then reduce to a simmer and cook until tender.",
+        "Drain and reserve some of the liquid.",
+        "Divide the chick peas into two portions trying to keep the onion and celery in one of the portions. The half with the onion and celery will be used in the purée and the other half in a chickpea salad (below).",
+        "Blend the purée portion with the spices, lemon juice, lemon zest and olive oil. Add a little of the reserved chick pea water at a time to achieve the consistency you desire."
+      ]
+    },
+    {
+      "heading": "Salad and Vegetables",
+      "steps": [
+        "Use locally-sourced and in-season vegetables to pair with the roasted goat leg. Keep them simple, whether grilled, roasted or sautéed, pair them with lots of fresh herbs and lemon.",
+        "Similarly, have fun with the salad. Use fresh vegetables, pickled vegetables, herbs and citrus and mix with the chick peas."
+      ]
+    }
+  ]
+}

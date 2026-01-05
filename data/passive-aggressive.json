@@ -1,0 +1,110 @@
+{
+  "id": "passive-aggressive",
+  "restaurant": "The Mackenzie Room",
+  "heroImage": "DSC1500.jpg",
+  "title": "Passive Aggressive",
+  "book": "The East Van Foodie",
+  "notes": "Lamb Merguez Sausage: 500g Ground Lamb, 2 Garlic Cloves, 2 Tbsp Harissa, 1 tsp Cumin Seeds, 2 tsp Coriander Seeds, 2 tsp Fennel Seeds, 1 tsp Sweet Paprika, ¼ tsp Cayenne Pepper, ½ tsp Ground Cinnamon, 1 tsp Espelette Pepper, 2 Tbsp Preserved Lemon, Salt, Sausage Casing. Toast and grind the spices, finely chop the other ingredients and mix everything together well. Refrigerate for at least 3 hours then fill the casings using a sausage maker, or use in the recipe casing free.",
+  "ingredientSections": [
+    {
+      "heading": "Lamb and Squid",
+      "items": [
+        "800g Humboldt Squid",
+        "450g Lamb Merguez Sausage (ask a good butcher or see note below)"
+      ]
+    },
+    {
+      "heading": "Persillade",
+      "items": [
+        "1 bunch Flat Leaf Parsley",
+        "6 Cloves Garlic",
+        "Zest of 1 Lemon",
+        "2 Tbsp White Wine Vinegar",
+        "¼ Cup Extra Virgin Olive Oil"
+      ]
+    },
+    {
+      "heading": "Whiskey Carrot Sauce",
+      "items": [
+        "2 Carrots",
+        "1 Celery Stalk",
+        "3 Granny Smith Apples, cored",
+        "1 Tbsp Grated Horseradish",
+        "Juice of 1 Lime",
+        "1 Tbsp Cilantro, chopped",
+        "1 Tbsp Kosher Salt",
+        "1 Tbsp White Balsamic Vinegar",
+        "60ml Whiskey",
+        "½L Water"
+      ]
+    },
+    {
+      "heading": "Migas",
+      "items": [
+        "2 Cups Coarse Breadcrumbs",
+        "8 Anchovy Fillets",
+        "2 Tbsp Garlic, chopped",
+        "1 tsp Serrano Chillies",
+        "75g Extra Virgin Olive Oil",
+        "1½ tsp Kosher Salt"
+      ]
+    },
+    {
+      "heading": "Tomato Salpicon",
+      "items": [
+        "450g Heirloom Tomatoes",
+        "1 Red Onion",
+        "2 Serrano Chillies",
+        "3 Tbsp Pitted Castevetrano Olives",
+        "4 Tbsp Chopped Basil",
+        "3 Tbsp Red Wine Vinegar",
+        "¼ Cup Extra Virgin Olive Oil",
+        "Salt and Pepper"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Lamb and Squid",
+      "steps": [
+        "Clean and score the squid in a cross-hatch pattern and then cut into triangles.",
+        "In a frypan over a medium heat, sear the sausage until it is cooked to medium/medium well and then remove from pan.",
+        "In the same pan cook the squid for about 2 to 3 minutes until tender."
+      ]
+    },
+    {
+      "heading": "Persillade",
+      "steps": [
+        "Finely chop the parsley, finely dice the garlic, and the combine all the ingredients in a bowl and set aside."
+      ]
+    },
+    {
+      "heading": "Whiskey Carrot Sauce",
+      "steps": [
+        "Roughly chop the carrots, apples, celery and boil in the water with the salt in a medium sized saucepan until tender.",
+        "Place in a blender, including the liquid, and blend until smooth while adding the remaining ingredients. Strain through fine strainer, set aside."
+      ]
+    },
+    {
+      "heading": "Migas",
+      "steps": [
+        "Combine all the ingredients, except the breadcrumbs, in a frypan over a medium heat.",
+        "When the garlic is toasted and the anchovies are rendered add the breadcrumbs and toast in the pan for 5 to 7 minutes. Stir regularly and monitor the heat so it doesn't burn.",
+        "Place on a tray and allow to cool."
+      ]
+    },
+    {
+      "heading": "Tomato Salpicon",
+      "steps": [
+        "Roughly chop the tomatoes and finely chop the onion and chilli, removing the chilli seeds.",
+        "Combine all ingredients in a bowl and mix together. Season and set aside."
+      ]
+    },
+    {
+      "heading": "Serving and Garnishes",
+      "steps": [
+        "Plate in desired portions and garnish with watercress, shaved heirloom carrots and raw radishes."
+      ]
+    }
+  ]
+}

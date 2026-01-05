@@ -1,0 +1,74 @@
+{
+  "id": "vegan-carbonara",
+  "restaurant": "The Wallflower",
+  "heroImage": "DSC1342.jpg",
+  "title": "Vegan Carbonara",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Cashew Carbonara Sauce",
+      "items": [
+        "1 Cup Cashews, soaked overnight",
+        "2 Large Garlic Bulbs",
+        "200ml Coconut Milk",
+        "4 Cups Water",
+        "½ Tbsp Salt",
+        "1 Tbsp Pepper",
+        "¼ Cup Cornstarch",
+        "Olive Oil"
+      ]
+    },
+    {
+      "heading": "Coconut 'Bacon' Chips",
+      "items": [
+        "1½ Cups Unsweetened Coconut Flakes",
+        "1½ Tbsp Tamari or Soy Sauce",
+        "1 Tbsp Liquid Smoke",
+        "1½ Tbsp Maple Syrup"
+      ]
+    },
+    {
+      "heading": "Pasta",
+      "items": [
+        "1x500g packet Gluten Free Fusilli Pasta",
+        "1x210g packet Smoked Tofu, diced",
+        "½ Cup Peas",
+        "1 package of Pea Shoots",
+        "Coconut 'Bacon' Chips (see recipe)",
+        "Olive Oil"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Cashew Carbonara Sauce",
+      "steps": [
+        "Peel away the outer layer of the garlic while keeping the bulbs whole. With a sharp knife remove the top of each bulb revealing the individual cloves.",
+        "Place on a oven tray, drizzle with olive oil, cover with foil and roast at 200°C (400°F) for around 30 minutes or until the cloves feel soft when pressed.",
+        "Squeeze the roasted garlic cloves from the skins and set aside.",
+        "In a food processor blend 2 cups of water with the cashews until smooth. Add the roasted garlic and blend together.",
+        "Transfer the cashew/garlic mix to a saucepan, add the remaining water, stir together and bring to a boil. Add the coconut milk, salt and pepper.",
+        "Mix the cornstarch with a splash of water to create a slurry, stir into the sauce, reduce the heat and simmer until the sauce thickens. Season to taste."
+      ]
+    },
+    {
+      "heading": "Coconut 'Bacon' Chips",
+      "steps": [
+        "Preheat oven to 180°C (350°F).",
+        "Spread coconut flakes evenly around a baking tray, drizzle the tamari, liquid smoke and maple syrup over and mix well.",
+        "Bake for 10 to 15 minutes until they reach your desired crunch."
+      ]
+    },
+    {
+      "heading": "Pasta",
+      "steps": [
+        "Cook and then drain the pasta.",
+        "In a large fry pan heat a splash of olive oil and sauté the diced tofu for roughly a minute.",
+        "Add the peas, season with salt and pepper and sauté for roughly another 30 seconds.",
+        "Add the Cashew Carbonara Sauce and heat to a simmer.",
+        "Plate in a pasta bowl, sprinkle with Coconut 'Bacon' Chips and top with a small bunch of pea shoots."
+      ]
+    }
+  ]
+}

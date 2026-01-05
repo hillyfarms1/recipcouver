@@ -1,0 +1,110 @@
+{
+  "id": "hubba-bubba-dessert",
+  "restaurant": "The Mackenzie Room",
+  "heroImage": "DSC1480.jpg",
+  "title": "Hubba Bubba Dessert",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Hominy Cornmeal Cake",
+      "items": [
+        "1 Cup Hominy Cornmeal",
+        "1 Cup White Sugar",
+        "2 Cups Homogenized Milk",
+        "4 Eggs",
+        "1 Cup Unsalted Butter",
+        "1 Tbsp Dill, Chopped",
+        "1 Tbsp Sea Salt",
+        "60ml Mescal or good quality Tequila"
+      ]
+    },
+    {
+      "heading": "Bubble Gum Shatter",
+      "items": [
+        "1L 33% Whipping Cream",
+        "½ Cup Homogenized Milk",
+        "1 Cup Sugar",
+        "50g Dried Berries; strawberries, blueberries, raspberries or similar",
+        "15g Dried Guava"
+      ]
+    },
+    {
+      "heading": "Tea Infused Strawberries",
+      "items": [
+        "400g Strawberries",
+        "50ml White Wine",
+        "2 Tbsp Sugar",
+        "2 Earl Grey Tea Bags"
+      ]
+    },
+    {
+      "heading": "Meyer Lemon Curd",
+      "items": [
+        "½ Cup Meyer Lemon Juice, regular lemons are ok too",
+        "2 tsp Meyer Lemon Zest, finely grated",
+        "½ Cup Sugar",
+        "3 Large Eggs",
+        "6 Tbsp Unsalted Butter, cut into cubes"
+      ]
+    },
+    {
+      "heading": "Berry Sorbet",
+      "items": [
+        "500g Fresh Berries",
+        "100g Sugar",
+        "50g Glucose",
+        "2g Sorbet Stabilizer",
+        "1 sprig Lemon Verbena",
+        "75ml Vodka"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Hominy Cornmeal Cake",
+      "steps": [
+        "Mix cornmeal, sugar and milk together and bring to a boil.",
+        "Allow to cool, mix in the remaining ingredients and spread to around 4cm (1½in) thick in an oven proof pan or dish.",
+        "Bake at 160°C (325°F) for 25 minutes or until golden brown."
+      ]
+    },
+    {
+      "heading": "Bubble Gum Shatter",
+      "steps": [
+        "Place all the ingredients in a saucepan and heat until just about to boil. Remove from heat, place in a container, allow to cool and then refrigerate overnight.",
+        "Strain through a sieve and discard the berries and guava. Whip to soft peaks, spread out thinly on a tray and freeze.",
+        "When frozen solid, working quickly, place in a food processor and blend to get the shattered effect. Quickly place in a container and store in the freezer."
+      ]
+    },
+    {
+      "heading": "Tea Infused Strawberries",
+      "steps": [
+        "Warm the wine, sugar and the tea bags and place into a resealable storage bag with the strawberries. Remove all the air from the bag and refrigerate overnight."
+      ]
+    },
+    {
+      "heading": "Meyer Lemon Curd",
+      "steps": [
+        "Whisk together the juice, zest, sugar and eggs in a heavy saucepan.",
+        "Stir in the butter and cook over medium low heat, whisking frequently, until curd is thick enough to hold the marks of a whisk and coats the back of a spoon.",
+        "Transfer the lemon curd to a bowl and allow to cool. Cover its surface with plastic wrap and then place in fridge."
+      ]
+    },
+    {
+      "heading": "Berry Sorbet",
+      "steps": [
+        "Place all ingredients into a saucepan and bring to a boil.",
+        "Remove from heat, blend until smooth and strain through a fine chinois or sieve.",
+        "Allow to cool and then spin in an ice cream machine until set. Store in freezer."
+      ]
+    },
+    {
+      "heading": "To Serve",
+      "steps": [
+        "Working as quickly as possible, plate each element in portions and a design the inspires you, on chilled plates or bowls.",
+        "Garnish with edible flowers, micro sorrel, cracked pink peppercorns and dill pollen."
+      ]
+    }
+  ]
+}

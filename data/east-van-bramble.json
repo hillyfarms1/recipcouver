@@ -1,0 +1,31 @@
+{
+  "id": "east-van-bramble",
+  "restaurant": "Juniper",
+  "heroImage": "DSC1875a.jpg",
+  "title": "East Van Bramble",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "East Van Bramble",
+      "items": [
+        "45 ml Odd Society Wallflower Gin",
+        "30 ml Fresh Lemon Juice",
+        "15 ml Simple Syrup (page 20)",
+        "10 ml Odd Society Cassis",
+        "Crushed Ice",
+        "Lemon Zest"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "East Van Bramble",
+      "steps": [
+        "Fill a rocks glass with crushed ice.",
+        "Build the cocktail over the ice.",
+        "Garnish with lemon zest."
+      ]
+    }
+  ]
+}

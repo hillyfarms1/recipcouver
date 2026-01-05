@@ -1,0 +1,65 @@
+{
+  "id": "classic-cheese-fondue",
+  "restaurant": "Les Amis du Fromage",
+  "heroImage": "DSC3472.jpg",
+  "title": "Classic Cheese Fondue",
+  "book": "The East Van Foodie",
+  "notes": "Try to keep the fondue mixture warm enough so that it stays liquid but not so hot that it burns. If you achieve this a layer will develop on the bottom of the fondue pot that has the texture of a cracker. This is called the religieuse (French for the nun) and it is a delicious way to finish the meal. Tradition states that if you lose the bread in the cheese you must buy a round of drinks for the whole party or kiss someone at the table.",
+  "ingredientSections": [
+    {
+      "heading": "Classic Cheese Fondue",
+      "items": [
+        "500g Cheese (see below), grated, not including any rind",
+        "1 Clove Garlic, peeled, cut in half",
+        "1 Tbsp Cornstarch, or Potato Flour",
+        "1¼ Cup Dry White Wine",
+        "Salt and Pepper to taste",
+        "1 pinch Freshly Grated Nutmeg"
+      ]
+    },
+    {
+      "heading": "Classic Fondue",
+      "items": [
+        "250g Gruyere",
+        "250g Emmenthal",
+        "If you would like this blend milder, increase the Emmenthal, and decrease the Gruyere. If you would like it stronger, then do the opposite."
+      ]
+    },
+    {
+      "heading": "Moitie-Moitie Fondue",
+      "items": [
+        "250g Gruyere",
+        "250g Vacherin Friebourgeois"
+      ]
+    },
+    {
+      "heading": "Other Cheeses to Consider",
+      "items": [
+        "Cave Aged Gruyere",
+        "Appenzeller, Classic, Surchoix, or Extra",
+        "Comte, young or aged",
+        "Beaumont or Beaufort"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Classic Cheese Fondue",
+      "steps": [
+        "Rub the inside surface of the fondue pot with the garlic.",
+        "In a bowl toss the grated cheese with the cornstarch.",
+        "Heat wine in a saucepan on the stove. Add a pinch of salt and pepper, and a dash of freshly grated nutmeg.",
+        "Stir in the cheese mixture gradually and cook for 2-3 minutes, stirring frequently, until the mixture is thick and smooth.",
+        "Transfer to a heated fondue pot and serve with cubed bread."
+      ]
+    },
+    {
+      "heading": "Traditional Accompaniments",
+      "steps": [
+        "Cubed bread. Day old is just fine, it's sturdy, and doesn't easily break up in all the gooey delicious cheese.",
+        "Cornichons, pickled onions and baby boiled potatoes.",
+        "Raw vegetables such as broccoli, cauliflower, mushrooms, or even cooked meats."
+      ]
+    }
+  ]
+}

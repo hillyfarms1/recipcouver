@@ -1,0 +1,80 @@
+{
+  "id": "pulled-pork-pancakes",
+  "restaurant": "The Red Wagon Cafe",
+  "heroImage": "DSC3772.jpg",
+  "title": "Pulled Pork Pancakes",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Pancakes",
+      "items": [
+        "2 Cups Flour",
+        "2 tsp Baking Soda",
+        "1 tsp Salt",
+        "2 Large Eggs",
+        "2 Cups Buttermilk",
+        "Pulled Pork (recipe below)",
+        "Maple Bourbon Syrup (recipe below)",
+        "Canola Oil",
+        "Salted Butter"
+      ]
+    },
+    {
+      "heading": "Pulled Pork",
+      "items": [
+        "1-1½kg Pork Butt, boneless",
+        "1 Tbsp Ground Black Pepper",
+        "2 tsp Cayenne Pepper",
+        "2 Tbsp Chilli Powder",
+        "3 Tbsp Ground Coriander",
+        "1 Tbsp Brown Sugar",
+        "1 Tbsp Dried Oregano",
+        "⅓ Cup Paprika",
+        "⅓ Cup Kosher Salt",
+        "2 Tbsp Ground White Pepper",
+        "750ml Beer",
+        "BBQ Sauce",
+        "Smoking Wood Chips, preferably hickory, soaked"
+      ]
+    },
+    {
+      "heading": "Maple Bourbon Syrup",
+      "items": [
+        "300ml Pure Maple Syrup",
+        "Bourbon Whiskey"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Pulled Pork",
+      "steps": [
+        "Combine all the dry ingredients into a spice rub and rub a quarter to a half cup all over the pork butt.",
+        "Wrap tightly in plastic wrap and refrigerate for at least 8 hours or overnight.",
+        "Remove from the fridge, unwrap and smoke for one hour using either a stove-top smoker or outdoor smoker.",
+        "Place the smoked pork butt in a high-sided roasting pan or pot and add the beer.",
+        "Cover with a lid or foil and roast in a preheated oven at 110°C (225°F) for around 3 hours or until the meat is fall-apart tender. The internal temperature should be at least 90°C (190°F).",
+        "Remove the pork from the pot and pull it apart with two forks. Mix in around half a cup of the braising liquid and BBQ sauce to taste."
+      ]
+    },
+    {
+      "heading": "Maple Bourbon Syrup",
+      "steps": [
+        "Heat the maple syrup over medium heat.",
+        "Add the whiskey to taste and bring to a boil for a few of minutes.",
+        "Optionally, stir in 30g of butter until it melts. Set aside keeping warm."
+      ]
+    },
+    {
+      "heading": "Pancakes",
+      "steps": [
+        "Mix together the dry ingredients in a bowl. In a separate, bigger bowl, mix together the egg and buttermilk.",
+        "Mix the dry ingredients into the wet without overworking.",
+        "Heat a splash of oil in a large non-stick frypan over a medium heat. Ladle a quarter cup pancake batter into the pan for each pancake.",
+        "Cook the pancakes for around two minutes per side, flipping once when its sides are starting to brown and small bubbles form on top. Either serve immediately or keep finished pancakes warm in the oven on it's lowest setting.",
+        "Layer hot pulled pork between three pancakes. Smother with Maple Bourbon Syrup and top with salted butter."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "tarte-flambe",
+  "restaurant": "Les Faux Bourgeois",
+  "heroImage": "DSC3989.jpg",
+  "title": "Tarte Flambe",
+  "book": "The East Van Foodie",
+  "notes": "This dish was created by Alsatian bakers as they 'proofed' their wood fired ovens in the morning. Small amounts of dough would be placed in the ovens to check that they had come to temperature. These were the days before knobs and dials. To ensure there was no waste they added bits of bacon, cheese, onions and anything else suitable and available and created a snack to keep them going after a hard morning preping the bakery. You can make this dish as an appetizer or cut into canapés, and it's always good for breakfast with an egg dropped on top. Recipe by Chefs Christopher Hughes & Morgan Harlos.",
+  "ingredientSections": [
+    {
+      "heading": "Tarte Flambe",
+      "items": [
+        "Frozen Puff Pastry, thawed",
+        "Onions",
+        "Bacon",
+        "Ricotta Cheese",
+        "Chives"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Tarte Flambe",
+      "steps": [
+        "Slice the onions finely and sauté with oil on medium high heat, stirring often until golden brown. Season with salt & pepper.",
+        "Slice the bacon into small thick strips and cook in a frypan until the fat has rendered nicely.",
+        "Pre-heat the oven to 190°C (375°F).",
+        "Cut the puff pastry to your desired size. Place on a piece of baking paper on an oven tray and cook until golden. Remove from the oven and allow to cool.",
+        "Evenly spread the caramelized onion over the cooked pastry, sprinkle the bacon over the top, and add small mounds of ricotta.",
+        "Place back into the oven and cook until the cheese begins to brown ever so lightly.",
+        "Garnish with fresh cut chives."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "vegan-tinga-tacos",
+  "restaurant": "Sal Y Limón",
+  "heroImage": "DSC0483.jpg",
+  "title": "Vegan Tinga Tacos",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Vegan Tinga Tacos",
+      "items": [
+        "½ Cup Zucchini, chopped",
+        "½ Cup Onion, julienned",
+        "½ Cup Mushrooms, sliced",
+        "½ Cup Corn Kernels",
+        "2 or 3 Cloves Garlic, chopped",
+        "½ Tbsp Achiote Paste",
+        "1 Tbsp Tomato Paste",
+        "½ Cup Water",
+        "2 Tbsp Olive Oil",
+        "2 Tomatoes, roasted",
+        "½ Cup Cilantro, chopped",
+        "½ tsp Dried Oregano",
+        "2 tsp Chipotle Powder",
+        "Salt and Pepper",
+        "Corn Tortillas",
+        "Vegan Sour Cream or Guacamole"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Vegan Tinga Tacos",
+      "steps": [
+        "Preheat the oven to 230°C (450°F).",
+        "Cut the tomatoes in half, place on a tray, season lightly, and roast for 20-25 minutes.",
+        "Heat the oil in a frypan over a medium heat. Add the onions and chipotle and cook until translucent. Add zucchini and mushrooms and cook until softened and browned, stirring occasionally. Remove from heat.",
+        "Blend the roasted tomatoes, oregano, tomato paste, garlic and achiote paste. Add this to the pan with the corn and cook at a low heat for an additional 4-5 minutes or until it thickens and the garlic smells cooked.",
+        "Add cilantro and season with salt and pepper.",
+        "Serve over warm corn tortillas.",
+        "Dress with vegan sour cream or guacamole."
+      ]
+    }
+  ]
+}

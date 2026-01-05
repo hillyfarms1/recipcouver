@@ -1,0 +1,62 @@
+{
+  "id": "boudin-noir-with-apple-brown-butter-puree",
+  "restaurant": "Les Faux Bourgeois",
+  "heroImage": "DSC4945.jpg",
+  "title": "Boudin Noir with Apple & Brown Butter Purée",
+  "book": "The East Van Foodie",
+  "notes": "To make your own French Four Spice simply mix one tablespoon of Black Pepper, one teaspoon each of All-spice and Grated Nutmeg and a quarter teaspoon of Ground Cloves. This classic French blood pudding typically comes cased like sausage, but the Les Faux Bourgeois version is presented as a small cake, without the casing, which makes for a more interesting plating. Surprisingly, it is thought the English word 'pudding' comes from the French word 'boudin'; it makes sense if you say it quick enough! Recipe by Chefs Christopher Hughes & Morgan Harlos.",
+  "ingredientSections": [
+    {
+      "heading": "Boudin",
+      "items": [
+        "200g Lean Pork",
+        "200g Pork Fat",
+        "200g Bacon",
+        "500ml Pork Blood, strained – ask your butcher",
+        "3 Large Yellow Onions, finely sliced",
+        "40ml Red Wine Vinegar",
+        "200ml Cream",
+        "Oil",
+        "Balsamic Vinegar",
+        "Salt and Pepper",
+        "French Four Spice, see note below"
+      ]
+    },
+    {
+      "heading": "Apple and Brown Butter Purée",
+      "items": [
+        "5 Braeburn Apples, cored and quartered",
+        "2 sprigs Rosemary or Thyme",
+        "½ Cinnamon Stick",
+        "1½ Cups Apple Juice, unsweetened",
+        "2 Tbsp Butter, unsalted",
+        "Salt and Pepper"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Boudin",
+      "steps": [
+        "Caramelize the onions in a pan over a medium heat with a splash of oil and balsamic vinegar. The three onions should cook down to around 250g of caramelized onion. Allow to cool.",
+        "Grind meat, bacon and fat together finely with the caramelised onions.",
+        "Mix well with the blood, cream, vinegar and seasoning.",
+        "Cover and bake in a bain marie at 150°C (300°F).",
+        "Check after one hour, it should be set with a medium firmness.",
+        "Allow to cool, cut into one inch thick slices, sear both sides in a frypan on a high heat.",
+        "Serve with apple purée, mixed leaves and demi glacé."
+      ]
+    },
+    {
+      "heading": "Apple and Brown Butter Purée",
+      "steps": [
+        "Bring the apple juice to a boil with the rosemary and cinnamon, and reduce by half.",
+        "Add the apples, stir well and cook, covered, over a medium heat for around 30 minutes or until soft. All of the liquid should have evaporated in this time, if not remove the lid and boil down. Remove from the heat and allow to cool.",
+        "In a small fry pan melt the butter on a medium to low heat and then cook until it browns stirring occasionally.",
+        "Remove the cinnamon and rosemary from the cooled apples and press them through a fine mesh strainer or sieve, discarding the peels.",
+        "Stir the burnt butter through the apple purée.",
+        "Season with salt and pepper to taste. Serve hot or cold."
+      ]
+    }
+  ]
+}

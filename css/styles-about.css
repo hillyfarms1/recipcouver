@@ -11,7 +11,7 @@ main{
 .aboutContainer > img{
     margin-top: 10px;
 }
-.aboutContainer > h1{
+.aboutContainer > h1, .aboutContainer > h2{
     font-size: 1rem;
 }
 .aboutContainer > div > span{

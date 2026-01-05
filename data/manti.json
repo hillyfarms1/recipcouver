@@ -1,0 +1,65 @@
+{
+  "id": "manti",
+  "restaurant": "Northwest Culinary Academy of Vancouver",
+  "heroImage": "DSC1749.jpg",
+  "title": "Manti",
+  "book": "The East Van Foodie",
+  "notes": "This Manti recipe is in the Turkish style but Mantu are eaten in various styles all over the Central Asian region and in Russia. They vary in size and ingredients but are usually spiced lamb or beef. From roughly between 150BC and 1400AD the Silk Road famously carried goods and trade and joined the East to the West. Along with the trade came an important cultural exchange and, in-turn, a mixing of cuisines. China’s dumplings, wontons and jiaozi over the years were adopted and adapted by the various cultures on the way to Europe and eventually became dishes like ravioli and samosas.",
+  "ingredientSections": [
+    {
+      "heading": "Dough",
+      "items": [
+        "1 Cup AP Flour",
+        "2 Tbsp Spelt Flour",
+        "1 Egg",
+        "1 Tbsp Olive Oil",
+        "1 tsp Salt",
+        "Water, as needed"
+      ]
+    },
+    {
+      "heading": "Filling",
+      "items": [
+        "200g Lean Ground Lamb or Beef or a combination of the two",
+        "¼ Onion, very finely chopped",
+        "1 Clove Garlic, finely chopped",
+        "1 Tbsp Parsley, chopped",
+        "1 Tbsp Olive Oil",
+        "Salt and Pepper to taste"
+      ]
+    },
+    {
+      "heading": "Sauce",
+      "items": [
+        "Chicken Stock, to cover manti",
+        "1 tsp Harissa"
+      ]
+    },
+    {
+      "heading": "Garnish",
+      "items": [
+        "Thick Yogurt",
+        "Chopped Parsley",
+        "Cilantro",
+        "Cumin",
+        "Ground Aleppo"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Manti",
+      "steps": [
+        "Form a dough adding water until it has a workable consistency. Roll out in a pasta machine to its thinnest setting.",
+        "Cut into 5cm (2in) squares.",
+        "Mix all the filling ingredients together. Cook a tiny portion and taste to check seasoning.",
+        "Place a small ball of meat in the middle of each dough square.",
+        "Wet the end of your finger and dampen the edges of the dough square.",
+        "Pick up and fold the square in half around the meat creating a canoe shaped dumpling. With your thumb and forefinger squeeze the edges together; the water should make them stick. Place in an oven proof pan that has been greased in duck fat, lard or olive oil (duck fat is best).",
+        "When you have filled the pan, brush the tops of the dumplings with duck fat or oil. Bake in 200°C (400°F) oven until crisp and very golden.",
+        "Add the harissa and enough chicken stock to just about cover the dumplings and simmer until the liquid reduces into a sauce. Season to taste.",
+        "Arrange the Manti dumplings on a bowl plate and top with the sauce. Finish with a dollop of thick yogurt, cumin, parsley, cilantro, and aleppo."
+      ]
+    }
+  ]
+}

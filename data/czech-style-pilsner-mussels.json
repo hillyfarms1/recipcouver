@@ -1,0 +1,67 @@
+{
+  "id": "czech-style-pilsner-mussels",
+  "restaurant": "Powell Street Craft Brewery",
+  "heroImage": "DSC3922.jpg",
+  "title": "Czech Style Pilsner Mussels",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Baked Pommes Frites",
+      "items": [
+        "4 Russet Potatoes",
+        "⅓ Cup Olive Oil",
+        "Salt and Pepper to taste"
+      ]
+    },
+    {
+      "heading": "Mussels",
+      "items": [
+        "2kg Fresh Mussels",
+        "4 Tbsp Butter",
+        "250g Bacon or Lardon, cut into 1cm chunks",
+        "3 Large Leeks, whites only, chopped",
+        "1 Shallot, finely sliced",
+        "2 Large Cloves Garlic, finely sliced",
+        "1-2 Cups Powell Street Craft Brewery Czech Style Pilsner",
+        "1 Cup Heavy Cream",
+        "Juice of 1 Lemon",
+        "Olive Oil",
+        "1 Cup Fresh Herbs, parsley, chives and/or tarragon, chopped"
+      ]
+    },
+    {
+      "heading": "Pomme Frites",
+      "items": [
+        "Mayonnaise",
+        "1 Baguette, sliced"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Baked Pommes Frites",
+      "steps": [
+        "Preheat the oven to 230°C (450°F).",
+        "Peel and chip the potatoes.",
+        "Place in a bowl of cold water for 5-10 minutes.",
+        "Drain the water, dry with paper towel and, in a bowl, thoroughly coat each chip with the oil and liberally season.",
+        "Spread the chips out evenly on a baking tray and bake for 30-40 minutes or until they are golden brown. Turn the chips a couple of times to ensure they are cooked on all sides."
+      ]
+    },
+    {
+      "heading": "Mussels",
+      "steps": [
+        "Thoroughly clean and de-beard the mussels. Discard any that are cracked or open.",
+        "In a pot large enough to hold all the ingredients, cook the bacon or lardon in a splash of olive oil until the fat has rendered. Remove from pot and set aside.",
+        "Add another splash of olive oil to the same pot and half of the butter and gently cook the leek until tender. As you stir the leek the butter will deglaze the bacon flavour on the bottom of the pot.",
+        "Return the bacon to the pot and add the shallot and garlic. Increase the heat and give a good stir. Add the mussels and beer, and put a tight fitting lid on the pot. Give the pot a gentle shake every few minutes without removing the lid.",
+        "After 8 to 10 minutes all the mussels should have opened. Remove them from the pot with a slotted spoon to a warm bowl, leaving the cooking liquid in the pot. Discard any unopened mussels. Cover and set aside while sauce is finished.",
+        "At a high heat reduce the cooking liquid by half, add the cream, reduce again and swirl in the remaining butter.",
+        "Remove the sauce from the heat, stir through the lemon juice and herbs and adjust the seasoning.",
+        "Divide the mussels into four bowls and pour the sauce over each.",
+        "Serve with toasted baguette, pommes frites and mayonnaise."
+      ]
+    }
+  ]
+}

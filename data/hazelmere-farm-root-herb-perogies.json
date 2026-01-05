@@ -1,0 +1,100 @@
+{
+  "id": "hazelmere-farm-root-herb-perogies",
+  "restaurant": "Juniper",
+  "heroImage": "DSC1926a.jpg",
+  "title": "Hazelmere Farm Root & Herb Perogies",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Potatoes",
+      "items": [
+        "4-6 Medium Potatoes"
+      ]
+    },
+    {
+      "heading": "Casing",
+      "items": [
+        "1 Cup Mashed Potato",
+        "2 Tbsp Cold Pressed Canola Oil",
+        "1 Whole Egg",
+        "¼ Cup Water",
+        "3 Cups Unbleached Organic Flour, sifted",
+        "1 tsp Sea Salt"
+      ]
+    },
+    {
+      "heading": "Filling",
+      "items": [
+        "3 Tbsp Unsalted Butter",
+        "1 Cup Mashed Potato",
+        "1 Small Sweet Potato, skin on, scrubbed",
+        "2 Medium Carrots, skin on, scrubbed",
+        "2 Medium Jerusalem Artichokes, skin on, scrubbed",
+        "1 Medium Onion, diced",
+        "½ Cup Creamy Local Goat Cheese",
+        "½ Cup Dry Cottage Cheese",
+        "1/2 Cup Aged Cheddar or other slightly stinky cheese of your choice",
+        "1 Tbsp Fresh Thyme, picked from stem, chopped",
+        "1 Tbsp Fresh Dill, picked from stem, chopped",
+        "1 Tbsp Fresh Basil, picked from stem, chopped",
+        "1 Tbsp Fresh Chives, thinly sliced",
+        "1 tsp Sambal Olek",
+        "1 tsp Grainy Mustard"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Potatoes",
+      "steps": [
+        "Bring a large saucepan of salted water to the boil.",
+        "Wash, peel and roughly chop the potatoes into even pieces. Boil for 10-15 minutes or until very soft.",
+        "Rice the potatoes or mash very finely leaving no chunks.",
+        "Set aside to cool."
+      ]
+    },
+    {
+      "heading": "Casing",
+      "steps": [
+        "Mix one cup of the cooled potatoes, the egg, oil and water until well combined.",
+        "Mix together the flour and sea salt.",
+        "Stir 2½ cups of the flour into the potato mix to form a soft dough.",
+        "Add the remaining flour a bit at a time until dough is no longer sticky. The dough should be soft and not sticky or crumbly, potatoes have different amounts of moisture, so it is important to adjust flour levels by feel as necessary.",
+        "Turn the dough out onto a floured board and knead lightly until smooth.",
+        "Cover and allow to rest for 10 minutes."
+      ]
+    },
+    {
+      "heading": "Filling",
+      "steps": [
+        "Scrub, wash and roughly chop all the root vegetables into 2-3cm (1in) pieces. No need to peel, all good stuff is in the skin.",
+        "Toss in oil and roast in the oven at 180°C (350°F) for 20 minutes or until soft and slightly browned.",
+        "Sauté the onions on medium heat in the butter with the fresh thyme until they are translucent. Season gently.",
+        "Mash the roasted root vegetables with a fork leaving some chunks.",
+        "Mix together the cooked onions, root vegetables, one cup of mashed potatoes, fresh herbs, cheese, mustard and sambal.",
+        "Taste and adjust seasoning with salt and pepper."
+      ]
+    },
+    {
+      "heading": "Forming the Perogies",
+      "steps": [
+        "On a well-floured surface roll out half of the dough to the thickness of two loonies.",
+        "With a glass or dough cutter, cut out circles roughly 9-10cm (3-4in) in diameter. Save the trimmings, form a ball, wrap and set aside.",
+        "Cover the circles of dough with a tea towel as you assemble the perogies, this will prevent them from drying out.",
+        "Put about one tablespoon of filling in the middle of each circle of dough and moisten the outer edge with water, this will act as a glue. Make sure the outer edge is clean of filling as you do so.",
+        "Fold over, cupping the filling so the perogie stays plump, either crimp, fold or use a fork to make your desired seal.",
+        "Repeat the process with the other half of the dough.",
+        "Roll out the trimmings again and repeat the process again until all the dough or filling is used."
+      ]
+    },
+    {
+      "heading": "Cooking the Perogies",
+      "steps": [
+        "In a medium sized pot of boiling salted water, cook the perogies in batches until the outside becomes slightly translucent and they float. Remove from the water with a slotted spoon and toss in butter or oil and set aside.",
+        "Pre-heat a frypan and, using butter or good quality cooking oil, sear both sides to your desired crispiness.",
+        "Serve immediately with full fat plain yogurt mixed with herbs and lemon or sweet potato hummus as pictured."
+      ]
+    }
+  ]
+}

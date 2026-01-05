@@ -1,0 +1,80 @@
+{
+  "id": "apricot-amaretto-almond-crumble",
+  "restaurant": "The Pie Shoppe",
+  "heroImage": "DSC1086.jpg",
+  "title": "Apricot Amaretto Almond Crumble",
+  "book": "The East Van Foodie",
+  "notes": "You can also use fresh plums, pears, cherries, nectarines or peaches and even swap the Amaretto for another liquour, like Cointreau or Grand Marnier.",
+  "ingredientSections": [
+    {
+      "heading": "Pastry",
+      "items": [
+        "1½ Cups Unbleached White Flour",
+        "¼ Cup Butter, cold",
+        "¼ Cup Shortening",
+        "3 Tbsp Water, cold",
+        "Pinch of Salt"
+      ]
+    },
+    {
+      "heading": "Apricot Filling",
+      "items": [
+        "900g Fresh Apricots",
+        "1 Apple",
+        "⅓ Cup Organic Sugar",
+        "3 Tbsp Tapioca Flour",
+        "2 Tbsp Amaretto",
+        "½ tsp Ground Cinnamon",
+        "Juice of ½ an Orange",
+        "1 Tbsp Orange Zest"
+      ]
+    },
+    {
+      "heading": "Almond Butter Crumble",
+      "items": [
+        "1 Cup Flour",
+        "1 Cup Almond Meal",
+        "¼ Cup Brown Sugar",
+        "¼ tsp Ground Cinnamon",
+        "¼ Cup Butter, cold",
+        "Pinch of Salt"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Dough",
+      "steps": [
+        "In a mixing bowl blend the flour, salt, butter and shortening together with your fingers.",
+        "Gradually add the water and bring the dough together but don't over work it.",
+        "Wrap in plastic wrap and set aside in fridge to relax for a while."
+      ]
+    },
+    {
+      "heading": "Apricot Filling",
+      "steps": [
+        "Core, peel and dice the apple.",
+        "Rinse, pit and slice the apricots with the skins on.",
+        "In a bowl mix the fruit together with the sugar, tapioca flour and cinnamon.",
+        "Add the orange juice, zest and amaretto and mix thoroughly ensuring all the fruit is coated in the sugar mixture which should dissolve completely."
+      ]
+    },
+    {
+      "heading": "Almond Butter Crumble",
+      "steps": [
+        "Mix all ingredients together in a bowl with your fingers until there are no lumps and it is a consistent crumble."
+      ]
+    },
+    {
+      "heading": "Baking",
+      "steps": [
+        "Roll the dough until it is roughly ½cm (⅓in) thick and a 30cm (12in) circle.",
+        "Gently place in a 25cm (10in) diameter pie dish that has sides roughly 3cm (1in) high. Gently push into the dish so the pastry is pressed into the corners.",
+        "Trim and shape the edges as desired.",
+        "Pile in the fruit, spreading evenly and mounding in the middle.",
+        "Pour the crumble on top of the fruit and spread evenly ensuring all the fruit is covered.",
+        "Place in the oven pre-heated to 180°C (350°F) and bake for around an hour or until the pie juices bubble."
+      ]
+    }
+  ]
+}

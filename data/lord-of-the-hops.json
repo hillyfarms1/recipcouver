@@ -1,0 +1,62 @@
+{
+  "id": "lord-of-the-hops",
+  "restaurant": "Odd Society",
+  "heroImage": "DSC1369.jpg",
+  "title": "Lord of the Hops",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Lord of the Hops",
+      "items": [
+        "45ml Odd Society Vodka, hopped",
+        "30ml Passion Fruit Juice",
+        "15ml Pineapple Juice",
+        "15ml Odd Society Bittersweet Vermouth",
+        "15ml Citric Acid",
+        "15ml Hemlock Syrup"
+      ]
+    },
+    {
+      "heading": "Hopped East Van Vodka",
+      "items": [
+        "4g Mosaic Hops",
+        "1 750ml bottle Odd Society East Van Vodka"
+      ]
+    },
+    {
+      "heading": "Hemlock Syrup",
+      "items": [
+        "1 Cup Hemlock Needles",
+        "1 Cup Sugar",
+        "1 Cup Water"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Lord of the Hops",
+      "steps": [
+        "Add all ingredients to cocktail shaker, shake and strain, into a coupe.",
+        "Garnish with hemlock."
+      ]
+    },
+    {
+      "heading": "Hopped East Van Vodka",
+      "steps": [
+        "You can find Mosaic Hops at a homebrew store. Fill a large mason jar with the Vodka, add the hops, place the lid on tightly and give the jar a big shake.",
+        "Let the hops infuse for 2 hours, shaking a few times. Do not over infuse.",
+        "Strain the vodka through fine mesh strainer, tea strainer or coffee filter. Make sure all the hops are out of the vodka."
+      ]
+    },
+    {
+      "heading": "Hemlock Syrup",
+      "steps": [
+        "You can forage for hemlock fronds, which are often found on the ground after a storm. If you do take from a tree, choose one that will not be harmed by you trimming a few branches. When using foraged ingredients be mindful of you impact upon the land and its people. To be clear, we are talking about the Hemlock Tree, not the Hemlock Plant which is a much smaller bush and very poisonous.",
+        "Place the hemlock fronds you have collected in a paper bag, let them dry out. You will notice the needles fall off easily after a few days.",
+        "Place all ingredients in a pan and bring to the boil, remove from heat and let cool over night.",
+        "Strain out the leaves, and bottle."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "mackenzies-strange-corned-beef",
+  "restaurant": "Strange Fellows Brewing Company",
+  "heroImage": "DSC4073.jpg",
+  "title": "Mackenzie's Strange Corned Beef",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Corned Beef",
+      "items": [
+        "2¼ kg Beef Brisket",
+        "Water",
+        "1 L Strange Fellows Talisman",
+        "1-1½ Cups Salt",
+        "½ Cup Sugar",
+        "3 Cloves Garlic",
+        "2 Tbsp Black Peppercorns",
+        "2 Tbsp Yellow or Brown Mustard Seeds",
+        "2 Tbsp Coriander Seeds",
+        "2 Tbsp Chili Flakes",
+        "2 Tbsp Whole Cloves",
+        "2 Tbsp Whole All Spice",
+        "4 Bay Leaves",
+        "1 Cinnamon Stick",
+        "1 Tbsp Mace",
+        "1 Tbsp Ground Ginger",
+        "1 Carrot, roughly chopped",
+        "1 White Onion, roughly chopped",
+        "1 Celery Stalk, roughly chopped",
+        "1 Leek, roughly chopped, save the green tops"
+      ]
+    },
+    {
+      "heading": "Beer Braised Endive",
+      "items": [
+        "3 Belgian Endives, halved lengthwise",
+        "2 tsp Sugar",
+        "180ml Strange Fellows Jongleur",
+        "6 sprigs Thyme",
+        "1 Cup Breadcrumbs, toasted",
+        "1 Tbsp Chopped Chives",
+        "Olive Oil",
+        "Lemon Zest"
+      ]
+    },
+    {
+      "heading": "Beer Mustard",
+      "items": [
+        "⅓ Cup Yellow Mustard Seeds",
+        "¼ Cup Brown Mustard Seeds",
+        "½ Cup Apple Cider Vinegar",
+        "½ Cup Strange Fellows Guardian",
+        "2 Tbsp Light Brown Sugar",
+        "1 Tbsp Honey",
+        "½ tsp Sea Salt"
+      ]
+    },
+    {
+      "heading": "Garnishes",
+      "items": [
+        "Green parts of the leek",
+        "1 Egg",
+        "Nasturtium Leaves",
+        "Purslane Leaves",
+        "Heirloom Cherry Tomatoes",
+        "Cilantro Flowers",
+        "Bronze Fennel",
+        "Veal Demi Glacé"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Corned Beef",
+      "steps": [
+        "In a fry pan over a medium heat toast the whole spices for 3 to 4 minutes and then, in a bowl, mix them with the other dry spices.",
+        "In a medium sized saucepan combine two tablespoons of the spice mix with the one litre of water, the beer, garlic, salt, sugar and bay leaves, bring this spiced brine to a boil, and then cool and set aside.",
+        "Place the brisket in large lidded container, add the cold brine and enough water to cover the meat. Ensure the meat is fully submerged by using a plate or similar to weigh it down. Store in the fridge for a minimum of 3 days and up to 10 days.",
+        "Remove the brisket from brine, give it a rinse under cold water and place in a Dutch oven or large pot. Cover it with water and add the remaining spice blend, carrot, onion, leek, and celery. Place pot on the stove, bring up to a boil, then turn down to a low simmer and cook for 2½-3 hours or until tender."
+      ]
+    },
+    {
+      "heading": "Beer Braised Endive",
+      "steps": [
+        "Place the endives cut side down in a hot fry pan with a splash of olive oil. When caramelized, add the sugar, thyme, and some good pinches of salt.",
+        "When the sugar starts to brown deglaze with the beer. Once reduced to a liquor remove endives from pan. Turn face up and crust with the toasted breadcrumbs, chives and lemon zest."
+      ]
+    },
+    {
+      "heading": "Beer Mustard",
+      "steps": [
+        "Mix both types of mustard seeds in a small bowl. Stir in the vinegar and beer until just combined. Cover the mixture with plastic wrap and set in a cool, dry place for 12 hours or until all the liquid has been absorbed.",
+        "Stir the remaining ingredients into the mustard seed mixture and then pulse in a food processor 5 to 6 times before blending for a minute.",
+        "Pour the mixture into a sterilized glass jar and refrigerate. For a spicier result, leave the jar of mustard at room temperature for 1 to 2 days before refrigerating."
+      ]
+    },
+    {
+      "heading": "Garnishes",
+      "steps": [
+        "Bake the green parts of the leek in the oven at 200°C (400°F) until black and dry. Pulse in a blender until it is a fine powder.",
+        "Sous-vide an egg, at 63°C for an hour in its shell, remove the egg white and serve the yolk. You could also use a poached egg.",
+        "Other garnishes: Nasturtium Leaves, Purslane Leaves, Heirloom Cherry Tomatoes, Cilantro Flowers, Bronze Fennel and Veal Demi Glacé for sauce (buy from your butcher)."
+      ]
+    }
+  ]
+}

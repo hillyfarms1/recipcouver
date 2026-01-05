@@ -1,0 +1,71 @@
+{
+  "id": "dr-octopus-vs-mr-tuna",
+  "restaurant": "Torafuku",
+  "heroImage": "DSC3506.jpg",
+  "title": "Dr. Octopus vs Mr. Tuna",
+  "book": "The East Van Foodie",
+  "notes": null,
+  "ingredientSections": [
+    {
+      "heading": "Dr. Octopus vs Mr. Tuna",
+      "items": [
+        "250g Octopus",
+        "250g Albacore Tuna, in 2cm cubes"
+      ]
+    },
+    {
+      "heading": "Rice",
+      "items": [
+        "1 Cup Japanese Rice",
+        "1 tsp Ginger, minced",
+        "1/2 tsp Garlic, minced",
+        "1/2 Cup Sake",
+        "11/2 Cups Water"
+      ]
+    },
+    {
+      "heading": "Rice Toppings",
+      "items": [
+        "1 handful Peashoots",
+        "1 tsp Furikake Seasoning",
+        "1/4 Red Onion, sliced finely",
+        "1/4 Cup Cherry Tomatoes, halved",
+        "Mixed Greens to garnish"
+      ]
+    },
+    {
+      "heading": "Poke Sauce",
+      "items": [
+        "2 Tbsp Mayonnaise",
+        "1 Tbsp Sriracha",
+        "2 tsp Honey",
+        "2 tsp Sesame Oil"
+      ]
+    }
+  ],
+  "methodSections": [
+    {
+      "heading": "Octopus",
+      "steps": [
+        "Massage the octopus with salt and lightly beat it with a rolling pin to soften up the tissue.",
+        "Cook in a large pot of heavily salted boiling water for 10 to 15 minutes or until soft when poked with a fork.",
+        "Remove from the cooking water and place in ice water to cool. Cut into 2cm portions."
+      ]
+    },
+    {
+      "heading": "Rice",
+      "steps": [
+        "Wash the rice and drain.",
+        "Mix the garlic, ginger and sake into the rice, add water and cook in a rice cooker or on a medium heat in a saucepan until the liquid has evaporated."
+      ]
+    },
+    {
+      "heading": "Serving",
+      "steps": [
+        "Mix the mayonnaise, Sriracha, honey and sesame oil together.",
+        "Divide the rice into four bowls and place the tuna, octopus, pea shoots, onions, and tomato on top.",
+        "Place a few dollops of the Poke Sauce on top and garnish with some greens."
+      ]
+    }
+  ]
+}
